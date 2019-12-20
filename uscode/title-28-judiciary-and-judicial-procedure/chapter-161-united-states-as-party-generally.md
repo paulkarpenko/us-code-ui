@@ -440,11 +440,49 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
   (I) “demand” means the express demand of the United States which led to the adversary adjudication, but shall not include a recitation of the maximum statutory penalty (i) in the complaint, or (ii) elsewhere when accompanied by an express demand for a lesser amount.
 
-(3) In awarding fees and other expenses under this subsection to a prevailing party in any action for judicial review of an adversary adjudication, as defined in subsection (b)(1)(C) of [section 504 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), United States Code, or an adversary adjudication subject to chapter 71 of title 41, the court shall include in that award fees and other expenses to the same extent authorized in subsection (a) of such section, unless the court finds that during such adversary adjudication the position of the United States was substantially justified, or that special circumstances make an award unjust.
+(3) In awarding fees and other expenses under this subsection to a prevailing party in any action for judicial review of an adversary adjudication, as defined in subsection (b)(1)(C) of [section 504 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), or an adversary adjudication subject to chapter 71 of title 41, the court shall include in that award fees and other expenses to the same extent authorized in subsection (a) of such section, unless the court finds that during such adversary adjudication the position of the United States was substantially justified, or that special circumstances make an award unjust.
 
 (4) Fees and other expenses awarded under this subsection to a party shall be paid by any agency over which the party prevails from any funds made available to the agency by appropriation or otherwise.
 
-**(e)** The provisions of this section shall not apply to any costs, fees, and other expenses in connection with any proceeding to which section 7430 of the Internal Revenue Code of 1986 applies (determined without regard to subsections (b) and (f) of such section). Nothing in the preceding sentence shall prevent the awarding under subsection (a) of [section 2412 of title 28](./chapter-161-united-states-as-party-generally.md#section-2412), United States Code, of costs enumerated in section 1920 of such title (as in effect on October 1, 1981).
+(5)
+
+  (A) Not later than March 31 of the first fiscal year beginning after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and every fiscal year thereafter, the Chairman of the Administrative Conference of the United States shall submit to Congress and make publicly available online a report on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection.
+
+  (B) Each report under subparagraph (A) shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information that may aid Congress in evaluating the scope and impact of such awards.
+
+  (C)
+
+    (i) Each report under subparagraph (A) shall account for all payments of fees and other expenses awarded under this subsection that are made pursuant to a settlement agreement, regardless of whether the settlement agreement is sealed or otherwise subject to a nondisclosure provision.
+
+    (ii) The disclosure of fees and other expenses required under clause (i) shall not affect any other information that is subject to a nondisclosure provision in a settlement agreement.
+
+  (D) The Chairman of the Administrative Conference of the United States shall include and clearly identify in each annual report under subparagraph (A), for each case in which an award of fees and other expenses is included in the report—
+
+    (i) any amounts paid under [section 1304 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1304&num=0&edition=prelim) for a judgment in the case;
+
+    (ii) the amount of the award of fees and other expenses; and
+
+    (iii) the statute under which the plaintiff filed suit.
+
+(6) As soon as practicable, and in any event not later than the date on which the first report under paragraph (5)(A) is required to be submitted, the Chairman of the Administrative Conference of the United States shall create and maintain online a searchable database containing, with respect to each award of fees and other expenses under this subsection made on or after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, the following information:
+
+  (A) The case name and number, hyperlinked to the case, if available.
+
+  (B) The name of the agency involved in the case.
+
+  (C) The name of each party to whom the award was made as such party is identified in the order or other court document making the award.
+
+  (D) A description of the claims in the case.
+
+  (E) The amount of the award.
+
+  (F) The basis for the finding that the position of the agency concerned was not substantially justified.
+
+(7) The online searchable database described in paragraph (6) may not reveal any information the disclosure of which is prohibited by law or a court order.
+
+(8) The head of each agency (including the Attorney General of the United States) shall provide to the Chairman of the Administrative Conference of the United States in a timely manner all information requested by the Chairman to comply with the requirements of paragraphs (5), (6), and (7).
+
+**(e)** The provisions of this section shall not apply to any costs, fees, and other expenses in connection with any proceeding to which section 7430 of the Internal Revenue Code of 1986 applies (determined without regard to subsections (b) and (f) of such section). Nothing in the preceding sentence shall prevent the awarding under subsection (a) of this section of costs enumerated in [section 1920 of this title](./chapter-123-fees-and-costs.md#section-1920) (as in effect on October 1, 1981).
 
 **(f)** If the United States appeals an award of costs or fees and other expenses made against the United States under this section and the award is affirmed in whole or in part, interest shall be paid on the amount of the award as affirmed. Such interest shall be computed at the rate determined under [section 1961(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1961/a&num=0&edition=prelim), and shall run from the date of the award through the day before the date of the mandate of affirmance.
 
@@ -468,9 +506,17 @@ Words “and for summoning the same,” after “witnesses,” were omitted from
 Changes were made in phraseology.
 
 #### References in Text
+The date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, referred to in subsec. (d)(5)(A) and (6), is the date of enactment of Pub. L. 116–9, which was approved Mar. 12, 2019.
+
 Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to [section 7430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7430&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2019—Subsec. (d)(3). Pub. L. 116–9, § 4201(a)(3)(A), struck out “United States Code,” after “title 5,”.
+
+Subsec. (d)(5) to (8). Pub. L. 116–9, § 4201(a)(2), added pars. (5) to (8).
+
+Subsec. (e). Pub. L. 116–9, § 4201(a)(3)(B), substituted “subsection (a) of this section of costs enumerated in [section 1920 of this title](./chapter-123-fees-and-costs.md#section-1920)” for “subsection (a) of [section 2412 of title 28](./chapter-161-united-states-as-party-generally.md#section-2412), United States Code, of costs enumerated in section 1920 of such title”.
+
 2011—Subsec. (d)(2)(E). Pub. L. 111–350, § 5(g)(9)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
 Subsec. (d)(3). Pub. L. 111–350, § 5(g)(9)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.

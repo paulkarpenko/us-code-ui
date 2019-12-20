@@ -512,7 +512,7 @@ Ex. Ord. No. 11797, July 31, 1974, 39 F.R. 27893, which delegated to the Secreta
 #### References in Text
 Executive Order 13790, referred to in subsec. (b)(2), is Ex. Ord. No. 13790, § 6, Apr. 25, 2017, 82 F.R. 20239, which is not classified to the Code.
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
@@ -1061,7 +1061,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 <a id="section-2207d"></a>
 ## § 2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University
 
-Not later than September 30, 2019, and each year thereafter, the Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, 1890 Institutions and 1862 Institutions (as those terms are defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601) for each of the agricultural research, extension, education, and related programs established under—
+Not later than September 30, 2019, and each year thereafter, the Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, 1890 Institutions and 1862 Institutions (as those terms are defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601)) for each of the agricultural research, extension, education, and related programs established under—
 
 (1) [section 3221 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3221);
 
@@ -1076,7 +1076,7 @@ Not later than September 30, 2019, and each year thereafter, the Secretary shall
 #### References in Text
 The Hatch Act of 1887, referred to in par. (4), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
@@ -2055,7 +2055,7 @@ The Department of War was designated the Department of the Army and the title of
 2018—Pub. L. 115–232 substituted “[section 7655 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7655&num=0&edition=prelim)” for “the Act of March 3, 1879 (20 Stat. 412)”.
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 Title 10, Armed Forces.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-2239"></a>
@@ -2418,6 +2418,8 @@ Section was formerly classified to [section 568a of Title 5](https://uscode.hous
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. A, title I, Mar. 23, 2018, 132 Stat. 354.
 
 Pub. L. 115–31, div. A, title I, May 5, 2017, 131 Stat. 141.
 
@@ -2816,7 +2818,7 @@ The Secretary shall establish a program under which the Secretary recognizes any
 
 ### Statutory Notes
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
@@ -2858,7 +2860,7 @@ The Secretary shall establish a program under which the Secretary recognizes any
 
 ### Statutory Notes
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
@@ -2982,7 +2984,7 @@ The Secretary of Agriculture may establish a program to train farmers and ranche
 ### Statutory Notes
 
 #### Study and Report of Marketing Practices of Applicants and Borrowers of Farm Loans
-Pub. L. 99–641, title II, § 206(a), Nov. 10, 1986, 100 Stat. 3563, provided that: “(1) Study.—The Comptroller General of the United States shall conduct a study of marketing practices used by applicants for and borrowers of farm loans made, insured, or guaranteed under the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921](./chapter-050-agricultural-credit.md#section-1921) et seq.). The study shall include an examination of the methods used by the applicants and borrowers in marketing agricultural commodities, livestock, and aquacultural products and the extent to which the applicants and borrowers use advanced marketing techniques for such sales. “(2) Report.—Not later than 1 year after the date of enactment of this Act [Nov. 10, 1986], the Comptroller General shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the study conducted under paragraph (1), together with any appropriate recommendations.”
+Pub. L. 99–641, title II, § 206(a), Nov. 10, 1986, 100 Stat. 3563, provided that the Comptroller General of the United States should conduct a study, to be reported to Congress within 1 year after Nov. 10, 1986, of marketing practices used by applicants for and borrowers of farm loans made, insured, or guaranteed under the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921](./chapter-050-agricultural-credit.md#section-1921) et seq.).
 
 
 <a id="section-2272"></a>
@@ -3292,8 +3294,7 @@ Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
 
   (J) *Input from eligible entities* — The Secretary shall seek input from eligible entities providing technical assistance under this subsection not less than once each year to ensure that the program is responsive to the eligible entities providing that technical assistance.
 
-(5) **Socially Disadvantaged Farmers and Ranchers Policy Research Center**
-The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ([7 U.S.C. 321](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.
+(5) **Socially Disadvantaged Farmers and Ranchers Policy Research Center** — The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ([7 U.S.C. 321](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.
 
 **(d) Beginning farmer and rancher development grant program**
 
@@ -3616,7 +3617,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 115–334, § 12301(b)(7)(D)(ii), substituted “
 
 Subsec. (c)(1)(F). Pub. L. 115–334, § 12301(b)(7)(D)(iii), made technical amendment to reference in original act which appears in text as reference to [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
-Subsec. (c)(2). Pub. L. 115–334, § 12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted “Using funds made available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out” for “The Secretary of Agriculture shall carry out”. Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 115–334, § 12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted “Using funds made available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out” for “The Secretary of Agriculture shall carry out” in introductory provisions. Former par. (2) redesignated (3).
 
 Subsec. (c)(2)(B). Pub. L. 115–334, § 12301(b)(7)(E)(ii), (iii), substituted “agricultural, forestry, and related” for “agricultural”.
 
@@ -4094,7 +4095,7 @@ The Secretary may, notwithstanding subchapter I of chapter 33 of title 5, govern
 
 ### Statutory Notes
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
@@ -4136,7 +4137,7 @@ The Secretary may, notwithstanding subchapter I of chapter 33 of title 5, govern
 
 ### Statutory Notes
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 

@@ -167,7 +167,7 @@ Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 4
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Compensation of Appointed Commission Members
 Pub. L. 108–108, title II, Nov. 10, 2003, 117 Stat. 1301, provided in part: “That for fiscal year 2004 and thereafter, all appointed members of the Commission will be compensated at a rate not to exceed the daily equivalent of the annual rate of pay for positions at level IV of the Executive Schedule for each day such member is engaged in the actual performance of duties.”

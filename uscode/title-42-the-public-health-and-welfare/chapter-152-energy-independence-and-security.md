@@ -2466,6 +2466,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 #### References in Text
 This title, referred to in text, is title V of Pub. L. 110–140, which enacted this subchapter, part D (§ 8279) of subchapter III of chapter 91 of this title, and sections 1824, 2162a, and 2169 of Title 2, The Congress, amended sections 6325, 6834, 8256, 8258, 8259b, 8287, and 8287c of this title, [section 2162 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2162&num=0&edition=prelim), [section 2913 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2913&num=0&edition=prelim), Armed Forces, [section 3203 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3203&num=0&edition=prelim), Commerce and Trade, and [section 2621 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621&num=0&edition=prelim), Conservation, and enacted provisions set out as a note under [section 8259b of this title](./chapter-091-national-energy-conservation-policy.md#section-8259b). For complete classification of title V to the Code, see Tables.
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 

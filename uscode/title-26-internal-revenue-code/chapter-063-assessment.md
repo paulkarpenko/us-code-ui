@@ -325,8 +325,6 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 ### Statutory Notes
 
 #### References in Text
-Section 25A(i)(6), referred to in subsec. (b)(4)(A), was redesignated section 25A(i)(5) by Pub. L. 112–240, title I, § 104(c)(2)(D)(i), Jan. 2, 2013, 126 Stat. 2322.
-
 Section 168(k)(4), referred to in subsec. (b)(4)(A), was repealed by Pub. L. 115–97, title I, § 12001(b)(13), Dec. 22, 2017, 131 Stat. 2094.
 
 #### Amendments
@@ -652,7 +650,7 @@ Pub. L. 105–206, title III, § 3463(a), July 22, 1998, 112 Stat. 767, provided
 [Section 3463(a) of Pub. L. 105–206, set out above, applicable to notices mailed after Dec. 31, 1998, see section 3463(c) of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under [section 6213 of this title](./chapter-063-assessment.md#section-6213).]
 
 #### Explanations of Appeals and Collection Process
-Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [July 22, 1998], include with any first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals an explanation of the entire process from examination through collection with respect to such proposed deficiency, including the assistance available to the taxpayer from the National Taxpayer Advocate at various points in the process.”
+Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act [July 22, 1998], include with any first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals [now Internal Revenue Service Independent Office of Appeals] an explanation of the entire process from examination through collection with respect to such proposed deficiency, including the assistance available to the taxpayer from the National Taxpayer Advocate at various points in the process.”
 
 
 <a id="section-6213"></a>
@@ -764,7 +762,7 @@ Section 6230, referred to in subsec. (h)(3), was repealed by Pub. L. 114–74, t
 Pub. L. 113–295, div. A, title II, § 214(a)(2), Dec. 19, 2014, 128 Stat. 4034, which directed that subsec. (g)(2) of this section be amended by striking “and” at the end of subpar. (O), by striking the period at the end of subpar. (P) and inserting “, and”, and by inserting after subpar. (P) a new subpar. (Q), effective as if included in the provisions of Pub. L. 110–185 to which the amendments relate, could not literally be executed insofar as it directed the amendments to subpars. (O) and (P) because subsec. (g)(2), at the time of enactment of Pub. L. 110–185, did not contain subpars. (N) to (P). However, the amendment was considered to be executed by making the conforming amendments to subpars. (O) and (P) as added by sections 11(h) and 12(d) of Pub. L. 111–92, to reflect the probable intent of Congress and to allow for additional amendments by Pub. L. 113–295, which presume that such conforming amendments had taken place. See 2014 Amendment notes below.
 
 #### Amendments
-Subsec. (g)(2)(O). Pub. L. 115–141, § 401(a)(277), inserted comma at end.
+2018—Subsec. (g)(2)(O). Pub. L. 115–141, § 401(a)(277), inserted comma at end.
 
 Subsec. (g)(2)(P). Pub. L. 115–141, § 401(a)(278), substituted “section 24(g)(2)” for “section 24(h)(2)” and “subsection (g)(1)” for “subsection (h)(1)”.
 
@@ -1855,7 +1853,7 @@ Subsec. (a)(3). Pub. L. 115–141, § 206(k)(2), substituted “section 6225(c)(
 
 Subsec. (c)(2). Pub. L. 115–141, § 206(k)(3), substituted “subparagraph (A) or (C) of section 6501(e)(1)” for “section 6501(e)(1)(A)”.
 
-Subsec. (c)(5), (6) . Pub. L. 115–141, § 206(k)(4), added pars. (5) and (6).
+Subsec. (c)(5), (6). Pub. L. 115–141, § 206(k)(4), added pars. (5) and (6).
 
 Subsec. (d). Pub. L. 115–141, § 206(k)(5), struck out subsec. (d). Text read as follows: “If notice of a final partnership adjustment with respect to any taxable year is mailed under section 6231, the running of the period specified in subsection (a) (as modified by the other provisions of this section) shall be suspended—
 
@@ -1951,7 +1949,7 @@ For purposes of this subchapter—
 
     (vi) other matters that the Secretary determines by regulation present special enforcement considerations.
 
-(12) **United states shareholders and certain other persons treated as partners**
+(12) **United States shareholders and certain other persons treated as partners**
 
   (A) *In general* — Except as otherwise provided by the Secretary, in the case of any controlled foreign corporation (as defined in section 957 or 953(c)(1)) which is a partner of a partnership, each United States shareholder (as defined in section 951(b) or 953(c)(1)) with respect to such controlled foreign corporation shall be treated for purposes of this subchapter as a partner of such partnership. For purposes of the preceding sentence, any distributive share of any such United States shareholder with respect to such partnership shall, except as otherwise provided by the Secretary, be equal to such United States shareholder’s pro rata share with respect to such controlled foreign corporation (determined under rules similar to the rules of section 951(a)(2)).
 

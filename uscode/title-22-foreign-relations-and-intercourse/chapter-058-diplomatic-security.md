@@ -435,9 +435,11 @@ Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
-Pub. L. 115–141, div. K, title VII, § 7034(l)(8), Mar. 23, 2018, 132 Stat. 896, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall be in effect for facilities in Afghanistan through September 30, 2018, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
+Pub. L. 116–6, div. F, title VII, § 7034(m)(7), Feb. 15, 2019, 133 Stat. 327, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2019, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
 
 Prior continuations were contained in the following prior acts:
+
+Pub. L. 115–141, div. K, title VII, § 7034(l)(8), Mar. 23, 2018, 132 Stat. 896.
 
 Pub. L. 114–113, div. K, title VII, § 7034(k)(2), Dec. 18, 2015, 129 Stat. 2764.
 

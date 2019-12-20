@@ -269,7 +269,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (j)(7), is act Aug. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Subsec. (d). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)” in par. (1).
+2018—Subsec. (d)(1). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
 
 Subsec. (i). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
 
@@ -277,7 +277,7 @@ Subsec. (o)(1). Pub. L. 115–334, § 4001(a), substituted “establishment, hou
 
 Subsec. (o)(1)(A). Pub. L. 115–334, § 4022(1)(B), substituted “subsection (q)(1)” for “subsection (r)(1)”.
 
-Subsec. (u). Pub. L. 115–334, § 4002, inserted after first sentence “By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.”
+Subsec. (u). Pub. L. 115–334, § 4002, inserted in introductory provisions “By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.”
 
 Subsec. (v). Pub. L. 115–334, § 4003(c), substituted “[section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)” for “the Indian Self-Determination Act ([25 U.S.C. 450b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim))”.
 
@@ -1202,7 +1202,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–334, § 4022(2), substituted “2012(m)(4)” for “2012(n)(4)” in two places.
 
-Subsec. (e)(6)(D). Pub. L. 115–334, § 4004, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i). Text of former cl. (i) read as follows: “In lieu of the deduction provided under subparagraph (A), a State agency may elect to allow a household in which all members are homeless individuals, but that is not receiving free shelter throughout the month, to receive a deduction of $143 per month.”
+Subsec. (e)(6)(D). Pub. L. 115–334, § 4004, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i). Prior to amendment, text of cl. (i) read as follows: “In lieu of the deduction provided under subparagraph (A), a State agency may elect to allow a household in which all members are homeless individuals, but that is not receiving free shelter throughout the month, to receive a deduction of $143 per month.”
 
 2014—Subsec. (a). Pub. L. 113–79, § 4008(b), substituted “subsections (b), (d)(2), (g), and (r) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015)” for “sections 2015(b), 2015(d)(2), and 2015(g) of this title”.
 
@@ -2363,11 +2363,11 @@ for “that will increase their ability to obtain regular employment.”
 
 Subsec. (d)(4)(A)(ii). Pub. L. 115–334, § 4005(a)(1)(B), inserted “and implemented to meet the purposes of clause (i)” after “carried out under this paragraph”.
 
-Subsec. (d)(4)(B). Pub. L. 115–334, § 4005(a)(2)(A)–(C), (E)–(I), inserted subpar. (B) heading, substituted “In this chapter:” for “For purposes of this chapter, an” in introductory provisions, inserted “(i) Employment and training program.—The term” before “employment and training program”, and, in cl. (i) as so designated, inserted “case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and” before “one or more” and substituted “this clause” for “this subparagraph” in introductory provisions, redesignated former cls. (i) to (vii) as subcls. (I) to (VII), respectively, substituted “employability assessments, training in techniques to increase employability” for “jobs skills assessments, job finding clubs, training in techniques for employability” in subcl. (II), inserted “, including subsidized employment and apprenticeships” after “public or private employment” in introductory provisions of subcl. (IV), redesignated subcls. (I) and (II) of former cl. (iv) as items (aa) and (bb), respectively, of subcl. (IV), inserted “not less than 30 days but” before “not more than 90 days” in subcl. (VII), added subcl. (VIII), and redesignated former cl. (viii) as subcl. (IX).
+Subsec. (d)(4)(B). Pub. L. 115–334, § 4005(a)(2)(A)–(C), (E)–(I), inserted subpar. (B) heading, substituted “In this chapter:” for “For purposes of this chapter, an” in introductory provisions, inserted “(i) Employment and training program.—The term” before “ ‘employment and training program’ ”, and, in cl. (i) as so designated, inserted “case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and” before “one or more” and substituted “this clause” for “this subparagraph” in introductory provisions, redesignated former cls. (i) to (viii) as subcls. (I) to (VII) and (IX), respectively, substituted “employability assessments, training in techniques to increase employability” for “jobs skills assessments, job finding clubs, training in techniques for employability” in subcl. (II), inserted “, including subsidized employment and apprenticeships” after “public or private employment” in introductory provisions of subcl. (IV), redesignated subcls. (I) and (II) of former cl. (iv) as items (aa) and (bb), respectively, of subcl. (IV), inserted “not less than 30 days but” before “not more than 90 days” in subcl. (VII), and added subcl. (VIII).
 
 Subsec. (d)(4)(B)(i)(I). Pub. L. 115–334, § 4005(a)(2)(D), added subcl. (I) and struck out former subcl. (I) which read as follows: “Job search programs.”
 
-Subsec. (d)(4)(B)(ii). Pub. L. 115–334, § 4005(a)(2)(C), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II) of subsec. (d)(4)(B).
+Subsec. (d)(4)(B)(ii). Pub. L. 115–334, § 4005(a)(2)(J), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II) of subsec. (d)(4)(B).
 
 Subsec. (d)(4)(E). Pub. L. 115–334, § 4005(a)(3), inserted subpar. heading, designated first and second sentences as cls. (i) and (ii), respectively, and inserted cl. headings, substituted “The requirements under clause (i)” for “Such requirements” in cl. (ii), and added cl. (iii).
 
@@ -2375,7 +2375,7 @@ Subsec. (d)(4)(H). Pub. L. 115–334, § 4005(a)(4), substituted “subparagraph
 
 Subsec. (d)(4)(N), (O). Pub. L. 115–334, § 4005(a)(5), added subpars. (N) and (O).
 
-Subsec. (o)(1)(C) to (E). Pub. L. 115–334, § 4005(b)(1), in subpar. (C) substituted “supervised job search program or job search training program” for “job search program or a job search training program” and added subpars. (D) and (E).
+Subsec. (o)(1)(C) to (E). Pub. L. 115–334, § 4005(b)(1), in subpar. (C), substituted “supervised job search program or job search training program” for “job search program or a job search training program”, and added subpars. (D) and (E).
 
 Subsec. (o)(4)(A). Pub. L. 115–334, § 4005(b)(2), inserted “and with the support of the chief executive officer of the State” after “request of a State agency”.
 
@@ -2385,7 +2385,7 @@ Subsec. (o)(6)(B). Pub. L. 115–334, § 4005(b)(3)(B), substituted “subparagr
 
 Subsec. (o)(6)(C). Pub. L. 115–334, § 4005(b)(3)(C), substituted “subparagraphs (F) and (H)” for “subparagraphs (E) and (G)”.
 
-Subsec. (o)(6)(D). Pub. L. 115–334, § 4005(b)(3)(D), in heading substituted “Fiscal years 1999 through 2019” for “Subsequent fiscal years” and in text substituted “subparagraphs (F) through (H)” for “subparagraphs (E) through (G)” and “each subsequent fiscal year through fiscal year 2019” for “each subsequent fiscal year”.
+Subsec. (o)(6)(D). Pub. L. 115–334, § 4005(b)(3)(D), in heading, substituted “Fiscal years 1999 through 2019” for “Subsequent fiscal years”, and in text, substituted “subparagraphs (F) through (H)” for “subparagraphs (E) through (G)” and “each subsequent fiscal year through fiscal year 2019” for “each subsequent fiscal year”.
 
 Subsec. (o)(6)(E). Pub. L. 115–334, § 4005(b)(3)(G), added subpar. (E). Former subpar. (E) redesignated (F).
 
@@ -3185,7 +3185,7 @@ Subsec. (h)(12)(B), (C). Pub. L. 115–334, § 4006(c)(2), added subpars. (B) an
 
 “(B) Benefit storage.—A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
 
-(C) Benefit expunging.—A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.”
+“(C) Benefit expunging.—A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.”
 
 Subsec. (h)(13). Pub. L. 115–334, § 4006(d)(1), amended par. (13) generally. Prior to amendment, text read as follows: “No interchange fees shall apply to electronic benefit transfer transactions under this subsection.”
 
@@ -3195,7 +3195,7 @@ Subsec. (h)(14)(B). Pub. L. 115–334, § 4006(e)(2)(A), substituted “Demonstr
 
 Subsec. (h)(14)(B)(i). Pub. L. 115–334, § 4006(e)(2)(B), amended cl. (i) generally. Prior to amendment, text read as follows: “Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions.”
 
-Subsec. (h)(14)(B)(ii). Pub. L. 115–334, § 4006(e)(2)(C)(i) to (iii), in heading substituted “Project requirements” for “Demonstration projects” and, in introductory provisions, substituted “State agency” for “retail food store” and struck out “includes” after “a plan that”.
+Subsec. (h)(14)(B)(ii). Pub. L. 115–334, § 4006(e)(2)(C)(i)–(iii), in heading substituted “Project requirements” for “Demonstration projects” and, in introductory provisions, substituted “State agency” for “retail food store” and struck out “includes” after “a plan that”.
 
 Subsec. (h)(14)(B)(ii)(I) to (VIII). Pub. L. 115–334, § 4006(e)(2)(C)(iv), added subcls. (I) to (VIII) and struck out former subcls. (I) to (IV) which read as follows:
 
@@ -3215,9 +3215,9 @@ Subsec. (j)(1)(H). Pub. L. 115–334, § 4006(d)(2), amended subpar. (H) general
 
 Subsec. (k). Pub. L. 115–334, § 4001(b)(1), substituted “Acceptance of program benefits through online transactions” for “Option to accept program benefits through on-line transactions” in heading.
 
-Subsec. (k)(4)(C). Pub. L. 115–334, § 4001(b)(2), struck out subpar. (C). Prior to amendment, text read as follows: “The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
+Subsec. (k)(4)(C). Pub. L. 115–334, § 4001(b)(2), struck out subpar. (C). Text read as follows: “The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
 
-Subsec. (k)(5). Pub. L. 115–334, § 4001(b)(3), struck out par. (5). Prior to amendment, text read as follows: “The Secretary shall—
+Subsec. (k)(5). Pub. L. 115–334, § 4001(b)(3), struck out par. (5). Text read as follows: “The Secretary shall—
 
 “(A) by not later than January 1, 2017, authorize implementation of paragraph (1) in all States, unless the Secretary makes a finding, based on the data provided under paragraph (4), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
 
@@ -3410,13 +3410,13 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 Pub. L. 113–79, title IV, § 4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: “Nothing in this section [amending this section and [section 2019 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2019)] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) et seq.) unless specifically authorized in this section or an amendment made by this section.”
 
 #### Report on Electronic Benefit Transfer Systems
-Pub. L. 107–171, title IV, § 4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “(a) Definition of EBT System.—In this section, the term ‘EBT system’ means an electronic benefit transfer system used in issuance of benefits under the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) et seq.). “(b) Report.—Not later than October 1, 2003, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—“(1) describes the status of use by each State agency of EBT systems; “(2) specifies the number of vendors that have entered into a contract for an EBT system with a State agency; “(3)(A) specifies the number of State agencies that have entered into an EBT-system contract with multiple EBT-system vendors; and “(B) describes, for each State agency described in subparagraph (A), how responsibilities are divided among the various vendors; “(4) with respect to any State in which an EBT system is not operational throughout the State as of October 1, 2002—“(A) provides an explanation of the reasons why an EBT system is not operational throughout the State; “(B) describes how the reasons are being addressed; and “(C) specifies the expected date of operation of an EBT system throughout the State; “(5) provides a description of—“(A) the issues faced by any State agency that has awarded a second EBT-system contract in the 2-year period preceding the date of the report; and “(B) the steps that the State agency has taken to address those issues; “(6) provides a description of—“(A) the issues faced by any State agency that will award a second EBT-system contract within the 2-year period beginning on the date of the report; and “(B) strategies that the State agency is considering to address those issues; “(7) describes initiatives being considered or taken by the Department of Agriculture, food retailers, EBT-system vendors, and client advocates to address any outstanding issues with respect to EBT systems; and “(8) examines areas of potential advances in electronic benefit delivery in the 5- to 10-year period beginning on the date of the report, including—“(A) access to EBT systems at farmers’ markets; “(B) increased use of transaction data from EBT systems to identify and prosecute fraud; and “(C) fostering of increased competition among EBT-system vendors to ensure cost containment and optimal service.”
+Pub. L. 107–171, title IV, § 4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, required the Secretary of Agriculture to submit to Congress, not later than Oct. 1, 2003, a report related to State agencies’ use of electronic benefit transfer systems to issue benefits under the supplemental nutrition assistance program.
 
 #### Congressional Statement of Purpose
 Pub. L. 106–171, § 2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “The purposes of this Act [amending this section and enacting provisions set out as notes under this section and [section 2011 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011)] are— “(1) to protect the integrity of the supplemental nutrition assistance program; “(2) to ensure cost-effective portability of supplemental nutrition assistance program benefits benefits [sic] across State borders without imposing additional administrative expenses for special equipment to address problems relating to the portability; “(3) to enhance the flow of interstate commerce involving electronic transactions involving supplemental nutrition assistance program benefits benefits [sic] under a uniform national standard of interoperability and portability; and “(4) to eliminate the inefficiencies resulting from a patchwork of State-administered systems and regulations established to carry out the supplemental nutrition assistance program.”
 
 #### Study of Alternatives for Handling Electronic Benefit Transactions Involving Food Stamp Benefits
-Pub. L. 106–171, § 4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “Not later than 1 year after the date of enactment of this Act [Feb. 11, 2000], the Secretary of Agriculture shall study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits benefits [sic] provided under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) et seq.), including the feasibility and desirability of a single hub for switching (as defined in section 7(k)(1) [now 7(j)(1)] of that Act [[7 U.S.C. 2016(j)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/j/1&num=0&edition=prelim)] (as added by section 3)).”
+Pub. L. 106–171, § 4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, directed the Secretary of Agriculture, not later than 1 year after Feb. 11, 2000, to study and report to Congress on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits, including use of a single switching hub.
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 Pub. L. 102–237, title IX, § 908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, § 1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, § 1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement [7 U.S.C. 2016(h)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/h/1&num=0&edition=prelim), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, § 104(a), Mar. 25, 1994, 108 Stat. 107.
@@ -3663,11 +3663,11 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 ## § 2018. Approval of retail food stores and wholesale food concerns
 **(a) Authorization to accept and redeem benefits**
 
-(1) **Applications**
+(1) **Applications.—**
 
-  (A) *In general* — Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program.
+  (A) *In general.—* — Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program.
 
-  (B) *Factors for consideration* — In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following:
+  (B) *Factors for consideration.—* — In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following:
 
     (i) the nature and extent of the food business conducted by the applicant;
 
@@ -3679,9 +3679,9 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
     (v) the business integrity and reputation of the applicant.
 
-  (C) *Certificate* — Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval.
+  (C) *Certificate.—* — Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval.
 
-  (D) *Visit required* — No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
+  (D) *Visit required.—* — No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
 
 (2) The Secretary shall issue regulations providing for—
 
@@ -4028,7 +4028,7 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
   (D) Title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.).
 
-**(d) Plan of operation by State agency; approval by Secretary; Indians** The State agency (as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim)) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim) shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim)) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in [section 2012(s)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/2&num=0&edition=prelim) is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim)) 1 and similar Acts of Congress, the tribal organization’s management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to [section 2012(s)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/2&num=0&edition=prelim). A State agency, as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim), before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State’s plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
+**(d) Plan of operation by State agency; approval by Secretary; Indians** The State agency (as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim)) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim) shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim)) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in [section 2012(s)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/2&num=0&edition=prelim) is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim)) 11 See References in Text note below. and similar Acts of Congress, the tribal organization’s management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to [section 2012(s)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/2&num=0&edition=prelim). A State agency, as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim), before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State’s plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
 
 **(e) Requisites of State plan of operation** The State plan of operation required under subsection (d) of this section shall provide, among such other provisions as may be required by regulation—
 
@@ -4453,7 +4453,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (u)(2)(A), is Pub. L. 89
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-Subsec. (a)(2). Pub. L. 115–334, § 4022(5)(A), substituted “2012(s)(1)” for “2012(t)(1)”.
+2018—Subsec. (a)(2). Pub. L. 115–334, § 4022(5)(A), substituted “2012(s)(1)” for “2012(t)(1)”.
 
 Subsec. (a)(3)(B). Pub. L. 115–334, § 4013(a)(1), substituted “All records, and the entire information systems in which records are contained, that are covered” for “Records described” in introductory provisions.
 
@@ -6233,7 +6233,7 @@ The Social Security Act, referred to in subsecs. (e), (g)(1)(D), (h)(1)(F)(i)(I)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–334, § 4015(b), in first sentence substituted “(8)” for “and (8)” and added cl. (9).
+2018—Subsec. (a). Pub. L. 115–334, § 4015(b) added cl. (9).
 
 Subsec. (c)(1)(B). Pub. L. 115–334, § 4013(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003.
 
@@ -6247,7 +6247,7 @@ Subsec. (d)(2)(A), (B). Pub. L. 115–334, § 4013(d)(2)(B), (C), substituted �
 
 Subsec. (d)(6). Pub. L. 115–334, § 4013(d)(3), added par. (6).
 
-Subsec. (g)(1). Pub. L. 115–334, § 4012(2), (3), in introductory provisions, substituted “paragraph (2)” for “paragraphs (2) and (3)”, substituted “in the—” for “in the”, and inserted subpar. (A) designation before “planning”, and redesignated subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) as so designated.
+Subsec. (g)(1). Pub. L. 115–334, § 4012(2), (3), in introductory provisions, substituted “paragraph (2)” for “paragraphs (2) and (3)” and “in the—” for “in the”, inserted subpar. (A) designation before “planning”, and redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A).
 
 Subsec. (g)(1)(A)(v). Pub. L. 115–334, § 4012(2), (4), redesignated subsec. (g)(1)(E) as cl. (v) of subsec. (g)(1)(A) and substituted “, including a requirement that—”, subcls. (I) and (II), and “(III) the data resulting from each pilot project carried out under this clause” for “, including through pilot projects in limited areas for major systems changes as determined under rules promulgated by the Secretary, data from which”.
 
@@ -6255,7 +6255,7 @@ Subsec. (g)(1)(A)(vi). Pub. L. 115–334, § 4012(1), (2), redesignated subsec. 
 
 Subsec. (g)(1)(A)(vii). Pub. L. 115–334, §§ 4012(5), 4013(e), added cl. (vii).
 
-Subsec. (g)(1)(B). Pub. L. 115–334, § 4012(2), (6), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subsec. (g)(1)(A).
+Subsec. (g)(1)(B). Pub. L. 115–334, § 4012(6), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subsec. (g)(1)(A).
 
 Subsec. (g)(1)(C) to (F). Pub. L. 115–334, § 4012(2), redesignated subpars. (C) to (F) as cls. (iii) to (vi), respectively, of subsec. (g)(1)(A).
 
@@ -8329,11 +8329,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 2018—Subsec. (a)(1)(B)(i)(I). Pub. L. 115–334, § 4022(8), substituted “service;” for “service;;”.
 
-Subsec. (b)(2)(B). Pub. L. 115–334, § 4017(1), struck out “and” at end.
-
 Subsec. (b)(2)(C). Pub. L. 115–334, § 4017(2), substituted “each of fiscal years 2015 through 2018; and” for “fiscal year 2015 and each fiscal year thereafter.”
 
-Subsec. (b)(2)(D). Pub. L. 115–334, § 4017(3), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 115–334, § 4017(1), (3), added subpar. (D).
 
 2014—Subsec. (a)(1)(B)(i)(I). Pub. L. 113–79, § 4026(1)(A)(i)(I), inserted “through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;” after “individuals”.
 
@@ -8471,7 +8469,7 @@ The Social Security Act, referred to in subsecs. (c) and (f), is act Aug. 14, 19
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Subsec. (b). Pub. L. 115–334 substituted “carry out a simplified supplemental nutrition assistance program” for “carry out a out a Simplified Food Stamp Program”.
+2018—Subsec. (b). Pub. L. 115–334 substituted “carry out a simplified supplemental nutrition assistance program” for “carry out a Simplified Food Stamp Program”.
 
 2014—Subsec. (f)(3)(C). Pub. L. 113–79 substituted “subsections” for “subsection”.
 
@@ -8785,9 +8783,9 @@ Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided t
 #### Amendments
 2018—Subsec. (c)(2)(B). Pub. L. 115–334, § 4019(1)(A)(i), substituted “A” for “Except as provided in subparagraph (C), a” in introductory provisions.
 
-Subsec. (c)(2)(B)(iii), (iv). Pub. L. 115–334, § 4019(1)(A)(ii) to (iv), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (c)(2)(B)(iii), (iv). Pub. L. 115–334, § 4019(1)(A)(ii)–(iv), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (c)(2)(C). Pub. L. 115–334, § 4019(1)(B), struck out subpar. (C). Prior to amendment, text read as follows: “During each of fiscal years 2011 and 2012, a nutrition education State plan under this section shall be consistent with the requirements of [section 2020(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/f&num=0&edition=prelim) (as that section, other than paragraph (3)(C), existed on the day before December 13, 2010).”
+Subsec. (c)(2)(C). Pub. L. 115–334, § 4019(1)(B), struck out subpar. (C). Text read as follows: “During each of fiscal years 2011 and 2012, a nutrition education State plan under this section shall be consistent with the requirements of [section 2020(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/f&num=0&edition=prelim) (as that section, other than paragraph (3)(C), existed on the day before December 13, 2010).”
 
 Subsec. (c)(3)(B). Pub. L. 115–334, § 4019(2), inserted “, the Director of the National Institute of Food and Agriculture,” before “and outside stakeholders” in introductory provisions.
 

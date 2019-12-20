@@ -963,7 +963,7 @@ All payments authorized under this subchapter shall be disbursed exclusively fro
 1958—Subsec. (b). Pub. L. 85–604 provided that it shall not be construed so as to exclude from eligibility a claim based upon a direct ownership interest in a corporation, association, or other entity, or the property thereof, for loss by reason of the nationalization, compulsory liquidation, or other taking, and permitted allowance of such claim without regard to the per centum of ownership vested in the claimant.
 
 #### Reconsideration of Claims
-Pub. L. 85–604, § 3(b), Aug. 8, 1958, 72 Stat. 531, provided that: “Any claim heretofore denied under subsection (b) of section 311 of the International Claims Settlement Act of 1949, as amended [subsec. (b) of this section], prior to the date of enactment of this section [Aug. 8, 1958], shall be reconsidered by the Foreign Claims Settlement Commission solely to redetermine its validity and amount by reason of the amendments made by this section [amending subsec. (b) of this section].”
+Pub. L. 85–604, § 3(b), Aug. 8, 1958, 72 Stat. 531, provided that any claim heretofore denied under subsec. (b) of this section, prior to Aug. 8, 1958, would be reconsidered by the Foreign Claims Settlement Commission solely to redetermine its validity and amount.
 
 
 <a id="section-1641k"></a>

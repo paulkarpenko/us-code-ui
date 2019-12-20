@@ -686,7 +686,7 @@ Subsec. (g). Pub. L. 99–198, § 1702(b), added subsec. (g).
 Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 2005, see section 798(b) of Pub. L. 109–97, set out as a note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force of the World Trade Organization Agreement with respect to the United States [Jan. 1, 1995], see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3601&num=0&edition=prelim), Customs Duties.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force of the World Trade Organization Agreement with respect to the United States (Jan. 1, 1995), see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3601&num=0&edition=prelim), Customs Duties.
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim), Agriculture.

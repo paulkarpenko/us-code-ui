@@ -206,7 +206,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”. Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in [section 101 of this title](./chapter-001-definitions.md#section-101) and is therefore covered by clause (1).
 
-Subsection (d) is added to note the existence of a later act, codified in § 2572 of this title, which provides similar disposal authority, and to give effect to § 2 of the Act of February 27, 1948, ch. 76, 62 Stat. 37, which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
+Subsection (d) is added to note the existence of a later act, codified in [§ 2572 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2572), which provides similar disposal authority, and to give effect to § 2 of the Act of February 27, 1948, ch. 76, 62 Stat. 37, which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7545 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7545&num=0&edition=prelim) as this section.

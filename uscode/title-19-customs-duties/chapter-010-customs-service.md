@@ -100,7 +100,7 @@ Pub. L. 99–272, title XIII, § 13033, Apr. 7, 1986, 100 Stat. 311, which provi
 
 (1) **Commissioner** — The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
 
-(2) **Commercial Operations Advisory Committee** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) 11 See References in Text note below. or any successor committee.
+(2) **Commercial Operations Advisory Committee** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) 22 See References in Text note below. or any successor committee.
 
 ### Statutory Notes
 

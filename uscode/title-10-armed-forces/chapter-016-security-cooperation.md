@@ -1875,7 +1875,7 @@ A prior section 384 was renumbered [section 284 of this title](./chapter-015-mil
 
 **(c) Specified Authorities.—** The authorities specified in this subsection are the following authorities (or any successor authorities):
 
-(1) Sections 246, 251, 252, 253, 11 See References in Text note below. 321, 344, 348, 349, and 350 of this title.
+(1) Sections 246, 251, 252, 253,11 See References in Text note below. 321, 344, 348, 349, and 350 of this title.
 
 (2) [Section 166a(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section166a/b/6&num=0&edition=prelim), relating to humanitarian and civic assistance by the commanders of the combatant commands.
 
@@ -1921,7 +1921,7 @@ A prior section 384 was renumbered [section 284 of this title](./chapter-015-mil
 Pub. L. 114–328, div. A, title XII, § 1246(d)(2)(A), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, subsection (c)(1) of this section is amended by inserting “341,” after “333,”. See 2016 and 2018 Amendment notes below.
 
 #### References in Text
-Sections 251, 252, and 253 of this title, referred to in subsec. (c)(1), were renumbered sections 240a, 240b, and 240c, respectively, of this title by Pub. L. 115–232, div. A, title X, § 1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.
+Sections 246, 251, 252, and 253 of this title, referred to in subsec. (c)(1), probably should be references to sections 311, 331, 332, and 333 of this title, respectively, as they were prior to amendment by Pub. L. 115–232. See 2018 Amendment note below. Although there were sections 311, 331, 332, and 333 of this title that had been renumbered 246, 251, 252, and 253, the references in subsec. (c)(1) should probably be to the current sections 311, 331, 332, and 333 and not to the ones that were renumbered.
 
 [Section 168 of this title](./chapter-006-combatant-commands.md#section-168), referred to in subsec. (c)(3), was repealed by Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532.
 

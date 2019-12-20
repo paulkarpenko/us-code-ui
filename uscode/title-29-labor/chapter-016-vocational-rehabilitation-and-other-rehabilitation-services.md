@@ -3004,6 +3004,9 @@ Subsec. (c). Pub. L. 113–128, § 412(c), added subsec. (c).
 
 Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(B)], substituted “commission” for “Commission”.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Definitions of Terms in Pub. L. 113–128
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
@@ -4712,6 +4715,9 @@ Subsecs. (k) to (m). Pub. L. 113–128, § 433(8), added subsecs. (k) to (m) and
 
 1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -4869,6 +4875,9 @@ Subsec. (b). Pub. L. 105–394, § 201(2), designated existing provisions as par
 Subsec. (c). Pub. L. 105–394, § 201(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities.”
 
 Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-793"></a>
@@ -7262,6 +7271,8 @@ Subsec. (j). Pub. L. 103–73, § 112(c)(7), added subsec. (j) and struck out he
 Subsec. (n). Pub. L. 103–73, § 112(c)(5), redesignated subsec. (i) as (n).
 
 #### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1997 Amendment

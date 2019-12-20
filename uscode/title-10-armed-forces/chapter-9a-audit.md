@@ -51,7 +51,7 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 
   (B) *Elements.—* — Each report under subparagraph (A) shall include the following:
 
-    (i) An analysis of the consolidated corrective action plan management summary prepared pursuant to section 253a 22 So in original. Probably should be “section 253”. of this title.
+    (i) An analysis of the consolidated corrective action plan management summary prepared pursuant to section 253a 11 So in original. Probably should be “section 240c”. of this title.
 
     (ii) Current Department of Defense-wide information on the status of corrective actions plans related to critical capabilities and material weaknesses, including the standard data elements recommended in the implementation guide for Office of Management and Budget Circular A–123, for the armed forces, military departments, and Defense Agencies.
 
@@ -89,7 +89,9 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 Subsec. (a) of this section, as added by Pub. L. 115–91, is based on text of subsec. (a) of section 1003 of Pub. L. 111–84, div. A, title X, Oct. 28, 2009, 123 Stat. 2439, which was formerly set out as a note under [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222), prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
 #### Amendments
-2018—Pub. L. 115–232, § 1002(a)(1)(A), renumbered [section 252 of this title](./chapter-013-insurrection.md#section-252) as this section.Subsec. (a)(2)(A)(iii) to (v). Pub. L. 115–232, § 1002(a)(2), which directed amendment of subsec. (a)(2) by redesignating cl. (iii), relating to unqualified audit opinion, as (iv) and cl. (iv) as (v), was executed by making the amendment in subpar. (A) of subsec. (a)(2), to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, § 1002(a)(1)(A), renumbered [section 252 of this title](./chapter-013-insurrection.md#section-252) as this section.
+
+Subsec. (a)(2)(A)(iii) to (v). Pub. L. 115–232, § 1002(a)(2), which directed amendment of subsec. (a)(2) by redesignating cl. (iii), relating to unqualified audit opinion, as (iv) and cl. (iv) as (v), was executed by making the amendment in subpar. (A) of subsec. (a)(2), to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(B)(vii), (viii). Pub. L. 115–232, § 1002(c)(1), added cls. (vii) and (viii).
 
@@ -203,7 +205,10 @@ Subsec. (e)(3). Pub. L. 115–91, § 1002(e)(3)(B)(ii), redesignated par. (3) as
 
 Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after “title 31”.
 
-#### Transparency of Accounting Firms Used to Support Department of Defense Audit
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Transparency of Accounting Firms Used To Support Department of Defense Audit
 Pub. L. 115–232, div. A, title X, § 1006, Aug. 13, 2018, 132 Stat. 1947, provided that: “For all contract actions (including awards, renewals, and amendments) occurring more than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall require any accounting firm providing financial statement auditing or audit remediation services to the Department of Defense in support of the audit required under [section 3521 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3521&num=0&edition=prelim), United States Code, to provide the Department with a statement setting forth the details of any disciplinary proceedings with respect to the accounting firm or its associated persons before any entity with the authority to enforce compliance with rules or laws applying to audit services offered by accounting firms.”
 
 

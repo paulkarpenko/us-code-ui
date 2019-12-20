@@ -509,7 +509,7 @@ Subsec. (a)(10). Pub. L. 114–92, § 556(c)(4), substituted “Three” for “
 
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(42)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
 
-Subsec. (b)(5), (d), (f). Pub. L. 112–239, § 1076(f)(42)(A)(ii)–(C), substituted “paragraphs” for “clauses”.
+Subsecs. (b)(5), (d), (f). Pub. L. 112–239, § 1076(f)(42)(A)(ii)–(C), substituted “paragraphs” for “clauses”.
 
 2009—Subsec. (a)(10). Pub. L. 111–84 substituted “Two cadets” for “One cadet”.
 
@@ -823,7 +823,7 @@ The word “agreement” is substituted for the word “articles”. The words �
 A prior section 9448 was renumbered [section 9498 of this title](./chapter-959-civil-air-patrol.md#section-9498).
 
 #### Amendments
-2018—Pub. L. 115–232, § 806(a)(3), renumbered [section 9348 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9348&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 9348 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9348&num=0&edition=prelim) as this section.
 
 2017—Subsec. (a)(5). Pub. L. 115–91, § 543(c), added par. (5).
 

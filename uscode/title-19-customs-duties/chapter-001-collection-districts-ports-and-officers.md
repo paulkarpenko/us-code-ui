@@ -225,11 +225,11 @@ Any officer of the customs service designated by the Secretary of the Treasury f
 
 1948—Act June 25, 1948, struck out fourth sentence relating to appointment and compensation of clerks of Customs Court.
 
-1930—Act June 17, 1930, § 518, authorized Secretary of the Treasury to appoint and fix compensation of clerks of Customs Court.
+1930—Act June 17, 1930, § 649, substituted “Treasury attachés” for “Customs attachés”.
+
+Act June 17, 1930, § 518, authorized Secretary of the Treasury to appoint and fix compensation of clerks of Customs Court.
 
 1926—Act May 28, 1926, substituted “United States Customs Court” for “Board of General Appraisers”.
-
-Act June 17, 1930, § 649, substituted “Treasury attachés” for “Customs attachés”.
 
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–271 effective with respect to articles entered, or withdrawn from warehouse for consumption, on or after Oct. 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, or with respect to which a protest has not been disallowed in whole or in part before Oct. 1, 1970, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
@@ -633,11 +633,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (9)
 
-  (A) For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 percent ad valorem, unless adjusted under subparagraph (B).
+  (A) For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 11 See Rates for Merchandise Processing Fees notes below. percent ad valorem, unless adjusted under subparagraph (B).
 
   (B)
 
-    (i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
+    (i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 1 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
 
     (ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
 
@@ -1034,7 +1034,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A) There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A), $350,000,000.
 
-  (B) There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation 11 So in original. of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
+  (B) There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation 22 So in original. of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
 
   (C) In adjusting the fee imposed by subsection (a)(9)(A) for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
 
@@ -1058,11 +1058,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3)
 
-  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after October 20, 2027.
+  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2029.
 
   (B)
 
-    (i) Subject to clause (ii), Fees 22 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2027.
+    (i) Subject to clause (ii), Fees 33 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029.
 
     (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
@@ -1192,6 +1192,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2019—Subsec. (j)(3)(A). Pub. L. 116–37, § 401(a)(1), substituted “September 30, 2029” for “October 20, 2027”.
+
+Subsec. (j)(3)(B)(i). Pub. L. 116–37, § 401(a)(2), substituted “September 30, 2029” for “September 30, 2027”.
+
 2018—Subsec. (a)(6). Pub. L. 115–271, § 8002(b)(1), inserted “(other than an item subject to a fee under subsection (b)(9)(D))” after “customs officer”.
 
 Subsec. (a)(10). Pub. L. 115–271, § 8002(b)(2)(B), inserted “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),” in concluding provisions.
@@ -1204,7 +1208,7 @@ Subsec. (j)(3)(A). Pub. L. 115–264 substituted “October 20, 2027” for “O
 
 Pub. L. 115–239 substituted “October 13, 2027” for “July 21, 2027”.
 
-Pub. L. 115–141, substituted “July 21, 2027” for “February 24, 2027”.
+Pub. L. 115–141 substituted “July 21, 2027” for “February 24, 2027”.
 
 Pub. L. 115–123, § 30201(a)(1), substituted “February 24, 2027” for “January 14, 2026”.
 
@@ -1834,7 +1838,7 @@ Pub. L. 112–40, § 2, Oct. 21, 2011, 125 Stat. 402, provided that: “For the 
 
 Pub. L. 112–40, title II, § 262, Oct. 21, 2011, 125 Stat. 426, provided that: “(a) Fees for Period From July 1, 2014, to November 30, 2015.—For the period beginning on July 1, 2014, and ending on November 30, 2015, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/a/9&num=0&edition=prelim)) shall be applied and administered—“(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’. “(b) Fees for Period From October 1, 2016, to September 30, 2019.—For the period beginning on October 1, 2016, and ending on September 30, 2019, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/a/9&num=0&edition=prelim)) shall be applied and administered—“(1) in subparagraph (A), by substituting ‘0.1740’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.1740’ for ‘0.21’.”
 
-[For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on June 30, 2021, see section 503 of Pub. L. 112–41, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).]
+[For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on Sept. 30, 2029, see section 503 of Pub. L. 112–41, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).]
 
 #### Time for Remitting Certain Merchandise Processing Fees
 Pub. L. 112–40, title II, § 263, Oct. 21, 2011, 125 Stat. 426, prescribed times for remitting certain fees authorized by subsec. (a) of this section and required the Secretary of the Treasury to reconcile the payment of certain merchandise processing fees with services actually provided, prior to repeal by Pub. L. 112–96, title VII, § 7002(a), Feb. 22, 2012, 126 Stat. 256.

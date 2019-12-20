@@ -50,13 +50,15 @@ The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205
 
 <a id="section-4202"></a>
 ## § 4202. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Fund and to the Secretary a total of not to exceed $5,000,000 for each of fiscal years 2007 through 2012 to carry out this chapter, to remain available until expended.
+**(a) In general** There is authorized to be appropriated to the Fund and to the Secretary a total of not to exceed $5,000,000 for each of fiscal years 2019 through 2023 to carry out this chapter, to remain available until expended.
 
 **(b) Administrative expenses** Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–9 substituted “2019 through 2023” for “2007 through 2012”.
+
 2007—Subsec. (a). Pub. L. 110–132, § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
 
 Subsec. (b). Pub. L. 110–132, § 2(b), substituted “$100,000” for “$80,000”.

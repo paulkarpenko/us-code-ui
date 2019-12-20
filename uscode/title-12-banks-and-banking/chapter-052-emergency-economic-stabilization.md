@@ -478,6 +478,9 @@ Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement 
 #### Amendments
 2009—Subsec. (b). Pub. L. 111–5 inserted “and individuals with disabilities and businesses owned by individuals with disabilities (for purposes of this subsection the term ‘individual with disability’ has the same meaning as the term ‘handicapped individual’ as that term is defined in [section 632(f) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/f&num=0&edition=prelim)),” after “[section 1441a(r)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/r/4&num=0&edition=prelim)),”.
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-5219a"></a>
 ## § 5219a. Conflicts of interest

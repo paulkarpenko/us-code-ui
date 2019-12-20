@@ -696,9 +696,17 @@ Functions of National Fire Prevention and Control Administration [now United Sta
 
 (1) information on the frequency, causes, spread, and extinguishment of fires;
 
-(2) information on the number of injuries and deaths resulting from fires, including the maximum available information on the specific causes and nature of such injuries and deaths, and information on property losses;
+(2) information on the number of injuries and deaths resulting from fires, including the maximum available information on the specific causes and nature of such injuries and deaths, categorized by the type of fire, and information on property losses;
 
-(3) information on the occupational hazards faced by firefighters, including the causes of deaths and injuries arising, directly and indirectly, from firefighting activities;
+(3) information on the occupational hazards faced by firefighters, including the causes of deaths and injuries arising, directly and indirectly, from firefighting activities, including—
+
+  (A) all injuries sustained by a firefighter and treated by a doctor, categorized by the type of firefighter;
+
+  (B) all deaths sustained while undergoing a pack test or preparing for a work capacity;
+
+  (C) all injuries or deaths resulting from vehicle accidents; and
+
+  (D) all injuries or deaths resulting from aircraft crashes;
 
 (4) information on all types of firefighting activities, including inspection practices;
 
@@ -716,15 +724,29 @@ Functions of National Fire Prevention and Control Administration [now United Sta
 
 (2) encourage and assist Federal, State, local, and other agencies, public and private, in developing and reporting information; and
 
-(3) make full use of existing data gathering and analysis organizations, both public and private.
+(3) make full use of existing data gathering and analysis organizations, both public and private, including the Center for Firefighter Injury Research and Safety Trends.
 
 **(c) Dissemination of fire data** The Administrator shall insure dissemination to the maximum extent possible of fire data collected and developed by the Data Center, and shall make such data, information, and analysis available in appropriate form to Federal agencies, State and local governments, private organizations, industry, business, and other interested persons.
 
 **(d) National Fire Incident Reporting System update** The Administrator shall update the National Fire Incident Reporting System to ensure that the information in the system is available, and can be updated, through the Internet and in real time.
 
+**(e) Medical privacy of firefighters** The collection, storage, and transfer of any medical data collected under this section shall be conducted in accordance with—
+
+(1) the privacy regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ([42 U.S.C. 1320d–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim) note; Public Law 104–191); and
+
+(2) other applicable regulations, including parts 160, 162, and 164 of title 45, Code of Federal Regulations (as in effect on March 12, 2019).
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(2). Pub. L. 116–9, § 1114(g)(1)(A), inserted “, categorized by the type of fire” after “such injuries and deaths”.
+
+Subsec. (a)(3). Pub. L. 116–9, § 1114(g)(1)(B), substituted “activities, including—” for “activities;” and added subpars. (A) to (D).
+
+Subsec. (b)(3). Pub. L. 116–9, § 1114(g)(2), inserted “, including the Center for Firefighter Injury Research and Safety Trends” after “public and private”.
+
+Subsec. (e). Pub. L. 116–9, § 1114(g)(3), added subsec. (e).
+
 2013—Subsec. (d). Pub. L. 112–239 struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: “Of the amounts made available pursuant to subparagraphs (E), (F), and (G) of [section 2216(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2216/g/1&num=0&edition=prelim), the Administrator shall use not more than an aggregate amount of $5,000,000 during the 3-year period consisting of fiscal years 2009, 2010, and 2011 to carry out the activities required by paragraph (1).”
 
 2008—Subsec. (b)(2). Pub. L. 110–376, § 5(b), substituted “assist Federal, State,” for “assist State,”.

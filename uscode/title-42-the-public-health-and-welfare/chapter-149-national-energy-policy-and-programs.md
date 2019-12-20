@@ -705,7 +705,7 @@ The Secretary of Housing and Urban Development shall develop and implement an in
 The Energy Policy Act of 1992, referred to in subsec. (c)(3), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. Title XXVI of the Act is classified generally to chapter 37 (§ 3501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
 #### Federal Leadership on Energy Management
-Memorandum of President of the United States, Dec. 5, 2013, 78 F.R. 75209, which set a renewable energy target and building performance and energy management requirements for Federal agencies, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
+Memorandum of President of the United States, Dec. 5, 2013, 78 F.R. 75209, which set a renewable energy target and building performance and energy management requirements for Federal agencies, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, formerly set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-15854"></a>
@@ -7719,7 +7719,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–246, substituted “Facility for Rare Isotope Beams” for “Rare Isotope Accelerator” in section catchline and in subsecs. (a) and (b).
+2018—Pub. L. 115–246 substituted “Facility for Rare Isotope Beams” for “Rare Isotope Accelerator” in section catchline and in subsecs. (a) and (b).
 
 
 <a id="section-16325"></a>
@@ -9795,7 +9795,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(d)** The Secretary of Energy shall promulgate final regulations for loan guarantees under title XVII of the Energy Policy Act of 2005 [[42 U.S.C. 16501](./chapter-149-national-energy-policy-and-programs.md#section-16501) et seq.] within 6 months of February 15, 2007.
 
-**(e)** Not later than 120 days after February 15, 2007, and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 [[42 U.S.C. 16501](./chapter-149-national-energy-policy-and-programs.md#section-16501) et seq.], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under this subchapter, describing the technologies, amount of loan guarantee sought, and the applicants’ assessment of risk.
+**(e)** Not later than 120 days after February 15, 2007, and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 [[42 U.S.C. 16511](./chapter-149-national-energy-policy-and-programs.md#section-16511) et seq.], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under such title, describing the technologies, amount of loan guarantee sought, and the applicants’ assessment of risk.
 
 ### Statutory Notes
 

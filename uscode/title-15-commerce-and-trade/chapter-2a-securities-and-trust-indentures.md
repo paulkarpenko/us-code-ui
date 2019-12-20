@@ -204,9 +204,6 @@ Any condition, stipulation, or provision binding any person to waive compliance 
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
@@ -332,9 +329,6 @@ If any provision of this subchapter or the application of such provision to any 
 (4) References in this subchapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement (as defined in [section 78c(a)(78) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/78&num=0&edition=prelim)), as the context may require.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–203, § 762(c)(1)(A), struck out subsec. (a) and reserved subsec. (a) designation. Text read as follows: “The definition of ‘security’ in [section 77b(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77b/a/1&num=0&edition=prelim) does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
@@ -1095,9 +1089,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 **(e) Security-based swaps** Notwithstanding the provisions of section 77c or 77d of this title, unless a registration statement meeting the requirements of [section 77j(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77j/a&num=0&edition=prelim) is in effect as to a security-based swap, it shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell, offer to buy or purchase or sell a security-based swap to any person who is not an eligible contract participant as defined in [section 1a(18) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1a/18&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### Amendments
 2012—Subsecs. (d), (e). Pub. L. 112–106 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -2322,9 +2313,6 @@ Subsec. (c). Pub. L. 101–550, § 415(6), added subsec. (c).
 **(d) Authority with respect to security-based swap agreements** The authority of the Commission under this section with respect to security-based swap agreements (as defined in [section 78c(a)(78) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/78&num=0&edition=prelim)) shall be subject to the restrictions and limitations of [section 77b–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77b–1/b&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### References in Text
 [Section 78c(a)(78) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/78&num=0&edition=prelim), referred to in subsec. (a), was in the original “section 3(a)(78) of the Securities Exchange Act”, and was translated as meaning section 3(a)(78) of act June 6, 1934, ch. 404, to reflect the probable intent of Congress.

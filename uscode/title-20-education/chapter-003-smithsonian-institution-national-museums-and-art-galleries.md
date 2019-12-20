@@ -1384,9 +1384,9 @@ Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
 
 <a id="section-76r"></a>
 ## § 76r. Authorization of appropriations
-**(a) Maintenance, repair, and security** There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $23,740,000 for fiscal year 2018.
+**(a) Maintenance, repair, and security** There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $24,490,000 for fiscal year 2019.
 
-**(b) Capital projects** There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim), $16,775,000 for fiscal year 2018.
+**(b) Capital projects** There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim), $16,800,000 for fiscal year 2019.
 
 **(c) John F. Kennedy Center Plaza** There is authorized to be appropriated to the Secretary of Transportation for capital costs incurred in the planning, design, engineering, and construction of the project authorized by [section 76q–1 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76q-1) (including roadway improvements related to the North and South Interchanges and construction of the John F. Kennedy Center Plaza, but not including construction of any buildings on the plaza) a total of $400,000,000 for fiscal years 2003 through 2010. Such sums shall remain available until expended.
 
@@ -1400,6 +1400,12 @@ Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
 A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classified to [section 76s of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76s).
 
 #### Amendments
+2019—Subsecs. (a), (b). Pub. L. 116–6 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+
+“(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $23,740,000 for fiscal year 2018.
+
+“(b) Capital Projects.—There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim), $16,775,000 for fiscal year 2018.”
+
 2018—Subsecs. (a), (b). Pub. L. 115–141 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $22,260,000 for fiscal year 2017.

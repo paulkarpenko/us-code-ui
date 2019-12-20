@@ -1657,11 +1657,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective not later than one year after Aug. 13, 2018, this section is repealed. See Enactment of Section note below.
-
-#### Enactment of Section
-Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, a new section 3317 is enacted to read as follows: § 3317. Competitive service; certification using numerical ratings
+#### Repeal and Reenactment of Section
+Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this section is repealed and a new section 3317 is enacted to read as follows: § 3317. Competitive service; certification using numerical ratings
 
 (a) Certification.—
 
@@ -1693,8 +1690,8 @@ Subsec. (b). Pub. L. 96–54, § 2(a)(15), amended subsec. (b) in same manner as
 
 1978—Subsec. (b). Pub. L. 95–454 which purported to amend [section 3317b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3317b&num=0&edition=prelim) by substituting “Office” for “Commission” was executed to subsec. (b) of this section as the probable intent of Congress.
 
-#### Effective Date of Repeal
-Pub. L. 115–232, div. A, title XI, § 1107(d), Aug. 13, 2018, 132 Stat. 2005, provided that: “(1) In general.—The amendments made by this section [enacting sections 3317 and 3318 of this title, amending sections 3319 and 3320 of this title, and repealing former sections 3317 and 3318 of this title] shall take effect on the date on which the Director of the Office of Personnel Management issues final regulations to implement sections 3317, 3318, and 3319 of title 5, United States Code, as amended or added by this section. “(2) Regulations required.—The Director shall issue regulations under paragraph (1) not later than one year after the date of enactment of this section [Aug. 13, 2018].”
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title XI, § 1107(d), Aug. 13, 2018, 132 Stat. 2005, provided that: “(1) In general.—The amendments made by this section [enacting this section and [section 3318 of this title](./chapter-033-examination-selection-and-placement.md#section-3318), amending sections 3319 and 3320 of this title, and repealing this section and [section 3318 of this title](./chapter-033-examination-selection-and-placement.md#section-3318)] shall take effect on the date on which the Director of the Office of Personnel Management issues final regulations to implement sections 3317, 3318, and 3319 of title 5, United States Code, as amended or added by this section. “(2) Regulations required.—The Director shall issue regulations under paragraph (1) not later than one year after the date of enactment of this section [Aug. 13, 2018].”
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under [section 305 of this title](./chapter-003-powers.md#section-305).
@@ -1751,11 +1748,8 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective not later than one year after Aug. 13, 2018, this section is repealed. See Enactment of Section note below.
-
-#### Enactment of Section
-Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2003, 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, a new section 3318 is enacted to read as follows: § 3318. Competitive service; selections using numerical ratings
+#### Repeal and Reenactment of Section
+Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2003, 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this section is repealed and a new section 3318 is enacted to read as follows: § 3318. Competitive service; selections using numerical ratings
 
 (a) In General.—An appointing authority shall select for appointment from the eligibles certified for appointment on a certificate furnished under section 3317(a), unless objection to one or more of the individuals certified is made to, and sustained by, the Director of the Office of Personnel Management or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), for proper and adequate reason under regulations prescribed by the Director.
 
@@ -1825,8 +1819,8 @@ Subsec. (b). Pub. L. 95–454, § 307(d), designated existing provisions as par.
 
 1967—Subsec. (c). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under [section 3305 of this title](./chapter-033-examination-selection-and-placement.md#section-3305).
 
-#### Effective Date of Repeal
-Section effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for its implementation, see section 1107(d) of Pub. L. 115–232, set out as a note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
+#### Effective Date of 2018 Amendment
+Repeal and reenactment of section effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, see section 1107(d) of Pub. L. 115–232, set out as a note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
@@ -1884,7 +1878,7 @@ Pub. L. 114–137, § 2(d), Mar. 18, 2016, 130 Stat. 312, provided that: “Not 
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 115–232, div. A, title XI, § 1107(b)(1), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is amended—
+Pub. L. 115–232, div. A, title XI, § 1107(b)(1), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this section is amended—
 
 (1) by amending the section heading to read as follows: “§ 3319. Competitive service; selection using category rating”; and
 
@@ -1909,7 +1903,11 @@ A prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to 
 #### Amendments
 2018—Pub. L. 115–232, § 1107(b)(1)(A), substituted “Competitive service; selection using category rating” for “Alternative ranking and selection procedures” in section catchline.
 
-Subsec. (c)(6), (7). Pub. L. 115–232, § 1107(b)(1)(B), redesignated par. (7) as (6), amended par. (6) generally, substituting provisions designated subpars. (A) to (C) for undesignated provisions prohibiting pass over of a preference eligible unless requirements of former sections 3317(b) and 3318(c) would be satisfied, and struck out former par. (6), which related to retention of collective bargaining obligations.
+Subsec. (c)(6). Pub. L. 115–232, § 1107(b)(1)(B), redesignated par. (7) as (6) and amended it generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied.”
+
+Pub. L. 115–232, § 1107(b)(1)(B), struck out par. (6). Text read as follows: “Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.”
+
+Subsec. (c)(7). Pub. L. 115–232, § 1107(b)(1)(B), redesignated par. (7) as (6).
 
 2016—Subsec. (c). Pub. L. 114–137 added subsec. (c) and struck out former subsec. (c) which read as follows:
 
@@ -1918,7 +1916,7 @@ Subsec. (c)(6), (7). Pub. L. 115–232, § 1107(b)(1)(B), redesignated par. (7) 
 “(2) Notwithstanding paragraph (1), the appointing official may not pass over a preference-eligible in the same category from which selection is made, unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.”
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for its implementation, see section 1107(d) of Pub. L. 115–232, set out as an Effective Date of Repeal note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
+Amendment by Pub. L. 115–232 effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, see section 1107(d) of Pub. L. 115–232, set out as a note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
 
 #### Effective Date
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
@@ -1932,7 +1930,7 @@ The nominating or appointing authority shall select for appointment to each vaca
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 115–232, div. A, title XI, § 1107(b)(2), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is amended by striking “sections 3308–3318” and inserting “sections 3308 through 3319”. See 2018 Amendment notes below.
+Pub. L. 115–232, div. A, title XI, § 1107(b)(2), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this section is amended by striking “sections 3308–3318” and inserting “sections 3308 through 3319”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1950,7 +1948,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 2018—Pub. L. 115–232 substituted “sections 3308 through 3319” for “sections 3308–3318”.
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for its implementation, see section 1107(d) of Pub. L. 115–232, set out as an Effective Date of Repeal note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
+Amendment by Pub. L. 115–232 effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, see section 1107(d) of Pub. L. 115–232, set out as an Effective Date of Repeal note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
 
 #### Assistance of United States Civil Service Commission in Developing Merit System for District of Columbia
 Pub. L. 93–198, title VII, § 734, Dec. 24, 1973, 87 Stat. 823, authorized the United States Civil Service Commission to advise and assist the District of Columbia Mayor and Council in the further development of the merit system or systems required by the District of Columbia charter, which was approved on May 7, 1974, and authorized the Commission to enter into agreements with the District government to make available its registers of eligibles as a recruiting source to fill District positions as needed, with the costs of any specific services furnished by the Civil Service Commission to be compensated for under the provisions of section 685a of former Title 31, Money and Finance [[31 U.S.C. 1537](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1537&num=0&edition=prelim)].
@@ -2172,7 +2170,7 @@ Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, se
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
 | (a) | [5 U.S.C. 1162(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1162/a&num=0&edition=prelim). | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 2(a)”, 75 Stat. 790. |
-| (b) | [5 U.S.C. 1161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1161&num=0&edition=prelim) (g) (2d sentence). | Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(2) “(g) (2d sentence)”, 76 Stat. 863. |
+| (b) | [5 U.S.C. 1161(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1161/g&num=0&edition=prelim) (2d sentence). | Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(2) “(g) (2d sentence)”, 76 Stat. 863. |
 
 In subsection (a), the words “or its designee” are substituted for “or such officers or agents as the Commission may designate”.
 
@@ -2529,7 +2527,7 @@ Pub. L. 115–232, div. A, title V, § 573(e), Aug. 13, 2018, 132 Stat. 1779, pr
 Pub. L. 112–239, div. A, title V, § 566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: “Not later than 180 after the date of the enactment of this Act [Jan. 2, 2013], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) [enacting this section] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a).”
 
 #### OPM Limitation and Reports
-Pub. L. 115–232, div. A, title V, § 573(d), Aug. 13, 2018, 132 Stat. 1779, provided that: “(1) Relocating spouses.—With respect to the noncompetitive appointment of a relocating spouse of a member of the Armed Forces under subsection (b)(1) of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, as amended by subsection (a), the Director of the Office of Personnel Management—“(A) shall monitor the number of such appointments; “(B) shall require the head of each agency with authority to make such appointments under such section to submit an annual report to the Director on such appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for such appointments; and “(C) not later than 18 months after the date of the enactment of this Act [Aug. 13, 2018], shall submit a report to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate on the use and effectiveness of such authority. “(2) Non-relocating spouses.—With respect to the noncompetitive appointment of a spouse of a member of the Armed Forces other than a relocating spouse described in paragraph (1), the Director of the Office of Personnel Management—“(A) shall treat the spouse as a relocating spouse under paragraph (1); and “(B) may limit the number of such appointments.”
+Pub. L. 115–232, div. A, title V, § 573(d), Aug. 13, 2018, 132 Stat. 1779, provided that: “(1) Relocating spouses.—With respect to the noncompetitive appointment of a relocating spouse of a member of the Armed Forces under subsection (b)(1) of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, as amended by subsection (a), the Director of the Office of Personnel Management—“(A) shall monitor the number of such appointments; “(B) shall require the head of each agency with authority to make such appointments under such section to submit an annual report to the Director on such appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for such appointments; and “(C) not later than 18 months after the date of the enactment of this Act [Aug. 13, 2018], shall submit a report to the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate on the use and effectiveness of such authority. “(2) Non-relocating spouses.—With respect to the noncompetitive appointment of a spouse of a member of the Armed Forces other than a relocating spouse described in paragraph (1), the Director of the Office of Personnel Management—“(A) shall treat the spouse as a relocating spouse under paragraph (1); and “(B) may limit the number of such appointments.”
 
 #### Ex. Ord. No. 13832. Enhancing Noncompetitive Civil Service Appointments of Military Spouses
 Ex. Ord. No. 13832, May 9, 2018, 83 F.R. 22343, provided:
@@ -2881,7 +2879,9 @@ George W. Bush.
 Provisions relating to the exercise of Presidential authorities to designate an order of succession for executive agencies and offices are contained in the following:
 
 #### Council on Environmental Quality
-Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7627.
+Memorandum of President of the United States, Sept. 6, 2019, 84 F.R. 48227, as corrected Sept. 16, 2019, 84 F.R. 48549.
+
+Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7627, revoked by Memorandum of President of the United States, § 3, Sept. 6, 2019, 84 F.R. 48227.
 
 Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289, revoked by Memorandum of President of the United States, § 3, Jan. 13, 2017, 82 F.R. 7627.
 
@@ -3236,7 +3236,7 @@ A prior section 3349, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided fo
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under [section 3345 of this title](./chapter-033-examination-selection-and-placement.md#section-3345).
@@ -4081,7 +4081,7 @@ Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 #### Temporary Inapplicability of Certification of Executive Qualifications by Qualification Review Boards of Office of Personnel Management
-Pub. L. 115–232, div. A, title XI, § 1109, Aug. 13, 2018, 132 Stat. 2010, provided that: “(a) Temporary Inapplicability.—Notwithstanding [section 3393(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/c&num=0&edition=prelim), United States Code, or any regulations implementing that section, and subject to the provisions of this section, the Secretary of Defense may appoint individuals for service in the Senior Executive Service of the Department of Defense without such individuals being subject to the certification of executive qualifications by a qualification review board of the Office of Personnel Management in connection with such appointment otherwise required by that section. “(b) Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed under this section possess the necessary qualifications and experience for the position to which appointed. “(c) Limitation.—The total number of appointments made under this section in any year may not exceed 50 appointments. “(d) Reports.—“(1) Initial report.—Not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the number and type of appointments made under this section as of the date of the report, including—“(A) a description of the qualifications of the individuals appointed; and “(B) data on the time required to appoint the individuals. “(2) Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the use of the authority in this section. The report shall include the following:“(A) The number and type of appointments made under this section during the one-year period ending on the date of the report. “(B) Data on and an assessment whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the current review system of the Office of Personnel Management. “(C) An assessment of the utility of the appointment authority and process under this section. “(D) An assessment whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced under the current review system of the Office of Personnel Management. “(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service. “(3) Committees of congress and official.—The committees of Congress and official specified in this paragraph are—“(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Armed Services and the Committee on Oversight and Government Reform of the House of Representatives; and “(C) the Director of the Office of Personnel Management. “(e) Sunset.—Subsection (a) shall cease to be effective on the date that is two years after the date of the enactment of this Act.”
+Pub. L. 115–232, div. A, title XI, § 1109, Aug. 13, 2018, 132 Stat. 2010, provided that: “(a) Temporary Inapplicability.—Notwithstanding [section 3393(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/c&num=0&edition=prelim), United States Code, or any regulations implementing that section, and subject to the provisions of this section, the Secretary of Defense may appoint individuals for service in the Senior Executive Service of the Department of Defense without such individuals being subject to the certification of executive qualifications by a qualification review board of the Office of Personnel Management in connection with such appointment otherwise required by that section. “(b) Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed under this section possess the necessary qualifications and experience for the position to which appointed. “(c) Limitation.—The total number of appointments made under this section in any year may not exceed 50 appointments. “(d) Reports.—“(1) Initial report.—Not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the number and type of appointments made under this section as of the date of the report, including—“(A) a description of the qualifications of the individuals appointed; and “(B) data on the time required to appoint the individuals. “(2) Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the use of the authority in this section. The report shall include the following:“(A) The number and type of appointments made under this section during the one-year period ending on the date of the report. “(B) Data on and an assessment whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the current review system of the Office of Personnel Management. “(C) An assessment of the utility of the appointment authority and process under this section. “(D) An assessment whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced under the current review system of the Office of Personnel Management. “(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service. “(3) Committees of congress and official.—The committees of Congress and official specified in this paragraph are—“(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Armed Services and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives; and “(C) the Director of the Office of Personnel Management. “(e) Sunset.—Subsection (a) shall cease to be effective on the date that is two years after the date of the enactment of this Act.”
 
 
 <a id="section-3393a"></a>

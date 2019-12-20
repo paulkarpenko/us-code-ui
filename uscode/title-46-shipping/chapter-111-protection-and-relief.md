@@ -336,7 +336,7 @@ The master of a documented vessel has the same lien against the vessel for the m
 
   (A) proceed in rem against the vessel on which the seafarer served in the Federal district court for the district in which the vessel is found; and
 
-  (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(a)(9)(A) of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(a)(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/A&num=0&edition=prelim)) as the vessel on which the seafarer served.
+  (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(a)(9)(A) 11 So in original. Probably should be “2(a)(9)(a)”. of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(a)(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/A&num=0&edition=prelim)) 22 So in original. Probably should be “[33 U.S.C. 1901(a)(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/a&num=0&edition=prelim)))”. as the vessel on which the seafarer served.
 
 (3) **Obtaining clearance.—** — A vessel may obtain clearance from the Secretary after it is withheld or revoked under paragraph (2)(B) if the vessel owner or operator—
 

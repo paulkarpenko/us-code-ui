@@ -574,8 +574,8 @@ For definitions of terms used in this section, see [section 2280(d) of this titl
 For definitions of terms used in this section, see [section 2280(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2280/d&num=0&edition=prelim).
 
 
-<a id="section-2282a-1"></a>
-## § 2282A.1. Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce
+<a id="section-2282a"></a>
+## § 2282A. Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce
 **(a)** A person who knowingly places, or causes to be placed, in navigable waters of the United States, by any means, a device or dangerous substance which is likely to destroy or cause damage to a vessel or its cargo, cause interference with the safe navigation of vessels, or interference with maritime commerce (such as by damaging or destroying marine terminals, facilities, or any other marine structure or entity used in maritime commerce) with the intent of causing such destruction or damage, interference with the safe navigation of vessels, or interference with maritime commerce shall be fined under this title or imprisoned for any term of years, or for life; or both.
 
 **(b)** A person who causes the death of any person by engaging in conduct prohibited under subsection (a) may be punished by death.
@@ -592,12 +592,12 @@ For definitions of terms used in this section, see [section 2280(d) of this titl
 <a id="section-2282b"></a>
 ## § 2282B. Violence against aids to maritime navigation
 
-Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Saint Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 ([33 U.S.C. 984](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section984&num=0&edition=prelim)), by the Coast Guard pursuant to section 81 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, United States Code, or lawfully maintained under authority granted by the Coast Guard pursuant to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim), United States Code, if such act endangers or is likely to endanger the safe navigation of a ship, shall be fined under this title or imprisoned for not more than 20 years, or both.
+Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Saint Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 ([33 U.S.C. 984](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section984&num=0&edition=prelim)), by the Coast Guard pursuant to section 81 11 See References in Text note below. of title 14, United States Code, or lawfully maintained under authority granted by the Coast Guard pursuant to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim), United States Code, if such act endangers or is likely to endanger the safe navigation of a ship, shall be fined under this title or imprisoned for not more than 20 years, or both.
 
 ### Statutory Notes
 
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim) redesignated [section 541 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+#### References in Text
+[Section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim), referred to in text, was redesignated [section 541 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-2283"></a>

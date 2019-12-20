@@ -317,7 +317,7 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 #### Amendments
 2018—Subsec. (a)(1). Pub. L. 115–232, § 831(a)(1), (2), in introductory provisions, substituted “designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program” for “Secretary of Defense shall ensure, by establishing the goals described in paragraph (2), that the milestone decision authority for the major defense acquisition program approves a program that”.
 
-Subsecs. (b), (c). Pub. L. 115–232, § 831(a)(3), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.”.
+Subsecs. (b), (c). Pub. L. 115–232, § 831(a)(3), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.”
 
 #### Effective Date
 Pub. L. 114–328, div. A, title VIII, § 807(a)(2), Dec. 23, 2016, 130 Stat. 2261, provided that: “Subchapter III of chapter 144B of title 10, United States Code, as added by paragraph (1), shall apply with respect to major defense acquisition programs that reach Milestone A after October 1, 2017.”

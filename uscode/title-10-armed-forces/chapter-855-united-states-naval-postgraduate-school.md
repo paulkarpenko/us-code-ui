@@ -27,7 +27,7 @@ There is a United States Naval Postgraduate School, the primary function of whic
 The words “There is a” are substituted for the words “That the Secretary of the Navy is hereby authorized and directed to establish the”, as the Postgraduate School is in operation. The words “technical education” are substituted for the word “training” to describe more aptly the higher level of instruction at the Postgraduate School. The words “naval service” are substituted for the words “Regular Navy and Marine Corps and the reserve components thereof”. The word “their” is substituted for the words “of commissioned officers”.
 
 #### Prior Provisions
-A prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to assign regular and reserve Air Force officers to National Guard Bureau, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(c)(2), 1662(g)(2), Oct. 5, 1994, 108 Stat. 2982, 2996. See [section 10507 of this title](./chapter-1011-national-guard-bureau.md#section-10507).
+A prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to assign regular and reserve Air Force officers to National Guard Bureau, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1661(c)(2), Oct. 5, 1994, 108 Stat. 2982, effective Dec. 1, 1994. See [section 10507 of this title](./chapter-1011-national-guard-bureau.md#section-10507).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7041 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7041&num=0&edition=prelim) as this section.
@@ -102,7 +102,7 @@ In subsection (a) the word “Regular” is omitted as covered by the term “ac
 In subsection (b) the words “line and staff” and “as may be necessary” are omitted as surplusage. The word “grades” is substituted for the word “ranks”. The words “advanced instruction and technical education” are substituted for the words “training * * * in the practical and theoretical duties of commissioned naval officers”.
 
 #### Prior Provisions
-A prior section 8542, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to detail certain officers as chief and assistant chief of staff of wings of Air National Guard in Federal service, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(c)(2), 1662(g)(2), Oct. 5, 1994, 108 Stat. 2982, 2996. See [section 12502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12502/b&num=0&edition=prelim).
+A prior section 8542, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to detail certain officers as chief and assistant chief of staff of wings of Air National Guard in Federal service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(g)(2), Oct. 5, 1994, 108 Stat. 2996, effective Dec. 1, 1994. See [section 12502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12502/b&num=0&edition=prelim).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7042 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7042&num=0&edition=prelim) as this section.
@@ -199,7 +199,7 @@ The Secretary of the Navy may employ as many civilians as he considers necessary
 The words “as many * * * as he considers necessary” are substituted for the words “such number * * * as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession” for brevity.
 
 #### Prior Provisions
-A prior section 8544, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, restricted performance of civil functions by commissioned officers of Regular Air Force, prior to repeal by Pub. L. 90–235, § 4(a)(6), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760. See [section 973 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-973).
+A prior section 8544, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, restricted performance of civil functions by commissioned officers of Regular Air Force, prior to repeal by Pub. L. 90–235, § 4(a)(6), Jan. 2, 1968, 81 Stat. 759. See [section 973 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-973).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7044 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7044&num=0&edition=prelim) as this section.
@@ -264,7 +264,7 @@ In subsection (a) the words “at the request of the Secretary of the Army and t
 In subsection (c) the words “rules and” are omitted. The words “who are officers of the naval service” are substituted for the words “of the United States Navy”, since officers of the Marine Corps are occasionally ordered to attend the Postgraduate School on the same basis as officers of the Navy.
 
 #### Prior Provisions
-A prior section 8545, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, provided that cooking for enlisted members of Air Force should be superintended by officers of organizations to which members belonged, prior to repeal by Pub. L. 90–235, § 4(a)(6), (b)(1), Jan. 2, 1968, 81 Stat. 759, 760.
+A prior section 8545, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, provided that cooking for enlisted members of Air Force should be superintended by officers of organizations to which members belonged, prior to repeal by Pub. L. 90–235, § 4(b)(1), Jan. 2, 1968, 81 Stat. 760.
 
 #### Amendments
 2018—Pub. L. 115–232, § 807(c)(1), renumbered [section 7045 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7045&num=0&edition=prelim) as this section.
@@ -411,7 +411,7 @@ In subsection (b) the words “from time to time” are omitted as surplusage.
 A prior section 8548 was renumbered [section 9218 of this title](./chapter-923-special-appointments-assignments-details-and-duties.md#section-9218).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 7058 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7058&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 7048 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7048&num=0&edition=prelim) as this section.
 
 2008—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows:
 
@@ -520,6 +520,8 @@ A prior section 8576, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for c
 A prior section 8577, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for the command of flying units by commissioned officers of Air Force who had received aeronautical ratings as pilots of service types of aircraft, prior to repeal by Pub. L. 93–525, Dec. 18, 1974, 88 Stat. 1695.
 
 A prior section 8578, act Aug. 10, 1956, ch. 1041, 70A Stat. 530, provided for command when two or more commissioned officers of Air Force in same grade were on duty at same place, prior to repeal by Pub. L. 90–235, § 5(a)(2), Jan. 2, 1968, 81 Stat. 761. See [section 749 of this title](./chapter-043-rank-and-command.md#section-749).
+
+A prior section 8579 was renumbered [section 9229 of this title](./chapter-925-rank-and-command.md#section-9229).
 
 A prior section 8580, Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that Secretary of Air Force should prescribe military authority that female members of Air Force, except those designated under former [section 8067 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8067&num=0&edition=prelim) to perform professional functions, might exercise, prior to repeal by Pub. L. 90–130, § 1(30), Nov. 8, 1967, 81 Stat. 382.
 

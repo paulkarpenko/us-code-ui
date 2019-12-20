@@ -282,7 +282,7 @@ In subsection (b), the words “is subject to an action in rem to enforce the li
 In subsection (c)(1)(B), the words “Secretary of Homeland Security” are substituted for “Secretary of the Treasury” because the functions of the Secretary of the Treasury relating to the Customs Service were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
 
 #### References in Text
-Pars. (1), (2), and (7) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (a), redesignated pars. (1), (2), and (7), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+Pars. (1), (2), and (7) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (a), were redesignated as pars. (1), (2), and (7), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
 
 
 <a id="section-41109"></a>
@@ -315,4 +315,4 @@ Pars. (1), (2), and (7) of [section 41104 of this title](./chapter-411-prohibiti
 | 41109(g) | 46 App.:1712(e). |  |
 
 #### References in Text
-Pars. (1) and (2) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (c), redesignated pars. (1) and (2), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+Pars. (1) and (2) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (c), were redesignated as pars. (1) and (2), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.

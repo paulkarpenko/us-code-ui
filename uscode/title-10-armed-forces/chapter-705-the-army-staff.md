@@ -584,7 +584,7 @@ Prior sections 7041 to 7046 were renumbered sections 8541 to 8546 of this title.
 
 A prior section 7047 was renumbered [section 8547 of this title](./chapter-855-united-states-naval-postgraduate-school.md#section-8547).
 
-Another prior section 7047 was renumbered [section 7048 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7048&num=0&edition=prelim).
+Another prior section 7047 was renumbered [section 8548 of this title](./chapter-855-united-states-naval-postgraduate-school.md#section-8548).
 
 Prior sections 7048 to 7050 were renumbered sections 8548 to 8550 of this title.
 

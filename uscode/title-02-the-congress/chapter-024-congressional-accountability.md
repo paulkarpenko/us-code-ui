@@ -44,7 +44,7 @@ source: >-
 
 (6) **Employee of the Capitol Police** — The term “employee of the Capitol Police” includes any member or officer of the Capitol Police.
 
-(7) **Employee of the House of Representatives** — The term “employee of the House of Representatives” includes an individual occupying a position the pay for which is disbursed by the Clerk of the House of Representatives, or another official designated by the House of Representatives, or any employment position in an entity that is paid with funds derived from the clerk-hire allowance of the House of Representatives but not any such individual employed by any entity listed in subparagraphs (C) through (K) of paragraph (3).
+(7) **Employee of the House of Representatives** — The term “employee of the House of Representatives” includes an individual occupying a position the pay for which is disbursed by the Chief Administrative Officer of the House of Representatives, or another official designated by the House of Representatives, or any employment position in an entity that is paid with funds derived from the clerk-hire allowance of the House of Representatives but not any such individual employed by any entity listed in subparagraphs (C) through (K) of paragraph (3).
 
 (8) **Employee of the Senate** — The term “employee of the Senate” includes any employee whose pay is disbursed by the Secretary of the Senate, but not any such individual employed by any entity listed in subparagraphs (C) through (K) of paragraph (3).
 
@@ -90,9 +90,6 @@ source: >-
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(7)
-Pub. L. 115–397, title III, § 302(b), title IV, § 401, Dec. 21, 2018, 132 Stat. 5321, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, paragraph (7) of this section, redesignated as subsection (a)(7) by section 305(a)(1) of Pub. L. 115–397, is amended by striking “disbursed by the Clerk of the House of Representatives” and inserting “disbursed by the Chief Administrative Officer of the House of Representatives”. See 2018 Amendment note below.
-
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
@@ -132,7 +129,7 @@ Amendment by section 308(b) of Pub. L. 115–397 effective Dec. 21, 2018, and an
 
 Pub. L. 115–397, title IV, § 401, Dec. 21, 2018, 132 Stat. 5327, provided that: “(a) In General.—Except as otherwise provided in this Act [See Short Title of 2018 Amendment note below], this Act and the amendments made by this Act shall take effect upon the expiration of the 180-day period which begins on the date of the enactment of this Act [Dec. 21, 2018]. “(b) No Effect on Pending Proceedings.—Nothing in this Act or the amendments made by this Act may be construed to affect any proceeding or payment of an award or settlement relating to a claim under title IV of the Congressional Accountability Act of 1995 ([2 U.S.C. 1401](./chapter-024-congressional-accountability.md#section-1401) et seq.) which is pending as of the date after that 180-day period. If, as of that date, an employee has begun any of the proceedings under that title that were available to the employee prior to that date, the employee may complete, or initiate and complete, all such proceedings, and such proceedings shall remain in effect with respect to, and provide the exclusive proceedings for, the claim involved until the completion of all such proceedings.”
 
-Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, provided that: “This section [amending this section and sections 1314 to 1316, 1331, 1341, 1351, 1401, 1404, and 1415 of this title] and the amendments made by this section— “(1) shall take effect on the date of enactment of this section [Mar. 23, 2018]; and “(2) shall apply to any charge, complaint, or claim, that is made on or after the date of enactment of this section, of a violation of—“(A) section 201, 202, 203, 207, or 210 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1311](./chapter-024-congressional-accountability.md#section-1311) et seq.) [[2 U.S.C. 1311–131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311–131&num=0&edition=prelim)3, 1317, 1331]; or “(B) a direct provision as defined in section 404(a) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1404](./chapter-024-congressional-accountability.md#section-1404)[(a)]) (as added by subsection (b)).”
+Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, provided that: “This section [amending this section and sections 1314 to 1316, 1331, 1341, 1351, 1401, 1404, and 1415 of this title] and the amendments made by this section— “(1) shall take effect on the date of enactment of this section [Mar. 23, 2018]; and “(2) shall apply to any charge, complaint, or claim, that is made on or after the date of enactment of this section, of a violation of—“(A) section 201, 202, 203, 207, or 210 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1311](./chapter-024-congressional-accountability.md#section-1311) et seq.) [[2 U.S.C. 1311](./chapter-024-congressional-accountability.md#section-1311), 1312, 1313, 1317, 1331]; or “(B) a direct provision as defined in section 404(a) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1404](./chapter-024-congressional-accountability.md#section-1404)[(a)]) (as added by subsection (b)).”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–437, title IV, § 422(d), Oct. 20, 2008, 122 Stat. 4997, provided that: “The amendments made by this section [amending this section and sections 1331 and 1341 of this title and [section 2107 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2107&num=0&edition=prelim), Government Organization and Employees, and repealing [section 2166 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2166)] shall take effect on the transfer date [first day of first pay period (applicable to employees transferred under [section 2241 of this title](./chapter-031-capitol-visitor-center.md#section-2241)) on or after 30 days after Oct. 20, 2008, see [section 2261 of this title](./chapter-031-capitol-visitor-center.md#section-2261)].”
@@ -191,31 +188,20 @@ Pub. L. 111–145, § 2(a)(5)(B), Mar. 4, 2010, 124 Stat. 50, provided that: “
   (B) in the case of a provision not applicable to the legislative branch, include a statement of the reasons the provision does not apply.
   On the objection of any Member, it shall not be in order for the Senate or the House of Representatives to consider any such bill or joint resolution if the report of the committee on such bill or joint resolution does not comply with the provisions of this paragraph. This paragraph may be waived in either House by majority vote of that House.
 
+**(c) Genetic Information Nondiscrimination Act of 2008**
+
+(1) **In general** — The provisions of this chapter that apply to a violation of [section 1311(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/a/1&num=0&edition=prelim) shall be considered to apply to a violation of title II of the Genetic Information Nondiscrimination Act of 2008 ([42 U.S.C. 2000ff](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff&num=0&edition=prelim) et seq.), consistent with section 207(c) of that Act ([42 U.S.C. 2000ff–6(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff–6/c&num=0&edition=prelim)).
+
+(2) **Construction**
+
+  (A) *No limitation on other laws* — Nothing in this section limits the provisions of this chapter that apply to a violation of a law described in subparagraph (B).
+
+  (B) *Other laws* — A law described in this subparagraph is a law (even if not listed in subsection (a) or this subsection) that explicitly applies one or more provisions of this chapter to a violation.
+
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–397, title III, § 301, title IV, § 401, Dec. 21, 2018, 132 Stat. 5320, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended by adding at the end the following:
-
-(c) Genetic Information Nondiscrimination Act of 2008
-
-(1) In general
-
-The provisions of this chapter that apply to a violation of [section 1311(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/a/1&num=0&edition=prelim) shall be considered to apply to a violation of title II of the Genetic Information Nondiscrimination Act of 2008 ([42 U.S.C. 2000ff](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff&num=0&edition=prelim) et seq.), consistent with section 207(c) of that Act ([42 U.S.C. 2000ff–6(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff–6/c&num=0&edition=prelim)).
-
-(2) Construction
-
-(A) No limitation on other laws
-
-Nothing in this section limits the provisions of this chapter that apply to a violation of a law described in subparagraph (B).
-
-(B) Other laws
-
-A law described in this subparagraph is a law (even if not listed in subsection (a) or this subsection) that explicitly applies one or more provisions of this chapter to a violation.
-
-See 2018 Amendment note below.
-
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
@@ -234,6 +220,8 @@ The Employee Polygraph Protection Act of 1988, referred to in subsec. (a)(8), is
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (a)(9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2101&num=0&edition=prelim) and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+
+The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (c)(1), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. Title II of the Act is classified generally to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000ff of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (c). Pub. L. 115–397 added subsec. (c).
@@ -275,36 +263,21 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 **(c) Omitted**
 
-**(d) Effective date** This section shall take effect 1 year after January 23, 1995.
+**(d) Application to unpaid staff**
+
+(1) **In general** — Subsections (a) and (b) shall apply with respect to—
+
+  (A) any staff member of an employing office who carries out official duties of the employing office but who is not paid by the employing office for carrying out such duties (referred to in this subsection as an “unpaid staff member”), including an intern, an individual detailed to an employing office, and an individual participating in a fellowship program, in the same manner and to the same extent as such subsections apply with respect to a covered employee; and
+
+  (B) a former unpaid staff member, if the act that may be a violation of subsection (a) occurred during the service of the former unpaid staffer for the employing office.
+
+(2) **Rule of construction** — Nothing in paragraph (1) may be construed to extend liability for a violation of subsection (a) to an employing office on the basis of an action taken by any person who is not under the supervision or control of the employing office.
+
+(3) **Intern defined** — For purposes of this subsection, the term “intern” means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institution or to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
+
+**(e) Effective date** This section shall take effect 1 year after January 23, 1995.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–397, title III, § 302(a), title IV, § 401, Dec. 21, 2018, 132 Stat. 5321, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended—
-
-(1) by redesignating subsection (d) as subsection (e); and
-
-(2) by inserting after subsection (c) the following new subsection:
-
-(d) Application to unpaid staff
-
-(1) In general
-
-Subsections (a) and (b) shall apply with respect to—
-
-(A) any staff member of an employing office who carries out official duties of the employing office but who is not paid by the employing office for carrying out such duties (referred to in this subsection as an “unpaid staff member”), including an intern, an individual detailed to an employing office, and an individual participating in a fellowship program, in the same manner and to the same extent as such subsections apply with respect to a covered employee; and
-
-(B) a former unpaid staff member, if the act that may be a violation of subsection (a) occurred during the service of the former unpaid staffer for the employing office.
-
-(2) Rule of construction
-
-Nothing in paragraph (1) may be construed to extend liability for a violation of subsection (a) to an employing office on the basis of an action taken by any person who is not under the supervision or control of the employing office.
-
-(3) Intern defined
-
-For purposes of this subsection, the term “intern” means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institution or to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
-
-See 2018 Amendment note below.
 
 #### Codification
 Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 201 of Pub. L. 104–1 amended [section 633a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section633a&num=0&edition=prelim), Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare.
@@ -509,7 +482,7 @@ Subsec. (d)(2). Pub. L. 108–271 substituted “Government Accountability Offic
 ### Statutory Notes
 
 #### Amendments
-Subsec. (a)(2)(B), (C). Pub. L. 115–141 struck out “and the Library of Congress” after “the Government Accountability Office”.
+2018—Subsec. (a)(2)(B), (C). Pub. L. 115–141 struck out “and the Library of Congress” after “the Government Accountability Office”.
 
 2010—Subsec. (b). Pub. L. 111–275 substituted “under [section 4323(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4323/d&num=0&edition=prelim)” for “under paragraphs (1), (2)(A), and (3) of [section 4323(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4323/c&num=0&edition=prelim)”.
 
@@ -666,7 +639,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 ### Statutory Notes
 
 #### References in Text
-The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(2) and (h)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapter II (§ 12131 et seq.) and III (§ 12181 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(2) and (h)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 Subsection (g), referred to in subsec. (i)(2), amended [section 12209 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12209&num=0&edition=prelim).
 
@@ -674,7 +647,7 @@ Subsection (g), referred to in subsec. (i)(2), amended [section 12209 of Title 4
 Section is comprised of section 210 of Pub. L. 104–1. Subsec. (g) of section 210 of Pub. L. 104–1 amended [section 12209 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12209&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
-2018—Subsec. (a)(9). Pub. L. 115–397, § 308(b)(8), substituted “Office of Congressional Workplace Rights” for “the Office of Compliance”.
+2018—Subsec. (a)(9). Pub. L. 115–397, § 308(b)(8), substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
 
 Subsec. (a)(11). Pub. L. 115–141 added par. (11).
 
@@ -893,9 +866,7 @@ Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the
 
 (2) **Veterans** — A covered employee under [section 1316 of this title](./chapter-024-congressional-accountability.md#section-1316) may also utilize any provisions of chapter 43 of title 38 that are applicable to that employee.
 
-**(e) Scope of remedy** Only a covered employee who has undertaken and completed the procedures described in sections 1402 and 1403 of this title may be granted a remedy under part A of this subchapter.
-
-**(f) Construction**
+**(e) Construction**
 
 (1) **Definitions and exemptions** — Except where inconsistent with definitions and exemptions provided in this chapter, the definitions and exemptions in the laws made applicable by this chapter shall apply under this chapter.
 
@@ -905,15 +876,10 @@ Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the
 
 ### Statutory Notes
 
-#### Amendment of Subsections (e) and (f)
-Pub. L. 115–397, title I, § 101(d), title IV, § 401, Dec. 21, 2018, 132 Stat. 5301, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended by striking subsection (e) and by redesignating subsection (f) as (e). See 2018 Amendment note below.
-
 #### References in Text
-This chapter, referred to in subsecs. (a), (c), (d)(1), and (f), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
+This chapter, referred to in subsecs. (a), (c), (d)(1), and (e), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
-Part A of this subchapter, referred to in subsec. (e), was in the original “part A of this title”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of this subchapter. For complete classification of part A to the Code, see Tables.
-
-The Worker Adjustment and Retraining Notification Act, referred to in subsec. (f)(2), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2101&num=0&edition=prelim) and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(2), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsecs. (e), (f). Pub. L. 115–397 redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Only a covered employee who has undertaken and completed the procedures described in sections 1402 and 1403 of this title may be granted a remedy under part A of this subchapter.”
@@ -1103,7 +1069,7 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 
 (2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to covered employees by the end of each fiscal year, and conduct seminars and other activities designed to educate employing offices and covered employees; and
 
-(3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
+(3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a claim, the basis for the claim, and the action taken on the claim.
 
 **(i) Congressional oversight** The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs 2 of the Senate and the Committee on House Oversight 2 of the House of Representatives.
 
@@ -1157,20 +1123,9 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 
 (5) **Definition** — In this subsection, the term “claimant” means an individual who received an award or settlement, or who made an allegation of a violation against an employing office, under part A of subchapter II.
 
+**(m) Record retention** The Office shall establish and maintain a program for the permanent retention of its records, including the records of preliminary reviews, mediations, hearings, and other proceedings conducted under subchapter IV.
+
 ### Statutory Notes
-
-#### Amendment of Subsections (h)(3) and (m)
-Pub. L. 115–397, title II, §§ 201(a)(1)(A), 203, title IV, § 401, Dec. 21, 2018, 132 Stat. 5315, 5318, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended—
-
-(1) in subsection (h)(3), by striking “complaint” each place it appears and inserting “claim”; and
-
-(2) by adding at the end the following new subsection:
-
-(m) Record retention
-
-The Office shall establish and maintain a program for the permanent retention of its records, including the records of preliminary reviews, mediations, hearings, and other proceedings conducted under subchapter IV.
-
-See 2018 Amendment notes below.
 
 #### References in Text
 The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§ 261 et seq.) of this title prior to repeal by Pub. L. 104–65, § 11(a), Dec. 19, 1995, 109 Stat. 701. See section 1601 et seq. of this title.
@@ -1221,7 +1176,7 @@ Except as otherwise provided, amendment by Pub. L. 115–397 effective upon expi
 #### Effective Date of 2004 Amendment
 Pub. L. 108–349, § 1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
 
-#### Appointment of Members of Board of Directors of Office of Compliance [now Office of Congressional Workplace Rights]
+#### Appointment of Members of Board of Directors of Office of Congressional Workplace Rights
 Pub. L. 115–19, § 1(a), (b), Apr. 3, 2017, 131 Stat. 84, provided that: “(a) Appointment of Members.—“(1) Members replacing members whose terms expire in march 2017.—Notwithstanding the first sentence of section 301(e) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e&num=0&edition=prelim)), of the members of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] who are appointed to replace the 3 members whose terms expire in March 2017—“(A) one shall have a term of office of 3 years; and “(B) 2 shall have a term of office of 4 years,“as designated at the time of appointment by the persons specified in section 301(b) of such Act ([2 U.S.C. 1381(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/b&num=0&edition=prelim)). “(2) Members replacing members whose terms expire in may 2017.—In accordance with the first sentence of section 301(e) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e&num=0&edition=prelim)), the members of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] who are appointed to replace the 2 members whose terms expire in May 2017 shall each have a term of office of 5 years. “(b) Service of Current Members.—Notwithstanding the second sentence of section 301(e) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e&num=0&edition=prelim)) or section 3 of the Office of Compliance Administrative and Technical Corrections Act of 2015 (Public Law 114–6; [2 U.S.C. 1381](./chapter-024-congressional-accountability.md#section-1381) note)—“(1) an individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] whose term expires in March 2017 may be reappointed to serve one additional term at the length designated under paragraph (1) of subsection (a), but may not be reappointed to any additional terms after that additional term expires; and “(2) an individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] whose term expires in May 2017 may be reappointed to serve one additional term at the length referred to in paragraph (2) of subsection (a), but may not be reappointed to any additional terms after that additional term expires.”
 
 Pub. L. 114–6, § 3, Mar. 20, 2015, 129 Stat. 82, provided that: “Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e/1&num=0&edition=prelim)), any individual serving as a member of the Board of Directors of the Office of Compliance [now Office of Congressional Workplace Rights] as of February 28, 2015, may be appointed to serve for one additional term of 2 years.”
@@ -1313,93 +1268,72 @@ Pub. L. 111–114, § 1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwit
 
   (B) *Statement of reasons for removal* — In removing the General Counsel, the Speaker of the House of Representatives and the President pro tempore of the Senate shall state in writing to the General Counsel the specific reasons for the removal.
 
-**(d) Other staff** The Executive Director shall appoint, and fix the compensation of, and may remove, such other additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
+**(d) Confidential advisors**
 
-**(e) Detailed personnel** The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the Government Accountability Office Personnel Appeals Board.
+(1) **In general** — The Executive Director shall—
 
-**(f) Consultants** In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
+  (A) appoint, and fix the compensation of, and may remove, 1 or more confidential advisors to carry out the duties described in this subsection; or
+
+  (B) designate 1 or more employees of the Office to serve as a confidential advisor.
+
+(2) **Duties**
+
+  (A) *Voluntary services* — A confidential advisor appointed or designated under paragraph (1) shall offer to provide to covered employees described in paragraph (4) the services described in subparagraph (B), which a covered employee may accept or decline.
+
+  (B) *Services* — The services referred to in subparagraph (A) are—
+
+    (i) informing, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II about the employee’s rights under this chapter;
+
+    (ii) consulting, on a privileged and confidential basis, with a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding—
+
+      (I) the roles, responsibilities, and authority of the Office; and
+
+      (II) the relative merits of securing private counsel, designating a non-attorney representative, or proceeding without representation for proceedings before the Office;
+
+    (iii) advising and consulting with, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding any claims the covered employee may have under subchapter IV, the factual allegations that support each such claim, and the relative merits of the procedural options available to the employee for each such claim;
+
+    (iv) assisting, on a privileged and confidential basis, a covered employee who seeks consideration under title IV of an allegation of a violation of part A of subchapter II in understanding the procedures, and the significance of the procedures, described in subchapter IV, including—
+
+      (I) assisting or consulting with the covered employee regarding the drafting of a claim to be filed under [section 1402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/a&num=0&edition=prelim); and
+
+      (II) consulting with the covered employee regarding the procedural options available to the covered employee after a claim is filed, and the relative merits of each option; and
+
+    (v) informing, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II about the option of pursuing, in appropriate circumstances, a complaint with the Committee on Ethics of the House of Representatives or the Select Committee on Ethics of the Senate.
+
+  (C) *Continuity of service* — Once a covered employee has accepted and received any services offered under this section from a confidential advisor appointed or designated under paragraph (1), any other services requested under this subsection by the covered employee shall be provided, to the extent practicable, by the same confidential advisor.
+
+(3) **Qualifications** — A confidential advisor appointed or designated under paragraph (1) shall be a lawyer who—
+
+  (A) is admitted to practice before, and is in good standing with, the bar of a State of the United States, the District of Columbia, or a territory of the United States; and
+
+  (B) has experience representing clients in cases involving the workplace laws incorporated by part A of subchapter II.
+
+(4) **Individuals covered** — The services described in paragraph (2) are available to any covered employee (which, for purposes of this subsection, shall include any staff member described in [section 1311(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/d&num=0&edition=prelim) and any former covered employee (including any such former staff member)), except that—
+
+  (A) a former covered employee may only request such services if the practice that may be a violation of part A of subchapter II occurred during the employment or service of the employee; and
+
+  (B) a covered employee described in this paragraph may only request such services before the expiration of the 180-day period described in [section 1402(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/d&num=0&edition=prelim).
+
+(5) **Restrictions** — A confidential advisor appointed or designated under paragraph (1)—
+
+  (A) shall not act as the designated representative for any covered employee in connection with the covered employee’s participation in any proceeding, including any proceeding under this chapter, any judicial proceeding, or any proceeding before any committee of Congress;
+
+  (B) shall not offer or provide services described in paragraph (2)(B) to a covered employee if the covered employee has designated an attorney representative in connection with the covered employee’s participation in any proceeding under this chapter, except that a confidential advisor may provide general assistance and information to such attorney representative regarding this chapter and the role of the Office as the confidential advisor determines appropriate; and
+
+  (C) shall not serve as a mediator in any mediation conducted pursuant to [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
+
+**(e) Other staff** The Executive Director shall appoint, and fix the compensation of, and may remove, such other additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
+
+**(f) Detailed personnel** The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the Government Accountability Office Personnel Appeals Board.
+
+**(g) Consultants** In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
 
 ### Statutory Notes
 
-#### Amendment of Subsections (d) to (g)
-Pub. L. 115–397, title II, § 204, title IV, § 401, Dec. 21, 2018, 132 Stat. 5318, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended—
-
-(1) by redesignating subsections (d) through (f) as subsections (e) through (g), respectively; and
-
-(2) by inserting after subsection (c) the following:
-
-(d) Confidential advisors
-
-(1) In general
-
-The Executive Director shall—
-
-(A) appoint, and fix the compensation of, and may remove, 1 or more confidential advisors to carry out the duties described in this subsection; or
-
-(B) designate 1 or more employees of the Office to serve as a confidential advisor.
-
-(2) Duties
-
-(A) Voluntary services
-
-A confidential advisor appointed or designated under paragraph (1) shall offer to provide to covered employees described in paragraph (4) the services described in subparagraph (B), which a covered employee may accept or decline.
-
-(B) Services
-
-The services referred to in subparagraph (A) are—
-
-(i) informing, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II about the employee’s rights under this chapter;
-
-(ii) consulting, on a privileged and confidential basis, with a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding—
-
-(I) the roles, responsibilities, and authority of the Office; and
-
-(II) the relative merits of securing private counsel, designating a non-attorney representative, or proceeding without representation for proceedings before the Office;
-
-(iii) advising and consulting with, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II regarding any claims the covered employee may have under subchapter IV, the factual allegations that support each such claim, and the relative merits of the procedural options available to the employee for each such claim;
-
-(iv) assisting, on a privileged and confidential basis, a covered employee who seeks consideration under title IV of an allegation of a violation of part A of subchapter II in understanding the procedures, and the significance of the procedures, described in subchapter IV, including—
-
-(I) assisting or consulting with the covered employee regarding the drafting of a claim to be filed under [section 1402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/a&num=0&edition=prelim); and
-
-(II) consulting with the covered employee regarding the procedural options available to the covered employee after a claim is filed, and the relative merits of each option; and
-
-(v) informing, on a privileged and confidential basis, a covered employee who has been subject to a practice that may be a violation of part A of subchapter II about the option of pursuing, in appropriate circumstances, a complaint with the Committee on Ethics of the House of Representatives or the Select Committee on Ethics of the Senate.
-
-(C) Continuity of service
-
-Once a covered employee has accepted and received any services offered under this section from a confidential advisor appointed or designated under paragraph (1), any other services requested under this subsection by the covered employee shall be provided, to the extent practicable, by the same confidential advisor.
-
-(3) Qualifications
-
-A confidential advisor appointed or designated under paragraph (1) shall be a lawyer who—
-
-(A) is admitted to practice before, and is in good standing with, the bar of a State of the United States, the District of Columbia, or a territory of the United States; and
-
-(B) has experience representing clients in cases involving the workplace laws incorporated by part A of subchapter II.
-
-(4) Individuals covered
-
-The services described in paragraph (2) are available to any covered employee (which, for purposes of this subsection, shall include any staff member described in [section 1311(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/d&num=0&edition=prelim) and any former covered employee (including any such former staff member)), except that—
-
-(A) a former covered employee may only request such services if the practice that may be a violation of part A of subchapter II occurred during the employment or service of the employee; and
-
-(B) a covered employee described in this paragraph may only request such services before the expiration of the 180-day period described in [section 1402(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/d&num=0&edition=prelim).
-
-(5) Restrictions
-
-A confidential advisor appointed or designated under paragraph (1)—
-
-(A) shall not act as the designated representative for any covered employee in connection with the covered employee’s participation in any proceeding, including any proceeding under this chapter, any judicial proceeding, or any proceeding before any committee of Congress;
-
-(B) shall not offer or provide services described in paragraph (2)(B) to a covered employee if the covered employee has designated an attorney representative in connection with the covered employee’s participation in any proceeding under this chapter, except that a confidential advisor may provide general assistance and information to such attorney representative regarding this chapter and the role of the Office as the confidential advisor determines appropriate; and
-
-(C) shall not serve as a mediator in any mediation conducted pursuant to [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
-
-See 2018 Amendment note below.
-
 #### References in Text
-This chapter, referred to in subsecs. (a)(4) and (c)(3), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
+This chapter, referred to in subsecs. (a)(4), (c)(3), and (d)(2)(B)(i), (5)(A), (B), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
+
+Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 #### Amendments
 2018—Subsecs. (d) to (g). Pub. L. 115–397 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
@@ -1424,7 +1358,7 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 #### Effective Date of 2007 Amendment
 Pub. L. 110–164, § 2(b), Dec. 26, 2007, 121 Stat. 2459, provided that: “The amendments made by this section [amending this section] shall apply with respect to an individual who is first appointed to the position of Executive Director, Deputy Executive Director, or General Counsel of the Office of Compliance after the date of the enactment of this Act [Dec. 26, 2007].”
 
-#### Permitting Current Executive Director, Deputy Executive Directors, and General Counsel of Office of Compliance [now Office of Congressional Workplace Rights] To Serve One Additional Term
+#### Permitting Current Executive Director, Deputy Executive Directors, and General Counsel of Office of Compliance To Serve One Additional Term
 Pub. L. 109–38, § 1, July 27, 2005, 119 Stat. 408, provided that: “(a) Executive Director.—Notwithstanding section 302(a)(3) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1382(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1382/a/3&num=0&edition=prelim)), the individual serving as Executive Director of the Office of Compliance [now Office of Congressional Workplace Rights] as of the date of the enactment of this Act [July 27, 2005] may serve one additional term. “(b) Deputy Executive Directors.—Notwithstanding section 302(b)(2) of such Act ([2 U.S.C. 1382(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1382/b/2&num=0&edition=prelim)), any individual serving as a Deputy Executive Director of the Office of Compliance [now Office of Congressional Workplace Rights] as of the date of the enactment of this Act may serve one additional term. “(c) General Counsel.—Notwithstanding section 302(c)(5) of such Act ([2 U.S.C. 1382(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1382/c/5&num=0&edition=prelim)), the individual serving as General Counsel of the Office of Compliance [now Office of Congressional Workplace Rights] as of the date of the enactment of this Act may serve one additional term.”
 
 
@@ -1570,10 +1504,10 @@ Pub. L. 111–68, div. A, title I, § 1101(c), Oct. 1, 2009, 123 Stat. 2031, pro
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Legislative Branch Appropriations Act, 2014, which is div. I of the Consolidated Appropriations Act, 2014, and not as part of the Congressional Accountability Act of 1995 which comprises this chapter.
+Section was enacted as part of the Legislative Branch Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Congressional Accountability Act of 1995 which comprises this chapter.
 
 #### Change of Name
-Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective date of 2018 Amendment note under [section 1381 of this title](./chapter-024-congressional-accountability.md#section-1381).
+Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under [section 1381 of this title](./chapter-024-congressional-accountability.md#section-1381).
 
 
 <a id="section-1388"></a>
@@ -1600,37 +1534,12 @@ Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and a
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Effective Date
-Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
+Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
 
 
 <a id="section-1401"></a>
 ## § 1401. Procedure for consideration of alleged violations
-
-Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II consists of—
-
-(1) counseling as provided in [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402);
-
-(2) mediation as provided in [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403); and
-
-(3) election, as provided in [section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404), of—
-
-  (A) a formal complaint and hearing as provided in [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405), subject to Board review as provided in [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406), and judicial review in the United States Court of Appeals for the Federal Circuit as provided in [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407),
-
-  (B) a civil action in a district court of the United States as provided in [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408), or
-
-  (C) in the case of an Library claimant (as defined in [section 1404(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1404/a&num=0&edition=prelim)), a proceeding described in [section 1404(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1404/b/3&num=0&edition=prelim) that relates to the violation at issue.
-In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–397, title I, § 101(a), title IV, § 401, Dec. 21, 2018, 132 Stat. 5298, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended to read as follows:
-
-§ 1401. Procedure for consideration of alleged violations
-
-(a) Filing and review of claims
-
-Except as otherwise provided, the procedure for consideration of an alleged violation of part A of subchapter II consists of—
+**(a) Filing and review of claims** Except as otherwise provided, the procedure for consideration of an alleged violation of part A of subchapter II consists of—
 
 (1) the filing of a claim by the covered employee alleging the violation, as provided in [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402);
 
@@ -1640,77 +1549,47 @@ Except as otherwise provided, the procedure for consideration of an alleged viol
 
 (4) a formal hearing as provided in [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405), subject to Board review as provided in [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406) and judicial review in the United States Court of Appeals for the Federal Circuit as provided in [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
 
-(b) Right of employee to file civil action
+**(b) Right of employee to file civil action**
 
-(1) Civil action
+(1) **Civil action** — Only a covered employee who has filed a claim timely as provided in [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and who has not submitted a request for a hearing on the claim pursuant to [section 1405(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1405/a&num=0&edition=prelim) may, during the period described in paragraph (3), file a civil action in a District Court of the United States with respect to the violation alleged in the claim, as provided in [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408).
 
-Only a covered employee who has filed a claim timely as provided in [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and who has not submitted a request for a hearing on the claim pursuant to [section 1405(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1405/a&num=0&edition=prelim) may, during the period described in paragraph (3), file a civil action in a District Court of the United States with respect to the violation alleged in the claim, as provided in [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408).
+(2) **Effect of filing civil action** — Notwithstanding paragraph (2), (3), or (4) of subsection (a), if the covered employee files such a civil action—
 
-(2) Effect of filing civil action
+  (A) the preliminary review of the claim by the hearing officer as provided in [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a) shall terminate upon the filing of the action by the covered employee; and
 
-Notwithstanding paragraph (2), (3), or (4) of subsection (a), if the covered employee files such a civil action—
+  (B) the procedure for consideration of the alleged violation shall not include any further review of the claim by the hearing officer as provided in [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a).
 
-(A) the preliminary review of the claim by the hearing officer as provided in [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a) shall terminate upon the filing of the action by the covered employee; and
+(3) **Period for filing civil action** — The period described in this paragraph with respect to a claim is the 70-day period which begins on the date the covered employee files the claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402).
 
-(B) the procedure for consideration of the alleged violation shall not include any further review of the claim by the hearing officer as provided in [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a).
+(4) **Special rule for employees who fail to state a claim for which relief may be granted** — Notwithstanding paragraph (3), if a covered employee receives a written notice from the hearing officer under [section 1402a(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/d/2&num=0&edition=prelim) that the employee has the right to file a civil action with respect to the claim in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408), the covered employee may file the civil action not later than 90 days after receiving such written notice.
 
-(3) Period for filing civil action
+**(c) Special rule for Architect of the Capitol and Capitol Police** In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Office, after receiving a claim filed under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time. Any deadline in this chapter relating to a claim for which the employee is using the grievance procedures, that has not already passed by the first day of that specific period, shall be stayed during that specific period.
 
-The period described in this paragraph with respect to a claim is the 70-day period which begins on the date the covered employee files the claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402).
+**(d) Election of remedies for Library of Congress**
 
-(4) Special rule for employees who fail to state a claim for which relief may be granted
+(1) **Definitions** — In this subsection:
 
-Notwithstanding paragraph (3), if a covered employee receives a written notice from the hearing officer under [section 1402a(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/d/2&num=0&edition=prelim) that the employee has the right to file a civil action with respect to the claim in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408), the covered employee may file the civil action not later than 90 days after receiving such written notice.
+  (A) *Direct Act* — The term “direct Act” means an Act (other than this Act), or provision of the Revised Statutes, that is specified in section 1311, 1312, or 1313 of this title.
 
-(c) Special rule for Architect of the Capitol and Capitol Police
+  (B) *Direct provision* — The term “direct provision” means a provision (including a definitional provision) of a direct Act that applies the rights or protections of a direct Act (including rights and protections relating to nonretaliation or noncoercion) to a Library claimant.
 
-In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Office, after receiving a claim filed under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time. Any deadline in this chapter relating to a claim for which the employee is using the grievance procedures, that has not already passed by the first day of that specific period, shall be stayed during that specific period.
+  (C) *Library claimant* — The term “Library claimant” means, with respect to a direct provision, an employee of the Library of Congress who is covered by that direct provision.
 
-(d) Election of remedies for Library of Congress
+(2) **Election after proceedings initially brought under this chapter** — A Library claimant who initially files a claim for an alleged violation as provided in [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) may, at any time before the date that is 10 days after a hearing officer submits the report on the preliminary review of the claim under [section 1402a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/c&num=0&edition=prelim), elect to bring the claim for a proceeding before the corresponding Federal agency under the corresponding direct provision, instead of continuing with the procedures applicable to the claim under this subchapter or filing a civil action in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408).
 
-(1) Definitions
+(3) **Election after proceedings initially brought under other civil rights or labor law** — A Library claimant who initially brings a claim, complaint, or charge under a direct provision for a proceeding before a Federal agency may, prior to requesting a hearing under the agency’s procedures, elect to—
 
-In this subsection:
+  (A) continue with the agency’s procedures and preserve the option (if any) to bring any civil action relating to the claim, complaint, or charge, that is available to the Library claimant; or
 
-(A) Direct Act
+  (B) file a claim with the Office under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and continue with the corresponding procedures of this title available and applicable to a covered employee.
 
-The term “direct Act” means an Act (other than this chapter), or provision of the Revised Statutes, that is specified in section 1311, 1312, or 1313 of this title.
+(4) **Timing** — A Library claimant who meets the initial deadline under [section 1402(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/d&num=0&edition=prelim) for filing a claim under this subchapter, or any initial deadline for bringing a claim, complaint, or charge under the applicable direct provision, and then elects to change to alternative procedures as described in paragraph (2) or (3)(B), shall be considered to meet any initial deadline for the alternative procedures.
 
-(B) Direct provision
+(5) **Application** — This subsection shall take effect and shall apply as described in section 153(c) of the Legislative Branch Appropriations Act, 2018 (Public Law 115–141) (except to the extent such section applies to any violation of [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331) or a provision of an Act specified in [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331)).
 
-The term “direct provision” means a provision (including a definitional provision) of a direct Act that applies the rights or protections of a direct Act (including rights and protections relating to nonretaliation or noncoercion) to a Library claimant.
+**(e) Rights of parties to retain private counsel** Nothing in this chapter may be construed to limit the authority of any individual (including a covered employee, the head of an employing office, or an individual who is alleged to have committed personally an act which consists of a violation of part A of subchapter II) to retain counsel to protect the interests of the individual at any point during any of the procedures provided under this title for the consideration of an alleged violation of part A of subchapter II, including as provided under [section 1415(d)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/8&num=0&edition=prelim) with respect to individuals subject to a reimbursement requirement of [section 1415(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d&num=0&edition=prelim).
 
-(C) Library claimant
-
-The term “Library claimant” means, with respect to a direct provision, an employee of the Library of Congress who is covered by that direct provision.
-
-(2) Election after proceedings initially brought under this chapter
-
-A Library claimant who initially files a claim for an alleged violation as provided in [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) may, at any time before the date that is 10 days after a hearing officer submits the report on the preliminary review of the claim under [section 1402a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/c&num=0&edition=prelim), elect to bring the claim for a proceeding before the corresponding Federal agency under the corresponding direct provision, instead of continuing with the procedures applicable to the claim under this subchapter or filing a civil action in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408).
-
-(3) Election after proceedings initially brought under other civil rights or labor law
-
-A Library claimant who initially brings a claim, complaint, or charge under a direct provision for a proceeding before a Federal agency may, prior to requesting a hearing under the agency’s procedures, elect to—
-
-(A) continue with the agency’s procedures and preserve the option (if any) to bring any civil action relating to the claim, complaint, or charge, that is available to the Library claimant; or
-
-(B) file a claim with the Office under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and continue with the corresponding procedures of this subchapter available and applicable to a covered employee.
-
-(4) Timing
-
-A Library claimant who meets the initial deadline under [section 1402(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/d&num=0&edition=prelim) for filing a claim under this subchapter, or any initial deadline for bringing a claim, complaint, or charge under the applicable direct provision, and then elects to change to alternative procedures as described in paragraph (2) or (3)(B), shall be considered to meet any initial deadline for the alternative procedures.
-
-(5) Application
-
-This subsection shall take effect and shall apply as described in section 153(c) of the Legislative Branch Appropriations Act, 2018 (Public Law 115–141) (except to the extent such section applies to any violation of [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331) or a provision of an Act specified in [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331)).
-
-(e) Rights of parties to retain private counsel
-
-Nothing in this chapter may be construed to limit the authority of any individual (including a covered employee, the head of an employing office, or an individual who is alleged to have committed personally an act which consists of a violation of part A of subchapter II) to retain counsel to protect the interests of the individual at any point during any of the procedures provided under this subchapter for the consideration of an alleged violation of part A of subchapter II, including as provided under [section 1415(d)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/8&num=0&edition=prelim) with respect to individuals subject to a reimbursement requirement of [section 1415(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d&num=0&edition=prelim).
-
-(f) Standards for assertions made by parties
-
-Any party in any of the procedures provided under this subchapter, as well as any counsel or other person representing a party in any of such procedures, shall have an obligation to ensure that, to the best of the party’s knowledge, information, and belief, as formed after an inquiry which is reasonable under the circumstances, each of the following is correct:
+**(f) Standards for assertions made by parties** Any party in any of the procedures provided under this subchapter, as well as any counsel or other person representing a party in any of such procedures, shall have an obligation to ensure that, to the best of the party’s knowledge, information, and belief, as formed after an inquiry which is reasonable under the circumstances, each of the following is correct:
 
 (1) No pleading, written motion, or other paper is presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of resolution of the matter.
 
@@ -1720,14 +1599,16 @@ Any party in any of the procedures provided under this subchapter, as well as an
 
 (4) The denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
 
-(g) Procedure
+**(g) Procedure** Nothing in this chapter shall be construed to supersede or limit [section 1361(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1361/d/2&num=0&edition=prelim).
 
-Nothing in this chapter shall be construed to supersede or limit [section 1361(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1361/d/2&num=0&edition=prelim).
-
-See 2018 Amendment note below.
+### Statutory Notes
 
 #### References in Text
-Part A of subchapter II, referred to in text, was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsecs. (a) and (e), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+
+This chapter, referred to in subsecs. (c), (d)(1)(A), (2), (e), and (g), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
+
+Section 153(c) of the Legislative Branch Appropriations Act, 2018, referred to in subsec. (d)(5), is Pub. L. 115–141, div. I, title I, § 153(c), Mar. 23, 2018, 132 Stat. 787, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
 
 #### Amendments
 2018—Pub. L. 115–397 amended section generally. Prior to amendment, section related to procedure for consideration of alleged violations, consisting of three pars.
@@ -1741,82 +1622,51 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 
 <a id="section-1402"></a>
-## § 1402. Counseling
-**(a) In general** To commence a proceeding, a covered employee alleging a violation of a law made applicable under part A of subchapter II shall request counseling by the Office. The Office shall provide the employee with all relevant information with respect to the rights of the employee. A request for counseling shall be made not later than 180 days after the date of the alleged violation.
+## § 1402. Initiation of procedures
+**(a) Claim**
 
-**(b) Period of counseling** The period for counseling shall be 30 days unless the employee and the Office agree to reduce the period. The period shall begin on the date the request for counseling is received.
+(1) **Filing of claim** — To commence a proceeding under this subchapter, a covered employee alleging a violation of law made applicable under part A of subchapter II shall file a claim with the Office. The Office shall not accept a claim which is filed after the deadline applicable under subsection (d).
 
-**(c) Notification of end of counseling period** The Office shall notify the employee in writing when the counseling period has ended.
+(2) **Contents of claim** — The claim filed under this section shall be made in writing under oath or affirmation, shall describe the facts that form the basis of the claim and the violation that is being alleged, shall identify the employing office alleged to have committed the violation or in which the violation is alleged to have occurred, and shall be in such form as the Office requires.
+
+(3) **No effect on ability of covered employee to seek information from office or pursue relief** — Nothing in paragraph (2), or subsection (b) or (c), may be construed to limit the ability of a covered employee—
+
+  (A) to contact the Office or any other appropriate office prior to filing a claim under this section to seek information regarding the employee’s rights under this chapter and the procedures available under this chapter;
+
+  (B) in the case of a covered employee of an employing office of the House of Representatives or Senate, to refer information regarding an alleged violation of part A of subchapter II to the Committee on Ethics of the House of Representatives or the Select Committee on Ethics of the Senate (as the case may be); or
+
+  (C) to file a civil action in accordance with [section 1401(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1401/b&num=0&edition=prelim).
+
+**(b) Initial processing of claim**
+
+(1) **Intake and recording; notification to employing office** — Upon the filing of a claim by a covered employee under subsection (a), the Office shall take such steps as may be necessary for the initial intake and recording of the claim, including providing each party with all relevant information with respect to the rights of the party under this chapter, and shall transmit immediately a copy of the claim to the head of the employing office and the designated representative of that office.
+
+(2) **Special notification requirements for claims based on acts by members of Congress**
+
+  (A) *In general* — In the case of a claim alleging a violation described in subparagraph (B) which consists of a violation described in [section 1415(d)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/A&num=0&edition=prelim) by an individual, upon the filing of the claim under subsection (a), the Office shall notify immediately such individual of the claim, the possibility that the individual may be required to reimburse the account described in [section 1415(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/a&num=0&edition=prelim) for the reimbursable portion of any award or settlement in connection with the claim, and the right of the individual under [section 1415(d)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/8&num=0&edition=prelim) to intervene in any mediation, hearing, or civil action under this subchapter with respect to the claim.
+
+  (B) *Violations described* — A violation described in this subparagraph is—
+
+    (i) harassment that is unlawful under section 1311(a) or 1316(a) of this title; or
+
+    (ii) intimidation, reprisal, or discrimination that is unlawful under [section 1317 of this title](./chapter-024-congressional-accountability.md#section-1317) and is taken against a covered employee because of a claim alleging a violation described in clause (i).
+
+**(c) Use of secure electronic reporting and tracking system**
+
+(1) **Establishment and operation of secure system** — The Office shall establish and operate a secure electronic reporting system through which a covered employee may initiate a proceeding under this subchapter, and which will keep an electronic record of the date and time at which the proceeding is initiated and will track all subsequent actions or proceedings occurring with respect to the proceeding under this subchapter.
+
+(2) **Accessibility to all parties** — The system shall be accessible to all parties to such actions or proceedings, but only until the completion of such actions or proceedings.
+
+(3) **Assessment of effectiveness of procedures** — The Office shall use the information contained in the system to make regular assessments of the effectiveness of the procedures under this subchapter in providing for the timely resolution of claims, and shall submit semi-annual reports on such assessments each year to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+
+**(d) Deadline** A covered employee may not file a claim under this section with respect to an allegation of a violation of law after the expiration of the 180-day period which begins on the date of the alleged violation.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–397, title I, § 102(a), title IV, § 401, Dec. 21, 2018, 132 Stat. 5301, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended to read as follows:
-
-§ 1402. Initiation of procedures
-
-(a) Claim
-
-(1) Filing of claim
-
-To commence a proceeding under this subchapter, a covered employee alleging a violation of law made applicable under part A of subchapter II shall file a claim with the Office. The Office shall not accept a claim which is filed after the deadline applicable under subsection (d).
-
-(2) Contents of claim
-
-The claim filed under this section shall be made in writing under oath or affirmation, shall describe the facts that form the basis of the claim and the violation that is being alleged, shall identify the employing office alleged to have committed the violation or in which the violation is alleged to have occurred, and shall be in such form as the Office requires.
-
-(3) No effect on ability of covered employee to seek information from office or pursue relief
-
-Nothing in paragraph (2), or subsection (b) or (c), may be construed to limit the ability of a covered employee—
-
-(A) to contact the Office or any other appropriate office prior to filing a claim under this section to seek information regarding the employee’s rights under this chapter and the procedures available under this chapter;
-
-(B) in the case of a covered employee of an employing office of the House of Representatives or Senate, to refer information regarding an alleged violation of part A of subchapter II to the Committee on Ethics of the House of Representatives or the Select Committee on Ethics of the Senate (as the case may be); or
-
-(C) to file a civil action in accordance with [section 1401(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1401/b&num=0&edition=prelim).
-
-(b) Initial processing of claim
-
-(1) Intake and recording; notification to employing office
-
-Upon the filing of a claim by a covered employee under subsection (a), the Office shall take such steps as may be necessary for the initial intake and recording of the claim, including providing each party with all relevant information with respect to the rights of the party under this chapter, and shall transmit immediately a copy of the claim to the head of the employing office and the designated representative of that office.
-
-(2) Special notification requirements for claims based on acts by members of Congress
-
-(A) In general
-
-In the case of a claim alleging a violation described in subparagraph (B) which consists of a violation described in [section 1415(d)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/A&num=0&edition=prelim) by an individual, upon the filing of the claim under subsection (a), the Office shall notify immediately such individual of the claim, the possibility that the individual may be required to reimburse the account described in [section 1415(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/a&num=0&edition=prelim) for the reimbursable portion of any award or settlement in connection with the claim, and the right of the individual under [section 1415(d)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/8&num=0&edition=prelim) to intervene in any mediation, hearing, or civil action under this subchapter with respect to the claim.
-
-(B) Violations described
-
-A violation described in this subparagraph is—
-
-(i) harassment that is unlawful under section 1311(a) or 1316(a) of this title; or
-
-(ii) intimidation, reprisal, or discrimination that is unlawful under [section 1317 of this title](./chapter-024-congressional-accountability.md#section-1317) and is taken against a covered employee because of a claim alleging a violation described in clause (i).
-
-(c) Use of secure electronic reporting and tracking system
-
-(1) Establishment and operation of secure system
-
-The Office shall establish and operate a secure electronic reporting system through which a covered employee may initiate a proceeding under this subchapter, and which will keep an electronic record of the date and time at which the proceeding is initiated and will track all subsequent actions or proceedings occurring with respect to the proceeding under this subchapter.
-
-(2) Accessibility to all parties
-
-The system shall be accessible to all parties to such actions or proceedings, but only until the completion of such actions or proceedings.
-
-(3) Assessment of effectiveness of procedures
-
-The Office shall use the information contained in the system to make regular assessments of the effectiveness of the procedures under this subchapter in providing for the timely resolution of claims, and shall submit semi-annual reports on such assessments each year to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
-
-(d) Deadline
-
-A covered employee may not file a claim under this section with respect to an allegation of a violation of law after the expiration of the 180-day period which begins on the date of the alleged violation.
-
-See 2018 Amendment note below.
-
 #### References in Text
-Part A of subchapter II, referred to in subsec. (a), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (a)(1), (3)(B), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+
+This chapter, referred to in subsecs. (a)(3)(A) and (b)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Amendments
 2018—Pub. L. 115–397 amended section generally. Prior to amendment, section related to counseling prior to commencing a proceeding.
@@ -1876,20 +1726,34 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 A prior section 403 of Pub. L. 104–1 was renumbered section 404 and is classified to [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
 
 #### Effective Date
-Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
+Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
 
 
 <a id="section-1403"></a>
 ## § 1403. Mediation
-**(a) Initiation** Not later than 15 days after receipt by the employee of notice of the end of the counseling period under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), but prior to and as a condition of making an election under [section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404), the covered employee who alleged a violation of a law shall file a request for mediation with the Office.
+**(a) Availability of mediation**
+
+(1) **Notification regarding mediation**
+
+  (A) *Covered employee* — Upon receipt of a claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), the Office shall notify the covered employee who filed the claim about the process for mediation under this section and the deadlines applicable to such mediation.
+
+  (B) *Employing office* — Upon transmission to the employing office of the claim pursuant to [section 1402(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/b&num=0&edition=prelim), the Office shall notify the employing office about the process for mediation under this section and the deadlines applicable to such mediation.
+
+(2) **Initiation**
+
+  (A) *In general* — During the period described in subparagraph (B), either the covered employee who filed a claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) or the employing office named in the claim may file a request for mediation with the Office, which shall promptly notify the other party. If the other party agrees to the request, the Office shall promptly assign a mediator to the claim, and conduct mediation under this section.
+
+  (B) *Timing* — A covered employee or an employing office may file a request for mediation under subparagraph (A) during the period beginning on the date that the covered employee or employing office, respectively, receives a notification under paragraph (1) regarding a claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and ending on the date on which a hearing officer issues a written decision relating to the claim under [section 1405(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1405/g&num=0&edition=prelim) or the covered employee files a civil action with respect to the claim in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408), as applicable.
+
+(3) **Failure to request or accept mediation to have no effect on treatment of claim** — The failure of a party to request mediation under this section with respect to a claim, or the failure of a party to agree to a request for mediation under this section, may not be taken into consideration under any procedure under this title with respect to the claim, including a preliminary review under [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a), a formal hearing under [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405), or a civil action under [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408).
 
 **(b) Process** Mediation under this section—
 
 (1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director from the master list developed and maintained under subsection (e), and
 
-(2) shall involve meetings with the parties separately or jointly for the purpose of resolving the dispute between the covered employee and the employing office.
+(2) shall involve meetings with the parties during which, at the request of any of the parties, the parties shall be separated, for the purpose of resolving the dispute between the covered employee and the employing office.
 
-**(c) Mediation period** The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office. The Office shall notify in writing the covered employee and the employing office when the mediation period has ended.
+**(c) Mediation period** The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period. The Office shall notify in writing the covered employee and the employing office when the mediation period has ended.
 
 **(d) Independence of mediation process** No individual, who is appointed by the Executive Director to mediate, may conduct or aid in a hearing conducted under [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405) with respect to the same matter or shall be subject to subpoena or any other compulsory process with respect to the same matter.
 
@@ -1901,48 +1765,8 @@ Section effective upon expiration of the 180-day period beginning on Dec. 21, 20
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–397, title I, §§ 101(c)(2), 104, title IV, § 401, Dec. 21, 2018, 132 Stat. 5301, 5305, 5327, renumbered this section as section 404 of Pub. L. 104–1 (see credit above) and made amendments to subsections (a) to (c), effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings. After such effective date, subsections (a) to (c) of this section will read as follows:
-
-(a) Availability of mediation
-
-(1) Notification regarding mediation
-
-(A) Covered employee
-
-Upon receipt of a claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), the Office shall notify the covered employee who filed the claim about the process for mediation under this section and the deadlines applicable to such mediation.
-
-(B) Employing office
-
-Upon transmission to the employing office of the claim pursuant to [section 1402(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402/b&num=0&edition=prelim), the Office shall notify the employing office about the process for mediation under this section and the deadlines applicable to such mediation.
-
-(2) Initiation
-
-(A) In general
-
-During the period described in subparagraph (B), either the covered employee who filed a claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) or the employing office named in the claim may file a request for mediation with the Office, which shall promptly notify the other party. If the other party agrees to the request, the Office shall promptly assign a mediator to the claim, and conduct mediation under this section.
-
-(B) Timing
-
-A covered employee or an employing office may file a request for mediation under subparagraph (A) during the period beginning on the date that the covered employee or employing office, respectively, receives a notification under paragraph (1) regarding a claim under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and ending on the date on which a hearing officer issues a written decision relating to the claim under [section 1405(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1405/g&num=0&edition=prelim) or the covered employee files a civil action with respect to the claim in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408), as applicable.
-
-(3) Failure to request or accept mediation to have no effect on treatment of claim
-
-The failure of a party to request mediation under this section with respect to a claim, or the failure of a party to agree to a request for mediation under this section, may not be taken into consideration under any procedure under this subchapter with respect to the claim, including a preliminary review under [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a), a formal hearing under [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405), or a civil action under [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408).
-
-(b) Process
-
-Mediation under this section—
-
-(1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director from the master list developed and maintained under subsection (e), and
-
-(2) shall involve meetings with the parties during which, at the request of any of the parties, the parties shall be separated, for the purpose of resolving the dispute between the covered employee and the employing office.
-
-(c) Mediation period
-
-The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period. The Office shall notify in writing the covered employee and the employing office when the mediation period has ended.
-
-See 2018 Amendment notes below.
+#### References in Text
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Prior Provisions
 A prior section 404 of Pub. L. 104–1 was classifed to [section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404), prior to repeal by Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
@@ -1966,81 +1790,30 @@ Pub. L. 114–6, § 2(d), Mar. 20, 2015, 129 Stat. 82, provided that: “The ame
 
 
 <a id="section-1404"></a>
-## § 1404. Election of proceeding
-**(a) Definitions** In this section:
-
-(1) **Direct Act** — The term “direct Act” means an Act (other than this chapter), or provision of the Revised Statutes, that is specified in section 1311, 1312, 1313, or 1331 of this title.
-
-(2) **Direct provision** — The term “direct provision” means a provision (including a definitional provision) of a direct Act that applies the rights or protections of a direct Act (including rights and protections relating to nonretaliation or noncoercion) to a library 11 So in original. Probably should be “Library”. claimant.
-
-(3) **Library claimant** — The term “Library claimant” means—
-
-  (A) with respect to a direct provision (other than a provision described in subparagraph (B)), an employee of the Library of Congress who is covered by that direct provision, and
-
-  (B) with respect to a direct provision that applies the rights or protections of title II or III of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131&num=0&edition=prelim) et seq., 12181 et seq.), an individual who is eligible to provide services for or receive services from the Library of Congress and who is covered by that provision.
-
-**(b) Election after proceedings initially brought under this chapter** Not later than 90 days, but not sooner than 30 days, after the end of the period of mediation, a covered employee who initially requested counseling and mediation under this subchapter may elect to—
-
-(1) file a complaint with the Office in accordance with [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405),
-
-(2) file a civil action in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) in the United States district court for the district in which the employee is employed or for the District of Columbia, or
-
-(3) in the case of a Library claimant, bring the claim, complaint, or charge that is brought for a proceeding before the corresponding Federal agency, under the corresponding direct provision.
-
-**(c) Election after proceedings initially brought under other civil rights or labor law** A library 1 claimant who initially brings a claim, complaint, or charge under a direct provision for a proceeding before a Federal agency may, prior to requesting a hearing under the agency’s procedures, elect to—
-
-(1) bring any civil action relating to the claim, complaint, or charge, that is available to the Library claimant,
-
-(2) file a complaint with the Office in accordance with [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405), or
-
-(3) file a civil action in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) in the United States district court for the district in which the employee is employed or for the District of Columbia.1404
+## § 1404. Repealed. Pub. L. 115–397, title I, § 101(c)(1), Dec. 21, 2018, 132 Stat. 5301
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 115–397, title I, § 101(c)(1), title IV, § 401, Dec. 21, 2018, 132 Stat. 5301, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is repealed.
-
-#### References in Text
-This chapter, referred to in subsecs. (a)(1) and (b), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
-
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
-
-#### Amendments
-2018—Subsec. (a). Pub. L. 115–141, § 153(b)(2)(B), added subsec. (a).
-
-Subsec. (b). Pub. L. 115–141, § 153(b)(2)(A), (C)(i), designated existing provisions as subsec. (b), inserted heading, and substituted “who initially requested counseling and mediation under this subchapter may elect to” for “may either” in introductory provisions.
-
-Subsec. (b)(1). Pub. L. 115–141, § 153(b)(2)(C)(ii), struck out “or” at end.
-
-Subsec. (b)(2). Pub. L. 115–141, § 153(b)(2)(C)(iii), substituted “, or” for period at end.
-
-Subsec. (b)(3). Pub. L. 115–141, § 153(b)(2)(C), which set out a par. (3) without directory language indicating where such par. was to be added, was executed by adding par. (3) at the end of subsec. (b) to reflect the probable intent of Congress, in light of ancillary amendments to subsec. (b) by section 153(b)(2)(C)(ii), (iii) of Pub. L. 115–141. See Amendment notes above.
-
-Subsec. (c). Pub. L. 115–141, § 153(b)(2)(D), added subsec. (c).
-
-2015—Pub. L. 114–6 substituted “Not later than 90 days, but not sooner than 30 days, after the end of the period of mediation, a covered employee” for “Not later than 90 days after a covered employee receives notice of the end of the period of mediation, but no sooner than 30 days after receipt of such notification, such covered employee” in introductory provisions.
-
-#### Effective Date of Repeal
-Repeal effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
-
-#### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–6 applicable with respect to mediations and other proceedings first initiated after Mar. 20, 2015, see section 2(d) of Pub. L. 114–6, set out as a note under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
+Section, Pub. L. 104–1, title IV, § 404, Jan. 23, 1995, 109 Stat. 33; Pub. L. 114–6, § 2(b), Mar. 20, 2015, 129 Stat. 81; Pub. L. 115–141, div. I, title I, § 153(b)(2), Mar. 23, 2018, 132 Stat. 786, related to election of proceeding.
 
 
 <a id="section-1405"></a>
-## § 1405. Complaint and hearing
-**(a) In general** A covered employee may, upon the completion of mediation under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403), file a complaint with the Office. The respondent to the complaint shall be the employing office—
+## § 1405. Hearing
+**(a) Requirement for hearings to commence in Office**
 
-(1) involved in the violation, or
+(1) **Hearing required upon request** — If, not later than 10 days after a hearing officer submits the report on the preliminary review of a claim under [section 1402a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/c&num=0&edition=prelim), a covered employee submits a request to the Executive Director for a hearing under this section, the Executive Director shall appoint an independent hearing officer pursuant to subsection (c) to consider the claim and render a decision, and a hearing shall be commenced in the Office.
 
-(2) in which the violation is alleged to have occurred,
-and about which mediation was conducted.
+(2) **Exceptions** — Paragraph (1) does not apply with respect to the claim if—
+
+  (A) the hearing officer’s report on the preliminary review of the claim under [section 1402a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/c&num=0&edition=prelim) includes the determination that the individual filing the claim is not a covered employee who has stated a claim for which relief may be granted under this title (as described in [section 1402a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/d&num=0&edition=prelim)); or
+
+  (B) the covered employee files a civil action as provided in [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) with respect to the claim.
 
 **(b) Dismissal** A hearing officer may dismiss any claim that the hearing officer finds to be frivolous or that fails to state a claim upon which relief may be granted.
 
 **(c) Hearing officer**
 
-(1) **Appointment** — Upon the filing of a complaint, the Executive Director shall appoint an independent hearing officer to consider the complaint and render a decision. No Member of the House of Representatives, Senator, officer of either the House of Representatives or the Senate, head of an employing office, member of the Board, or covered employee may be appointed to be a hearing officer. The Executive Director shall select hearing officers on a rotational or random basis from the lists developed under paragraph (2). Nothing in this section shall prevent the appointment of hearing officers as full-time employees of the Office or the selection of hearing officers on the basis of specialized expertise needed for particular matters.
+(1) **Appointment** — Upon the filing of a request for a hearing under subsection (a), the Executive Director shall appoint an independent hearing officer to consider the request for a hearing under subsection (a) and render a decision. No Member of the House of Representatives, Senator, officer of either the House of Representatives or the Senate, head of an employing office, member of the Board, or covered employee may be appointed to be a hearing officer. The Executive Director shall select hearing officers on a rotational or random basis from the lists developed under paragraph (2). Nothing in this section shall prevent the appointment of hearing officers as full-time employees of the Office or the selection of hearing officers on the basis of specialized expertise needed for particular matters.
 
 (2) **Lists** — The Executive Director shall develop master lists, composed of—
 
@@ -2049,11 +1822,13 @@ and about which mediation was conducted.
   (B) individuals expert in technical matters relating to accessibility and usability by persons with disabilities or technical matters relating to occupational safety and health.
   In developing lists, the Executive Director shall consider candidates recommended by the Federal Mediation and Conciliation Service or the Administrative Conference of the United States.
 
-**(d) Hearing** Unless a complaint is dismissed before a hearing, a hearing shall be—
+(3) **Prohibiting hearing officer conducting preliminary review from conducting hearing** — The Executive Director may not appoint a hearing officer to conduct a hearing under this section with respect to a claim if the hearing officer conducted the preliminary review with respect to the claim under [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a).
+
+**(d) Hearing** Unless a claim is dismissed before a hearing, a hearing shall be—
 
 (1) conducted in closed session on the record by the hearing officer;
 
-(2) commenced no later than 60 days after filing of the complaint under subsection (a), except that the Office may, for good cause, extend up to an additional 30 days the time for commencing a hearing; and
+(2) commenced no later than 90 days after the Executive Director receives the covered employee’s request for the hearing under subsection (a), except that, upon mutual agreement of the parties or for good cause, the Office shall extend the time for commencing a hearing for not more than an additional 30 days; and
 
 (3) conducted, except as specifically provided in this chapter and to the greatest extent practicable, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5.
 
@@ -2071,50 +1846,11 @@ and about which mediation was conducted.
 
   (B) *Service of process* — Process in an action or contempt proceeding pursuant to subparagraph (A) may be served in any judicial district in which the person refusing or failing to comply, or threatening to refuse or not to comply, resides, transacts business, or may be found, and subpoenas for witnesses who are required to attend such proceedings may run into any other district.
 
-**(g) Decision** The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the complaint, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II. The decision shall be entered in the records of the Office. If a decision is not appealed under [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406) to the Board, the decision shall be considered the final decision of the Office.
+**(g) Decision** The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the claim, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II. The decision shall be entered in the records of the Office. If a decision is not appealed under [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406) to the Board, the decision shall be considered the final decision of the Office.
 
 **(h) Precedents** A hearing officer who conducts a hearing under this section shall be guided by judicial decisions under the laws made applicable by [section 1302 of this title](./chapter-024-congressional-accountability.md#section-1302) and by Board decisions under this chapter.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–397, title I, § 103(b)–(e), title IV, § 401, Dec. 21, 2018, 132 Stat. 5304, 5305, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended as follows:
-
-(1) in the section catchline, by striking “Complaint and”;
-
-(2) By amending subsection (a) to read as follows:
-
-“(a) Requirement for hearings to commence in Office
-
-“(1) Hearing required upon request
-
-“If, not later than 10 days after a hearing officer submits the report on the preliminary review of a claim under [section 1402a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/c&num=0&edition=prelim), a covered employee submits a request to the Executive Director for a hearing under this section, the Executive Director shall appoint an independent hearing officer pursuant to subsection (c) to consider the claim and render a decision, and a hearing shall be commenced in the Office.
-
-“(2) Exceptions
-
-“Paragraph (1) does not apply with respect to the claim if—
-
-“(A) the hearing officer’s report on the preliminary review of the claim under [section 1402a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/c&num=0&edition=prelim) includes the determination that the individual filing the claim is not a covered employee who has stated a claim for which relief may be granted under this subchapter (as described in [section 1402a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1402a/d&num=0&edition=prelim)); or
-
-“(B) the covered employee files a civil action as provided in [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) with respect to the claim.”;
-
-(3) in subsection (c)(1), by striking “complaint” and inserting “request for a hearing under subsection (a)”;
-
-(4) by adding at the end of subsection (c) the following new paragraph:
-
-“(3) Prohibiting hearing officer conducting preliminary review from conducting hearing
-
-“The Executive Director may not appoint a hearing officer to conduct a hearing under this section with respect to a claim if the hearing officer conducted the preliminary review with respect to the claim under [section 1402a of this title](./chapter-024-congressional-accountability.md#section-1402a).”;
-
-(5) in introductory provisions of subsection (d), by striking “complaint” and inserting “claim”.
-
-(6) by striking subsection (d)(2) and inserting the following:
-
-“(2) commenced no later than 90 days after the Executive Director receives the covered employee’s request for the hearing under subsection (a), except that, upon mutual agreement of the parties or for good cause, the Office shall extend the time for commencing a hearing for not more than an additional 30 days; and”;
-
-(7) in subsection (g), by striking “complaint” and inserting “claim”.
-
-See 2018 Amendment notes below.
 
 #### References in Text
 This chapter, referred to in subsecs. (c)(2)(A), (d)(3), and (h), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
@@ -2218,7 +1954,7 @@ Parts A, B, C, and D of subchapter II, referred to in subsec. (a), were in the o
 
 <a id="section-1408"></a>
 ## § 1408. Civil action
-**(a) Jurisdiction** The district courts of the United States shall have jurisdiction over any civil action commenced under [section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404) and this section by a covered employee who has completed counseling under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and mediation under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403). A civil action may be commenced by a covered employee only to seek redress for a violation for which the employee has completed counseling and mediation.
+**(a) Jurisdiction** The district courts of the United States shall have jurisdiction over any civil action commenced under [section 1401 of this title](./chapter-024-congressional-accountability.md#section-1401) and this section by a covered employee.
 
 **(b) Parties** The defendant shall be the employing office alleged to have committed the violation, or in which the violation is alleged to have occurred.
 
@@ -2238,20 +1974,11 @@ Parts A, B, C, and D of subchapter II, referred to in subsec. (a), were in the o
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-Pub. L. 115–397, title I, § 101(b), title IV, § 401, Dec. 21, 2018, 132 Stat. 5300, 5327, made amendments to subsection (a) of this section, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings. After such effective date, subsection (a) of this section will read as follows:
-
-(a) Jurisdiction
-
-The district courts of the United States shall have jurisdiction over any civil action commenced under [section 1401 of this title](./chapter-024-congressional-accountability.md#section-1401) and this section by a covered employee.
-
-See 2018 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (c) and (d)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–397 substituted “[section 1401 of this title](./chapter-024-congressional-accountability.md#section-1401)” for “[section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404)” and struck out “who has completed counseling under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and mediation under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403). A civil action may be commenced by a covered employee only to seek redress for a violation for which the employee has completed counseling and mediation.” after “covered employee”.
+2018—Subsec. (a). Pub. L. 115–397 substituted “[section 1401 of this title](./chapter-024-congressional-accountability.md#section-1401)” for “[section 1404 of this title](./chapter-024-congressional-accountability.md#section-1404)” and struck out “who has completed counseling under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402) and mediation under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403). A civil action may be commenced by a covered employee only to seek redress for a violation for which the employee has completed counseling and mediation” after “covered employee”.
 
 2001—Subsec. (d). Pub. L. 107–68 added subsec. (d).
 
@@ -2314,14 +2041,11 @@ The authorization to bring judicial proceedings under sections 1405(f)(3), 1407,
 
 
 <a id="section-1414"></a>
-## § 1414. Settlement of complaints
+## § 1414. Settlement
 
 Any settlement entered into by the parties to a process described in section 1331, 1341, 1351, or 1401 of this title shall be in writing and not become effective unless it is approved by the Executive Director. Nothing in this chapter shall affect the power of the Senate and the House of Representatives, respectively, to establish rules governing the process by which a settlement may be entered into by such House or by any employing office of such House.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–397, title I, § 103(f), title IV, § 401, Dec. 21, 2018, 132 Stat. 5305, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended by striking “of complaints” after “Settlement” in section catchline. See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
@@ -2473,108 +2197,66 @@ Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, pro
 
 <a id="section-1416"></a>
 ## § 1416. Confidentiality
-**(a) Counseling** All counseling shall be strictly confidential, except that the Office and a covered employee may agree to notify the employing office of the allegations.
+**(a) Mediation** All information discussed or disclosed in the course of any mediation shall be strictly confidential, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement.
 
-**(b) Mediation** All mediation shall be strictly confidential, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement.
+**(b) Hearings and deliberations** Except as provided in subsections (c), (d), and (e), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title](./chapter-024-congressional-accountability.md#section-1341), but shall apply to the deliberations of hearing officers and the Board under that section. The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.
 
-**(c) Hearings and deliberations** Except as provided in subsections (d), (e), and (f), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title](./chapter-024-congressional-accountability.md#section-1341), but shall apply to the deliberations of hearing officers and the Board under that section. The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.
+**(c) Release of records for judicial action** The records of hearing officers and the Board may be made public if required for the purpose of judicial review under [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
 
-**(d) Release of records for judicial action** The records of hearing officers and the Board may be made public if required for the purpose of judicial review under [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
+**(d) Automatic referral to Congressional Ethics Committee of dispositions of claims involving Members of Congress and senior staff**
 
-**(e) Access by committees of Congress** At the discretion of the Executive Director, the Executive Director may provide to the Committee on Standards of Official Conduct of the House of Representatives and the Select Committee on Ethics of the Senate access to the records of the hearings and decisions of the hearing officers and the Board, including all written and oral testimony in the possession of the Office. The Executive Director shall not provide such access until the Executive Director has consulted with the individual filing the complaint at issue, and until a final decision has been entered under section 1405(g) or 1406(e) of this title.
+(1) **Referral** — Upon the final disposition under this subchapter (as described in paragraph (6)) of a claim alleging a violation described in [section 1415(d)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/C&num=0&edition=prelim) committed personally by a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or a Senator, or by a senior staff of the House of Representatives or Senate, the Executive Director shall refer the claim to—
 
-**(f) Final decisions** A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331), or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
+  (A) the Committee on Ethics of the House of Representatives, in the case of a Member or senior staff of the House; or
+
+  (B) the Select Committee on Ethics of the Senate, in the case of a Senator or senior staff of the Senate.
+
+(2) **Access to records and information** — If the Executive Director refers a claim to a Committee under paragraph (1), the Executive Director shall provide the Committee with access to the records of any preliminary reviews, hearings, or decisions of the hearing officers and the Board under this chapter, and any information relating to an award or settlement paid, in response to such claim.
+
+(3) **Review by Senate ethics committee of settlements of certain claims** — After the receipt of a settlement agreement for a claim that includes an allegation of a violation described in [section 1415(d)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/C&num=0&edition=prelim) committed personally by a Senator, the Select Committee on Ethics of the Senate shall—
+
+  (A) not later than 90 days after that receipt, review the settlement agreement;
+
+  (B) determine whether an investigation of the claim is warranted; and
+
+  (C) if the Select Committee determines, after the investigation, that the claim that resulted in the settlement involved an actual violation described in [section 1415(d)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/C&num=0&edition=prelim) committed personally by the Senator, then the Select Committee shall notify the Executive Director to request the reimbursement described in [section 1415(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d&num=0&edition=prelim) and include the settlement in the report required by section 1381(l) of this title.
+
+(4) **Protection of personally identifiable information** — If a Committee to which a claim is referred under paragraph (1) issues a report with respect to the claim, the Committee shall ensure that the report does not directly disclose the identity or position of the individual who filed the claim.
+
+(5) **Committee authority to protect identity of a claimant**
+
+  (A) *Authority* — If a Committee to which a claim is referred under paragraph (1) issues a report as described in paragraph (4) concerning a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or a Senator, or a senior staff of the House of Representatives or Senate, the Committee may make an appropriate redaction to the information or data included in the report if the Chairman and Vice Chairman of the Committee reach agreement—
+
+    (i) that including the information or data considered for redaction may lead to the unintentional disclosure of the identity or position of a claimant; and
+
+    (ii) on the precise information or data to be redacted.
+
+  (B) *Notation and statement* — The report including any such redaction shall note each redaction and include a statement that the redaction was made solely for the purpose of avoiding such an unintentional disclosure of the identity or position of a claimant.
+
+  (C) *Retention of reports* — The Committee making a redaction in accordance with this paragraph shall retain a copy of the report, without a redaction.
+
+(6) **Final disposition described** — In this subsection, the “final disposition” of a claim means any of the following:
+
+  (A) An order or agreement to pay an award or settlement, including an agreement reached pursuant to mediation under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
+
+  (B) A final decision of a hearing officer under [section 1405(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1405/g&num=0&edition=prelim) that is no longer subject to review by the Board under [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406).
+
+  (C) A final decision of the Board under [section 1406(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1406/e&num=0&edition=prelim) that is no longer subject to appeal to the United States Court of Appeals for the Federal Circuit under [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
+
+  (D) A final decision in a civil action under [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) that is no longer subject to appeal.
+
+(7) **Senior staff defined** — In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
+
+**(e) Final decisions** A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331), or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
+
+**(f) Claims** Nothing in this section may be construed to prohibit a covered employee from disclosing the factual allegations underlying the covered employee’s claim, or to prohibit an employing office from disclosing the factual allegations underlying the employing office’s defense to the claim, in the course of any proceeding under this subchapter.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 115–397, title I, §§ 112, 104, title IV, § 401, Dec. 21, 2018, 132 Stat. 5311, 5313, 5327, made amendments to this section, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings. After such effective date, this section will read as follows:
+#### References in Text
+This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
-§ 1416. Confidentiality
-
-(a) Mediation
-
-All information discussed or disclosed in the course of any mediation shall be strictly confidential, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement.
-
-(b) Hearings and deliberations
-
-Except as provided in subsections (c), (d), and (e), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title](./chapter-024-congressional-accountability.md#section-1341), but shall apply to the deliberations of hearing officers and the Board under that section. The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.
-
-(c) Release of records for judicial action
-
-The records of hearing officers and the Board may be made public if required for the purpose of judicial review under [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
-
-(d) Automatic referral to congressional ethics committee of dispositions of claims involving Members of Congress and senior staff
-
-(1) Referral
-
-Upon the final disposition under this subchapter (as described in paragraph (6)) of a claim alleging a violation described in [section 1415(d)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/C&num=0&edition=prelim) committed personally by a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or a Senator, or by a senior staff of the House of Representatives or Senate, the Executive Director shall refer the claim to—
-
-(A) the Committee on Ethics of the House of Representatives, in the case of a Member or senior staff of the House; or
-
-(B) the Select Committee on Ethics of the Senate, in the case of a Senator or senior staff of the Senate.
-
-(2) Access to records and information
-
-If the Executive Director refers a claim to a Committee under paragraph (1), the Executive Director shall provide the Committee with access to the records of any preliminary reviews, hearings, or decisions of the hearing officers and the Board under this chapter, and any information relating to an award or settlement paid, in response to such claim.
-
-(3) Review by Senate ethics committee of settlements of certain claims
-
-After the receipt of a settlement agreement for a claim that includes an allegation of a violation described in [section 1415(d)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/C&num=0&edition=prelim) committed personally by a Senator, the Select Committee on Ethics of the Senate shall—
-
-(A) not later than 90 days after that receipt, review the settlement agreement;
-
-(B) determine whether an investigation of the claim is warranted; and
-
-(C) if the Select Committee determines, after the investigation, that the claim that resulted in the settlement involved an actual violation described in [section 1415(d)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d/1/C&num=0&edition=prelim) committed personally by the Senator, then the Select Committee shall notify the Executive Director to request the reimbursement described in [section 1415(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1415/d&num=0&edition=prelim) and include the settlement in the report required by section 1381(l) of this title.
-
-(4) Protection of personally identifiable information
-
-If a Committee to which a claim is referred under paragraph (1) issues a report with respect to the claim, the Committee shall ensure that the report does not directly disclose the identity or position of the individual who filed the claim.
-
-(5) Committee authority to protect identity of a claimant
-
-(A) Authority
-
-If a Committee to which a claim is referred under paragraph (1) issues a report as described in paragraph (4) concerning a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or a Senator, or a senior staff of the House of Representatives or Senate, the Committee may make an appropriate redaction to the information or data included in the report if the Chairman and Vice Chairman of the Committee reach agreement—
-
-(i) that including the information or data considered for redaction may lead to the unintentional disclosure of the identity or position of a claimant; and
-
-(ii) on the precise information or data to be redacted.
-
-(B) Notation and statement
-
-The report including any such redaction shall note each redaction and include a statement that the redaction was made solely for the purpose of avoiding such an unintentional disclosure of the identity or position of a claimant.
-
-(C) Retention of reports
-
-The Committee making a redaction in accordance with this paragraph shall retain a copy of the report, without a redaction.
-
-(6) Final disposition described
-
-In this subsection, the “final disposition” of a claim means any of the following:
-
-(A) An order or agreement to pay an award or settlement, including an agreement reached pursuant to mediation under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
-
-(B) A final decision of a hearing officer under [section 1405(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1405/g&num=0&edition=prelim) that is no longer subject to review by the Board under [section 1406 of this title](./chapter-024-congressional-accountability.md#section-1406).
-
-(C) A final decision of the Board under [section 1406(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1406/e&num=0&edition=prelim) that is no longer subject to appeal to the United States Court of Appeals for the Federal Circuit under [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
-
-(D) A final decision in a civil action under [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) that is no longer subject to appeal.
-
-(7) Senior staff defined
-
-In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
-
-(e) Final decisions
-
-A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331), or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
-
-(f) Claims
-
-Nothing in this section may be construed to prohibit a covered employee from disclosing the factual allegations underlying the covered employee’s claim, or to prohibit an employing office from disclosing the factual allegations underlying the employing office’s defense to the claim, in the course of any proceeding under this subchapter.
-
-See 2018 Amendment notes below.
+The Ethics in Government Act of 1978, referred to in subsec. (d)(7), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–397, § 114(b)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “All counseling shall be strictly confidential, except that the Office and a covered employee may agree to notify the employing office of the allegations.”
@@ -2594,9 +2276,6 @@ Subsec. (f). Pub. L. 115–397, § 114(b)(4), added subsec. (f). Former subsec. 
 2015—Subsec. (b). Pub. L. 114–6, § 2(c)(1), inserted before period at end “, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement”.
 
 Subsec. (c). Pub. L. 114–6, § 2(c)(2), inserted at end “The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.”
-
-#### Change of Name
-Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
@@ -2637,16 +2316,13 @@ Section effective upon expiration of the 180-day period beginning on Dec. 21, 20
 <a id="section-1431"></a>
 ## § 1431. Exercise of rulemaking powers
 
-The provisions of sections 1302(b)(3) and 1384(c) of this title are enacted—
+The provisions of sections 1302(b)(3), section 11 So in original. The word “section” probably should not appear. 1381(l), and 1384(c) of this title are enacted—
 
 (1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of such House, respectively, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 (2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of each House.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–397, title II, § 201(c), title IV, § 401, Dec. 21, 2018, 132 Stat. 5317, 5327, provided that, effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, this section is amended by inserting “, section 1381(l),” before“and 1384(c) of this title” in introductory provisions. See 2018 Amendment note below.
 
 #### Amendments
 2018—Pub. L. 115–397 inserted “, section 1381(l),” before“and 1384(c) of this title” in introductory provisions.
@@ -2835,7 +2511,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 A prior section 509 of Pub. L. 104–1 was renumbered section 511 and is classified to [section 1438 of this title](./chapter-024-congressional-accountability.md#section-1438).
 
 #### Effective Date
-Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
+Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
 
 
 <a id="section-1437b"></a>
@@ -2859,7 +2535,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 A prior section 510 of Pub. L. 104–1 was renumbered section 511 and is classified to [section 1438 of this title](./chapter-024-congressional-accountability.md#section-1438).
 
 #### Effective Date
-Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
+Section effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
 
 
 <a id="section-1438"></a>
@@ -2870,7 +2546,7 @@ If any provision of this chapter or the application of such provision to any per
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
 #### Effective Date of 2018 Amendment
-Amendment of section by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).
+Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301).

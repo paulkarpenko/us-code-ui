@@ -1248,7 +1248,7 @@ a judgment of conviction that includes such a sentence constitutes a final judgm
 #### References in Text
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), are set out in the Appendix to this title.
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (d), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (e), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (c)(1)(A). Pub. L. 115–391, § 603(b)(1), in introductory provisions, inserted “or upon motion of the defendant after the defendant has fully exhausted all administrative rights to appeal a failure of the Bureau of Prisons to bring a motion on the defendant’s behalf or the lapse of 30 days from the receipt of such a request by the warden of the defendant’s facility, whichever is earlier,” after “Bureau of Prisons,”.

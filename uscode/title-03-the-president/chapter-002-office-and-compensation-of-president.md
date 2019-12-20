@@ -213,7 +213,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of that act
 Amendment by act Jan. 19, 1949, effective noon, Jan. 20, 1949, see section 3 of that act.
 
 #### Salary Increases
-For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+For adjustment of pay rates under this section, see provisions dealing with pay adjustments set out as notes under [section 5303 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim), Government Organization and Employees, and the executive order detailing the adjustment of certain rates of pay set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
 
 For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under [section 358 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section358&num=0&edition=prelim), The Congress.
 

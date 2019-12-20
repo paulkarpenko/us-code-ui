@@ -471,7 +471,7 @@ In subsection (a), the words “Secretary of Transportation” are substituted f
 In subsection (b), the words “of any kind or nature” are omitted as unnecessary. The words “sections 1535 and 1536 of title 31” are substituted for “the Act of June 30, 1932 (47 Stat. 382, 417–418), as amended [[31 U.S.C. 686](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section686&num=0&edition=prelim), 686b]” because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 #### References in Text
-An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, which is classified generally to subchapter II (§ 883a et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, popularly known as the Coast and Geodetic Survey Act, which is classified generally to subchapter II (§ 883a et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2018—Subsec. (c). Pub. L. 115–232 added subsec. (c).

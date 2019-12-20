@@ -16,7 +16,7 @@ source: >-
 #### Prior Provisions
 A prior section 3001 was renumbered [section 7001 of this title](./chapter-701-definitions.md#section-7001).
 
-A prior section 3010 was renumbered [section 3011 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3011&num=0&edition=prelim) and subsequently renumbered as [section 7011 of this title](./chapter-703-department-of-the-army.md#section-7011).
+A prior section 3010 was renumbered [section 7011 of this title](./chapter-703-department-of-the-army.md#section-7011).
 
 A prior section 3011 was renumbered [section 7011 of this title](./chapter-703-department-of-the-army.md#section-7011).
 

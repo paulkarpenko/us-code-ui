@@ -521,29 +521,12 @@ Repeal effective Oct. 1, 1981, see [section 9912(a) of this title](https://uscod
 
 
 <a id="section-2753"></a>
-## § 2753. Authorization of appropriations
-**(a)**
-
-(1) For the purpose of carrying out subchapters I, II, III, IV, V, VI, VII, VIII, and IX of this chapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1975 through 1977.
-
-(2) For the purpose of carrying out the programs authorized under [section 2808 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2808&num=0&edition=prelim) there is authorized to be appropriated $330,000,000 for the fiscal year 1975 and such sums as may be necessary for each of the two succeeding fiscal years.
-
-**(b)** Unless the Congress has passed or formally rejected legislation extending the authorizations of appropriations for carrying out any subchapter of this chapter specified in subsection (a) of this section, or adopts a concurrent resolution providing that the provisions of this subsection shall not apply, the authorizations of appropriations specified in subsection (a) are hereby automatically extended for one additional fiscal year beyond the terminal year specified in this chapter or in this section.
-
-**(c)** Any funds appropriated to carry out any program under subchapters I to X of this chapter which are not obligated prior to the end of the fiscal year for which such funds were appropriated shall remain available for obligation during the succeeding fiscal year.
+## § 2753. Omitted
 
 ### Statutory Notes
 
-#### References in Text
-Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and (c), and [section 2808 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2808&num=0&edition=prelim), referred to in subsec. (a)(2), were repealed by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519.
-
 #### Codification
-Section was enacted as part of the Headstart, Economic Opportunity, and Community Partnership Act of 1974, and not as part of the Economic Opportunity Act of 1964 which comprises this chapter.
-
-#### Amendments
-1976—Subsec. (a)(2). Pub. L. 94–341, § 3(d)(1), inserted “of this title” after “section 2808”.
-
-Subsec. (c). Pub. L. 94–341, § 3(d)(2), added subsec. (c).
+Section, Pub. L. 93–644, § 15, Jan. 4, 1975, 88 Stat. 2329; Pub. L. 94–341, § 3(d), July 6, 1976, 90 Stat. 807, authorized appropriations for fiscal years 1975 through 1977, with possibility of extension for an additional fiscal year and carryover of unobligated funds.
 
 
 <a id="section-2754"></a>
@@ -2180,9 +2163,6 @@ Another prior section 806 of Pub. L. 88–452, title VIII, as added Pub. L. 89�
 Subsec. (a)(2). Pub. L. 102–375, § 822(21), which directed the substitution of “Alaska Native” for “Alaskan Native”, could not be executed because the words “Alaskan Native” did not appear.
 
 1987—Subsec. (a)(2). Pub. L. 100–175, § 504(b)(2), which directed that par. (2) be amended by inserting “other Native American Pacific Islanders (including American Samoan Natives),” after “Hawaiian Natives,” was executed by making the insertion after “Native Hawaiians,” to reflect the probable intent of Congress.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 Enactment and amendment by Pub. L. 100–175 effective Oct. 1, 1987, see section 701 of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).

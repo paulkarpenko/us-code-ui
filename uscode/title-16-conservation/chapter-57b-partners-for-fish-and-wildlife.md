@@ -128,4 +128,9 @@ The Secretary shall carry out the Partners for Fish and Wildlife Program within 
 <a id="section-3774"></a>
 ## § 3774. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2006 through 2011.
+There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2019 through 2023.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–9 substituted “2019 through 2023” for “2006 through 2011”.

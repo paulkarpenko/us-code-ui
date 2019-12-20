@@ -1152,11 +1152,11 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 
   (C) *Availability for payments after April 13, 2020*
 
-    (i) *For payments to broadcast television licensees and mvpds* — Notwithstanding subsection (b)(4)(D), the Commission may make payments pursuant to subsection (b)(4)(A)(i) or (b)(4)(A)(ii) from amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) after April 13, 2020, if, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse reasonably incurred costs described in such subsection.
+    (i) *For payments to broadcast television licensees and MVPDs* — Notwithstanding subsection (b)(4)(D), the Commission may make payments pursuant to subsection (b)(4)(A)(i) or (b)(4)(A)(ii) from amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) after April 13, 2020, if, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse reasonably incurred costs described in such subsection.
 
     (ii) *For payments to television translator stations and low power television stations* — Amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) shall not be available to the Commission to make payments required by subsection (k) after April 13, 2020, unless, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse costs reasonably incurred by a television translator station or low power television station (as such terms are defined in subsection (k)) on or after January 1, 2017, in order for such station to relocate its television service from one channel to another channel or otherwise modify its facility as a result of the reorganization of broadcast television spectrum under subsection (b).
 
-    (iii) *For payments to fm broadcast stations* — Amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) shall not be available to the Commission to make payments required by subsection (l) after April 13, 2020, unless, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse costs reasonably incurred by an FM broadcast station (as defined in subsection (l)) for facilities necessary for such station to reasonably minimize disruption of service as a result of the reorganization of broadcast television spectrum under subsection (b).
+    (iii) *For payments to FM broadcast stations* — Amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) shall not be available to the Commission to make payments required by subsection (l) after April 13, 2020, unless, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse costs reasonably incurred by an FM broadcast station (as defined in subsection (l)) for facilities necessary for such station to reasonably minimize disruption of service as a result of the reorganization of broadcast television spectrum under subsection (b).
 
 (3) **Unused funds rescinded and deposited into the general fund of the treasury**
 
@@ -1192,7 +1192,7 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 
   (B) *Television translator station* — The term “television translator station” means a television broadcast translator station (as defined in section 74.701 of title 47, Code of Federal Regulations) that was licensed and transmitting for at least 9 of the 12 months prior to April 13, 2017. For purposes of the preceding sentence, the operation of analog and digital companion facilities may be combined.
 
-**(l) Payment of Relocation Costs of Fm Broadcast Stations**
+**(l) Payment of Relocation Costs of FM Broadcast Stations**
 
 (1) **Payment required**
 
@@ -1202,7 +1202,7 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 
   (C) *Duplicative payments prohibited* — If an FM broadcast station has received a payment for interim facilities from the licensee of a television broadcast station that was reimbursed for such payment under subsection (b)(4)(A)(i) (including from amounts made available under subsection (j)(2)(A)(i)), or from any other source, such FM broadcast station may not receive any reimbursements under subparagraph (A).
 
-(2) **Fm broadcast station defined** — In this subsection, the term ‘FM broadcast station’ has the meaning given such term in section 73.310 of title 47, Code of Federal Regulations, and includes an FM translator, which has the meaning given the term “FM translator” in section 74.1201 of such title.
+(2) **FM broadcast station defined** — In this subsection, the term ‘FM broadcast station’ has the meaning given such term in section 73.310 of title 47, Code of Federal Regulations, and includes an FM translator, which has the meaning given the term “FM translator” in section 74.1201 of such title.
 
 **(m) Rulemaking**
 
@@ -1217,7 +1217,7 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (j) to (n). Pub. L. 115–141 added subsecs. (j) to (n).
+2018—Subsecs. (j) to (n). Pub. L. 115–141 added subsecs. (j) to (n).
 
 
 <a id="section-1457"></a>

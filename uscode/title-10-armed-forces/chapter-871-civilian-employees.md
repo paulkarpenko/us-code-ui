@@ -47,9 +47,7 @@ Laws prohibiting payment of compensation to a person who is not a citizen of the
 The word “Laws” is substituted for the words “Statutory provisions” for clarity. The words “armed forces” are substituted for the words “military services of the United States” for uniformity. The words “of the United States” at the end of the section are omitted as surplusage.
 
 #### Prior Provisions
-A prior section 8743 was renumbered [section 9273 of this title](./chapter-937-decorations-and-awards.md#section-9273).
-
-Prior sections 8744 and 8745 were renumbered sections 9274 and 9275 of this title.
+Prior sections 8743 to 8745 were renumbered sections 9273 to 9275 of this title, respectively.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7473 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7473&num=0&edition=prelim) as this section.
@@ -164,8 +162,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-8749"></a>
-## § 8749. Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard 11 So in original. Probably should be “Coast Guard”.
-**(a) Release of Drug Test Results to Coast Guard.—** The Secretary of the Navy may release to the Commandant of the Coast Guard the results of a drug or alcohol test of any employee of the Department of the Navy who is employed in any capacity on board a vessel of the Military Sealift Command. Any such release shall be in accordance with the standards and procedures applicable to the disclosure and reporting to the Coast Guard of drug or alcohol tests results and drug or alcohol test records of individuals employed on vessels documented under the laws of the United States.
+## § 8749. Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard 11 So in original. Phrases “military sealift command” and “coast guard” probably should be capitalized.
+**(a) Release of Drug Or Alcohol Test Results to Coast Guard.—** The Secretary of the Navy may release to the Commandant of the Coast Guard the results of a drug or alcohol test of any employee of the Department of the Navy who is employed in any capacity on board a vessel of the Military Sealift Command. Any such release shall be in accordance with the standards and procedures applicable to the disclosure and reporting to the Coast Guard of drug or alcohol tests 22 So in original. Probably should be “test”. results and drug or alcohol test records of individuals employed on vessels documented under the laws of the United States.
 
 **(b) Waiver.—** The results of a drug or alcohol test of an employee may be released under subsection (a) without the prior written consent of the employee that is otherwise required under section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim) note).
 
@@ -190,7 +188,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 
 <a id="section-8749a"></a>
-## § 8749a. Civil service mariners of military sealift command: alcohol testing
+## § 8749a. Civil service mariners of military sealift command 11 So in original. Phrase “military sealift command” probably should be capitalized.: alcohol testing
 
 The Secretary of the Navy may prescribe regulations establishing a program to conduct on-duty reasonable suspicion alcohol testing and post-accident alcohol testing of civil service mariners of the Military Sealift Command who are assigned to vessels.
 

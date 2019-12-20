@@ -204,7 +204,7 @@ Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, pr
 Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, § 1626, Dec. 19, 2014, 128 Stat. 3635; Pub. L. 115–91, div. A, title XVI, § 1624, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 115–232, div. A, title XVI, § 1625(a), Aug. 13, 2018, 132 Stat. 2121, which was transferred to this chapter and redesignated as subsec. (c) of this section by Pub. L. 115–232, § 1625(b).
 
 #### Amendments
-2018—Subsec. (c). Pub. L. 115–232, § 1625(b), transferred section 1626 of Pub. L. 113–291, as amended, to this section and redesignated it as subsec. (c). See Codification note above.
+2018—Subsec. (c). Pub. L. 115–232 transferred section 1626 of Pub. L. 113–291, as amended, to this section and redesignated it as subsec. (c). See Codification note above.
 
 2011—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 

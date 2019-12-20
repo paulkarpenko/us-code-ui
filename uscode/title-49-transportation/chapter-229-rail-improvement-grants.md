@@ -290,7 +290,7 @@ Notwithstanding the requirements of section 22902 of this chapter, the Secretary
 ### Statutory Notes
 
 #### Amendments
-2019—Pub. L. 115–420 renumbered [section 24404 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24404&num=0&edition=prelim) as this section and substituted ‘section 22902” for “section 24402”.
+2019—Pub. L. 115–420 renumbered [section 24404 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24404&num=0&edition=prelim) as this section and substituted “section 22902” for “section 24402”.
 
 
 <a id="section-22905"></a>
@@ -411,7 +411,7 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 #### Amendments
 2019—Pub. L. 115–420, § 7(a)(1), renumbered [section 24405 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24405&num=0&edition=prelim) as this section.
 
-Subsec. (e)(1). Pub. L. 115–420, § 7(b)(1)(B), (2)(C), substituted “section 24102) operations of a State or local governmental authority (as those terms are defined in section 5302” for “[section 24102(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24102/4&num=0&edition=prelim)) operations of a State or local government authority (as those terms are defined in section 5302(11) and (6), respectively, of this title”
+Subsec. (e)(1). Pub. L. 115–420, § 7(b)(1)(B), (2)(C), substituted “section 24102) operations of a State or local governmental authority (as those terms are defined in section 5302)” for “[section 24102(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24102/4&num=0&edition=prelim)) operations of a State or local government authority (as those terms are defined in section 5302(11) and (6), respectively, of this title)”.
 
 2015—Subsec. (b)(2). Pub. L. 114–94, § 11303(b)(1)(D)(i), substituted “(45” for “(43”.
 

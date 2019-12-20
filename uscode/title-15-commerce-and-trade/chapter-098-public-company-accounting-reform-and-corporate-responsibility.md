@@ -946,6 +946,9 @@ Subsecs. (h) to (k). Pub. L. 111–203, § 982(h)(3), (4), added subsec. (h) and
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
+#### Monetary penalties to fund scholarships for accounting students
+Pub. L. 116–6, div. D, title VI, § 620, Feb. 15, 2019, 133 Stat. 184, provided in part that: “Beginning in fiscal year 2020 and for each fiscal year thereafter, monetary penalties collected pursuant to [15 U.S.C. 7215](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7215) shall be deposited in the Public Company Accounting Oversight Board account as discretionary offsetting receipts.”
+
 
 <a id="section-7232"></a>
 ## § 7232. Definitions

@@ -20,15 +20,15 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(3)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(16), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b)(3) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3901 | 41:254(a). | June 30, 1949, ch. 288, title III, § 304(a), 63 Stat. 395; Pub. L. 98–369, div. B, title VII, § 2714(a)(3)(A), (B), July 18, 1984, 98 Stat. 1184; Pub. L. 103–355, title IV, § 4103(c), title VIII, § 8204(b), Oct. 13, 1994, 108 Stat. 3341, 3396. |
 
 In subsection (b)(2), the words “in its discretion” are omitted as unnecessary.
-
-#### Amendment of Subsection (b)(3)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(16), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b)(3) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (b)(3). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.
@@ -235,6 +235,9 @@ In subsection (h), the text of 41:253l–8(b) is omitted as obsolete.
 In subsection (b), the words “Not later than 270 days after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall address” are substituted for “shall be revised to address” to reflect the permanence of the provision.
 
 In subsection (d), the words “Subject to subsection (f)” are omitted as unnecessary.
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Amendment of Federal Acquisition Regulation
 Pub. L. 111–350, § 6(f)(5), Jan. 4, 2011, 124 Stat. 3855, provided that: “The Federal Acquisition Regulation shall be amended to meet the requirements of [section 3906(b) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3906/b&num=0&edition=prelim), United States Code, not later than 270 days after October 14, 2008.”

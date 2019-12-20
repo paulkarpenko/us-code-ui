@@ -2,7 +2,7 @@
 title: 43
 chapter: '2'
 heading: UNITED STATES GEOLOGICAL SURVEY
-section_count: 39
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -132,9 +132,9 @@ In sections 31a to 31h of this title:
 
 (3) **Director** — The term “Director” means the Director of the United States Geological Survey.
 
-(4) **Education component** — The term “education component” means the education component of the geologic mapping program described in section 31e(d)(3) 11 So in original. Probably should be section “31c(d)(3)”. of this title.
+(4) **Education component** — The term “education component” means the education component of the geologic mapping program described in [section 31c(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31c/d/3&num=0&edition=prelim).
 
-(5) **Federal component** — The term “Federal component” means the Federal component of the geologic mapping program described in section 31e(d)(1) 22 So in original. Probably should be section “31c(d)(1)”. of this title.
+(5) **Federal component** — The term “Federal component” means the Federal component of the geologic mapping program described in [section 31c(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31c/d/1&num=0&edition=prelim).
 
 (6) **Geologic mapping program** — The term “geologic mapping program” means the National Cooperative Geologic Mapping Program established by [section 31c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31c/a&num=0&edition=prelim).
 
@@ -142,7 +142,7 @@ In sections 31a to 31h of this title:
 
 (8) **State** — The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
 
-(9) **State component** — The term “State component” means the State component of the geologic mapping program described in section 31e(d)(2) 33 So in original. Probably should be section “31c(d)(2)”. of this title.
+(9) **State component** — The term “State component” means the State component of the geologic mapping program described in [section 31c(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31c/d/2&num=0&edition=prelim).
 
 (10) **Survey** — The term “Survey” means the United States Geological Survey.
 
@@ -152,6 +152,12 @@ In sections 31a to 31h of this title:
 Sections 31a to 31h of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 31a of this title](./chapter-002-united-states-geological-survey.md#section-31a) and Tables.
 
 #### Amendments
+2019—Par. (4). Pub. L. 116–9, § 5002(c)(1), substituted “section 31c(d)(3)” for “section 31e(d)(3)”.
+
+Par. (5). Pub. L. 116–9, § 5002(c)(2), substituted “section 31c(d)(1)” for “section 31e(d)(1)”.
+
+Par. (9). Pub. L. 116–9, § 5002(c)(3), substituted “section 31c(d)(2)” for “section 31e(d)(2)”.
+
 1999—Pars. (4) to (10). Pub. L. 106–148 added pars. (4), (5), and (9) and redesignated former pars. (4), (5), (6), and (7) as (6), (7), (8), and (10), respectively.
 
 1997—Pub. L. 105–36, § 3(a)(1), substituted “In sections 31a to 31h of this title:” for “As used in sections 31a to 31h of this title:” in introductory provisions.
@@ -185,9 +191,9 @@ Par. (7). Pub. L. 105–36, § 3(a)(2), (5), redesignated par. (5) as (7) and in
 
 (1) **Lead agency** — The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
 
-  (A) develop a 5-year strategic plan for the geologic mapping program in accordance with [section 31e of this title](./chapter-002-united-states-geological-survey.md#section-31e), which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009;
+  (A) develop a 5-year strategic plan for the geologic mapping program in accordance with [section 31e of this title](./chapter-002-united-states-geological-survey.md#section-31e), which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 12, 2019;
 
-  (B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 30, 2009, in accordance with [section 31d of this title](./chapter-002-united-states-geological-survey.md#section-31d); and
+  (B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 12, 2019, in accordance with [section 31d of this title](./chapter-002-united-states-geological-survey.md#section-31d); and
 
   (C) submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
 
@@ -290,6 +296,8 @@ Par. (7). Pub. L. 105–36, § 3(a)(2), (5), redesignated par. (5) as (7) and in
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(1)(A), (B). Pub. L. 116–9 substituted “March 12, 2019” for “March 30, 2009”.
+
 2009—Subsec. (b)(1)(A). Pub. L. 111–11, § 11001(c)(1), substituted “not later than 1 year after March 30, 2009;” for “not later than 1 year after December 9, 1999;”.
 
 Subsec. (b)(1)(B). Pub. L. 111–11, § 11001(c)(2), substituted “not later than 1 year after March 30, 2009, in accordance” for “not later than 1 year after December 9, 1999, in accordance”.
@@ -372,7 +380,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (2) **Members ex officio** — Federal agency members shall include the Administrator of the Environmental Protection Agency or a designee, the Secretary of the Interior or a designee from a land management agency of the Department of the Interior, the Secretary of Energy or a designee, and the Secretary of Agriculture or a designee.
 
-(3) **Appointed members** — In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Geology, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.
+(3) **Appointed members** — In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Core Science Systems, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.
 
 **(b) Duties** The advisory committee shall—
 
@@ -387,6 +395,8 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–9 substituted “Associate Director for Core Science Systems” for “Associate Director for Geology”.
+
 2009—Subsec. (a)(1). Pub. L. 111–11, § 11001(f)(3), substituted “11-member” for “10-member”.
 
 Subsec. (a)(2). Pub. L. 111–11, § 11001(f)(1)(A), inserted “the Secretary of the Interior or a designee from a land management agency of the Department of the Interior,” after “Administrator of the Environmental Protection Agency or a designee,”, inserted “and” after “Energy or a designee,”, and struck out “, and the Assistant to the President for Science and Technology or a designee” before period at end.
@@ -515,7 +525,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 <a id="section-31h"></a>
 ## § 31h. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2018.
+**(a) In general** There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2023.
 
 **(b) Allocation of appropriations** Of any amounts appropriated for any fiscal year in excess of the amount appropriated for fiscal year 2005—
 
@@ -532,6 +542,8 @@ Sections 31a to 31h of this title, referred to in subsec. (a), was in the origin
 A prior section 31h, Pub. L. 102–285, § 9, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, § 3(g), Aug. 5, 1997, 111 Stat. 1111, authorized appropriations for the national cooperative geologic mapping program, prior to repeal by Pub. L. 106–148, § 9, Dec. 9, 1999, 113 Stat. 1724.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–9 substituted “2023” for “2018”.
+
 2009—Subsec. (a). Pub. L. 111–11, § 11001(i)(1), added subsec. (a) and struck out former subsec. (a) which appropriated funds to carry out sections 31a to 31h of this title for fiscal years 1999 to 2005.
 
 Subsec. (b). Pub. L. 111–11, § 11001(i)(2)(A), substituted “2005” for “2000” in introductory provisions.
@@ -551,6 +563,88 @@ Once every five years the National Academy of Sciences shall review and report o
 ## § 31j. Biological research activity of Survey; review and report by National Academy of Sciences
 
 Beginning in fiscal year 1998 and once every five years thereafter, the National Academy of Sciences shall review and report on the biological research activity of the Survey.
+
+
+<a id="section-31k"></a>
+## § 31k. National Volcano Early Warning and Monitoring System
+**(a) Definitions** In this section:
+
+(1) **Secretary** — The term “Secretary” means the Secretary, acting through the Director of the United States Geological Survey.
+
+(2) **System** — The term “System” means the National Volcano Early Warning and Monitoring System established under subsection (b)(1)(A).
+
+**(b) National Volcano Early Warning and Monitoring System**
+
+(1) **Establishment**
+
+  (A) *In general* — The Secretary shall establish within the United States Geological Survey a system, to be known as the “National Volcano Early Warning and Monitoring System”, to monitor, warn, and protect citizens of the United States from undue and avoidable harm from volcanic activity.
+
+  (B) *Purposes* — The purposes of the System are—
+
+    (i) to organize, modernize, standardize, and stabilize the monitoring systems of the volcano observatories in the United States, which includes the Alaska Volcano Observatory, California Volcano Observatory, Cascades Volcano Observatory, Hawaiian Volcano Observatory, and Yellowstone Volcano Observatory; and
+
+    (ii) to unify the monitoring systems of volcano observatories in the United States into a single interoperative system.
+
+  (C) *Objective* — The objective of the System is to monitor all the volcanoes in the United States at a level commensurate with the threat posed by the volcanoes by—
+
+    (i) upgrading existing networks on monitored volcanoes;
+
+    (ii) installing new networks on unmonitored volcanoes; and
+
+    (iii) employing geodetic and other components when applicable.
+
+(2) **System components**
+
+  (A) *In general* — The System shall include—
+
+    (i) a national volcano watch office that is operational 24 hours a day and 7 days a week;
+
+    (ii) a national volcano data center; and
+
+    (iii) an external grants program to support research in volcano monitoring science and technology.
+
+  (B) *Modernization activities* — Modernization activities under the System shall include the comprehensive application of emerging technologies, including digital broadband seismometers, real-time continuous Global Positioning System receivers, satellite and airborne radar interferometry, acoustic pressure sensors, and spectrometry to measure gas emissions.
+
+(3) **Management**
+
+  (A) *Management plan*
+
+    (i) *In general* — Not later than 180 days after March 12, 2019, the Secretary shall submit to Congress a 5-year management plan for establishing and operating the System.
+
+    (ii) *Inclusions* — The management plan submitted under clause (i) shall include—
+
+      (I) annual cost estimates for modernization activities and operation of the System;
+
+      (II) annual milestones, standards, and performance goals; and
+
+      (III) recommendations for, and progress towards, establishing new, or enhancing existing, partnerships to leverage resources.
+
+  (B) *Advisory committee* — The Secretary shall establish an advisory committee to assist the Secretary in implementing the System, to be comprised of representatives of relevant agencies and members of the scientific community, to be appointed by the Secretary.
+
+  (C) *Partnerships* — The Secretary may enter into cooperative agreements with institutions of higher education and State agencies designating the institutions of higher education and State agencies as volcano observatory partners for the System.
+
+  (D) *Coordination* — The Secretary shall coordinate the activities under this section with the heads of relevant Federal agencies, including—
+
+    (i) the Secretary of Transportation;
+
+    (ii) the Administrator of the Federal Aviation Administration;
+
+    (iii) the Administrator of the National Oceanic and Atmospheric Administration; and
+
+    (iv) the Administrator of the Federal Emergency Management Agency.
+
+(4) **Annual report** — Annually, the Secretary shall submit to Congress a report that describes the activities carried out under this section.
+
+**(c) Funding**
+
+(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $55,000,000 for the period of fiscal years 2019 through 2023.
+
+(2) **Effect on other sources of Federal funding** — Amounts made available under this subsection shall supplement, and not supplant, Federal funds made available for other United States Geological Survey hazards activities and programs.
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
 
 
 <a id="section-32"></a>
@@ -883,6 +977,8 @@ Section text is based on act July 31, 1953, ch. 298, title I, § 1, 67 Stat. 269
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 643.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 444.
 

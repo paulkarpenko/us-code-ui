@@ -422,7 +422,7 @@ Section was formerly classified to [section 5603 of Title 42](https://uscode.hou
 #### Amendments
 2018—Par. (8)(C), (D). Pub. L. 115–385, § 102(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or”.
 
-Par. (18). Pub. L. 115–385, § 102(2), inserted “for purposes of subchapter II,” before “the term” and inserted concluding provisions.
+Par. (18). Pub. L. 115–385, § 102(2), inserted “for purposes of subchapter II,” before “the term” in introductory provisions and inserted concluding provisions.
 
 Par. (22). Pub. L. 115–385, § 102(3), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “the term ‘jail or lockup for adults’ means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
 
@@ -1013,6 +1013,9 @@ Subsec. (e). Pub. L. 95–115, § 3(d)(4), redesignated former par. (3) as entir
 
 1976—Subsec. (a)(1). Pub. L. 94–237 substituted “Office of Drug Abuse Policy” for “Special Action Office for Drug Abuse Prevention”.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
@@ -1486,7 +1489,7 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
     (i) to inform juveniles of the opportunity and process for sealing and expunging juvenile records; and
 
     (ii) to assist juveniles in pursuing juvenile record sealing and expungements for both adjudications and arrests not followed by adjudications;
-  except that the State may not use more than 2 percent of the funds received under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) for these purposes;
+    except that the State may not use more than 2 percent of the funds received under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) for these purposes;
 
   (V) programs that address the needs of girls in or at risk of entering the juvenile justice system, including pregnant girls, young mothers, survivors of commercial sexual exploitation or domestic child sex trafficking, girls with disabilities, and girls of color, including girls who are members of an Indian Tribe; and
 
@@ -1816,7 +1819,7 @@ Subsec. (a)(8). Pub. L. 115–385, § 205(1)(F), substituted “evidence-based a
 
 Subsec. (a)(9). Pub. L. 115–385, § 205(1)(G)(i), inserted “, with priority in funding given to entities meeting the criteria for evidence-based or promising programs” after “used for” in introductory provisions.
 
-Subsec. (a)(9)(A)(i). Pub. L. 115–385, § 205(1)(G)(ii)(I)(aa), inserted “status offenders and other” before “youth who need”
+Subsec. (a)(9)(A)(i). Pub. L. 115–385, § 205(1)(G)(ii)(I)(aa), inserted “status offenders and other” before “youth who need”.
 
 Subsec. (a)(9)(A)(iii). Pub. L. 115–385, § 205(1)(G)(ii)(I)(bb)–(III), added cl. (iii).
 
@@ -1854,7 +1857,7 @@ Subsec. (a)(11). Pub. L. 115–385, § 205(1)(H), added par. (11) and struck out
 
 Subsec. (a)(12)(A). Pub. L. 115–385, § 205(1)(I), substituted “sight or sound contact” for “contact”.
 
-Subsec. (a)(13). Pub. L. 115–385, § 205(1)(J), substituted “sight or sound contact” for “contact” in subpars. (A) and (B)(i)(I).
+Subsec. (a)(13). Pub. L. 115–385, § 205(1)(J), substituted “sight or sound contact” for “contact” in concluding provisions of subpar. (A) and in subpar. (B)(i)(I).
 
 Subsec. (a)(14). Pub. L. 115–385, § 205(1)(K), substituted “an effective system of monitoring jails, lock-ups, detention facilities, and correctional facilities to ensure that the core requirements are met” for “an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met” and struck out “, in the opinion of the Administrator,” before “sufficient enforcement mechanisms”.
 
@@ -1878,7 +1881,7 @@ Subsec. (a)(26). Pub. L. 115–385, § 205(1)(S), inserted “and in accordance 
 
 Subsec. (a)(27). Pub. L. 115–385, § 205(1)(L), (M), redesignated par. (28) as (27) and struck out former par. (27) which read as follows: “establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and”.
 
-Subsec. (a)(28) to (33). Pub. L. 115–385, § 205(1)(T), (U), added pars. (28) to (33).
+Subsec. (a)(28) to (33). Pub. L. 115–385, § 205(1)(T), (U), added pars. (28) to (33). Former par. (28) redesignated (27).
 
 Subsec. (c). Pub. L. 115–385, § 205(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) set out consequences for States that failed to comply with certain statutory requirements in subsec. (a) of this section in any fiscal year beginning after Sept. 30, 2001.
 
@@ -2430,7 +2433,7 @@ Repeal not applicable with respect to funds appropriated for any fiscal year tha
 
   (C) the Federal and local sources of funds used for placements and post-placement services;
 
-  (D) barriers faced by State and Indian Tribes in providing services to these juveniles;
+  (D) barriers faced by State 22 So in original. Probably should be “States”. and Indian Tribes in providing services to these juveniles;
 
   (E) the types of post-placement services used;
 
@@ -3622,11 +3625,11 @@ A prior section 342 of Pub. L. 93–415 was renumbered section 381 and is classi
 
 (5) staff training in—
 
-  (A) the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), and sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim));
+  (A) the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) 11 See References in Text note below. of title 22), and sex trafficking (as defined in section 7102(10) 1 of title 22);
 
-  (B) responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), or sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim)); and
+  (B) responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) 1 of title 22), or sex trafficking (as defined in section 7102(10) 1 of title 22); and
 
-  (C) agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in [section 7102(15) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/15&num=0&edition=prelim));
+  (C) agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in section 7102(15) 1 of title 22);
 
 (6) innovative methods of developing resources that enhance the establishment or operation of runaway and homeless youth centers;
 
@@ -3649,6 +3652,9 @@ A prior section 342 of Pub. L. 93–415 was renumbered section 381 and is classi
   (B) carry out projects that serve diverse populations of runaway or homeless youth.
 
 ### Statutory Notes
+
+#### References in Text
+Section 7102(9), (10), and (15) of title 22, referred to in subsec. (b)(5), was redesignated section 7102(11), (12), and (17), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Codification
 Section was formerly classified to [section 5714–23 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5714–23&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -3760,17 +3766,17 @@ Section was formerly classified to [section 5714–25 of Title 42](https://uscod
 #### Prior Provisions
 A prior section 345 of title III of Pub. L. 93–415, as added Pub. L. 106–71, § 3(i), Oct. 12, 1999, 113 Stat. 1038, related to study of runaways to determine the percent who have been sexually abused, prior to repeal by Pub. L. 108–96, title I, § 115, Oct. 10, 2003, 117 Stat. 1170.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 
 <a id="section-11272"></a>
 ## § 11272. Authority to make grants
-**(a) In general** The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, sexual exploitation, severe forms of trafficking in persons (as defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)), or sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim)).
+**(a) In general** The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, sexual exploitation, severe forms of trafficking in persons (as defined in section 7102(9) 11 See References in Text note below. of title 22), or sex trafficking (as defined in section 7102(10) 1 of title 22).
 
 **(b) Priority** In selecting applicants to receive grants under subsection (a), the Secretary shall give priority to public and nonprofit private agencies that have experience in providing services to runaway and homeless, and street youth.
 
 ### Statutory Notes
+
+#### References in Text
+Section 7102(9) and (10) of title 22, referred to in subsec. (a), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Codification
 Section was formerly classified to [section 5714–41 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5714–41&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -3911,6 +3917,9 @@ Subsec. (b). Pub. L. 101–204, § 1003(2), substituted “Not later than 180 da
 Subsec. (b). Pub. L. 100–690, § 7273(c)(3), added subsec. (b).
 
 1980—Pub. L. 96–509 substituted “centers” for “houses”.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -4195,7 +4204,7 @@ Pars. (8) to (10). Pub. L. 115–267, § 2(a)(2), (3), redesignated pars. (8) an
 1999—Pars. (9) to (21). Pub. L. 106–71 added pars. (9) to (21).
 
 #### Effective Date of 2018 Amendment
-Pub. L. 115–267, § 4, Oct. 11, 2018, 132 Stat. 3760, provided that: “(a) Effective Date.—Except as provided in subsection (b), this Act [see section 1 of Pub. L. 115–267 set out as a Short Title of 2018 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Oct. 11, 2018]. “(b) Application of Amendments.—The amendments made by section 2 [enacting [section 11295a of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11295a) and amending this section, sections 11292 to 11294, 11296, and 11297 of this title] shall apply with respect to fiscal years that begin after September 30, 2018.”
+Pub. L. 115–267, § 4, Oct. 11, 2018, 132 Stat. 3760, provided that: “(a) Effective Date.—Except as provided in subsection (b), this Act [see section 1 of Pub. L. 115–267, set out as a Short Title of 2018 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Oct. 11, 2018]. “(b) Application of Amendments.—The amendments made by section 2 [enacting [section 11295a of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11295a) and amending this section and sections 11292 to 11294, 11296, and 11297 of this title] shall apply with respect to fiscal years that begin after September 30, 2018.”
 
 #### Effective Date
 Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as an Effective Date of 1984 Amendment note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -4435,7 +4444,7 @@ Subsec. (b)(1)(L). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (
 
 Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (L) which read as follows: “provide forensic technical assistance and consultation to law enforcement and other agencies in the identification of unidentified deceased children through facial reconstruction of skeletal remains and similar techniques;”.
 
-Subsec. (b)(1)(M). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (T) as (M), and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;”.
+Subsec. (b)(1)(M). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (T) as (M) and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;”.
 
 Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (M) which read as follows: “track the incidence of attempted child abductions in order to identify links and patterns, and provide such information to law enforcement agencies;”.
 
@@ -4445,7 +4454,7 @@ Subsec. (b)(1)(O). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpar. (V) as
 
 Subsec. (b)(1)(P). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (P) which related to cyber tipline for reporting Internet-related child sexual exploitation.
 
-Subsec. (b)(1)(Q). Pub. L. 115–267, § 2(c)(2)(F), redesignated subpar. (Q) as (K). Former subpar. (K) redesignated (H).
+Subsec. (b)(1)(Q). Pub. L. 115–267, § 2(c)(2)(F), redesignated subpar. (Q) as (K).
 
 Subsec. (b)(1)(R). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (R) which read as follows: “operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;”.
 
@@ -4513,8 +4522,11 @@ Subsec. (b)(2)(D). Pub. L. 100–690, § 7285(b)(2)(B), inserted “and training
 
 Subsec. (b)(4). Pub. L. 100–690, § 7285(b)(3), (4), added par. (4).
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–267 effective Oct. 11, 2018 and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -4593,7 +4605,7 @@ Subsec. (a)(3). Pub. L. 113–38, § 2(c)(2), inserted “and schools” after �
 1988—Subsec. (a)(7) to (9). Pub. L. 100–690, § 7287, added pars. (7) to (9).
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–267 effective Oct. 11, 2018 and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -4659,8 +4671,8 @@ A prior section 407 of Pub. L. 93–415 was renumbered section 408 and is classi
 
 Another prior section 407 of title IV of Pub. L. 93–415, as added Pub. L. 103–322, title XVII, § 170303(2), Sept. 13, 1994, 108 Stat. 2043, established the Missing and Exploited Children’s Task Force, prior to repeal by Pub. L. 110–240, § 5(1), June 3, 2008, 122 Stat. 1564.
 
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–267 effective Oct. 11, 2018 and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
+#### Effective Date
+Section effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as an Effective Date of 2018 Amendment note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
 
 
 <a id="section-11296"></a>
@@ -4724,6 +4736,9 @@ A prior section 408 of Pub. L. 93–415 was renumbered section 409 and is classi
 
 #### Amendments
 2018—Par. (1). Pub. L. 115–267, § 3(b), substituted “2023” for “2018”.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–267 effective Oct. 11, 2018, with amendment by section 2 of Pub. L. 115–267 applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
@@ -4945,6 +4960,9 @@ Another prior section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 
 #### Amendments
 2018—Pub. L. 115–385 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “issue such rules as are necessary or appropriate to carry out this subchapter;”.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
@@ -5140,7 +5158,7 @@ Another prior section 505 of Pub. L. 93–415, as added Pub. L. 102–586, § 5(
 Another prior section 505 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5035 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5035&num=0&edition=prelim), Crimes and Criminal Procedure, and was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 #### Effective Date
-Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as an Effective Date of 2018 Amendment note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 
 <a id="section-11321"></a>
@@ -5154,7 +5172,7 @@ There are authorized to be appropriated to carry out this chapter, except for su
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 #### Effective Date
-Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as an Effective Date of 2018 Amendment note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 
 <a id="section-11322"></a>
@@ -5163,7 +5181,7 @@ Section not applicable with respect to funds appropriated for any fiscal year th
 
 (1) the Department of Justice, through its Office of Juvenile Justice and Delinquency Prevention, must restore meaningful enforcement of the core requirements in subchapter II; and
 
-(2) States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
+(2) States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II 11 So in original. Probably should be followed by a comma. must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
 
 **(b) Accountability**
 
@@ -5211,7 +5229,7 @@ Section not applicable with respect to funds appropriated for any fiscal year th
 
       (I) submit to the Congress a report outlining the results of the analysis, evaluation, and audit conducted under clause (i), including supporting materials, to the Speaker of the House of Representatives and the President pro tempore of the Senate; and
 
-      (II) shall make such report available to the public online, not later than 1 year after December 21, 2018.
+      (II) shall 22 So in original. The word “shall” probably should not appear. make such report available to the public online, not later than 1 year after December 21, 2018.
 
   (B) *Analysis of internal controls*
 
@@ -5313,7 +5331,7 @@ Section not applicable with respect to funds appropriated for any fiscal year th
 
 (1) **In general** — Before the Attorney General awards a grant to an applicant under this chapter, the Attorney General shall compare potential grant awards with other grants awarded under this chapter to determine if duplicate grant awards are awarded for the same purpose.
 
-(2) **Report** — If the Attorney General awards duplicate grants to the same applicant for the same purpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that includes—
+(2) **Report** — If the Attorney General awards duplicate grants to the same applicant for the same purpose 1 the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that includes—
 
   (A) a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
 
@@ -5328,5 +5346,8 @@ This chapter, referred to in subsecs. (b)(2) to (5) and (c)(1), was in the origi
 
 The effective date of this section, referred to in subsec. (b)(6), probably means the date of enactment of Pub. L. 115–385, which was approved Dec. 21, 2018.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
-Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as an Effective Date of 2018 Amendment note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).

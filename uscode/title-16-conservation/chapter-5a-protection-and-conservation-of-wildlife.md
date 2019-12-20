@@ -2,27 +2,33 @@
 title: 16
 chapter: 5A
 heading: PROTECTION AND CONSERVATION OF WILDLIFE
-section_count: 37
+section_count: 38
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
 <a id="section-661"></a>
-## § 661. Declaration of purpose; cooperation of agencies; surveys and investigations; donations
+## § 661. Short title; authorization
+**(a) Short title** This Act may be cited as the “Fish and Wildlife Coordination Act”.
 
-For the purpose of recognizing the vital contribution of our wildlife resources to the Nation, the increasing public interest and significance thereof due to expansion of our national economy and other factors, and to provide that wildlife conservation shall receive equal consideration and be coordinated with other features of water-resource development programs through the effectual and harmonious planning, development, maintenance, and coordination of wildlife conservation and rehabilitation for the purposes of sections 661 to 666c of this title in the United States, its Territories and possessions, the Secretary of the Interior is authorized (1) to provide assistance to, and cooperate with, Federal, State, and public or private agencies and organizations in the development, protection, rearing, and stocking of all species of wildlife, resources thereof, and their habitat, in controlling losses of the same from disease or other causes, in minimizing damages from overabundant species, in providing public shooting and fishing areas, including easements across public lands for access thereto, and in carrying out other measures necessary to effectuate the purposes of said sections; (2) to make surveys and investigations of the wildlife of the public domain, including lands and waters or interests therein acquired or controlled by any agency of the United States; and (3) to accept donations of land and contributions of funds in furtherance of the purposes of said sections.
+**(b) Authorization** For the purpose of recognizing the vital contribution of our wildlife resources to the Nation, the increasing public interest and significance thereof due to expansion of our national economy and other factors, and to provide that wildlife conservation shall receive equal consideration and be coordinated with other features of water-resource development programs through the effectual and harmonious planning, development, maintenance, and coordination of wildlife conservation and rehabilitation for the purposes of this Act in the United States, its Territories and possessions, the Secretary of the Interior is authorized (1) to provide assistance to, and cooperate with, Federal, State, and public or private agencies and organizations in the development, protection, rearing, and stocking of all species of wildlife, resources thereof, and their habitat, in controlling losses of the same from disease or other causes, in minimizing damages from overabundant species, in providing public shooting and fishing areas, including easements across public lands for access thereto, and in carrying out other measures necessary to effectuate the purposes of this Act; (2) to make surveys and investigations of the wildlife of the public domain, including lands and waters or interests therein acquired or controlled by any agency of the United States; and (3) to accept donations of land and contributions of funds in furtherance of the purposes of this Act.
 
 ### Statutory Notes
 
+#### References in Text
+This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
 #### Amendments
+2019—Pub. L. 116–9 inserted section catchline, designated existing provisions as subsec. (b), inserted heading, and added subsec. (a).
+
 1958—Pub. L. 85–624 inserted provisions which relate to recognition of the vital contribution of wildlife resources to the Nation, the increasing public interest and significance thereof, and to equal consideration and coordination of wildlife conservation with other water-resources development programs, and which authorize the Secretary to provide public fishing areas, and to accept donations of lands and contributions of funds.
 
 1946—Act Aug. 14, 1946, amended section generally in order to promote more effectual planning and cooperation between Federal, State, public, and private agencies for the conservation and rehabilitation of wildlife.
 
 #### Short Title
-Pub. L. 85–624, § 1, Aug. 12, 1958, 72 Stat. 563, provided: “That the Act of March 10, 1934, as amended, and as further amended by this Act [sections 661 to 666c of this title] may be cited as the ‘Fish and Wildlife Coordination Act’.”
+Pub. L. 85–624, § 1, Aug. 12, 1958, 72 Stat. 563, provided: “That the Act of March 10, 1934, as amended [sections 661 to 666c–1 of this title], and as further amended by this Act may be cited as the ‘Fish and Wildlife Coordination Act’.”
 
 #### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with wildlife consultation in sections 661 to 666c of this title and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with sections 661 to 666c of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with wildlife consultation in act Mar. 10, 1934 (see Short Title note above), and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with act Mar. 10, 1934, with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 
@@ -74,7 +80,7 @@ George W. Bush.
 ## § 662. Impounding, diverting, or controlling of waters
 **(a) Consultations between agencies** Except as hereafter stated in subsection (h) of this section, whenever the waters of any stream or other body of water are proposed or authorized to be impounded, diverted, the channel deepened, or the stream or other body of water otherwise controlled or modified for any purpose whatever, including navigation and drainage, by any department or agency of the United States, or by any public or private agency under Federal permit or license, such department or agency first shall consult with the United States Fish and Wildlife Service, Department of the Interior, and with the head of the agency exercising administration over the wildlife resources of the particular State wherein the impoundment, diversion, or other control facility is to be constructed, with a view to the conservation of wildlife resources by preventing loss of and damage to such resources as well as providing for the development and improvement thereof in connection with such water-resource development.
 
-**(b) Reports and recommendations; consideration** In furtherance of such purposes, the reports and recommendations of the Secretary of the Interior on the wildlife aspects of such projects, and any report of the head of the State agency exercising administration over the wildlife resources of the State, based on surveys and investigations conducted by the United States Fish and Wildlife Service and such State agency for the purpose of determining the possible damage to wildlife resources and for the purpose of determining means and measures that should be adopted to prevent the loss of or damage to such wildlife resources, as well as to provide concurrently for the development and improvement of such resources, shall be made an integral part of any report prepared or submitted by any agency of the Federal Government responsible for engineering surveys and construction of such projects when such reports are presented to the Congress or to any agency or person having the authority or the power, by administrative action or otherwise, (1) to authorize the construction of water-resource development projects or (2) to approve a report on the modification or supplementation of plans for previously authorized projects, to which sections 661 to 666c of this title apply. Recommendations of the Secretary of the Interior shall be as specific as is practicable with respect to features recommended for wildlife conservation and development, lands to be utilized or acquired for such purposes, the results expected, and shall describe the damage to wildlife attributable to the project and the measures proposed for mitigating or compensating for these damages. The reporting officers in project reports of the Federal agencies shall give full consideration to the report and recommendations of the Secretary of the Interior and to any report of the State agency on the wildlife aspects of such projects, and the project plan shall include such justifiable means and measures for wildlife purposes as the reporting agency finds should be adopted to obtain maximum overall project benefits.
+**(b) Reports and recommendations; consideration** In furtherance of such purposes, the reports and recommendations of the Secretary of the Interior on the wildlife aspects of such projects, and any report of the head of the State agency exercising administration over the wildlife resources of the State, based on surveys and investigations conducted by the United States Fish and Wildlife Service and such State agency for the purpose of determining the possible damage to wildlife resources and for the purpose of determining means and measures that should be adopted to prevent the loss of or damage to such wildlife resources, as well as to provide concurrently for the development and improvement of such resources, shall be made an integral part of any report prepared or submitted by any agency of the Federal Government responsible for engineering surveys and construction of such projects when such reports are presented to the Congress or to any agency or person having the authority or the power, by administrative action or otherwise, (1) to authorize the construction of water-resource development projects or (2) to approve a report on the modification or supplementation of plans for previously authorized projects, to which this Act applies. Recommendations of the Secretary of the Interior shall be as specific as is practicable with respect to features recommended for wildlife conservation and development, lands to be utilized or acquired for such purposes, the results expected, and shall describe the damage to wildlife attributable to the project and the measures proposed for mitigating or compensating for these damages. The reporting officers in project reports of the Federal agencies shall give full consideration to the report and recommendations of the Secretary of the Interior and to any report of the State agency on the wildlife aspects of such projects, and the project plan shall include such justifiable means and measures for wildlife purposes as the reporting agency finds should be adopted to obtain maximum overall project benefits.
 
 **(c) Modification of projects; acquisition of lands** Federal agencies authorized to construct or operate water-control projects are authorized to modify or add to the structures and operations of such projects, the construction of which has not been substantially completed on the date of enactment of the Fish and Wildlife Coordination Act, and to acquire lands in accordance with [section 663 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-663), in order to accommodate the means and measures for such conservation of wildlife resources as an integral part of such projects: Provided, That for projects authorized by a specific Act of Congress before the date of enactment of the Fish and Wildlife Coordination Act (1) such modification or land acquisition shall be compatible with the purposes for which the project was authorized; (2) the cost of such modifications or land acquisition, as means and measures to prevent loss of and damage to wildlife resources to the extent justifiable, shall be an integral part of the cost of such projects; and (3) the cost of such modifications or land acquisition for the development or improvement of wildlife resources may be included to the extent justifiable, and an appropriate share of the cost of any project may be allocated for this purpose with a finding as to the part of such allocated cost, if any, to be reimbursed by non-Federal interests.
 
@@ -86,12 +92,14 @@ George W. Bush.
 
 **(g) Applicability to projects** The provisions of this section shall be applicable with respect to any project for the control or use of water as prescribed herein, or any unit of such project authorized before or after the date of enactment of the Fish and Wildlife Coordination Act for planning or construction, but shall not be applicable to any project or unit thereof authorized before the date of enactment of the Fish and Wildlife Coordination Act if the construction of the particular project or unit thereof has been substantially completed. A project or unit thereof shall be considered to be substantially completed when sixty percent or more of the estimated construction cost has been obligated for expenditure.
 
-**(h) Exempt projects and activities** The provisions of section 661 to 666c of this title shall not be applicable to those projects for the impoundment of water where the maximum surface area of such impoundments is less than ten acres, nor to activities for or in connection with programs primarily for land management and use carried out by Federal agencies with respect to Federal lands under their jurisdiction.
+**(h) Exempt projects and activities** The provisions of this Act shall not be applicable to those projects for the impoundment of water where the maximum surface area of such impoundments is less than ten acres, nor to activities for or in connection with programs primarily for land management and use carried out by Federal agencies with respect to Federal lands under their jurisdiction.
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Fish and Wildlife Coordination Act, referred to in subsecs. (c) and (g), probably refers to the date of enactment of Pub. L. 85–624, Aug. 12, 1958. See, also, Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661).
+This Act, referred to in subsecs. (b) and (h), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
+
+The date of enactment of the Fish and Wildlife Coordination Act, referred to in subsecs. (c) and (g), probably refers to the date of enactment of Pub. L. 85–624, which was approved Aug. 12, 1958, and which amended sections 1 to 4 of the Act generally and enacted the Short Title. See Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661).
 
 #### Amendments
 1965—Subsec. (d). Pub. L. 89–72 added cl. (2) to proviso, redesignated cls. (2) and (3) thereof as (3) and (4), struck out “nor the construction of such facilities beyond those herein described” after “wildlife facilities” and struck out a second proviso which applied to projects constructed under Federal reclamation laws and required the Secretary of the Interior, in addition to allocations made under [section 485h of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section485h&num=0&edition=prelim), to make findings on part of estimated cost of the project which can properly be allocated to means and measures to prevent loss and damage to wildlife resources, which costs shall not be reimbursable, and provided for allocation of project costs to development and improvement of wildlife resources, now covered by sections 460l–12 to 460l–21 of this title.
@@ -110,17 +118,19 @@ See Transfer of Functions note set out under [section 661 of this title](./chapt
 
 **(b) Use and availability of waters, land, or interests therein** The use of such waters, land, or interests therein for wildlife conservation purposes shall be in accordance with general plans approved jointly (1) by the head of the particular department or agency exercising primary administration in each instance, (2) by the Secretary of the Interior, and (3) by the head of the agency exercising the administration of the wildlife resources of the particular State wherein the waters and areas lie. Such waters and other interests shall be made available, without cost for administration, by such State agency, if the management of the properties relate to the conservation of wildlife other than migratory birds, or by the Secretary of the Interior, for administration in such manner as he may deem advisable, where the particular properties have value in carrying out the national migratory bird management program: Provided, That nothing in this section shall be construed as affecting the authority of the Secretary of Agriculture to cooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
 
-**(c) Acquisition of land, waters, and interests therein; report to Congress** When consistent with the purposes of sections 661 to 666c of this title and the reports and findings of the Secretary of the Interior prepared in accordance with [section 662 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-662), land, waters, and interests therein may be acquired by Federal construction agencies for the wildlife conservation and development purposes of sections 661 to 666c of this title in connection with a project as reasonably needed to preserve and assure for the public benefit the wildlife potentials of the particular project area: Provided, That before properties are acquired for this purpose, the probable extent of such acquisition shall be set forth, along with other data necessary for project authorization, in a report submitted to the Congress, or in the case of a project previously authorized, no such properties shall be acquired unless specifically authorized by Congress, if specific authority for such acquisition is recommended by the construction agency.
+**(c) Acquisition of land, waters, and interests therein; report to Congress** When consistent with the purposes of this Act and the reports and findings of the Secretary of the Interior prepared in accordance with [section 662 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-662), land, waters, and interests therein may be acquired by Federal construction agencies for the wildlife conservation and development purposes of this Act in connection with a project as reasonably needed to preserve and assure for the public benefit the wildlife potentials of the particular project area: Provided, That before properties are acquired for this purpose, the probable extent of such acquisition shall be set forth, along with other data necessary for project authorization, in a report submitted to the Congress, or in the case of a project previously authorized, no such properties shall be acquired unless specifically authorized by Congress, if specific authority for such acquisition is recommended by the construction agency.
 
 **(d) Use of acquired properties** Properties acquired for the purposes of this section shall continue to be used for such purposes, and shall not become the subject of exchange or other transactions if such exchange or other transaction would defeat the initial purpose of their acquisition.
 
-**(e) Availability of Federal lands acquired or withdrawn for Federal water-resource purposes** Federal lands acquired or withdrawn for Federal water-resource purposes and made available to the States or to the Secretary of the Interior for wildlife management purposes, shall be made available for such purposes in accordance with sections 661 to 666c of this title, notwithstanding other provisions of law.
+**(e) Availability of Federal lands acquired or withdrawn for Federal water-resource purposes** Federal lands acquired or withdrawn for Federal water-resource purposes and made available to the States or to the Secretary of the Interior for wildlife management purposes, shall be made available for such purposes in accordance with this Act, notwithstanding other provisions of law.
 
 **(f) National forest lands** Any lands acquired pursuant to this section by any Federal agency within the exterior boundaries of a national forest shall, upon acquisition, be added to and become national forest lands, and shall be administered as a part of the forest within which they are situated, subject to all laws applicable to lands acquired under the provisions of the Act of March 1, 1911 (36 Stat. 961), unless such lands are acquired to carry out the National Migratory Bird Management Program.
 
 ### Statutory Notes
 
 #### References in Text
+This Act, referred to in subsecs. (c) and (e), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
+
 Act of March 1, 1911, referred to in subsec. (f), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Amendments
@@ -139,9 +149,12 @@ See Transfer of Functions note set out under [section 661 of this title](./chapt
 <a id="section-664"></a>
 ## § 664. Administration; rules and regulations; availability of lands to State agencies
 
-Such areas as are made available to the Secretary of the Interior for the purposes of sections 661 to 666c of this title, pursuant to sections 661 and 663 of this title or pursuant to any other authorization, shall be administered by him directly or in accordance with cooperative agreements entered into pursuant to the provisions of [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and in accordance with such rules and regulations for the conservation, maintenance, and management of wildlife, resources thereof, and its habitat thereon, as may be adopted by the Secretary in accordance with general plans approved jointly by the Secretary of the Interior and the head of the department or agency exercising primary administration of such areas: Provided, That such rules and regulations shall not be inconsistent with the laws for the protection of fish and game of the States in which such area is situated: Provided, further, That lands having value to the National Migratory Bird Management Program may, pursuant to general plans, be made available without cost directly to the State agency having control over wildlife resources, if it is jointly determined by the Secretary of the Interior and such State agency that this would be in the public interest: And provided further, That the Secretary of the Interior shall have the right to assume the management and administration of such lands in behalf of the National Migratory Bird Management Program if the Secretary finds that the State agency has withdrawn from or otherwise relinquished such management and administration.
+Such areas as are made available to the Secretary of the Interior for the purposes of this Act, pursuant to sections 661 and 663 of this title or pursuant to any other authorization, shall be administered by him directly or in accordance with cooperative agreements entered into pursuant to the provisions of [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and in accordance with such rules and regulations for the conservation, maintenance, and management of wildlife, resources thereof, and its habitat thereon, as may be adopted by the Secretary in accordance with general plans approved jointly by the Secretary of the Interior and the head of the department or agency exercising primary administration of such areas: Provided, That such rules and regulations shall not be inconsistent with the laws for the protection of fish and game of the States in which such area is situated: Provided, further, That lands having value to the National Migratory Bird Management Program may, pursuant to general plans, be made available without cost directly to the State agency having control over wildlife resources, if it is jointly determined by the Secretary of the Interior and such State agency that this would be in the public interest: And provided further, That the Secretary of the Interior shall have the right to assume the management and administration of such lands in behalf of the National Migratory Bird Management Program if the Secretary finds that the State agency has withdrawn from or otherwise relinquished such management and administration.
 
 ### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 #### Amendments
 1958—Pub. L. 85–624 permitted lands having value to the National Bird Management Program to be made available directly to the State agency having control over wildlife resources.
@@ -178,9 +191,12 @@ In the management of existing facilities (including locks, dams, and pools) in t
 <a id="section-666"></a>
 ## § 666. Authorization of appropriations
 
-There is hereby authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions of sections 661 to 666c of this title and regulations made pursuant thereto, including the construction of such facilities, buildings, and other improvements necessary for economical administration of areas made available to the Secretary of the Interior under said sections, and the employment in the city of Washington and elsewhere of such persons and means as the Secretary of the Interior may deem necessary for such purposes.
+There is authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions of this Act and regulations made pursuant thereto, including the construction of such facilities, buildings, and other improvements necessary for economical administration of areas made available to the Secretary of the Interior under this Act, and the employment in the city of Washington and elsewhere of such persons and means as the Secretary of the Interior may deem necessary for such purposes.
 
 ### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 #### Amendments
 1946—Act Aug. 14, 1946, amended section generally to provide for the necessary appropriations to carry out the purposes of sections 661 to 666c of this title.
@@ -189,7 +205,12 @@ There is hereby authorized to be appropriated from time to time, out of any mone
 <a id="section-666a"></a>
 ## § 666a. Penalties
 
-Any person who shall violate any rule or regulation promulgated in accordance with sections 661 to 666c of this title shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $500 or imprisoned for not more than one year, or both.
+Any person who shall violate any rule or regulation promulgated in accordance with this Act shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $500 or imprisoned for not more than one year, or both.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 
 <a id="section-666b"></a>
@@ -200,13 +221,228 @@ The terms “wildlife” and “wildlife resources” as used herein include bir
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+Herein, referred to in text, means act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 
 <a id="section-666c"></a>
 ## § 666c. Applicability to Tennessee Valley Authority
 
-The provisions of sections 661 to 666c of this title shall not apply to the Tennessee Valley Authority.
+The provisions of this Act shall not apply to the Tennessee Valley Authority.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
+
+
+<a id="section-666c-1"></a>
+## § 666c–1. Protection of water, oceans, coasts, and wildlife from invasive species
+**(a) Definitions** In this section:
+
+(1) **Control** — The term “control”, with respect to an invasive species, means the eradication, suppression, or reduction of the population of the invasive species within the area in which the invasive species is present.
+
+(2) **Ecosystem** — The term “ecosystem” means the complex of a community of organisms and the environment of the organisms.
+
+(3) **Eligible State** — The term “eligible State” means any of— 11 So in original.
+
+  (A) a State;
+
+  (B) the District of Columbia;
+
+  (C) the Commonwealth of Puerto Rico;
+
+  (D) Guam;
+
+  (E) American Samoa;
+
+  (F) the Commonwealth of the Northern Mariana Islands; and
+
+  (G) the United States Virgin Islands.
+
+(4) **Invasive species**
+
+  (A) *In general* — The term “invasive species” means an alien species, the introduction of which causes, or is likely to cause, economic or environmental harm or harm to human health.
+
+  (B) *Associated definition* — For purposes of subparagraph (A), the term “alien species”, with respect to a particular ecosystem, means any species (including the seeds, eggs, spores, or other biological material of the species that are capable of propagating the species) that is not native to the affected ecosystem.
+
+(5) **Manage; management** — The terms “manage” and “management”, with respect to an invasive species, mean the active implementation of any activity—
+
+  (A) to reduce or stop the spread of the invasive species; and
+
+  (B) to inhibit further infestations of the invasive species, the spread of the invasive species, or harm caused by the invasive species, including investigations regarding methods for early detection and rapid response, prevention, control, or management of the invasive species.
+
+(6) **Prevent** — The term “prevent”, with respect to an invasive species, means—
+
+  (A) to hinder the introduction of the invasive species onto land or water; or
+
+  (B) to impede the spread of the invasive species within land or water by inspecting, intercepting, or confiscating invasive species threats prior to the establishment of the invasive species onto land or water of an eligible State.
+
+(7) **Secretary concerned** — The term “Secretary concerned” means—
+
+  (A) the Secretary of the Army, with respect to Federal land administered by the Corps of Engineers;
+
+  (B) the Secretary of the Interior, with respect to Federal land administered by the Secretary of the Interior through—
+
+    (i) the United States Fish and Wildlife Service;
+
+    (ii) the Bureau of Indian Affairs;
+
+    (iii) the Bureau of Land Management;
+
+    (iv) the Bureau of Reclamation; or
+
+    (v) the National Park Service;
+
+  (C) the Secretary of Agriculture, with respect to Federal land administered by the Secretary of Agriculture through the Forest Service; and
+
+  (D) the head or a representative of any other Federal agency the duties of whom require planning relating to, and the treatment of, invasive species for the purpose of protecting water and wildlife on land and coasts and in oceans and water.
+
+(8) **Species** — The term “species” means a group of organisms, all of which—
+
+  (A) have a high degree of genetic similarity;
+
+  (B) are morphologically distinct;
+
+  (C) generally—
+
+    (i) interbreed at maturity only among themselves; and
+
+    (ii) produce fertile offspring; and
+
+  (D) show persistent differences from members of allied groups of organisms.
+
+**(b) Control and management** Each Secretary concerned shall plan and carry out activities on land directly managed by the Secretary concerned to protect water and wildlife by controlling and managing invasive species—
+
+(1) to inhibit or reduce the populations of invasive species; and
+
+(2) to effectuate restoration or reclamation efforts.
+
+**(c) Strategic plan**
+
+(1) **In general** — Each Secretary concerned shall develop a strategic plan for the implementation of the invasive species program to achieve, to the maximum extent practicable, a substantive annual net reduction of invasive species populations or infested acreage on land or water managed by the Secretary concerned.
+
+(2) **Coordination** — Each strategic plan under paragraph (1) shall be developed—
+
+  (A) in coordination with affected—
+
+    (i) eligible States; and
+
+    (ii) political subdivisions of eligible States;
+
+  (B) in consultation with federally recognized Indian tribes; and
+
+  (C) in accordance with the priorities established by 1 or more Governors of the eligible States in which an ecosystem affected by an invasive species is located.
+
+(3) **Factors for consideration** — In developing a strategic plan under this subsection, the Secretary concerned shall take into consideration the economic and ecological costs of action or inaction, as applicable.
+
+**(d) Cost-effective methods** In selecting a method to be used to control or manage an invasive species as part of a specific control or management project conducted as part of a strategic plan developed under subsection (c), the Secretary concerned shall prioritize the use of methods that—
+
+(1) effectively control and manage invasive species, as determined by the Secretary concerned, based on sound scientific data;
+
+(2) minimize environmental impacts; and
+
+(3) control and manage invasive species in the most cost-effective manner.
+
+**(e) Comparative economic assessment** To achieve compliance with subsection (d), the Secretary concerned shall require a comparative economic assessment of invasive species control and management methods to be conducted.
+
+**(f) Expedited action**
+
+(1) **In general** — The Secretaries concerned shall use all tools and flexibilities available (as of March 12, 2019) to expedite the projects and activities described in paragraph (2).
+
+(2) **Description of projects and activities** — A project or activity referred to in paragraph (1) is a project or activity—
+
+  (A) to protect water or wildlife from an invasive species that, as determined by the Secretary concerned is, or will be, carried out on land or water that is—
+
+    (i) directly managed by the Secretary concerned; and
+
+    (ii) located in an area that is—
+
+      (I) at high risk for the introduction, establishment, or spread of invasive species; and
+
+      (II) determined by the Secretary concerned to require immediate action to address the risk identified in subclause (I); and
+
+  (B) carried out in accordance with applicable agency procedures, including any applicable—
+
+    (i) land or resource management plan; or
+
+    (ii) land use plan.
+
+**(g) Allocation of funding** Of the amount appropriated or otherwise made available to each Secretary concerned for a fiscal year for programs that address or include protection of land or water from an invasive species, the Secretary concerned shall use not less than 75 percent for on-the-ground control and management of invasive species, which may include—
+
+(1) the purchase of necessary products, equipment, or services to conduct that control and management;
+
+(2) the use of integrated pest management options, including options that use pesticides authorized for sale, distribution, or use under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) et seq.);
+
+(3) the use of biological control agents that are proven to be effective to reduce invasive species populations;
+
+(4) the use of revegetation or cultural restoration methods designed to improve the diversity and richness of ecosystems;
+
+(5) the use of monitoring and detection activities for invasive species, including equipment, detection dogs, and mechanical devices;
+
+(6) the use of appropriate methods to remove invasive species from a vehicle or vessel capable of conveyance; or
+
+(7) the use of other effective mechanical or manual control methods.
+
+**(h) Investigations, outreach, and public awareness** Of the amount appropriated or otherwise made available to each Secretary concerned for a fiscal year for programs that address or include protection of land or water from an invasive species, the Secretary concerned may use not more than 15 percent for investigations, development activities, and outreach and public awareness efforts to address invasive species control and management needs.
+
+**(i) Administrative costs** Of the amount appropriated or otherwise made available to each Secretary concerned for a fiscal year for programs that address or include protection of land or water from an invasive species, not more than 10 percent may be used for administrative costs incurred to carry out those programs, including costs relating to oversight and management of the programs, recordkeeping, and implementation of the strategic plan developed under subsection (c).
+
+**(j) Reporting requirements** Not later than 60 days after the end of the second fiscal year beginning after March 12, 2019, each Secretary concerned shall submit to Congress a report—
+
+(1) describing the use by the Secretary concerned during the 2 preceding fiscal years of funds for programs that address or include invasive species management; and
+
+(2) specifying the percentage of funds expended for each of the purposes specified in subsections (g), (h), and (i).
+
+**(k) Relation to other authority**
+
+(1) **Other invasive species control, prevention, and management authorities** — Nothing in this section precludes the Secretary concerned from pursuing or supporting, pursuant to any other provision of law, any activity regarding the control, prevention, or management of an invasive species, including investigations to improve the control, prevention, or management of the invasive species.
+
+(2) **Public water supply systems** — Nothing in this section authorizes the Secretary concerned to suspend any water delivery or diversion, or otherwise to prevent the operation of a public water supply system, as a measure to control, manage, or prevent the introduction or spread of an invasive species.
+
+**(l) Use of partnerships** Subject to the 1 subsections (m) and (n), the Secretary concerned may enter into any contract or cooperative agreement with another Federal agency, an eligible State, a federally recognized Indian tribe, a political subdivision of an eligible State, or a private individual or entity to assist with the control and management of an invasive species.
+
+**(m) Memorandum of understanding**
+
+(1) **In general** — As a condition of a contract or cooperative agreement under subsection (l), the Secretary concerned and the applicable Federal agency, eligible State, political subdivision of an eligible State, or private individual or entity shall enter into a memorandum of understanding that describes—
+
+  (A) the nature of the partnership between the parties to the memorandum of understanding; and
+
+  (B) the control and management activities to be conducted under the contract or cooperative agreement.
+
+(2) **Contents** — A memorandum of understanding under this subsection shall contain, at a minimum, the following:
+
+  (A) A prioritized listing of each invasive species to be controlled or managed.
+
+  (B) An assessment of the total acres of land or area of water infested by the invasive species.
+
+  (C) An estimate of the expected total acres of land or area of water infested by the invasive species after control and management of the invasive species is attempted.
+
+  (D) A description of each specific, integrated pest management option to be used, including a comparative economic assessment to determine the least-costly method.
+
+  (E) Any map, boundary, or Global Positioning System coordinates needed to clearly identify the area in which each control or management activity is proposed to be conducted.
+
+  (F) A written assurance that each partner will comply with [section 2814 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2814&num=0&edition=prelim).
+
+(3) **Coordination** — If a partner to a contract or cooperative agreement under subsection (l) is an eligible State, political subdivision of an eligible State, or private individual or entity, the memorandum of understanding under this subsection shall include a description of—
+
+  (A) the means by which each applicable control or management effort will be coordinated; and
+
+  (B) the expected outcomes of managing and controlling the invasive species.
+
+(4) **Public outreach and awareness efforts** — If a contract or cooperative agreement under subsection (l) involves any outreach or public awareness effort, the memorandum of understanding under this subsection shall include a list of goals and objectives for each outreach or public awareness effort that have been determined to be efficient to inform national, regional, State, Tribal, or local audiences regarding invasive species control and management.
+
+**(n) Investigations** The purpose of any invasive species-related investigation carried out under a contract or cooperative agreement under subsection (l) shall be—
+
+(1) to develop solutions and specific recommendations for control and management of invasive species; and
+
+(2) specifically to provide faster implementation of control and management methods.
+
+**(o) Coordination with affected local governments** Each project and activity carried out pursuant to this section shall be coordinated with affected local governments in a manner that is consistent with [section 1712(c)(9) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712/c/9&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
 
 <a id="section-666d"></a>
@@ -218,7 +454,12 @@ The Secretary of the Interior is authorized, in his discretion, at any time with
 <a id="section-666e"></a>
 ## § 666e. Administration of acquired lands
 
-Any lands acquired by the Secretary of the Interior under the terms of this section and [section 666d of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666d), if located within or adjacent to an existing wildlife refuge or reservation, immediately shall become a part of such refuge or reservation and shall be administered under the laws and regulations applicable thereto, and, if not so located, may be administered as a migratory-waterfowl management area, refuge, reservation, or breeding ground in accordance with the provisions of sections 661 to 666c of this title, and Acts supplementary thereto.
+Any lands acquired by the Secretary of the Interior under the terms of this section and [section 666d of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666d), if located within or adjacent to an existing wildlife refuge or reservation, immediately shall become a part of such refuge or reservation and shall be administered under the laws and regulations applicable thereto, and, if not so located, may be administered as a migratory-waterfowl management area, refuge, reservation, or breeding ground in accordance with the provisions of the Act of August 14, 1946 (60 Stat. 1080), and Acts supplementary thereto.
+
+### Statutory Notes
+
+#### References in Text
+The Act of August 14, 1946, referred to in text, is act Aug. 14, 1946, ch. 965, 60 Stat. 1080, which amended act Mar. 10, 1934, ch. 55, by generally amending sections 1 to 6, which are classified to sections 661 to 665 and 666 of this title, and by adding sections 7 to 9, which are classified to sections 666a to 666c of this title. Subsequent acts added sections 5A and 10 of act Mar. 10, 1934, which are classified to sections 665a and 666c–1 of this title, respectively.
 
 
 <a id="section-666f"></a>
@@ -230,12 +471,14 @@ In order to promote the orderly development and use of the lands and interests t
 <a id="section-666g"></a>
 ## § 666g. Classification of lands; industrial leases; moneys subject to [section 715s of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s); administration; jurisdiction of Federal agencies
 
-All of the lands transferred to the Secretary of the Interior, pursuant to the provisions of [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section, first shall be classified by him with a view to determining, in cooperation with Federal, State, and public or private agencies and organizations, the most beneficial use that may be made thereof to carry out the purposes of [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section, including the development of wildlife conservation, agricultural, recreational, industrial, and related purposes. Such lands as have been or may hereafter be determined to be chiefly valuable for industrial purposes shall be leased for such purposes at such time and under such terms and conditions as the Secretary of the Interior shall prescribe. All moneys received or collected in connection with such leases shall be subject to the provisions of [section 715s of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s). Except to the extent otherwise provided in [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section, all lands herein transferred shall be administered by the Secretary of the Interior through the Fish and Wildlife Service in accordance with the provisions of sections 661 to 666c of this title, and Acts supplementary thereto and amendatory thereof for the conservation of wildlife, and for the development of the agricultural, recreational, industrial, and related purposes specified in [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section: Provided, That no jurisdiction shall be exercised by the Secretary of the Interior over that portion of such lands and the improvements thereon which are now utilized by the Department of the Army directly or indirectly until such time as it is determined by the Secretary of the Army that utilization of such portions of such lands and the improvements thereon directly or indirectly by the Department of the Army is no longer required: Provided further, That, subsequent to the determination referred to in the preceding proviso, the lands and improvements mentioned therein shall be administered by the Secretary of the Interior, and any lease or other disposition thereof shall be made subject to such terms, conditions, restrictions, and reservations imposed by the Secretary of the Army as will, in the opinion of the Secretary of the Army, be adequate to assure the continued availability for war production purposes of such lands and improvements.
+All of the lands transferred to the Secretary of the Interior, pursuant to the provisions of [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section, first shall be classified by him with a view to determining, in cooperation with Federal, State, and public or private agencies and organizations, the most beneficial use that may be made thereof to carry out the purposes of [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section, including the development of wildlife conservation, agricultural, recreational, industrial, and related purposes. Such lands as have been or may hereafter be determined to be chiefly valuable for industrial purposes shall be leased for such purposes at such time and under such terms and conditions as the Secretary of the Interior shall prescribe. All moneys received or collected in connection with such leases shall be subject to the provisions of [section 715s of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s). Except to the extent otherwise provided in [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section, all lands herein transferred shall be administered by the Secretary of the Interior through the Fish and Wildlife Service in accordance with the provisions of the act of August 14, 1946 (Public Law 732, Seventy-ninth Congress), and Acts supplementary thereto and amendatory thereof for the conservation of wildlife, and for the development of the agricultural, recreational, industrial, and related purposes specified in [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section: Provided, That no jurisdiction shall be exercised by the Secretary of the Interior over that portion of such lands and the improvements thereon which are now utilized by the Department of the Army directly or indirectly until such time as it is determined by the Secretary of the Army that utilization of such portions of such lands and the improvements thereon directly or indirectly by the Department of the Army is no longer required: Provided further, That, subsequent to the determination referred to in the preceding proviso, the lands and improvements mentioned therein shall be administered by the Secretary of the Interior, and any lease or other disposition thereof shall be made subject to such terms, conditions, restrictions, and reservations imposed by the Secretary of the Army as will, in the opinion of the Secretary of the Army, be adequate to assure the continued availability for war production purposes of such lands and improvements.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 715s of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s), referred to in text, was in the original “the Act of June 15, 1935, as amended (49 Stat. 383; [16 U.S.C. 715s](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s))”.
+
+The act of August 14, 1946, referred to in text, is act Aug. 14, 1946, ch. 965, 60 Stat. 1080, which amended act Mar. 10, 1934, ch. 55, by generally amending sections 1 to 6, which are classified to sections 661 to 665 and 666 of this title, and by adding sections 7 to 9, which are classified to sections 666a to 666c of this title. Subsequent acts added sections 5A and 10 of act Mar. 10, 1934, which are classified to sections 665a and 666c–1 of this title, respectively.
 
 #### Amendments
 1978—Pub. L. 95–616 substituted in second sentence “terms and conditions as the Secretary of the Interior shall prescribe” for “terms and conditions as are consistent with the general purposes of section 2 of the Surplus Property Act of 1944, as amended, and with the purposes of [section 666f of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-666f) and this section” and made moneys received or collected in connection with the leases to be subject to [section 715s of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715s).
@@ -924,6 +1167,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Grays Harbor National Wildlife Refuge, Washington.—Pub. L. 100–406, Aug. 19, 1988, 102 Stat. 1041. |
 | Great Dismal Swamp National Wildlife Refuge, Virginia and North Carolina.—Pub. L. 93–402, Aug. 30, 1974, 88 Stat. 801. |
 | Hart Mountain National Antelope Refuge, Oregon.—Pub. L. 105–321, § 4(a)–(d), Oct. 30, 1998, 112 Stat. 3023. |
+| Hobe Sound National Wildlife Refuge (see Nathaniel P. Reed Hobe Sound National Wildlife Refuge). |
 | Holt Collier National Wildlife Refuge (former Bogue Phalia Unit of the Yazoo National Wildlife Refuge), Mississippi.—Pub. L. 108–199, div. H, § 145(g)(1), Jan. 23, 2004, 118 Stat. 444. |
 | Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, § 2, June 28, 1980, 94 Stat. 607; Pub. L. 107–130, Jan. 16, 2002, 115 Stat. 2409. |
 | Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(3), Dec. 2, 1980, 94 Stat. 2386. |
@@ -951,6 +1195,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Oahu National Wildlife Refuge Complex, Hawaii.—Pub. L. 104–209, § 1, Oct. 1, 1996, 110 Stat. 3010. |
 | Ottawa National Wildlife Refuge Complex, Ohio.—Pub. L. 108–23, May 19, 2003, 117 Stat. 704. |
 | Oxbow National Wildlife Refuge, Massachusetts.—Pub. L. 103–337, div. B, title XXVIII, § 2846, Oct. 5, 1994, 108 Stat. 3071; Pub. L. 104–106, div. B, title XXVIII, § 2853, Feb. 10, 1996, 110 Stat. 567. |
+| Pettaquamscutt Cove National Wildlife Refuge, Rhode Island (see John H. Chafee National Wildlife Refuge). |
 | Pocosin Lakes National Wildlife Refuge, North Carolina.—Pub. L. 103–232, title III, Apr. 11, 1994, 108 Stat. 339. |
 | Protection Island National Wildlife Refuge, Washington.—Pub. L. 97–333, Oct. 15, 1982, 96 Stat. 1623. |
 | Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, § 3, Dec. 31, 1987, 101 Stat. 1550. |
@@ -975,6 +1220,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Tetlin National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(8), Dec. 2, 1980, 94 Stat. 2388. |
 | Theodore Roosevelt National Wildlife Refuge, Mississippi.—Pub. L. 108–199, div. H, § 145, Jan. 23, 2004, 118 Stat. 443. |
 | Theodore Roosevelt National Wildlife Refuge Complex (former Central Mississippi National Wildlife Refuge Complex), Mississippi.—Pub. L. 108–199, div. H, § 145(g)(2), Jan. 23, 2004, 118 Stat. 444. |
+| Tinicum National Environmental Center (see John Heinz National Wildlife Refuge at Tinicum). |
 | Togiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(6), Dec. 2, 1980, 94 Stat. 2392. |
 | Waccamaw National Wildlife Refuge, South Carolina.—Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 420. |
 | Wallkill River National Wildlife Refuge, New Jersey.—Pub. L. 101–593, title I, § 107, Nov. 16, 1990, 104 Stat. 2955. |

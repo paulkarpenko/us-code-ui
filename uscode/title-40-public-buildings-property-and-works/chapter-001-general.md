@@ -27,6 +27,10 @@ The purpose of this subtitle is to provide the Federal Government with an econom
 | 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
 
 #### Short Title of 2019 Amendment
+Pub. L. 116–75, § 1, Nov. 27, 2019, 133 Stat. 1160, provided that: “This Act [amending [section 6121 of this title](./chapter-061-united-states-supreme-court-building-and-grounds.md#section-6121)] may be cited as the ‘Reauthorizing Security for Supreme Court Justices Act of 2019’.”
+
+Pub. L. 116–30, § 1, July 25, 2019, 133 Stat. 1032, provided that: “This Act [enacting [section 3318 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3318) and provisions set out as a note under [section 3318 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3318)] may be cited as the ‘Fairness For Breastfeeding Mothers Act of 2019’.”
+
 Pub. L. 115–419, § 1, Jan. 3, 2019, 132 Stat. 5442, provided that: “This Act [amending sections 506 and 524 of this title] may be cited as the ‘Federal Personal Property Management Act of 2018’.”
 
 #### Short Title of 2018 Amendment

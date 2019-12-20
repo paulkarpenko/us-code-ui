@@ -62,6 +62,10 @@ Pub. L. 91–644, title III, § 14(b), Jan. 2, 1971, 84 Stat. 1890, provided tha
 #### References in Text
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 3, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+### Notes
+
+Taking appeal; notice, contents, signing; time, Rule 37(a).
+
 
 <a id="section-3733"></a>
 ## § 3733. Assignment of errors—(Rule)
@@ -71,6 +75,12 @@ Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 #### References in Text
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1947, eff. July 1, 1968, and is covered by Rule 3, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+### Notes
+
+Assignments of error on appeal abolished, Rule 37(a)(1).
+
+Necessity of specific objection in order to assign error in instructions, Rule 30.
+
 
 <a id="section-3734"></a>
 ## § 3734. Bill of exceptions abolished—(Rule)
@@ -79,6 +89,12 @@ Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1947, e
 
 #### References in Text
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 3, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Notes
+
+Exceptions abolished, Rule 51.
+
+Bill of exceptions not required, Rule 37(a)(1).
 
 
 <a id="section-3735"></a>
@@ -91,6 +107,10 @@ Rule 38(c) of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967
 
 Rule 46 was amended as part of the Bail Reform Act in 1966 and in 1972, and some provisions originally contained in Rule 46 are covered by this chapter, see Notes of Advisory Committee on Rules and Amendment notes under Rule 46, this Appendix.
 
+### Notes
+
+Bail on appeal or certiorari; application, Rules 38(c) and 46(a)(2).
+
 
 <a id="section-3736"></a>
 ## § 3736. Certiorari—(Rule)
@@ -99,6 +119,10 @@ Rule 46 was amended as part of the Bail Reform Act in 1966 and in 1972, and some
 
 #### References in Text
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968. Provisions of such former rule for certiorari are covered by rule 19 et seq. of the Rules of the United States Supreme Court.
+
+### Notes
+
+Petition to Supreme Court, time, Rule 37(b).
 
 
 <a id="section-3737"></a>
@@ -109,6 +133,14 @@ Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 #### References in Text
 Rules 37 and 39 of the Federal Rules of Criminal Procedure were abrogated Dec. 4, 1967, eff. July 1, 1968, and are covered by Rule 10, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+### Notes
+
+Preparation, form; typewritten record, Rule 39(b).
+
+Exceptions abolished, Rule 51.
+
+Bill of exceptions unnecessary, Rule 37(a)(1).
+
 
 <a id="section-3738"></a>
 ## § 3738. Docketing appeal and record—(Rule)
@@ -117,6 +149,10 @@ Rules 37 and 39 of the Federal Rules of Criminal Procedure were abrogated Dec. 4
 
 #### References in Text
 Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rules 10 to 12, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Notes
+
+Filing record on appeal and docketing proceeding; time, Rule 39(c).
 
 
 <a id="section-3739"></a>
@@ -127,6 +163,10 @@ Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 #### References in Text
 Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 27, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+### Notes
+
+Control and supervision in appellate court, Rule 39(a).
+
 
 <a id="section-3740"></a>
 ## § 3740. Argument—(Rule)
@@ -136,9 +176,21 @@ Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, e
 #### References in Text
 Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 34, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+### Notes
+
+Setting appeal for argument; preference to criminal appeals, Rule 39(d).
+
 
 <a id="section-3741"></a>
 ## § 3741. Harmless error and plain error—(Rule)
+
+### Notes
+
+Error or defect as affecting substantial rights, Rule 52.
+
+Defects in indictment, Rule 7.
+
+Waiver of error, Rules 12(b)(2) and 30.
 
 
 <a id="section-3742"></a>

@@ -178,7 +178,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 (2) serve as and perform the duties of a trustee in a case under title 11 when required under title 11 to serve as trustee in such a case;
 
-(3) supervise the administration of cases and trustees in cases under chapter 7, 11, 12, 13, or 15 of title 11 by, whenever the United States trustee considers it to be appropriate—
+(3) supervise the administration of cases and trustees in cases under chapter 7, 11 (including subchapter V of chapter 11), 12, 13, or 15 of title 11 by, whenever the United States trustee considers it to be appropriate—
 
   (A)
 
@@ -228,19 +228,19 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 (8) in any case in which the United States trustee finds material grounds for any relief under [section 1112 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1112&num=0&edition=prelim), apply promptly after making that finding to the court for relief.
 
-**(b)** If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
+**(b)** If the number of cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
 **(c)** Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 
 **(d)**
 
-(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11.
+(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases undersubchapter V of chapter 11 or chapter 12 or 13 of title 11.
 
 (2) A trustee whose appointment under subsection (a)(1) or under subsection (b) is terminated or who ceases to be assigned to cases filed under title 11, United States Code, may obtain judicial review of the final agency decision by commencing an action in the district court of the United States for the district for which the panel to which the trustee is appointed under subsection (a)(1), or in the district court of the United States for the district in which the trustee is appointed under subsection (b) resides, after first exhausting all available administrative remedies, which if the trustee so elects, shall also include an administrative hearing on the record. Unless the trustee elects to have an administrative hearing on the record, the trustee shall be deemed to have exhausted all administrative remedies for purposes of this paragraph if the agency fails to make a final agency decision within 90 days after the trustee requests administrative remedies. The Attorney General shall prescribe procedures to implement this paragraph. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based on the administrative record before the agency.
 
 **(e)**
 
-(1) The Attorney General, after consultation with a United States trustee that has appointed an individual under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11, shall fix—
+(1) The Attorney General, after consultation with a United States trustee that has appointed an individual under subsection (b) of this section to serve as standing trustee in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11, shall fix—
 
   (A) a maximum annual compensation for such individual consisting of—
 
@@ -259,9 +259,9 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
       (II) three percent of payments made under the plan of such debtor, with respect to payments made after the aggregate amount of payments made under the plan exceeds $450,000;
     based on such maximum annual compensation and the actual, necessary expenses incurred by such individual as standing trustee.
 
-(2) Such individual shall collect such percentage fee from all payments received by such individual under plans in the cases under chapter 12 or 13 of title 11 for which such individual serves as standing trustee. Such individual shall pay to the United States trustee, and the United States trustee shall deposit in the United States Trustee System Fund—
+(2) Such individual shall collect such percentage fee from all payments received by such individual under plans in the cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 for which such individual serves as standing trustee. Such individual shall pay to the United States trustee, and the United States trustee shall deposit in the United States Trustee System Fund—
 
-  (A) any amount by which the actual compensation of such individual exceeds 5 per centum upon all payments received under plans in cases under chapter 12 or 13 of title 11 for which such individual serves as standing trustee; and
+  (A) any amount by which the actual compensation of such individual exceeds 5 per centum upon all payments received under plans in cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 for which such individual serves as standing trustee; and
 
   (B) any amount by which the percentage for all such cases exceeds—
 
@@ -272,6 +272,8 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 (3) After first exhausting all available administrative remedies, an individual appointed under subsection (b) may obtain judicial review of final agency action to deny a claim of actual, necessary expenses under this subsection by commencing an action in the district court of the United States for the district where the individual resides. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based upon the administrative record before the agency.
 
 (4) The Attorney General shall prescribe procedures to implement this subsection.
+
+(5) In the event that the services of the trustee in a case under subchapter V of chapter 11 of title 11 are terminated by dismissal or conversion of the case, or upon substantial consummation of a plan under section 1183(c)(1) of that title, the court shall award compensation to the trustee consistent with services performed by the trustee and the limits on the compensation of the trustee established pursuant to paragraph (1) of this subsection.
 
 **(f)**
 
@@ -298,6 +300,16 @@ Level V of the Executive Schedule, referred to in subsec. (e)(1)(A)(i), is set o
 Section 408(c) of Pub. L. 95–598, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding [section 581 of this title](./chapter-039-united-states-trustees.md#section-581).
 
 #### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–54, § 4(b)(1)(A), inserted “(including subchapter V of chapter 11)” after “chapter 7, 11” in introductory provisions.
+
+Subsec. (b). Pub. L. 116–54, § 4(b)(1)(B), inserted “subchapter V of chapter 11 or” after “number of cases under”.
+
+Subsec. (d)(1). Pub. L. 116–54, § 4(b)(1)(C), inserted “subchapter V of chapter 11 or” after “cases under” in two places.
+
+Subsec. (e)(1), (2). Pub. L. 116–54, § 4(b)(1)(D)(i), (ii), inserted “subchapter V of chapter 11 or” after “cases under” wherever appearing.
+
+Subsec. (e)(5). Pub. L. 116–54, § 4(b)(1)(D)(iii), added par. (5).
+
 2010—Subsec. (a)(3)(A)(ii). Pub. L. 111–327, § 2(c)(3)(A), substituted semicolon for period at end.
 
 Subsec. (a)(7)(C). Pub. L. 111–327, § 2(c)(3)(B), substituted “determine” for “identify”.
@@ -349,6 +361,9 @@ Subsec. (e). Pub. L. 99–554, § 113(c), amended subsec. (e) generally. Prior t
 “(i) such individual actual compensation for such cases, as adjusted under subparagraph (A) of this paragraph; plus
 
 “(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases.”
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
 
 #### Effective Date of 2005 Amendment
 Amendment by sections 439, 802(c)(3), and 1231 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim).
@@ -540,7 +555,7 @@ Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided th
 ## § 589b. Bankruptcy data
 **(a) Rules.—** The Attorney General shall, within a reasonable time after the effective date of this section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—
 
-(1) final reports by trustees in cases under chapters 7, 12, and 13 of title 11; and
+(1) final reports by trustees in cases under subchapter V of chapter 11 and chapters 7, 12, and 13 of title 11; and
 
 (2) periodic reports by debtors in possession or trustees in cases under chapter 11 of title 11.
 
@@ -554,7 +569,7 @@ Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided th
 
 (3) appropriate privacy concerns and safeguards.
 
-**(d) Final Reports.—** The uniform forms for final reports required under subsection (a) for use by trustees under chapters 7, 12, and 13 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include with respect to a case under such title—
+**(d) Final Reports.—** The uniform forms for final reports required under subsection (a) for use by trustees under subchapter V of chapter 11 and chapters 7, 12, and 13 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include with respect to a case under such title—
 
 (1) information about the length of time the case was pending;
 
@@ -571,7 +586,7 @@ Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided th
 (7) claims allowed; and
 
 (8) distributions to claimants and claims discharged without payment,
-in each case by appropriate category and, in cases under chapters 12 and 13 of title 11, date of confirmation of the plan, each modification thereto, and defaults by the debtor in performance under the plan.
+in each case by appropriate category and, in cases under subchapter V of chapter 11 and chapters 12 and 13 of title 11, date of confirmation of the plan, each modification thereto, and defaults by the debtor in performance under the plan.
 
 **(e) Periodic Reports.—** The uniform forms for periodic reports required under subsection (a) for use by trustees or debtors in possession under chapter 11 of title 11 shall, in addition to such other matters as are required by law or as the Attorney General in the discretion of the Attorney General shall propose, include—
 
@@ -593,6 +608,14 @@ in each case by appropriate category and, in cases under chapters 12 and 13 of t
 
 #### References in Text
 For the effective date of this section, referred to in subsec. (a), see Effective Date note set out below.
+
+#### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–54, § 4(b)(2)(A), inserted “subchapter V of chapter 11 and” after “cases under”.
+
+Subsec. (d). Pub. L. 116–54, § 4(b)(2)(B), inserted “subchapter V of chapter 11 and” after “trustees under” in introductory provisions and “subchapter V of chapter 11 and” after “cases under” in concluding provisions.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
 
 #### Effective Date
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim).

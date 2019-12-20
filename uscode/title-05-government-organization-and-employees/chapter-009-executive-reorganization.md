@@ -550,7 +550,7 @@ Subsec. (b). Pub. L. 92–179, § 4(b), substituted “April 1, 1973” for “A
 1969—Subsec. (b). Pub. L. 91–5 substituted “April 1, 1971” for “December 31, 1968”.
 
 #### Plan for Transportation Department Reorganization
-Pub. L. 104–50, title III, § 335, Nov. 15, 1995, 109 Stat. 458, provided in part that: “notwithstanding [5 U.S.C. 905(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section905/b&num=0&edition=prelim), the President may prepare and transmit to Congress not later than the date for transmittal to Congress of the Budget Request for Fiscal Year 1997, a reorganization plan pursuant to chapter 9 of title 5, United States Code, for the reorganization of the surface transportation activities of the Department of Transportation and the relationship of the Saint Lawrence Seaway Development Corporation to the Department.”
+Pub. L. 104–50, title III, § 335, Nov. 15, 1995, 109 Stat. 458, provided in part that, notwithstanding section 905(b) of this section, the President could prepare and transmit to Congress not later than the date for transmittal of the Budget Request for Fiscal Year 1997, a reorganization plan, pursuant to chapter 9 of this title, for the Department of Transportation surface transportation activities and the relationship of the Saint Lawrence Seaway Development Corporation to the Department.
 
 
 <a id="section-906"></a>
@@ -700,7 +700,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-911"></a>

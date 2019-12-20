@@ -394,7 +394,7 @@ Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provided 
 
   (A) in the case in which the Assistant Secretary determines to refer the whistleblower disclosure under [section 323(c)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section323/c/1/D&num=0&edition=prelim) to an office or other investigative entity, a final decision with respect to the whistleblower disclosure has been made by such office or other investigative entity; or
 
-  (B) in the case in which the Assistant Secretary determines not to the 11 So in original. refer the whistleblower disclosure under such section, the Assistant Secretary makes such determination.
+  (B) in the case in which the Assistant Secretary determines not to refer the whistleblower disclosure under such section, the Assistant Secretary makes such determination.
 
 **(f) Termination of Investigations by Office of Special Counsel.—**
 
@@ -436,6 +436,9 @@ Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provided 
 
 #### Prior Provisions
 A prior section 714 was renumbered [section 1914 of this title](./chapter-019-insurance.md#section-1914).
+
+#### Amendments
+2019—Subsec. (e)(2)(B). Pub. L. 116–61 substituted “to refer” for “to the refer”.
 
 
 <a id="section-715"></a>

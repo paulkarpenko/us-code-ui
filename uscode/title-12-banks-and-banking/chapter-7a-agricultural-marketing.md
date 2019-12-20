@@ -112,7 +112,6 @@ Functions of Farm Credit Administration or any agency, officer, or entity of, un
 
 Section, act June 15, 1929, ch. 24, § 14, 46 Stat. 18; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 30, 1954, ch. 1076, § 1(30), 68 Stat. 968; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to finality of certain vouchers approved for expenditures and examination of financial transactions.
 
-#### Codification
 Section was formerly classified to [section 534 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section534&num=0&edition=prelim), Agriculture.
 
 

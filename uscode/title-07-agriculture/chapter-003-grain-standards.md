@@ -530,7 +530,7 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
       (I) the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
 
-      (II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of enactment of the Agriculture Improvement Act of 2018.
+      (II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of December 20, 2018.
 
 (3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
 
@@ -575,9 +575,6 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 (5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
 ### Statutory Notes
-
-#### References in Text
-Within 90 days of enactment of the Agriculture Improvement Act of 2018, referred to in subsec. (f)(2)(D)(ii)(II), means within 90 days of enactment of Pub. L. 115–334, which was approved December 20, 2018.
 
 #### Codification
 Section as originally enacted was composed of part of section 7 of part B of act Aug. 11, 1916. Other provisions of section 7 were classified to former sections 80 to 83 of this title.

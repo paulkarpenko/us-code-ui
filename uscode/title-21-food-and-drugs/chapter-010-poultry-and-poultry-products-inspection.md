@@ -583,7 +583,7 @@ Subsec. (d)(2)(B), (C). Pub. L. 103–465, § 431(k)(2)(B), (C), redesignated su
 1985—Par. (d). Pub. L. 99–198 added par. (d).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force of the World Trade Organization Agreement with respect to the United States [Jan. 1, 1995], see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3601&num=0&edition=prelim), Customs Duties.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date of entry into force of the World Trade Organization Agreement with respect to the United States (Jan. 1, 1995), see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3601&num=0&edition=prelim), Customs Duties.
 
 #### Effective Date of 1985 Amendment
 Pub. L. 99–198, title XVII, § 1701(b), Dec. 23, 1985, 99 Stat. 1633, provided that: “The amendment made by this section [amending this section] shall become effective 6 months after the date of enactment of this Act [Dec. 23, 1985].”

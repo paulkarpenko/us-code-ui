@@ -571,10 +571,15 @@ All references in other laws to—
 
 (3) prices comparable to parity prices, or
 
-(4) prices to be determined in the same manner as provided by this chapter prior to January 1, 1950 for the determination of parity prices,
-with respect to prices for agricultural commodities and products thereof, shall after January 1, 1950 be deemed to refer to parity prices as determined in accordance with the provisions of [section 1301(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1301/a/1&num=0&edition=prelim).
+(4) prices to be determined in the same manner as provided by the Agricultural Adjustment Act of 1938 [[7 U.S.C. 1281](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) et seq.] prior to its amendment by this Act for the determination of parity prices,
+with respect to prices for agricultural commodities and products thereof, shall hereafter be deemed to refer to parity prices as determined in accordance with the provisions of section 301(a)(1) of the Agricultural Adjustment Act of 1938 [[7 U.S.C. 1301(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1301/a/1&num=0&edition=prelim)], as amended by this Act.
 
 ### Statutory Notes
+
+#### References in Text
+The Agricultural Adjustment Act of 1938, referred to in par. (4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+
+This Act, referred to in par. (4) and concluding provisions, is act July 3, 1948, ch. 827, 62 Stat. 1247, known as the Agricultural Act of 1948, titles II and III of which became effective Jan. 1, 1950. For complete classification of this Act to the Code, see Short Title of 1948 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 1948, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
@@ -628,9 +633,12 @@ The powers conferred under this chapter shall not be used to discourage the prod
 <a id="section-1308"></a>
 ## § 1308. Transfer of acreage allotments or feed grain bases on public lands upon request of State agencies
 
-Notwithstanding any other provision of law, the Secretary, upon the request of any agency of any State charged with the administration of the public lands of the State, may permit the transfer of acreage allotments or feed grain bases together with relevant production histories which have been determined pursuant to this chapter, or [section 590p of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590p&num=0&edition=prelim), from any farm composed of public lands to any other farm or farms in the same county composed of public lands: Provided, That as a condition for the transfer of any allotment or base an acreage equal to or greater than the allotment or base transferred prior to adjustment, if any, shall be devoted to and maintained in permanent vegetative cover on the farm from which the transfer is made. The Secretary shall prescribe regulations which he deems necessary for the administration of this section, which may provide for adjusting downward the size of the allotment or base transferred if the farm to which the allotment or base is transferred normally has a higher yield per acre for the commodity for which the allotment or base is determined, for reasonable limitations on the size of the resulting allotments and bases on farms to which transfers are made, taking into account the size of the allotments and bases on farms of similar size in the community, and for retransferring allotments or bases and relevant histories if the conditions of the transfers are not fulfilled.
+Notwithstanding any other provision of law, the Secretary, upon the request of any agency of any State charged with the administration of the public lands of the State, may permit the transfer of acreage allotments or feed grain bases together with relevant production histories which have been determined pursuant to the Agricultural Adjustment Act of 1938, as amended [[7 U.S.C. 1281](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) et seq.], or [section 590p of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590p&num=0&edition=prelim), from any farm composed of public lands to any other farm or farms in the same county composed of public lands: Provided, That as a condition for the transfer of any allotment or base an acreage equal to or greater than the allotment or base transferred prior to adjustment, if any, shall be devoted to and maintained in permanent vegetative cover on the farm from which the transfer is made. The Secretary shall prescribe regulations which he deems necessary for the administration of this section, which may provide for adjusting downward the size of the allotment or base transferred if the farm to which the allotment or base is transferred normally has a higher yield per acre for the commodity for which the allotment or base is determined, for reasonable limitations on the size of the resulting allotments and bases on farms to which transfers are made, taking into account the size of the allotments and bases on farms of similar size in the community, and for retransferring allotments or bases and relevant histories if the conditions of the transfers are not fulfilled.
 
 ### Statutory Notes
+
+#### References in Text
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Section was enacted as part of the Food and Agriculture Act of 1965, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
@@ -2482,12 +2490,14 @@ Section, Pub. L. 87–703, title III, § 326, Sept. 27, 1962, 76 Stat. 631; Pub.
 <a id="section-1340"></a>
 ## § 1340. Wheat diversion programs; credits in establishment of State, county and farm acreage allotments for wheat
 
-In the establishment of State, county, and farm acreage allotments for wheat under this chapter, the acreage which is determined under regulations of the Secretary to have been diverted from the production of wheat under the special programs formulated pursuant to section 307 of this Act, [section 1339 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1339), and section 124 of the Agricultural Act of 1961, shall be credited to the State, county, and farm as though such acreage had actually been devoted to the production of wheat.
+In the establishment of State, county, and farm acreage allotments for wheat under the Agricultural Adjustment Act of 1938, as amended [[7 U.S.C. 1281](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) et seq.], the acreage which is determined under regulations of the Secretary to have been diverted from the production of wheat under the special programs formulated pursuant to section 307 of this Act, section 339 of the Agricultural Adjustment Act of 1938, as amended [[7 U.S.C. 1339](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1339)], and section 124 of the Agricultural Act of 1961, shall be credited to the State, county, and farm as though such acreage had actually been devoted to the production of wheat.
 
 ### Statutory Notes
 
 #### References in Text
-Section 307 of this Act (the Food and Agriculture Act of 1962) and section 124 of the Agricultural Act of 1961, referred to in text, are set out as notes under [section 1334 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1334).
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+
+Section 307 of this Act and section 124 of the Agricultural Act of 1961, referred to in text, are, respectively, section 307 of Pub. L. 87–703 and section 124 of Pub. L. 87–128, which were formerly set out as notes under [section 1334 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1334).
 
 #### Codification
 Section was enacted as part of the Food and Agriculture Act of 1962, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
@@ -2531,7 +2541,7 @@ Section was enacted as part of the Agricultural Act of 1970, and not as part of 
 <a id="section-1342a"></a>
 ## § 1342a. Supplemental provisions relating to wheat marketing quotas; marketing penalty for rice; crop loans on cotton, wheat, rice, tobacco, and peanuts
 
-Notwithstanding the other provisions of this chapter—
+Notwithstanding the provisions of the Agricultural Adjustment Act of 1938, as amended [[7 U.S.C. 1281](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) et seq.] (hereinafter referred to as the Act)—
 
 (1) The farm marketing quota for any crop of wheat shall be the actual production of the acreage planted to such crop of wheat on the farm less the farm marketing excess. The farm marketing excess shall be an amount equal to twice the projected farm yield multiplied by the number of acres of such crop of wheat on the farm in excess of the farm acreage allotment for such crop unless the producer, in accordance with regulations issued by the Secretary and within the time prescribed therein, establishes to the satisfaction of the Secretary the actual production of such crop of wheat on the farm. If such actual production is so established, the farm marketing excess shall be an amount equal to the actual production of the number of acres of wheat on the farm in excess of the farm acreage allotment for such crop. In determining the farm marketing quota and farm marketing excess, any acreage of wheat remaining after the date prescribed by the Secretary for the disposal of excess acres of wheat shall be included as acreage of wheat on the farm, and the production thereof shall be appraised in such manner as the Secretary determines will provide a reasonably accurate estimate of such production. Any acreage of wheat disposed of in accordance with regulations issued by the Secretary prior to such date as may be prescribed by the Secretary shall be excluded in determining the farm marketing quota and farm marketing excess. Self-seeded (volunteer) wheat shall be included in determining the acreage of wheat. Marketing quotas for any marketing year shall be in effect with respect to wheat harvested in the calendar year in which such marketing year begins notwithstanding that the wheat is marketed prior to the beginning of such marketing year.
 
@@ -2543,15 +2553,15 @@ Notwithstanding the other provisions of this chapter—
 
 (5) The penalty upon wheat stored shall be paid by the producer at the time, and to the extent, of any depletion in the amount of the commodity so stored, except depletion resulting from some cause beyond the control of the producer.
 
-(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotment exceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
+(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotment exceeds the planted acreage. The provisions of section 326(b) and (c) of the Act [[7 U.S.C. 1326(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1326/b&num=0&edition=prelim), (c)] shall be applicable also to wheat.
 
 (7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, who may deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
 
-(8) The marketing penalty for rice produced in the calendar year in which any marketing year begins (if beginning with or after the 1941–1942 marketing year) shall be at a rate equal to 50 per centum of the basic rate of the loan for cooperators for such marketing year under [section 1302 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1302) and this section.
+(8) The marketing penalty for rice produced in the calendar year in which any marketing year begins (if beginning with or after the 1941–1942 marketing year) shall be at a rate equal to 50 per centum of the basic rate of the loan for cooperators for such marketing year under section 302 of the Act [[7 U.S.C. 1302](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1302)] and this section.
 
 (9) Omitted.
 
-(10) The provisions of this section are amendatory of and supplementary to this chapter, and all provisions of law applicable in respect of marketing quotas and loans under such chapter as so amended and supplemented shall be applicable, but nothing in this section shall be construed to amend or repeal sections 1301(b)(6), 1323(b), or 1335(d) of this title.
+(10) The provisions of this section are amendatory of and supplementary to the Act, and all provisions of law applicable in respect of marketing quotas and loans under such Act as so amended and supplemented shall be applicable, but nothing in this section shall be construed to amend or repeal sections 301(b)(6), 323(b), or 335(d) of the Act [[7 U.S.C. 1301(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1301/b/6&num=0&edition=prelim), 1323(b), 1335(d)].
 
 (11) The persons liable for the payment or collection of the penalty on any amount of wheat shall be liable also for interest thereon at the rate of 6 per centum per annum from the date the penalty becomes due until the date of payment of such penalty.
 
@@ -2560,11 +2570,13 @@ Notwithstanding the other provisions of this chapter—
 ### Statutory Notes
 
 #### References in Text
-[Section 1302 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1302), referred to in par. (8), was repealed by act Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-[Section 1323(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1323/b&num=0&edition=prelim), referred to in par. (10), was repealed by act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902, and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
+Section 302 of the Act, referred to in par. (8), which was classified to [section 1302 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1302), was repealed by act Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057.
 
-[Section 1335(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1335/d&num=0&edition=prelim), referred to in par. (10), was repealed by Pub. L. 87–129, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
+Section 323(b) of the Act, referred to in par. (10), which was classified to [section 1323(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1323/b&num=0&edition=prelim), was repealed by act Aug. 28, 1954, ch. 1041, title III, § 304, 68 Stat. 902, and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
+
+Section 335(d) of the Act, referred to in par. (10), which was classified to [section 1335(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1335/d&num=0&edition=prelim), was repealed by Pub. L. 87–129, title I, § 122(e), Aug. 8, 1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
 
 #### Codification
 Section was not enacted as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
@@ -3014,9 +3026,12 @@ Act Mar. 13, 1939, ch. 9, 53 Stat. 512, in addition to amending former subsec. (
 <a id="section-1346"></a>
 ## § 1346. Exclusion of 1949 acreage in computation of future allotments
 
-Notwithstanding the provisions of subchapter III of this chapter, or of any other law, State, county, and farm acreage allotments and yields for cotton for any year after 1949 shall be computed without regard to yields or to the acreage planted to cotton in 1949.
+Notwithstanding the provisions of title III of the Agricultural Adjustment Act of 1938, as amended [[7 U.S.C. 1301](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1301) et seq.], or of any other law, State, county, and farm acreage allotments and yields for cotton for any year after 1949 shall be computed without regard to yields or to the acreage planted to cotton in 1949.
 
 ### Statutory Notes
+
+#### References in Text
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Title III of the Act is classified generally to subchapter II (§ 1301 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Section was not enacted as part of the Agriculture Adjustment Act of 1938 which comprises this chapter.
@@ -5102,7 +5117,7 @@ Administration of program of Commodity Credit Corporation transferred to Secreta
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 #### Determination of Rate of Loans, Payments, and Purchases Under Price Support Program; Notice and Public Participation in Rulemaking Not Required
-Pub. L. 99–198, title X, § 1017(b), Dec. 23, 1985, 99 Stat. 1459, as amended by Pub. L. 101–624, title XI, § 1144, Nov. 28, 1990, 104 Stat. 3516, provided that: “The Secretary of Agriculture shall determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 ([7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.) for any of the 1991 through 1995 crops of a commodity without regard to the requirements for notice and public participation in rulemaking prescribed in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, or in any directive of the Secretary.”
+Pub. L. 99–198, title X, § 1017(b), Dec. 23, 1985, 99 Stat. 1459, as amended by Pub. L. 101–624, title XI, § 1144, Nov. 28, 1990, 104 Stat. 3516, provided that the Secretary of Agriculture was to determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 ([7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.) for any of the 1991 through 1995 crops of a commodity without regard to notice and public participation in rulemaking requirements.
 
 
 <a id="section-1389"></a>

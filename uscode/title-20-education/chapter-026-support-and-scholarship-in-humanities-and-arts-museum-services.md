@@ -566,8 +566,6 @@ Subsecs. (j), (k). Pub. L. 90–348, § 2(b), inserted “of exceptional talent�
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 [title IV, § 403(a)] of Pub. L. 101–512, set out as a note under [section 951 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-951).
 
@@ -584,7 +582,7 @@ Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1
 For termination, effective May 15, 2000, of provisions in subsec. (q) of this section relating to quadrennially submitting the state of the arts report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 183 of House Document No. 103–7.
 
 #### GAO Study Regarding Federal, State, and Local Funding of the Arts
-Pub. L. 101–512, title III, § 318 [title I, § 111], Nov. 5, 1990, 104 Stat. 1960, 1974, provided that: “(a) Study Required.—The Comptroller General of the United States shall conduct a study—“(1) to evaluate the roles and responsibilities of the National Endowment for the Arts, the States (including State agencies), and local arts agencies, in providing financial assistance under section 5 of the National Foundation on the Arts and the Humanities Act of 1965 ([20 U.S.C. 954](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-954)), “(2) the relative effectiveness of the Endowment, the States (including State agencies), and local arts agencies in maximizing the amount of financial assistance they make available under such section, and “(3) the existing capacity of the States to receive increased allocations under section 5 of such Act and the ability of the States to manage such increased allocations effectively. “(b) Report Required.—Not later than October 1, 1992, the Comptroller General shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report summarizing the results of the study conducted under subsection (a).”
+Pub. L. 101–512, title III, § 318 [title I, § 111], Nov. 5, 1990, 104 Stat. 1960, 1974, required the Comptroller General of the United States to conduct a study to evaluate the roles and responsibilities of the National Endowment for the Arts, the States (including State agencies), and local arts agencies, in providing financial assistance under this section, the relative effectiveness of the Endowment, and the existing capacity of the States to receive and manage increased allocations, and to submit to Congress by Oct. 1, 1992, a report summarizing the results of the study.
 
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 Pub. L. 101–121, title III, § 304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
@@ -1088,8 +1086,6 @@ Subsec. (c)(5). Pub. L. 91–346, § 8(c), announced intention to foster educati
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 [title IV, § 403(a)] of Pub. L. 101–512, set out as a note under [section 951 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-951).

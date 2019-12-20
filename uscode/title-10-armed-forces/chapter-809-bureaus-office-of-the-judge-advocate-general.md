@@ -74,7 +74,7 @@ In subsection (b) the words “and shall have full force and effect as such” a
 In subsection (c) the words “Under the Secretary” are inserted to make the provisions of [5 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section413&num=0&edition=prelim) and [5 U.S.C. 430](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section430&num=0&edition=prelim), the latter of which is here codified, harmonious and to give meaning to each provision.
 
 #### Prior Provisions
-A prior section 8072 was renumbered [section 8037 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8037).
+A prior section 8072 was renumbered [section 9037 of this title](./chapter-905-the-air-staff.md#section-9037).
 
 A prior section 8074 was renumbered [section 9074 of this title](./chapter-907-the-air-force.md#section-9074).
 
@@ -294,7 +294,7 @@ Regulations required to be prescribed by amendment made by section 505 of Pub. L
 
 In subsection (a) the words “from officers on the active list in the line of the Navy” are substituted for the words “from the list of officers of the Navy” to conform to current terminology. Line officers alone had the “grade” of commander when the source statute was enacted. The words “or from officers having the rank of captain in the staff corps of the Navy” are omitted as obsolete in view of subsequent changes in the staff corps and in the staff corps ranks and grades. These words were derived from the Act of Mar. 3, 1871, ch. 117, § 10, 16 Stat. 537, which established new staff corps grades and assigned to officers in the highest grade the relative rank of captain. They were probably intended merely to assure the eligibility of senior staff corps officers for appointment as chiefs of appropriate staff bureaus. However, as incorporated in R.S. 421, they provide a category of eligible officers which is an alternative to each of the categories listed in R.S. 422–426. Thus R.S. 421 and R.S. 422, as originally enacted, provided that the chiefs of the four “line” bureaus, Yards and Docks, Navigation, Ordnance, and Equipment and Recruiting, could be appointed from line officers not below the grade of commander or from officers having the relative rank of captain in any staff corps. Pursuant to these sections the Attorney General held in 1898 that an officer having the relative rank of captain in the Civil Engineer Corps could legally be appointed as Chief of the Bureau of Yards and Docks (22 Op. Atty. Gen. 47, 17 Mar. 1898). There is some confusion in the opinion as to which corps was meant. The proposed appointee was a member of the Civil Engineer Corps, but the Corps of Engineers is the corps mentioned in the conclusion of the opinion. A provision in the Act of June 29, 1906, ch. 3590, 34 Stat. 564, requires that the Chief of the Bureau of Yards and Docks be selected from officers of the Civil Engineer Corps, so that there is no longer any question as to that bureau. The Bureau of Equipment and Recruiting has been abolished, leaving only the Bureau of Naval Personnel (formerly Navigation) and the Bureau of Ordnance of the four “line” bureaus originally listed in R.S. 422. The statutes establishing new “line” bureaus, the Bureau of Ships and the Bureau of Aeronautics, contain their own requirements as to the qualifications of the chiefs. The abolition of the Corps of Engineers and the Construction Corps, with the transfer of officers in those corps to the line, has eliminated the only staff corps whose members had duties closely related to those of line officers. The present staff corps, with the possible exception of the Supply Corps, are all highly specialized. Furthermore, in five of the seven corps, captain is no longer the highest grade. In view of these facts it is considered that the provision of R.S. 421 making staff corps captains eligible for appointment as Chief of the Bureaus of Naval Personnel and Ordnance is obsolete.
 
-In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on § 5137(b) of this title. The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on § 5134 of this title.
+In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on [§ 5137(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5137/b&num=0&edition=prelim). The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on [§ 5134 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5134&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 8081 was renumbered [section 9081 of this title](./chapter-907-the-air-force.md#section-9081).
@@ -556,7 +556,7 @@ In subsection (c), clauses (1) and (4) are substituted for the words “and perf
 Subsection (c)(2) is substituted for the reference, in [5 U.S.C. 428](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section428&num=0&edition=prelim), to courts-martial and courts of inquiry, since the Uniform Code of Military Justice has superseded prior law as to the duties of the Judge Advocates General relating to these courts.
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(a)(2), renumbered [section 5148 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 5148 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148&num=0&edition=prelim) as this section.
 
 2016—Subsec. (b). Pub. L. 114–328 struck out last sentence which read as follows: “The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.”
 
@@ -628,7 +628,7 @@ Pub. L. 90–179, § 10, Dec. 8, 1967, 81 Stat. 549, provided that: “This Act 
 | 5149(b) | [5 U.S.C. 444](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section444&num=0&edition=prelim) (last 19 words). | Aug. 29, 1916, ch. 417 (3d par., 122d word to end of par.), 39 Stat. 558. |
 | 5149(c) | [5 U.S.C. 432a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section432a&num=0&edition=prelim) (as applicable to JAG). | Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47. |
 
-Changes in phraseology are made to conform to the language used in § 5135 of this title.
+Changes in phraseology are made to conform to the language used in [§ 5135 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5135&num=0&edition=prelim).
 
 #### Amendments
 2018—Pub. L. 115–232, § 807(a)(2), renumbered [section 5149 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5149&num=0&edition=prelim) as this section.
@@ -740,7 +740,9 @@ Subsec. (c). Pub. L. 114–328, § 502(hh)(2), struck out subsec. (c) which read
 
 1987—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, § 1343(a)(23). See 1986 Amendment note below.
 
-1986—Subsec. (c). Pub. L. 99–661, as amended by Pub. L. 100–26, substituted “rear admiral (lower half)” for “commodore”.
+1986—Pub. L. 99–433 renumbered [section 5155 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5155&num=0&edition=prelim) as this section.
+
+Subsec. (c). Pub. L. 99–661, as amended by Pub. L. 100–26, substituted “rear admiral (lower half)” for “commodore”.
 
 1981—Subsec. (c). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 

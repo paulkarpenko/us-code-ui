@@ -43,7 +43,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Amendments
 2018—Pub. L. 115–232, § 807(c)(1), renumbered [section 6951a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6951a&num=0&edition=prelim) as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), “section 8371(a)” for “section 6371(a)” and “section 8371(b)” for “section 6371(b)”.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 8371(a)” for “section 6371(a)” and “section 8371(b)” for “section 6371(b)”.
 
 2004—Subsec. (b). Pub. L. 108–375, § 541(b)(2)(A), inserted before period at end “pursuant to [section 6371(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6371/a&num=0&edition=prelim), unless such retirement is waived under [section 6371(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6371/b&num=0&edition=prelim)”.
 
@@ -102,7 +102,7 @@ Midshipmen at the Naval Academy shall be appointed by the President alone. An ap
 ### Statutory Notes
 
 #### Historical and Revision Notes
-This section is included in this chapter without specific reference to statutory source to resolve the ambiguities and conflicts existing in the statutes relating to the appointment of midshipmen at the Naval Academy. The word “appoint” has been used in various statutes when the intent of Congress was to provide authority in the persons named to “choose,” “select,” or “nominate” for the office of midshipman. These statutes have been collected and codified in § 6954 of this title, which reflects the various sources of nominees for “appointment” as midshipmen and the persons who may so “nominate” them. The actual appointing power resides in the President and this implied authority is herein expressed for clarity and for the purpose of uniformity of expression.
+This section is included in this chapter without specific reference to statutory source to resolve the ambiguities and conflicts existing in the statutes relating to the appointment of midshipmen at the Naval Academy. The word “appoint” has been used in various statutes when the intent of Congress was to provide authority in the persons named to “choose,” “select,” or “nominate” for the office of midshipman. These statutes have been collected and codified in [§ 6954 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6954&num=0&edition=prelim), which reflects the various sources of nominees for “appointment” as midshipmen and the persons who may so “nominate” them. The actual appointing power resides in the President and this implied authority is herein expressed for clarity and for the purpose of uniformity of expression.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 6953 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6953&num=0&edition=prelim) as this section.
@@ -198,7 +198,7 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 | 6954(b)(4) | [34 U.S.C. 1033a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1033a&num=0&edition=prelim). | Feb. 27, 1936, ch. 89, 49 Stat. 1144; June 6, 1941, ch. 175, 55 Stat. 246. |
 | 6954(c) | [34 U.S.C. 1038](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1038&num=0&edition=prelim). | Nov. 24, 1945, ch. 492, 59 Stat. 586. |
 
-All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in § 6953 of this title. In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in § 6958(b) of this title.
+All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in [§ 6953 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6953&num=0&edition=prelim). In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in [§ 6958(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6958/b&num=0&edition=prelim).
 
 In subsection (a)(1) the words “armed forces” are substituted for the description of the land and naval forces. The words “including male and female members of” and “of all components thereof” are omitted as surplusage.
 
@@ -206,7 +206,7 @@ In subsection (a)(1)(B), the date February 1, 1955, fixed by Proclamation No. 30
 
 In subsection (b)(1) the qualification that appointees must be from the sons of members of the various “regular” components of the armed forces is added, as “Army, Navy, Air Force, Marine Corps, and Coast Guard” are so interpreted in this statute.
 
-In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by § 6958 of this title setting forth qualifications of all candidates.
+In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by [§ 6958 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6958&num=0&edition=prelim) setting forth qualifications of all candidates.
 
 The applicability to the United States Military Academy in the Act of June 8, 1926, ch. 492, as amended ([34 U.S.C. 1036a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1036a&num=0&edition=prelim); [10 U.S.C. 1091a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1091a&num=0&edition=prelim)), was repealed by section 6(c) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
 
@@ -776,7 +776,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 | 6964(d), (e) | [34 U.S.C. 1066](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1066&num=0&edition=prelim). | June 23, 1874, ch. 453, 18 Stat. 203; Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (29th to 49th word of 1st proviso); Apr. 9, 1906, ch. 1370, § 3, 34 Stat. 104; May 5, 1950, ch. 169, § 11, 64 Stat. 146. |
 | 6964(f) | [34 U.S.C. 1067](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1067&num=0&edition=prelim). | Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (last 43 words of 1st proviso). |
 
-In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover § 6965 of this title, since the reference in that section to hazing was also derived from the act which is the source for this subsection.
+In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover [§ 6965 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6965&num=0&edition=prelim), since the reference in that section to hazing was also derived from the act which is the source for this subsection.
 
 In subsection (b) the words “prescribe regulations * * * to prevent hazing” are substituted for the words “make such rules * * * as will effectually prevent the practice of hazing”.
 

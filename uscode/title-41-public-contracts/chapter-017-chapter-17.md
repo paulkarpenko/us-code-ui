@@ -342,6 +342,9 @@ Pub. L. 112–74 struck out “for training” after “amounts collected” and
 
 Subsec. (l). Pub. L. 112–81, § 864(c)(2), added subsec. (l).
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
@@ -538,13 +541,13 @@ Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, pr
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(2), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended by striking “commercial items” and inserting “commercial products and commercial services”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1705 | 41:418. | Pub. L. 93–400, § 20, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title VIII, § 8303(a), Oct. 13, 1994, 108 Stat. 3398. |
-
-#### Amendment of Subsection (c)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(2), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended by striking “commercial items” and inserting “commercial products and commercial services”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (c). Pub. L. 115–232 substituted “commercial products and commercial services” for “commercial items”.
@@ -731,6 +734,9 @@ In subsection (a)(2), the words “Notwithstanding the preceding sentence” are
 
 ### Statutory Notes
 
+#### Amendment of Subsections (c)(6) and (e)(3)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(3), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (c)(6) and (e)(3) of this section are amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -754,9 +760,6 @@ Subsection (d) is substituted for 41:416(a)(2) and (7) to eliminate unnecessary 
 In subsection (e)(1)(B)(i), the words “required for a bid or proposal for a contract described in” are substituted for “required by” for clarity.
 
 In subsection (e)(1)(B)(ii), the words “required for an order described in” are substituted for “required by” for clarity.
-
-#### Amendment of Subsections (c)(6) and (e)(3)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(3), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (c)(6) and (e)(3) of this section are amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsecs. (c)(6), (e)(3). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.

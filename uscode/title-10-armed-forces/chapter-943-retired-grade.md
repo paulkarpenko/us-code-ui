@@ -251,9 +251,11 @@ Subsections (c) and (d) are inserted, since sections 8964 and 8965 of this title
 | 8966(a) 8966(b) | 10 App.:1001. 10 App.:1036. | July 24, 1956, ch. 677, § 2(f), (g), 70 Stat. 623. |
 
 #### Prior Provisions
-Prior sections 9346 to 9360 were renumbered sections 9446 to 9460 of this title, respectively.
+Prior sections 9346 to 9356 were renumbered sections 9446 to 9456 of this title, respectively.
 
 Another prior section 9356, added Pub. L. 103–337, div. A, title V, § 556(c)(1), Oct. 5, 1994, 108 Stat. 2775, related to position of athletic director of Academy and to administration of nonappropriated fund account for athletics program of Academy, prior to repeal by Pub. L. 104–106, div. A, title V, § 533(c)(1), Feb. 10, 1996, 110 Stat. 315.
+
+Prior sections 9357 to 9360 were renumbered sections 9457 to 9460 of this title, respectively.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 8966 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8966&num=0&edition=prelim) as this section.

@@ -730,7 +730,7 @@ Subsec. (e). Pub. L. 107–171, § 7125(1), (2), added subsec. (e). Former subse
 Subsec. (f). Pub. L. 107–171, § 7125(1), (3), redesignated subsec. (e) as (f) and substituted “2007” for “2002”.
 
 #### Effective Date of 2018 Amendment
-Amendment by section 7614(b)(3)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by section 7614(b)(3)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1190,7 +1190,7 @@ Subsec. (h)(2). Pub. L. 112–240, § 701(e)(2)(B), inserted “for fiscal years
 Subsec. (h)(3) to (5). Pub. L. 112–240, § 701(e)(2)(C), (D), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 #### Effective Date of 2018 Amendment
-Amendment by section 7614(b)(3)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by section 7614(b)(3)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1570,7 +1570,7 @@ A prior section 617 of Pub. L. 105–185, title VI, June 23, 1998, 112 Stat. 607
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
 
 #### Definitions
-“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a Definition of “Secretary” note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 Pub. L. 115–334, title VIII, § 8641, Dec. 20, 2018, 132 Stat. 4871, provided that: “In this part [part III (§§ 8641–8644) of subtitle F of title VIII of Pub. L. 115–334, enacting this section and [section 7655d of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7655d) and amending [section 8113 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8113)]: “(1) Innovative wood product.—The term ‘innovative wood product’ means a type of building component or system that uses large panelized wood construction, including mass timber. “(2) Mass timber.—The term ‘mass timber’ includes—“(A) cross-laminated timber; “(B) nail laminated timber; “(C) glue laminated timber; “(D) laminated strand lumber; and “(E) laminated veneer lumber. “(3) Secretary.—The term ‘Secretary’ means the Secretary [of Agriculture], acting through the Research and Development deputy area and the State and Private Forestry deputy area of the Forest Service. “(4) Tall wood building.—The term ‘tall wood building’ means a building designed to be—“(A) constructed with mass timber; and “(B) more than 85 feet in height.”
 
@@ -1605,7 +1605,7 @@ Pub. L. 115–334, title VIII, § 8641, Dec. 20, 2018, 132 Stat. 4871, provided 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
 
 #### Definitions
-“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a Definition of “Secretary” note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 For definition of “innovative wood product”, see section 8641 of Pub. L. 115–334, set out as a note under [section 7655c of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7655c).
 

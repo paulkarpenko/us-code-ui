@@ -1509,7 +1509,7 @@ In carrying out this subsection, the Attorney General may use existing risk and 
 
     (lxi) Section 278 of the Immigration and Nationality Act ([8 U.S.C. 1328](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1328&num=0&edition=prelim)), relating to the importation of an alien into the United States for an immoral purpose.
 
-    (lxii) Any section of the Export Administration Act of 1979 ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim) et seq.)
+    (lxii) Any section of the Export Administration Act of 1979 ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim) et seq.) 22 So in original. Probably should be followed by a period.
 
     (lxiii) Section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)).
 

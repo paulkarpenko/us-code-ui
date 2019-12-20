@@ -405,7 +405,7 @@ Pub. L. 115–91, div. B, title XXVIII, § 2806, Dec. 12, 2017, 131 Stat. 1847, 
 Section, as added and amended by Pub. L. 115–232, is based on Pub. L. 114–328, div. A, title XVI, § 1696, Dec. 23, 2016, 130 Stat. 2638, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments
-2018—Pub. L. 115–232, § 1677(b)(1), in section catchline, substituted “§ ” for “SEC.” and “Unfunded priorities of the Missile Defense Agency: annual report” for“REPORTS ON UNFUNDED PRIORITIES OF THE MISSILE DEFENSE AGENCY.”
+2018—Pub. L. 115–232, § 1677(b)(1), in section catchline, substituted “§ ” for “SEC.” and “Unfunded priorities of the Missile Defense Agency: annual report” for “REPORTS ON UNFUNDED PRIORITIES OF THE MISSILE DEFENSE AGENCY.”
 
 Pub. L. 115–232, § 1677(a)(1), transferred section 1696 of Pub. L. 114–328 to this chapter and renumbered it as this section. See Codification note above.
 
@@ -420,7 +420,7 @@ Subsec. (c)(3). Pub. L. 115–232, § 1677(a)(2)(B), substituted “in connectio
 
 <a id="section-222c"></a>
 ## § 222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers
-**(a) Annual reports.—** At the same time each year that the budget for the fiscal year beginning in such year is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the chief of staff of each armed force (other than the Coast Guard) shall submit to the congressional defense committees a report setting forth for such armed force each of the following for such fiscal year, broken out as specified in subsection (b):
+**(a) Annual Reports.—** At the same time each year that the budget for the fiscal year beginning in such year is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the chief of staff of each armed force (other than the Coast Guard) shall submit to the congressional defense committees a report setting forth for such armed force each of the following for such fiscal year, broken out as specified in subsection (b):
 
 (1) The Out-Year Unconstrained Total Munitions Requirement.
 
@@ -442,7 +442,7 @@ Subsec. (c)(3). Pub. L. 115–232, § 1677(a)(2)(B), substituted “in connectio
 
 (7) Out-year worldwide inventory.
 
-**(c) Implementation guidance used.—** In submitting information pursuant to subsection (a) for a fiscal year, the chief of staff of each armed force shall describe and explain the munitions requirements process implementation guidance developed by the Under Secretary of Defense for Acquisition and Sustainment and used by such armed force for the munitions requirements process for such armed force for that fiscal year.
+**(c) Implementation Guidance Used.—** In submitting information pursuant to subsection (a) for a fiscal year, the chief of staff of each armed force shall describe and explain the munitions requirements process implementation guidance developed by the Under Secretary of Defense for Acquisition and Sustainment and used by such armed force for the munitions requirements process for such armed force for that fiscal year.
 
 **(d) Definitions.—** In this section:
 

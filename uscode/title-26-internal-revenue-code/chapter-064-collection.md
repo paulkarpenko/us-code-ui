@@ -332,7 +332,7 @@ Section effective Aug. 1, 1975, see section 101(f) of Pub. L. 93–647, set out 
 
   (A) to locate and contact any taxpayer specified by the Secretary,
 
-  (B) to request full payment from such taxpayer of an amount of Federal tax specified by the Secretary and, if such request cannot be met by the taxpayer, to offer the taxpayer an installment agreement providing for full payment of such amount during a period not to exceed 5 years, and
+  (B) to request full payment from such taxpayer of an amount of Federal tax specified by the Secretary and, if such request cannot be met by the taxpayer, to offer the taxpayer an installment agreement providing for full payment of such amount during a period not to exceed 7 years, and
 
   (C) to obtain financial information specified by the Secretary with respect to such taxpayer,
 
@@ -431,10 +431,29 @@ The Secretary shall keep adequate records regarding amounts so retained and used
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–25, title I, § 1205(a), (b), (e), July 1, 2019, 133 Stat. 989, applicable to tax receivables identified by the Secretary (or the Secretary’s delegate) after Dec. 31, 2020, amended this section as follows:
+
+(1) in subsection (c)(2)(A)(ii), by striking “more than ⅓ of the period of the applicable statute of limitation has lapsed” and inserting “more than 2 years has passed since assessment”; and
+
+(2) in subsection (d)(3), by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraphs:
+
+“(E) a taxpayer substantially all of whose income consists of disability insurance benefits under section 223 of the Social Security Act or supplemental security income benefits under title XVI of the Social Security Act (including supplemental security income benefits of the type described in section 1616 of such Act or section 212 of Public Law 93–66), or
+
+“(F) a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 200 percent of the applicable poverty level (as determined by the Secretary),”.
+
+See 2019 Amendment notes below.
+
 #### References in Text
 The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(1)(B). Pub. L. 116–25, § 1205(c), substituted “7 years” for “5 years”.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 116–25, § 1205(b), substituted “more than 2 years has passed since assessment” for “more than ⅓ of the period of the applicable statute of limitation has lapsed”.
+
+Subsec. (d)(3)(E), (F). Pub. L. 116–25, § 1205(a), added subpars. (E) and (F).
+
 2018—Subsec. (e)(2). Pub. L. 115–141, § 401(a)(351), made technical amendment to directory language of Pub. L. 114–94, § 32103(a). See 2015 Amendment note below.
 
 2015—Subsec. (c). Pub. L. 114–94, § 32102(a), added subsec. (c). Former subsec. (c) redesignated (e).
@@ -456,6 +475,9 @@ Subsec. (i). Pub. L. 114–94, § 32102(e), added subsec. (i).
 Subsec. (j). Pub. L. 114–94, § 32102(f)(1), added subsec. (j).
 
 Subsec. (k). Pub. L. 114–94, § 32102(a), (b), (c), (e), (f)(1), successively redesignated subsec. (f) as (g), (h), (i), (j), and then (k).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1205(e), July 1, 2019, 133 Stat. 989, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and [section 6307 of this title](./chapter-064-collection.md#section-6307)] shall apply to tax receivables identified by the Secretary (or the Secretary’s delegate) after December 31, 2020. “(2) Maximum length of installment agreements.—The amendment made by subsection (c) [amending this section] shall apply to contracts entered into after the date of the enactment of this Act [July 1, 2019]. “(3) Use of special compliance personnel program account.—The amendment made by subsection (d) [amending [section 6307 of this title](./chapter-064-collection.md#section-6307)] shall apply to amounts expended from the special compliance personnel program account after the date of the enactment of this Act.”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–94, div. C, title XXXII, § 32102(g)(1), (2), Dec. 4, 2015, 129 Stat. 1736, provided that: “(1) In general.—The amendments made by subsections (a) and (b) [amending this section] shall apply to tax receivables identified by the Secretary [probably means Secretary of the Treasury] after the date of the enactment of this Act [Dec. 4, 2015]. “(2) Contracting priority.—The Secretary shall begin entering into contracts and agreements as described in the amendment made by subsection (c) [amending this section] within 3 months after the date of the enactment of this Act.”
@@ -479,9 +501,9 @@ Pub. L. 108–357, title VIII, § 881(e), Oct. 22, 2004, 118 Stat. 1627, directe
 
 (1) No funds shall be transferred to such account except as described in subsection (a).
 
-(2) No other funds from any other source shall be expended for special compliance personnel employed under such program, and no funds from such account shall be expended for the hiring of any personnel other than special compliance personnel.
+(2) No other funds from any other source shall be expended for special compliance personnel employed under such program.
 
-(3) Notwithstanding any other authority, the Secretary is prohibited from spending funds out of such account for any purpose other than for costs under such program associated with the employment of special compliance personnel and the retraining and reassignment of current noncollections personnel as special compliance personnel, and to reimburse the Internal Revenue Service or other government agencies for the cost of administering qualified tax collection contracts under section 6306.
+(3) Notwithstanding any other authority, the Secretary is prohibited from spending funds out of such account for other than program costs.
 
 **(c) Reporting** Not later than March of each year, the Commissioner of Internal Revenue shall submit a report to the Committees on Finance and Appropriations of the Senate and the Committees on Ways and Means and Appropriations of the House of Representatives consisting of the following:
 
@@ -497,10 +519,26 @@ Pub. L. 108–357, title VIII, § 881(e), Oct. 22, 2004, 118 Stat. 1627, directe
 
 (2) **Program costs** — The term “program costs” means—
 
-  (A) total salaries (including locality pay and bonuses), benefits, and employment taxes for special compliance personnel employed or trained under the program described in subsection (a), and
+  (A) total salaries (including locality pay and bonuses), benefits, and employment taxes for special compliance personnel employed or trained under the program described in subsection (a),
 
-  (B) direct overhead costs, salaries, benefits, and employment taxes relating to support staff, rental payments, office equipment and furniture, travel, data processing services, vehicle costs, utilities, telecommunications, postage, printing and reproduction, supplies and materials, lands and structures, insurance claims, and indemnities for special compliance personnel hired and employed under this section.
+  (B) direct overhead costs, salaries, benefits, and employment taxes relating to support staff, rental payments, office equipment and furniture, travel, data processing services, vehicle costs, utilities, communications, software, technology, postage, printing and reproduction, supplies and materials, lands and structures, insurance claims, and indemnities for special compliance personnel hired and employed under this section, and
+
+  (C) reimbursement of the Internal Revenue Service or other government agencies for the cost of administering the qualified tax collection program under section 6306.
   For purposes of subparagraph (B), the cost of management and supervision of special compliance personnel shall be taken into account as direct overhead costs to the extent such costs, when included in total program costs under this paragraph, do not represent more than 10 percent of such total costs.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–25, § 1205(d)(1)(A), substituted period for “, and no funds from such account shall be expended for the hiring of any personnel other than special compliance personnel.”
+
+Subsec. (b)(3). Pub. L. 116–25, § 1205(d)(1)(B), substituted “for other than program costs.” for “for any purpose other than for costs under such program associated with the employment of special compliance personnel and the retraining and reassignment of current noncollections personnel as special compliance personnel, and to reimburse the Internal Revenue Service or other government agencies for the cost of administering qualified tax collection contracts under section 6306.”.
+
+Subsec. (d)(2)(B). Pub. L. 116–25, § 1205(d)(2), substituted “communications, software, technology” for “telecommunications”.
+
+Subsec. (d)(2)(C). Pub. L. 116–25, § 1205(d)(3), added subpar. (C).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–25 applicable to amounts expended from the special compliance personnel program account after July 1, 2019, see section 1205(e)(3) of Pub. L. 116–25, set out in a note under [section 6306 of this title](./chapter-064-collection.md#section-6306).
 
 
 <a id="section-6311"></a>
@@ -530,7 +568,7 @@ and such amount shall be paid out of such assets in preference to any other clai
 
   (D) ensure that tax matters will be resolved by the Secretary, without the involvement of financial intermediaries.
 
-(2) **Authority to enter into contracts** — Notwithstanding [section 3718(f) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3718/f&num=0&edition=prelim), United States Code, the Secretary is authorized to enter into contracts to obtain services related to receiving payment by other means where cost beneficial to the Government. The Secretary may not pay any fee or provide any other consideration under any such contract for the use of credit, debit, or charge cards for the payment of taxes imposed by subtitle A.
+(2) **Authority to enter into contracts** — Notwithstanding [section 3718(f) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3718/f&num=0&edition=prelim), United States Code, the Secretary is authorized to enter into contracts to obtain services related to receiving payment by other means where cost beneficial to the Government. The Secretary may not pay any fee or provide any other consideration under any such contract for the use of credit, debit, or charge cards for the payment of taxes imposed by subtitle A. The preceding sentence shall not apply to the extent that the Secretary ensures that any such fee or other consideration is fully recouped by the Secretary in the form of fees paid to the Secretary by persons paying taxes imposed under subtitle A with credit, debit, or charge cards pursuant to such contract. Notwithstanding the preceding sentence, the Secretary shall seek to minimize the amount of any fee or other consideration that the Secretary pays under any such contract.
 
 (3) **Special provisions for use of credit cards** — If use of credit cards is accepted as a method of payment of taxes pursuant to subsection (a)—
 
@@ -571,6 +609,8 @@ and such amount shall be paid out of such assets in preference to any other clai
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d)(2). Pub. L. 116–25 inserted at end “The preceding sentence shall not apply to the extent that the Secretary ensures that any such fee or other consideration is fully recouped by the Secretary in the form of fees paid to the Secretary by persons paying taxes imposed under subtitle A with credit, debit, or charge cards pursuant to such contract. Notwithstanding the preceding sentence, the Secretary shall seek to minimize the amount of any fee or other consideration that the Secretary pays under any such contract.”
+
 2018—Subsec. (d)(3)(D). Pub. L. 115–141 substituted “section 103(g)” for “section 103(f)” and “1602(g)” for “1602(f)”.
 
 1998—Subsec. (d)(2). Pub. L. 105–277 substituted “under any such contract for the use of credit, debit, or charge cards for the payment of taxes imposed by subtitle A” for “under such contracts”.
@@ -717,7 +757,7 @@ Section applicable with respect to calendar years beginning after Dec. 31, 1969,
 
 **(b) Right to fair hearing**
 
-(1) **In general** — If the person requests a hearing in writing under subsection (a)(3)(B) and states the grounds for the requested hearing, such hearing shall be held by the Internal Revenue Service Office of Appeals.
+(1) **In general** — If the person requests a hearing in writing under subsection (a)(3)(B) and states the grounds for the requested hearing, such hearing shall be held by the Internal Revenue Service Independent Office of Appeals.
 
 (2) **One hearing per period** — A person shall be entitled to only one hearing under this section with respect to the taxable period to which the unpaid tax specified in subsection (a)(3)(A) relates.
 
@@ -733,6 +773,8 @@ Section applicable with respect to calendar years beginning after Dec. 31, 1969,
 Section 32101 of the FAST Act, referred to in subsec. (a)(3)(E), is section 32101 of Pub. L. 114–94, which enacted [section 7345 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7345) and [section 2714a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2714a&num=0&edition=prelim), Foreign Relations and Intercourse, and amended this section and sections 6103, 6331, and 7508 of this title.
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
+
 2015—Subsec. (a)(3)(E). Pub. L. 114–94 added subpar. (E).
 
 Subsec. (c). Pub. L. 114–113 substituted “(3)(B)” for “(2)(B)”.
@@ -1511,7 +1553,7 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 
 **(b) Right to fair hearing**
 
-(1) **In general** — If the person requests a hearing in writing under subsection (a)(3)(B) and states the grounds for the requested hearing, such hearing shall be held by the Internal Revenue Service Office of Appeals.
+(1) **In general** — If the person requests a hearing in writing under subsection (a)(3)(B) and states the grounds for the requested hearing, such hearing shall be held by the Internal Revenue Service Independent Office of Appeals.
 
 (2) **One hearing per period** — A person shall be entitled to only one hearing under this section with respect to the taxable period to which the unpaid tax specified in subsection (a)(3)(A) relates.
 
@@ -1560,7 +1602,7 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 
 (2) **Suspension of running of period for filing petition in title 11 cases** — In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter.
 
-(3) **Jurisdiction retained at IRS Office of Appeals** — The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
+(3) **Jurisdiction retained at IRS Independent Office of Appeals** — The Internal Revenue Service Independent Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
 
   (A) collection actions taken or proposed with respect to such determination; and
 
@@ -1594,7 +1636,11 @@ this section shall not apply, except that the taxpayer shall be given the opport
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (c). Pub. L. 115–141, § 401(a)(281), substituted “subsection (d)(3)(B)” for “subsection (d)(2)(B)” in concluding provisions.
+2019—Subsec. (b)(1). Pub. L. 116–25, § 1001(b)(1)(C), substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
+
+Subsec. (d)(3). Pub. L. 116–25 inserted “Independent” after “IRS” in heading and substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals” in introductory provisions.
+
+2018—Subsec. (c)(4). Pub. L. 115–141, § 401(a)(281), substituted “subsection (d)(3)(B)” for “subsection (d)(2)(B)” in concluding provisions.
 
 Subsec. (d)(2). Pub. L. 115–141, § 401(a)(282), substituted “thereafter.” for “thereafter, and”.
 
@@ -2392,7 +2438,7 @@ Pub. L. 105–206, title III, § 3443, July 22, 1998, 112 Stat. 762, provided th
 <a id="section-6336"></a>
 ## § 6336. Sale of perishable goods
 
-If the Secretary determines that any property seized is liable to perish or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense, he shall appraise the value of such property and—
+If the Secretary determines that any property seized is liable to perish, he shall appraise the value of such property and—
 
 (1) **Return to owner** — If the owner of the property can be readily found, the Secretary shall give him notice of such determination of the appraised value of the property. The property shall be returned to the owner if, within such time as may be specified in the notice, the owner—
 
@@ -2405,7 +2451,12 @@ If the Secretary determines that any property seized is liable to perish or beco
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–25 struck out “or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense” after “to perish” in introductory provisions.
+
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1404(b), July 1, 2019, 133 Stat. 997, provided that: “The amendment made by this section [amending this section] shall apply to property seized after the date of the enactment of this Act [July 1, 2019].”
 
 
 <a id="section-6337"></a>
@@ -2557,7 +2608,7 @@ The Secretary shall determine the expenses to be allowed in all cases of levy an
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–141 substituted “subsection (d)(2)” for “subsection (c)(2)”.
+2018—Subsec. (a). Pub. L. 115–141 substituted “subsection (d)(2)” for “subsection (c)(2)” in introductory provisions.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

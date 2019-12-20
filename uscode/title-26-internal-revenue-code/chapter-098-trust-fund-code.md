@@ -288,10 +288,10 @@ The Airport and Airway Extension Act of 2018, Part II, referred to in subsec. (d
 
 The FAA Reauthorization Act of 2018, referred to in subsec. (d)(1)(A), is Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3186. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) and Tables.
 
-The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of the enactment of the FAA Reauthorization Act of 2018, Pub. L. 115–254, which was approved Oct. 5, 2018.
+The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of enactment of the FAA Reauthorization Act of 2018, Pub. L. 115–254, which was approved Oct. 5, 2018.
 
 #### Amendments
-2018—Subsec. (d)(1). Pub. L. 115–254, § 801(a)(1), substituted “October 1, 2023” for “October 1, 2018”.
+2018—Subsec. (d)(1). Pub. L. 115–254, § 801(a)(1), substituted “October 1, 2023” for “October 1, 2018” in introductory provisions.
 
 Pub. L. 115–141, § 201(a)(1), substituted “October 1, 2018” for “April 1, 2018” in introductory provisions.
 
@@ -2778,7 +2778,7 @@ Pub. L. 100–203, title IX, § 9202(c), Dec. 22, 1987, 101 Stat. 1330–331, pr
 
 (2) the decrease in the tax imposed by chapter 1 resulting from the fees imposed by such subchapter.
 
-**(f) Termination** No amounts shall be available for expenditure from the PCORTF after September 30, 2019, and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.
+**(f) Termination** No amounts shall be available for expenditure from the PCORTF after December 20, 2019, and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.
 
 ### Statutory Notes
 
@@ -2791,6 +2791,11 @@ Section 937 of the Public Health Service Act, referred to in subsec. (d)(2)(A), 
 
 #### Prior Provisions
 A prior section 9511, added Pub. L. 102–240, title VIII, § 8003(a), Dec. 18, 1991, 105 Stat. 2205; amended Pub. L. 105–130, § 9(c), Dec. 1, 1997, 111 Stat. 2561, related to National Recreational Trails Trust Fund, prior to repeal by Pub. L. 105–178, title IX, § 9011(a), June 9, 1998, 112 Stat. 508.
+
+#### Amendments
+2019—Subsec. (f). Pub. L. 116–69 substituted “December 20” for “November 21”.
+
+Pub. L. 116–59 substituted “November 21” for “September 30”.
 
 
 <a id="section-9602"></a>

@@ -206,7 +206,9 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(1), (2), dollar amount “15,325” was adjusted to “15,775”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(1), (2), dollar amount “15,775” was adjusted to “16,750”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(1), (2), dollar amount “15,325” was adjusted to “15,775”.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(1), (2), dollar amount “14,425” was adjusted to “15,325”.
 
@@ -377,7 +379,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 <a id="section-322"></a>
 ## § 322. Qualification of trustee
-**(a)** Except as provided in subsection (b)(1), a person selected under section 701, 702, 703, 1104, 1163, 1202, or 1302 of this title to serve as trustee in a case under this title qualifies if before seven days after such selection, and before beginning official duties, such person has filed with the court a bond in favor of the United States conditioned on the faithful performance of such official duties.
+**(a)** Except as provided in subsection (b)(1), a person selected under section 701, 702, 703, 1104, 1163, 1183, 1202, or 1302 of this title to serve as trustee in a case under this title qualifies if before seven days after such selection, and before beginning official duties, such person has filed with the court a bond in favor of the United States conditioned on the faithful performance of such official duties.
 
 **(b)**
 
@@ -402,6 +404,8 @@ Section 322(a) is modified to include a trustee serving in a railroad reorganiza
 A trustee qualifies in a case by filing, within five days after selection, a bond in favor of the United States, conditioned on the faithful performance of his official duties. This section is derived from the Bankruptcy Act section 50b [section 78(b) of former title 11]. The court is required to determine the amount of the bond and the sufficiency of the surety on the bond. Subsection (c), derived from Bankruptcy Act section 50i [section 78(i) of former title 11], relieves the trustee from personal liability and from liability on his bond for any penalty or forfeiture incurred by the debtor. Subsection (d), derived from section 50m [section 78(m) of former title 11], fixes a two-year statute of limitations on any action on a trustee’s bond. Finally, subsection (e) dispenses with the bonding requirement for the United States trustee.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–54 inserted “1183,” after “1163,”.
+
 2009—Subsec. (a). Pub. L. 111–16 substituted “seven days” for “five days”.
 
 1994—Subsec. (a). Pub. L. 103–394 substituted “1202, or 1302” for “1302, or 1202”.
@@ -413,6 +417,9 @@ Pub. L. 99–554, § 207(1), substituted “Except as provided in subsection (b)
 Subsec. (b). Pub. L. 99–554, § 207(2), amended subsec. (b) generally, adding par. (1), designating existing provisions as par. (2), substituting “The United States trustee” for “The court”, “(A) the amount” for “(1) the amount”, and “(B) the sufficiency” for “(2) the sufficiency”.
 
 1984—Subsec. (b)(1). Pub. L. 98–353 inserted “required to be”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 111–16, set out as a note under [section 109 of this title](./chapter-001-general-provisions.md#section-109).
@@ -472,9 +479,9 @@ Section 325, derived from Bankruptcy Act section 46 [section 74 of former title 
 
 <a id="section-326"></a>
 ## § 326. Limitation on compensation of trustee
-**(a)** In a case under chapter 7 or 11, the court may allow reasonable compensation under [section 330 of this title](./chapter-003-case-administration.md#section-330) of the trustee for the trustee’s services, payable after the trustee renders such services, not to exceed 25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000, upon all moneys disbursed or turned over in the case by the trustee to parties in interest, excluding the debtor, but including holders of secured claims.
+**(a)** In a case under chapter 7 or 11, other than a case under subchapter V of chapter 11, the court may allow reasonable compensation under [section 330 of this title](./chapter-003-case-administration.md#section-330) of the trustee for the trustee’s services, payable after the trustee renders such services, not to exceed 25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000, upon all moneys disbursed or turned over in the case by the trustee to parties in interest, excluding the debtor, but including holders of secured claims.
 
-**(b)** In a case under chapter 12 or 13 of this title, the court may not allow compensation for services or reimbursement of expenses of the United States trustee or of a standing trustee appointed under [section 586(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section586/b&num=0&edition=prelim), but may allow reasonable compensation under [section 330 of this title](./chapter-003-case-administration.md#section-330) of a trustee appointed under section 1202(a) or 1302(a) of this title for the trustee’s services, payable after the trustee renders such services, not to exceed five percent upon all payments under the plan.
+**(b)** In a case under subchapter V of chapter 11 or chapter 12 or 13 of this title, the court may not allow compensation for services or reimbursement of expenses of the United States trustee or of a standing trustee appointed under [section 586(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section586/b&num=0&edition=prelim), but may allow reasonable compensation under [section 330 of this title](./chapter-003-case-administration.md#section-330) of a trustee appointed under section 1202(a) or 1302(a) of this title for the trustee’s services, payable after the trustee renders such services, not to exceed five percent upon all payments under the plan.
 
 **(c)** If more than one person serves as trustee in the case, the aggregate compensation of such persons for such service may not exceed the maximum compensation prescribed for a single trustee by subsection (a) or (b) of this section, as the case may be.
 
@@ -503,6 +510,10 @@ Subsection (d) [enacted as (c)] provides a limitation not found in current law. 
 Subsection (e) [enacted as (d)] permits the court to deny compensation to a trustee if the trustee has been derelict in his duty by employing counsel, who is not disinterested.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–54, § 4(a)(4)(A), inserted “, other than a case under subchapter V of chapter 11” after “7 or 11”.
+
+Subsec. (b). Pub. L. 116–54, § 4(a)(4)(B), inserted “subchapter V of chapter 11 or” after “In a case under”.
+
 1994—Subsec. (a). Pub. L. 103–394 substituted “25 percent on the first $5,000 or less, 10 percent on any amount in excess of $5,000 but not in excess of $50,000, 5 percent on any amount in excess of $50,000 but not in excess of $1,000,000, and reasonable compensation not to exceed 3 percent of such moneys in excess of $1,000,000” for “fifteen percent on the first $1,000 or less, six percent on any amount in excess of $1,000 but not in excess of $3,000, and three percent on any amount in excess of $3,000”.
 
 1986—Subsec. (b). Pub. L. 99–554 amended subsec. (b) generally, substituting “under chapter 12 or 13 of this title” for “under chapter 13 of this title”, “expenses of the United States trustee or of a standing trustee appointed under [section 586(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section586/b&num=0&edition=prelim)” for “expenses of a standing trustee appointed under [section 1302(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1302/d&num=0&edition=prelim)”, and “under section 1202(a) or 1302(a) of this title” for “under [section 1302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1302/a&num=0&edition=prelim)”.
@@ -514,6 +525,9 @@ Subsec. (d). Pub. L. 98–353, § 430(b), amended subsec. (d) generally. Prior t
 “(1) failed to make diligent inquiry into facts that would permit denial of allowance under [section 328(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section328/c&num=0&edition=prelim); or
 
 “(2) with knowledge of such facts, employed a professional person under [section 327 of this title](./chapter-003-case-administration.md#section-327).”
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -1280,9 +1294,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 <a id="section-347"></a>
 ## § 347. Unclaimed property
-**(a)** Ninety days after the final distribution under section 726, 1226, or 1326 of this title in a case under chapter 7, 12, or 13 of this title, as the case may be, the trustee shall stop payment on any check remaining unpaid, and any remaining property of the estate shall be paid into the court and disposed of under chapter 129 of title 28.
+**(a)** Ninety days after the final distribution under section 726, 1194, 1226, or 1326 of this title in a case under chapter 7, subchapter V of chapter 11, 12, or 13 11 So in original. See 2019 Amendment note below. of this title, as the case may be, the trustee shall stop payment on any check remaining unpaid, and any remaining property of the estate shall be paid into the court and disposed of under chapter 129 of title 28.
 
-**(b)** Any security, money, or other property remaining unclaimed at the expiration of the time allowed in a case under chapter 9, 11, or 12 of this title for the presentation of a security or the performance of any other act as a condition to participation in the distribution under any plan confirmed under section 943(b), 1129, 1173, or 1225 of this title, as the case may be, becomes the property of the debtor or of the entity acquiring the assets of the debtor under the plan, as the case may be.
+**(b)** Any security, money, or other property remaining unclaimed at the expiration of the time allowed in a case under chapter 9, 11, or 12 of this title for the presentation of a security or the performance of any other act as a condition to participation in the distribution under any plan confirmed under section 943(b), 1129, 1173, 1194, or 1225 of this title, as the case may be, becomes the property of the debtor or of the entity acquiring the assets of the debtor under the plan, as the case may be.
 
 ### Statutory Notes
 
@@ -1295,9 +1309,16 @@ Section 347 is derived from Bankruptcy Act § 66 [section 106 of former title 11
 Subsection (b) specifies that any property remaining unclaimed at the expiration of the time allowed in a chapter 9 or 11 case for presentation (exchange) of securities or the performance of any other act as a condition to participation in the plan reverts to the debtor or the entity acquiring the assets of the debtor under the plan. Conditions to participation under a plan include such acts as cashing a check, surrendering securities for cancellation, and so on. Similar provisions are found in sections 96(d) and 205 of current law [sections 416(d) and 605 of former title 11].
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–54, § 4(a)(5)(A), inserted “1194,” after “726,” and “subchapter V of chapter 11,” after “chapter 7,”.
+
+Subsec. (b). Pub. L. 116–54, § 4(a)(5)(B), inserted “1194,” after “1173,”.
+
 1986—Subsec. (a). Pub. L. 99–554, § 257(h)(1), inserted references to section 1226 and chapter 12 of this title.
 
 Subsec. (b). Pub. L. 99–554, § 257(h)(2), inserted references to chapter 12 and [section 1225 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1225).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under [section 581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section581&num=0&edition=prelim), Judiciary and Judicial Procedure.
@@ -2212,7 +2233,7 @@ Pub. L. 99–509, title V, § 5001(a), Oct. 21, 1986, 100 Stat. 1911, directed S
 
 **(c)**
 
-(1) If the business of the debtor is authorized to be operated under section 721, 1108, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
+(1) If the business of the debtor is authorized to be operated under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
 
 (2) The trustee may not use, sell, or lease cash collateral under paragraph (1) of this subsection unless—
 
@@ -2324,6 +2345,8 @@ Section 7A of the Clayton Act, referred to in subsec. (b)(2), is classified to [
 The Truth in Lending Act, referred to in subsec. (o), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (c)(1). Pub. L. 116–54 inserted “1183, 1184,” after “1108,”.
+
 2010—Subsec. (d). Pub. L. 111–327, § 2(a)(13)(A), struck out “only” before dash at end of introductory provisions.
 
 Subsec. (d)(1). Pub. L. 111–327, § 2(a)(13)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in accordance with applicable nonbankruptcy law that governs the transfer of property by a corporation or trust that is not a moneyed, business, or commercial corporation or trust; and”.
@@ -2372,6 +2395,9 @@ Subsec. (n). Pub. L. 98–353, § 442(i), substituted “avoid” for “void”
 
 Subsec. (o). Pub. L. 98–353, § 442(j), added subsec. (o).
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 #### Effective Date of 2005 Amendment
 Pub. L. 109–8, title XII, § 1221(d), Apr. 20, 2005, 119 Stat. 196, provided that: “The amendments made by this section [amending this section and sections 541 and 1129 of this title and enacting provisions set out as a note under this section] shall apply to a case pending under title 11, United States Code, on the date of enactment of this Act [Apr. 20, 2005], or filed under that title on or after that date of enactment, except that the court shall not confirm a plan under chapter 11 of title 11, United States Code, without considering whether this section would substantially affect the rights of a party in interest who first acquired rights with respect to the debtor after the date of the filing of the petition. The parties who may appear and be heard in a proceeding under this section include the attorney general of the State in which the debtor is incorporated, was formed, or does business.”
 
@@ -2392,7 +2418,7 @@ Pub. L. 109–8, title XII, § 1221(e), Apr. 20, 2005, 119 Stat. 196, provided t
 
 <a id="section-364"></a>
 ## § 364. Obtaining credit
-**(a)** If the trustee is authorized to operate the business of the debtor under section 721, 1108, 1203, 1204, or 1304 of this title, unless the court orders otherwise, the trustee may obtain unsecured credit and incur unsecured debt in the ordinary course of business allowable under [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/1&num=0&edition=prelim) as an administrative expense.
+**(a)** If the trustee is authorized to operate the business of the debtor under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title, unless the court orders otherwise, the trustee may obtain unsecured credit and incur unsecured debt in the ordinary course of business allowable under [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/1&num=0&edition=prelim) as an administrative expense.
 
 **(b)** The court, after notice and a hearing, may authorize the trustee to obtain unsecured credit or to incur unsecured debt other than under subsection (a) of this section, allowable under [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/1&num=0&edition=prelim) as an administrative expense.
 
@@ -2444,11 +2470,16 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (f), is classifi
 The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–54 inserted “1183, 1184,” after “1108,”.
+
 1994—Subsec. (a). Pub. L. 103–394, § 501(d)(9)(A), substituted “1203, 1204, or 1304” for “1304, 1203, or 1204”.
 
 Subsec. (f). Pub. L. 103–394, § 501(d)(9)(B), struck out “([15 U.S.C. 77e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77e&num=0&edition=prelim))” after “Act of 1933” and “([15 U.S.C. 77aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) et seq.)” after “Act of 1939”.
 
 1986—Subsec. (a). Pub. L. 99–554 inserted reference to sections 1203 and 1204 of this title.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

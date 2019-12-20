@@ -29,7 +29,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 Pub. L. 87–293, title I, § 28, formerly § 27, Sept. 22, 1961, 75 Stat. 625, as renumbered by Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act [see Short Title note below] shall take effect on the date of its enactment [Sept. 22, 1961].”
 
 #### Short Title of 2018 Amendment
-Pub. L. 115–256, § 1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: “This Act [enacting [section 2504a of this title](./chapter-034-the-peace-corps.md#section-2504a), amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and [section 8142 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8142&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under [section 2504 of this title](./chapter-034-the-peace-corps.md#section-2504), may be cited as the ‘Sam Farr and Nick Castle Peace Corps Reform Act of 2018’.”
+Pub. L. 115–256, § 1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: “This Act [enacting [section 2504a of this title](./chapter-034-the-peace-corps.md#section-2504a), amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and [section 8142 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8142&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under [section 2504 of this title](./chapter-034-the-peace-corps.md#section-2504)] may be cited as the ‘Sam Farr and Nick Castle Peace Corps Reform Act of 2018’.”
 
 #### Short Title of 2011 Amendment
 Pub. L. 112–57, § 1, Nov. 21, 2011, 125 Stat. 736, provided that: “This Act [enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title] may be cited as the ‘Kate Puzey Peace Corps Volunteer Protection Act of 2011’.”
@@ -848,7 +848,7 @@ Pub. L. 89–134, § 5(b), Aug. 24, 1965, 79 Stat. 551, provided that: “Under 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–256, § 201(1) substituted “the President deems” for “he deems” and inserted at end: “As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers with information regarding the mandate of the Inspector General and the availability (including contact information) of the Inspector General and the Office of Victim Advocacy as a resource for volunteers. The President shall ensure that volunteers receive such information at least once during training that occurs prior to enrollment and at least once during each significant instance of training after enrollment.”
+2018—Subsec. (a). Pub. L. 115–256, § 201(1) substituted “the President deems” for “he deems” and inserted at end “As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers with information regarding the mandate of the Inspector General and the availability (including contact information) of the Inspector General and the Office of Victim Advocacy as a resource for volunteers. The President shall ensure that volunteers receive such information at least once during training that occurs prior to enrollment and at least once during each significant instance of training after enrollment.”
 
 Subsec. (c). Pub. L. 115–256, § 201(2), added subsec. (c).
 
@@ -967,7 +967,7 @@ Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwiths
 
 (5) is applicable to all posts at which volunteers serve;
 
-(6) includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault; and
+(6) includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault;
 
 (7) maintains a record documenting the resignation of any employee or volunteer of the Peace Corps who resigns before a determination has been made regarding an alleged violation of the sexual misconduct policy or other serious policy violations;
 
@@ -1010,7 +1010,7 @@ Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwiths
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (a)(3). Pub. L. 115–256, § 303(1), substituted “any employee of the Peace Corps” for “SARLs”, “Victim’s Advocate” for “Victim Advocate”, and inserted “and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c)” before semicolon at end.
+2018—Subsec. (a)(3). Pub. L. 115–256, § 303(1), substituted “any employee of the Peace Corps” for “SARLs” and “Victim’s Advocate” for “Victim Advocate” and inserted “and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c)” before semicolon at end.
 
 Subsec. (a)(7) to (10). Pub. L. 115–256, § 303(2)–(4), added pars. (7) to (10).
 
@@ -1119,7 +1119,7 @@ Subsec. (g). Pub. L. 115–256, § 305(3), substituted “2023” for “2018”
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–256, § 202(1), inserted “, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),” after “standards for Peace Corps representatives” and substituted “, and review” for “and shall review”.
 
-Subsec. (c). Pub. L. 115–256, § 202(2), substituted “2023” for “2018”, “subsection (b)” for “subsection (a)”, and inserted at end “The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.”
+Subsec. (c). Pub. L. 115–256, § 202(2), substituted “2023” for “2018” and “subsection (b)” for “subsection (a)” and inserted at end “The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.”
 
 
 <a id="section-2507f"></a>

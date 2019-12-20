@@ -111,7 +111,7 @@ References in laws to fix pay in accordance with this chapter and subchapter III
 
 (5) members of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, and the United States Secret Service Uniformed Division; members of the police force of the National Zoological Park whose pay is fixed under [section 5375 of this title](./chapter-053-pay-rates-and-systems.md#section-5375); and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under [section 5378 of this title](./chapter-053-pay-rates-and-systems.md#section-5378);
 
-(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
+(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) 11 See References in Text note below. of title 14;
 
 (7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
 
@@ -244,6 +244,8 @@ The General Schedule, referred to in subsec. (a)(5), is set out under [section 5
 
 The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
+[Section 432 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section432&num=0&edition=prelim), referred to in subsec. (c)(6), was redesignated [section 2531 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2531&num=0&edition=prelim) by Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223, and references to [section 432 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section432&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in [section 5316 of this title](./chapter-053-pay-rates-and-systems.md#section-5316).
 
 #### Amendments
@@ -346,9 +348,6 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 1969—Subsec. (c)(5). Pub. L. 91–34 extended provisions to include members of the National Zoological Park police force whose pay is fixed under [section 5365 of this title](./chapter-053-pay-rates-and-systems.md#section-5365).
 
 1968—Subsec. (c). Pub. L. 90–610 inserted par. (27).
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 432 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section432&num=0&edition=prelim) redesignated [section 2531 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2531&num=0&edition=prelim) by Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223, and references to [section 432 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section432&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in subsecs. (a)(1)(D) and (c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.

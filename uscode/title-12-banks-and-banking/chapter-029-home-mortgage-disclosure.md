@@ -269,7 +269,7 @@ Pub. L. 100–242, title V, § 565(a)(4), Feb. 5, 1988, 101 Stat. 1945, as amend
 #### References in Text
 For the effective date of this chapter, referred to in subsec. (a)(1), see [section 2808 of this title](./chapter-029-home-mortgage-disclosure.md#section-2808).
 
-The National Housing Act, referred to in subsecs. (b)(1) and (g)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsecs. (b)(1) and (g)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 

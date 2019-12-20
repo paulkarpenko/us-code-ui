@@ -118,6 +118,9 @@ In subsection (a), the word “Secretary” is substituted for “National Park 
 | 101703 | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
 |  | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim)(l). | Pub. L. 91–383, § 3(l), as added Pub. L. 105–391, title VIII, § 802(a), Nov. 13, 1998, 112 Stat. 3523. |
 
+#### Authorizing Cooperative Management Agreements Between the District of Columbia and the Secretary of the Interior
+Pub. L. 116–9, title II, § 2403, Mar. 12, 2019, 133 Stat. 747, provided that: “The Secretary [of the Interior] may enter into a cooperative management agreement with the District of Columbia in accordance with [section 101703 of title 54](./chapter-1017-chapter-1017.md#section-101703), United States Code.”
+
 
 <a id="section-101704"></a>
 ## § 101704. Reimbursable agreements

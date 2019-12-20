@@ -494,7 +494,7 @@ Subsec. (d) of this section, which required the Secretary to prepare and transmi
   (C) to be performed through joint ventures or cooperative agreements which do not result in a reduction in the Federal workforce of the affected programs of the service,11 So in original. Probably should be capitalized.
   shall not be considered functions or activities for purposes of this paragraph.
 
-(3) For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 3710c(a)(4) 22 See References in Text note below. of this title, over operating expenses.
+(3) For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 13(a)(4) 22 See References in Text note below. of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710c(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710c/a/4&num=0&edition=prelim)), over operating expenses.
 
 (4) Omitted.
 
@@ -524,7 +524,7 @@ Subsec. (d) of this section, which required the Secretary to prepare and transmi
 
 (5) implement new methods or media for the dissemination of scientific, technical, and engineering information, including producing and disseminating information products in electronic format; and
 
-(6) carry out the functions and activities of the Secretary under the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 [[15 U.S.C. 1151](./chapter-023-dissemination-of-technical-scientific-and-engineering-information.md#section-1151) et seq.], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988, under this chapter.
+(6) carry out the functions and activities of the Secretary under the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 [[15 U.S.C. 1151](./chapter-023-dissemination-of-technical-scientific-and-engineering-information.md#section-1151) et seq.], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988, under the Stevenson-Wydler Technology Innovation Act of 1980 [[15 U.S.C. 3701](./chapter-063-technology-innovation.md#section-3701) et seq.].
 
 **(f) Notification of Congress**
 
@@ -557,9 +557,11 @@ Subsec. (d) of this section, which required the Secretary to prepare and transmi
 #### References in Text
 This section, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle B (§§ 211, 212) of title II of Pub. L. 100–519, Oct. 24, 1988, 102 Stat. 2594, which enacted [section 3704b of this title](./chapter-063-technology-innovation.md#section-3704b) and amended [section 3710 of this title](./chapter-063-technology-innovation.md#section-3710). For complete classification of this subtitle to the Code, see Short Title of 1988 Amendment note set out under [section 3701 of this title](./chapter-063-technology-innovation.md#section-3701) and Tables.
 
-[Section 3710c(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710c/a/4&num=0&edition=prelim), referred to in subsec. (a)(3), was in the original a reference to section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980 which was translated as reading section 14(a)(4) of the Act to reflect the probable intent of Congress and the renumbering of section 13 of the Act as section 14 by section 5122(a)(1) of Pub. L. 100–418.
+Section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3), probably means section 14(a)(4) of the Act, which is classified to [section 3710c(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710c/a/4&num=0&edition=prelim). Section 13 of the Act was renumbered section 14 by Pub. L. 100–418, title V, § 5122(a)(1), Aug. 23, 1988, 102 Stat. 1438.
 
 The Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, as amended, which is classified generally to chapter 23 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(6), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of this title](./chapter-063-technology-innovation.md#section-3701) and Tables.
 
 #### Codification
 Section was enacted as part of the National Technical Information Act of 1988, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.

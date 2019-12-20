@@ -1978,6 +1978,8 @@ Pub. L. 98–94, title XII, § 1258(b), Sept. 24, 1983, 97 Stat. 702, provided t
 
 (3) A certification under paragraph (1) will cease to be effective if the volunteer sustains compensable disability in connection with volunteer service.
 
+(4) Nothing in this subsection may be construed to authorize the furnishing of any medical benefit that the Secretary of Labor is not otherwise authorized to reimburse for former Peace Corps volunteers who receive treatment for injury or disease proximately caused by their service in the Peace Corps in accordance with this chapter.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |

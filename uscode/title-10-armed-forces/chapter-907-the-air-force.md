@@ -137,9 +137,9 @@ In subsection (e), the words “Effective on July 10, 1950” are omitted as exe
 In subsection (f), the word “considers” is substituted for the words “may determine is more”. The words “aggregate” and “amount” are omitted as surplusage. The words “carry out this section” are substituted for the words “fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, [section 481 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-481), and sections 235, 235a, 628, and 628a of title 5”, since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
 
 #### References in Text
-Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (g)(1), is section 141(c)(3) of Pub. L. 112–239, div. A, title I, Jan. 2, 2013, 126 Stat. 1661.
+Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (g)(1), is section 141(c)(3) of Pub. L. 112–239, div. A, title I, Jan. 2, 2013, 126 Stat. 1661, which is not classified to the Code.
 
-Section 144(b) of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (j)(2)(A), is section 144(b) of Pub. L. 115–91, div. A, title I, Dec. 12, 2017, 131 Stat. 1321.
+Section 144(b) of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (j)(2)(A), is section 144(b) of Pub. L. 115–91, div. A, title I, Dec. 12, 2017, 131 Stat. 1321, which is not classified to the Code.
 
 #### Amendments
 2018—Pub. L. 115–232, § 806(c), renumbered [section 8062 of this title](./chapter-807-composition-of-the-department-of-the-navy.md#section-8062) as this section.

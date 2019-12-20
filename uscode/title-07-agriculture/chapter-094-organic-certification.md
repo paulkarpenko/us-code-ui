@@ -478,7 +478,7 @@ If a production or handling practice is not prohibited or otherwise restricted u
 
 **(c) Additional documentation and verification** The Secretary, acting through the Deputy Administrator of the national organic program established under this chapter, has the authority, and shall grant a certifying agent the authority, to require producers and handlers to provide additional documentation or verification before granting a certification under [section 6503 of this title](./chapter-094-organic-certification.md#section-6503), in the case of a compliance risk with respect to meeting the national standards for organic production established under [section 6504 of this title](./chapter-094-organic-certification.md#section-6504), as determined by the Secretary or the certifying agent.
 
-**(d) Accreditation of Foreign organic certification program**
+**(d) Accreditation of foreign organic certification program**
 
 (1) **In general** — For an agricultural product being imported into the United States to be represented as organically produced, the Secretary shall require the agricultural product to be accompanied by a complete and valid national organic import certificate, which shall be available as an electronic record.
 
@@ -1043,7 +1043,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 2018—Pub. L. 115–334, § 10104(j)(1), substituted “Funding” for “Authorization of appropriations” in section catchline.
 
-Subsec. (b)(1) to (7). Pub. L. 115–334, § 10104(j)(2), added pars. (1) to (6) and struck out former pars. (1) to (7) which related to amounts for fiscal years 2008 to 2018 and additional sums necessary for fiscal year 2009 and each fiscal year thereafter.
+Subsec. (b). Pub. L. 115–334, § 10104(j)(2), added pars. (1) to (6) and struck out former pars. (1) to (7) which related to amounts authorized to be appropriated for fiscal years 2008 to 2018 and additional sums necessary for fiscal year 2009 and each fiscal year thereafter.
 
 Subsec. (c). Pub. L. 115–334, § 10104(j)(3), added subsec. (c) and struck out former subsec. (c) which related to modernization and technology upgrade for national organic program.
 

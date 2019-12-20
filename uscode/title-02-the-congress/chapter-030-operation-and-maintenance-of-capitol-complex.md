@@ -652,11 +652,11 @@ Section is from the Congressional Operations Appropriations Act, 1998, which is 
 
 (2) **Retirement and life insurance benefits**
 
-  (A) *In general* — For purposes of chapters 83, 84, and 87 of title 5—
+  (A) *In general*
 
-    (i) any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol; and
+    (i) *Treatment of service* — For purposes of chapters 83, 84, and 87 of title 5, any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol.
 
-    (ii) the rate of basic pay of the covered individual during the period described under clause (i) shall be deemed to be the rate of basic pay of that individual as an employee of the Architect of the Capitol on the date on which the Architect of the Capitol enters into the food services contract.
+    (ii) *Treatment of pay* — For purposes of chapter 87 of title 5, the rate of basic pay of a covered individual during the period described under clause (i) shall be deemed to be the rate of basic pay of that individual as an employee of the Architect of the Capitol on the date on which the Architect of the Capitol enters into the food services contract.
 
   (B) *Treatment as Civil Service Retirement Offset employees* — In the case of a covered individual who on the day before the transfer date is subject to subchapter III of chapter 83 of title 5 but whose employment with the Architect of the Capitol is not employment for purposes of title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] and chapter 21 of title 26—
 
@@ -815,6 +815,19 @@ The Congressional Accountability Act of 1995, referred to in subsec. (g)(3), is 
 
 #### Codification
 Section is comprised of section 1 of Pub. L. 110–279. Subsec. (c)(4)(C) of section 1 of Pub. L. 110–279 repealed [section 2048 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2048). Subsec. (g)(1), (2) of section 1 of Pub. L. 110–279 amended sections 1301 and 1331 of this title.
+
+#### Amendments
+2019—Subsec. (c)(2)(A). Pub. L. 116–21, § 1(a)(1), struck out introductory provisions which read as follows: “For purposes of chapters 83, 84, and 87 of title 5—”.
+
+Subsec. (c)(2)(A)(i). Pub. L. 116–21, § 1(a)(1), (2), inserted heading, inserted “For purposes of chapters 83, 84, and 87 of title 5,” before “any period”, and substituted period for “; and” at end.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 116–21, § 1(a)(3), inserted heading, inserted “For purposes of chapter 87 of title 5,” before “the rate of basic pay”, and substituted “a covered” for “the covered”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–21, § 1(c), June 12, 2019, 133 Stat. 903, provided that: “(1) Definitions.—In this subsection, the terms ‘contractor’, ‘covered individual’, and ‘food services contract’ have the meanings given those terms in section 1(a) of Public Law 110–279 ([2 U.S.C. 2051(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2051/a&num=0&edition=prelim)). “(2) Applicability.—The amendments made by this section shall apply with respect to—“(A) a covered individual who separates from service as an employee of a contractor performing services under the food services contract before, on, or after the date of enactment of this Act [June 12, 2019]; and “(B) each payment to a covered individual under chapter 83 or 84 of title 5, United States Code, made on or after the effective date of the regulations promulgated under subsection (b) [set out as a note below].”
+
+#### Regulations
+Pub. L. 116–21, § 1(b), June 12, 2019, 133 Stat. 903, provided that: “(1) In general.—The Director of the Office of Personnel Management shall promulgate regulations to carry out this section [amending this section and enacting provisions set out as a note under this section]. “(2) Effective date.—The regulations promulgated under paragraph (1) shall take effect not later than 180 days after the date of enactment of this Act [June 12, 2019].”
 
 
 <a id="section-2052"></a>
@@ -1807,7 +1820,7 @@ Section was classified to section 216c of former Title 40, prior to the enactmen
 Pub. L. 102–392, title II, § 201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, § 201(a), Nov. 19, 1995, 109 Stat. 529; Pub. L. 106–554, § 1(a)(2) [title III, § 312], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 107–68, title I, § 135, Nov. 12, 2001, 115 Stat. 583, provided that: “(a) Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 ([40 U.S.C. 216c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section216c&num=0&edition=prelim)) [now [2 U.S.C. 2146](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2146)], not more than $16,500,000 shall be accepted and not more than $16,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden. “(b) The Architect of the Capitol is authorized to solicit, receive, accept, and hold amounts under section 307E(a)(2) of the Legislative Branch Appropriations Act, 1989 ([40 U.S.C. 216c(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section216c/a/2&num=0&edition=prelim)) [now [2 U.S.C. 2146(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2146/a/2&num=0&edition=prelim)] in excess of the $16,500,000 authorized under subsection (a), but such amounts (and any interest thereon) shall not be expended by the Architect without approval in appropriation Acts as required under section 307E(b)(3) of such Act ([40 U.S.C. 216c(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section216c/b/3&num=0&edition=prelim)) [now [2 U.S.C. 2146(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2146/b/3&num=0&edition=prelim)].”
 
 #### Renovation of Conservatory of Botanic Garden
-Pub. L. 102–229, title II, § 209(b), Dec. 12, 1991, 105 Stat. 1717, provided that: “Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 [[2 U.S.C. 2146](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2146)], not more than $2,000,000 shall be accepted and not more than $2,000,000 of the amounts accepted shall be available for obligation by the Architect for preparation of working drawings, specifications, and cost estimates for renovation of the Conservatory of the Botanic Garden.”
+Pub. L. 102–229, title II, § 209(b), Dec. 12, 1991, 105 Stat. 1717, provided that under [section 2146 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2146), not more than $2,000,000 could be accepted or available for obligation by the Architect for certain preparations for renovation of the Conservatory of the Botanic Garden.
 
 
 <a id="section-2147"></a>

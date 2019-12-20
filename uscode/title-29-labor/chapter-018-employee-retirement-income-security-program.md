@@ -649,7 +649,7 @@ For purposes of this subchapter:
 
 (41) 4 The term “single-employer plan” means a plan which is not a multiemployer plan.
 
-(42) the term “plan assets” means plan assets as defined by such regulations as the Secretary may prescribe, except that under such regulations the assets of any entity shall not be treated as plan assets if, immediately after the most recent acquisition of any equity interest in the entity, less than 25 percent of the total value of each class of equity interest in the entity is held by benefit plan investors. For purposes of determinations pursuant to this paragraph, the value of any equity interest held by a person (other than such a benefit plan investor) who has discretionary authority or control with respect to the assets of the entity or any person who provides investment advice for a fee (direct or indirect) with respect to such assets, or any affiliate of such a person, shall be disregarded for purposes of calculating the 25 percent threshold. An entity shall be considered to hold plan assets only to the extent of the percentage of the equity interest held by benefit plan investors. For purposes of this paragraph, the term “benefit plan investor” means an employee benefit plan subject to part 4,55 So in original. Probably should be “part 4 of subtitle B,”. any plan to which [section 4975 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975&num=0&edition=prelim) applies, and any entity whose underlying assets include plan assets by reason of a plan’s investment in such entity.
+(42) the 55 So in original. Probably should be “The”. term “plan assets” means plan assets as defined by such regulations as the Secretary may prescribe, except that under such regulations the assets of any entity shall not be treated as plan assets if, immediately after the most recent acquisition of any equity interest in the entity, less than 25 percent of the total value of each class of equity interest in the entity is held by benefit plan investors. For purposes of determinations pursuant to this paragraph, the value of any equity interest held by a person (other than such a benefit plan investor) who has discretionary authority or control with respect to the assets of the entity or any person who provides investment advice for a fee (direct or indirect) with respect to such assets, or any affiliate of such a person, shall be disregarded for purposes of calculating the 25 percent threshold. An entity shall be considered to hold plan assets only to the extent of the percentage of the equity interest held by benefit plan investors. For purposes of this paragraph, the term “benefit plan investor” means an employee benefit plan subject to part 4,66 So in original. Probably should be “part 4 of subtitle B,”. any plan to which [section 4975 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4975&num=0&edition=prelim) applies, and any entity whose underlying assets include plan assets by reason of a plan’s investment in such entity.
 
 ### Statutory Notes
 
@@ -981,7 +981,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
       (II) a clear statement that such insolvency may result in benefit reductions; and
 
-      (III) a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.
+      (III) a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.22 So in original. The period probably should be a comma.
 
     (vii) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
 
@@ -1130,7 +1130,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 **(j) Notice of funding-based limitation on certain forms of distribution** The plan administrator of a single-employer plan shall provide a written notice to plan participants and beneficiaries within 30 days—
 
-(1) after the plan has become subject to a restriction described in paragraph (1) or (3) of [section 1056(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)),22 So in original. The closing parenthesis probably should not appear.
+(1) after the plan has become subject to a restriction described in paragraph (1) or (3) of [section 1056(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)),33 So in original. The closing parenthesis probably should not appear.
 
 (2) in the case of a plan to which [section 1056(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g/4&num=0&edition=prelim) applies, after the valuation date for the plan year described in [section 1056(g)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g/4/A&num=0&edition=prelim) for which the plan’s adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under [section 1056(g)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g/7&num=0&edition=prelim)), and
 
@@ -3492,9 +3492,9 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
   (B) A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuity starting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
 
-**(d)**
+**(d) “Qualified joint and survivor annuity” and “qualified optional survivor annuity” defined**
 
-(1) **“Qualified joint and survivor annuity” defined** — For purposes of this section, the term “qualified joint and survivor annuity” means an annuity—
+(1) For purposes of this section, the term “qualified joint and survivor annuity” means an annuity—
 
   (A) for the life of the participant with a survivor annuity for the life of the spouse which is not less than 50 percent of (and is not greater than 100 percent of) the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
 
@@ -11635,8 +11635,6 @@ The staffs of the Committee on Ways and Means and the Committee on Education and
 1976—Pub. L. 94–455, § 803(i)(2)(A)(iii), substituted “Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force” for “Joint Pension Task Force” wherever appearing.
 
 #### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 “Joint Committee on Taxation” substituted for “Joint Committee on Internal Revenue Taxation” on authority of section 1907(a)(5) of Pub. L. 94–455.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -11689,8 +11687,6 @@ In determining whether any such plan is adequately financed, each committee shal
 ### Statutory Notes
 
 #### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -11755,8 +11751,6 @@ Committee on Labor and Public Welfare of Senate abolished and replaced by Commit
 ### Statutory Notes
 
 #### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -12373,6 +12367,9 @@ For special rules on applicability of amendments by subtitles A (§§ 101–108)
 
 #### Prior Provisions
 A prior section 1304, Pub. L. 93–406, title IV, § 4004, Sept. 2, 1974, 88 Stat. 1008, related to appointment, within 270 days after Sept. 2, 1974, and powers and functions of a receiver to assume control of terminated plan and its assets, prior to repeal by Pub. L. 99–272, title XI, § 11016(c)(6), Apr. 7, 1986, 100 Stat. 274, effective Jan. 1, 1986, with certain exceptions. See section 11019 of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under [section 1341 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1341).
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-1304a"></a>
@@ -13053,8 +13050,6 @@ Subsec. (c). Pub. L. 96–364, § 105(c), added subsec. (c).
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2015 Amendment
 Pub. L. 114–74, title V, § 501(b)(3), Nov. 2, 2015, 129 Stat. 593, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2016.”
 
@@ -13265,6 +13260,9 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 Subsec. (b)(2). Pub. L. 109–280, § 108(b)(3), formerly § 107(b)(3), as renumbered by Pub. L. 111–192, substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
 
 Subsecs. (d), (e). Pub. L. 109–280, § 505(b), added subsecs. (d) and (e).
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -13823,8 +13821,6 @@ Subsec. (g)(4)(D). Pub. L. 99–272, § 11005(c)(12), substituted “joint” fo
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–235, div. O, title I, § 110(b), Dec. 16, 2014, 128 Stat. 2792, provided that: “The amendment made by this section [amending this section] shall apply with respect to multiemployer plan benefit payments becoming payable on or after January 1, 1985, except that the amendment shall not apply in any case where the surviving spouse has died before the date of the enactment of this Act [Dec. 16, 2014].”
@@ -17046,6 +17042,9 @@ Pub. L. 109–280, title II, § 204(a)(3), Aug. 17, 2006, 120 Stat. 887, provide
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–235 added subsec. (e).
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2014 Amendment
 Pub. L. 113–235, div. O, title I, § 121(b), Dec. 16, 2014, 128 Stat. 2794, provided that: “The amendments made by this section [amending this section] shall apply with respect to plan years beginning after December 31, 2014.”
 
@@ -17157,6 +17156,9 @@ Part effective Sept. 26, 1980, except as specifically provided, see [section 146
 
 #### Amendments
 2014—Pub. L. 113–235 amended section generally. Prior to amendment, section related to partition of multiemployer plans.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date 2014 Amendment
 Pub. L. 113–235, div. O, title I, § 122(b), Dec. 16, 2014, 128 Stat. 2796, provided that: “The amendments made by this section [amending this section] shall apply with respect to plan years beginning after December 31, 2014.”
@@ -17717,8 +17719,6 @@ Subsec. (c)(4)(D). Pub. L. 95–214, § 1(a)(5), substituted “June 30, 1979”
 Subsecs. (d), (e). Pub. L. 95–214, § 1(b), added subsecs. (d) and (e).
 
 #### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1989 Amendment

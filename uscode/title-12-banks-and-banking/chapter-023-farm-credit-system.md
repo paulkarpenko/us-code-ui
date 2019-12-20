@@ -1974,7 +1974,6 @@ The Farm Credit Administration may not establish lending limits for the consolid
 
 Section, Pub. L. 92–181, title III, § 3.29, formerly title VII, § 7.5, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1646; renumbered § 3.29, Pub. L. 100–399, title IV, § 408(e), Aug. 17, 1988, 102 Stat. 1001, related to reports by merged banks for cooperatives.
 
-#### Codification
 Section was classified to [section 2279a–5 of this title](./chapter-023-farm-credit-system.md#section-2279a-5) prior to renumbering by Pub. L. 100–399.
 
 
@@ -4285,7 +4284,7 @@ Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99
 
 (3) **Consultation between agencies** — The agencies described in clauses (i) and (ii) of paragraph (1)(B) shall consult with each other before providing any written consent under that paragraph.
 
-**(d) Violations** A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation of that order.
+**(d) Violations** A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation 22 So in original. Probably should be preceded by “a”. of that order.
 
 ### Statutory Notes
 
@@ -4431,9 +4430,6 @@ As used in this part—
   (B) mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by the Farm Credit System Insurance Corporation under [section 2277a–10 of this title](./chapter-023-farm-credit-system.md#section-2277a-10).
 
 ### Statutory Notes
-
-#### Codification
-January 6, 1988, referred to in par. (4)(B), was in the original “the date of the enactment of this paragraph” which was translated as meaning the date of enactment of Pub. L. 100–233, which amended par. (4) generally, to reflect the probable intent of Congress.
 
 #### Amendments
 2018—Pars. (4), (5). Pub. L. 115–334, § 5408, added par. (4) and redesignated former par. (4) as (5).
@@ -5768,7 +5764,7 @@ Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm 
 
     (iv) has been, continuously from the time of its execution, an official record of such System bank in default;
 
-  (I) notwithstanding sub[section 2277a–10(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2277a–10/d/2&num=0&edition=prelim), any agreement relating to an extension of credit between a System bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
+  (I) notwithstanding subsection 22 So in original. Probably should be “section”. 2277a–10(d)(2) of this title, any agreement relating to an extension of credit between a System bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
 
   (J) except with the prior approval of the Corporation and the concurrence of the Farm Credit Administration, a bridge System bank may not, in any transaction or series of transactions, issue capital stock or be a party to any merger, consolidation, disposition of substantially all of the assets or liabilities of the bridge System bank, sale or exchange of capital stock, or similar transaction, or change its charter.
 
@@ -6185,7 +6181,7 @@ Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
 #### GAO Reports on Risk-Based Insurance Premiums, Access to Association Capital, Supplemental Premiums, and Consolidation
-Pub. L. 102–552, title II, § 204, Oct. 28, 1992, 106 Stat. 4106, as amended by Pub. L. 104–316, title I, § 106(e), Oct. 19, 1996, 110 Stat. 3831, provided that: “(a) In General.—The Comptroller General of the United States may investigate, review, and evaluate the feasibility and appropriateness, and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on the advantages and disadvantages of providing the Farm Credit System Insurance Corporation with—“(1) the authority to directly or indirectly assess associations to ensure that all System capital is available to prevent losses to investors, including a study of—“(A) the effects of direct assessments by the Insurance Corporation on associations, including interest rate charges to borrowers; “(B) the effects of requiring that banks pass along the cost of insurance premiums to owner associations and other financing institutions having a discount relationship with the bank; “(C) the effects of requiring owner associations to purchase stock in the district bank, if needed, to prevent a bank from having to return to the Insurance Corporation for financial assistance once the assistance has been given; “(D) the effects of the purchase of stock from funds of the association (through funds obtained from other than the district bank) or allowing the bank to increase the direct line of credit to the association in order to fund the purchase; and “(E) the effect that authorizing the Insurance Corporation to assess the association could have on the association’s incentives for building capital; “(2) the authority to collect supplemental insurance premiums under certain circumstances, including a study of—“(A) the possibility of the Insurance Fund being depleted more rapidly than it could be replenished under the current premium structure; “(B) the effects of the depletion under alternate economic scenarios and the probability of the occurrence of each of those scenarios; “(C) the effects on capital accumulation and interest rates of levying a supplemental premium; and “(D) limitations on any authority to levy supplemental premiums and the underlying basis for the limitations; and “(3) the authority to establish an insurance premium rate structure that would take into account, on an institution-by-institution basis, asset quality risk, interest rate risk, earnings, and capital. “(b) Report on Consolidation.—“(1) In general.—The Comptroller General of the United States shall evaluate and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on whether there are likely to be benefits to farmer and rancher borrowers of the Farm Credit System institutions of merging the 10 district Farm Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into fewer regional Farm Credit Banks. “(2) Factors.—In preparing the report, the Comptroller General shall consider—“(A) the potential reduction in services to farmers and ranchers; “(B) the potential benefits of jointly providing services to farmers and ranchers among these proposed regional districts; “(C) any economy of scale effects on a district-by-district basis; “(D) the potential impact on the cooperative nature of the Farm Credit System; “(E) the potential impact on bank and association relationships; and “(F) the potential impact on System-wide bond issuances. “(c) Potential Savings.—The Comptroller General of the United States shall evaluate and report to the appropriate committees of Congress on the potential savings to the Farm Credit System and its shareholders that might occur if System institutions and the Farm Credit Administration were required to comply with General Services Administration standards for office space, furniture, and equipment. “(d) Deadline.—The reports required under this section shall be provided to Congress not later than 12 months after the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–552, title II, § 204, Oct. 28, 1992, 106 Stat. 4106, as amended by Pub. L. 104–316, title I, § 106(e), Oct. 19, 1996, 110 Stat. 3831, provided for a report by the Comptroller General on risk-based insurance premiums, structure and capital, and another report on benefits to farmer and rancher borrowers of the Farm Credit System institutions of merging the 10 district Farm Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into fewer regional Farm Credit Banks, and provided that the reports were to be provided to Congress not later than 12 months after Oct. 28, 1992.
 
 
 <a id="section-2277a-7"></a>
@@ -6758,9 +6754,9 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in par. (9)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (7)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
-The Rural Electrification Act of 1936, referred to in par. (9)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+The Rural Electrification Act of 1936, referred to in par. (7)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -6915,7 +6911,7 @@ Subsec. (a)(1). Pub. L. 115–334, § 5411(43)(B), added par. (1) and struck out
 
 Subsec. (a)(3). Pub. L. 115–334, § 5411(43)(C)(ii)–(iv), redesignated par. (4) as (3), substituted “paragraph (5)” for “paragraph (6)” in subpar. (A), and struck out former par. (3) which set a date by which the presidential appointees to the permanent board were to be appointed.
 
-Subsec. (a)(4) to (10). Pub. L. 115–334, § 5411(43)(C)(iii), redesignated pars. (5) to (10) as (4) as (9), respectively. Former par. (4) redesignated (3).
+Subsec. (a)(4) to (10). Pub. L. 115–334, § 5411(43)(C)(iii), redesignated pars. (5) to (10) as (4) to (9), respectively. Former par. (4) redesignated (3).
 
 Subsecs. (b), (c). Pub. L. 115–334, § 5411(43)(D), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
@@ -7568,7 +7564,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–334, § 5411(48)(A), in first sentence, substituted “The” for “Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the”.
+2018—Subsec. (a). Pub. L. 115–334, § 5411(48)(A), substituted “The” for “Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 115–334, § 5411(48)(B), substituted “section 2279aa(7)(C)” for “section 2279aa(9)(C)”.
 

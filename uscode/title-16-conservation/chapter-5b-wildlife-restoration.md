@@ -16,6 +16,9 @@ The Secretary of the Interior is authorized to cooperate with the States, throug
 #### Transfer of Functions
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–17, § 1, May 10, 2019, 133 Stat. 866, provided that: “This Act [amending sections 669a, 669g, and 669h–1 of this title and enacting provisions set out as a note under [section 669a of this title](./chapter-5b-wildlife-restoration.md#section-669a)] may be cited as the ‘Target Practice and Marksmanship Training Support Act’.”
+
 #### Short Title of 2000 Amendment
 Pub. L. 106–408, § 1(a), Nov. 1, 2000, 114 Stat. 1762, provided that: “This Act [see Tables for classification] may be cited as the ‘Fish and Wildlife Programs Improvement and National Wildlife Refuge System Centennial Act of 2000’.”
 
@@ -49,28 +52,40 @@ As used in this chapter—
 
 (1) the term “conservation” means the use of methods and procedures necessary or desirable to sustain healthy populations of wildlife, including all activities associated with scientific resources management such as research, census, monitoring of populations, acquisition, improvement and management of habitat, live trapping and transplantation, wildlife damage management, and periodic or total protection of a species or population, as well as the taking of individuals within wildlife stock or population if permitted by applicable State and Federal law;
 
-(2) the term “Secretary” means the Secretary of the Interior;
+(2) the term “public target range” means a specific location that—
 
-(3) the term “State fish and game department” or “State fish and wildlife department” means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.
+  (A) is identified by a governmental agency for recreational shooting;
 
-(4) the term “wildlife” means any species of wild, free-ranging fauna including fish, and also fauna in captive breeding programs the object of which is to reintroduce individuals of a depleted indigenous species into previously occupied range;
+  (B) is open to the public;
 
-(5) the term “wildlife-associated recreation” means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
+  (C) may be supervised; and
 
-(6) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 11 See References in Text note below. of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,1 and maintenance of such projects;
+  (D) may accommodate archery or rifle, pistol, or shotgun shooting;
 
-(7) the term “wildlife conservation education” means projects, including public outreach, intended to foster responsible natural resource stewardship; and
+(3) the term “Secretary” means the Secretary of the Interior;
 
-(8) the term “wildlife-restoration project” includes the wildlife conservation and restoration program and means the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects.
+(4) the term “State fish and game department” or “State fish and wildlife department” means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.
+
+(5) the term “wildlife” means any species of wild, free-ranging fauna including fish, and also fauna in captive breeding programs the object of which is to reintroduce individuals of a depleted indigenous species into previously occupied range;
+
+(6) the term “wildlife-associated recreation” means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
+
+(7) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 11 See References in Text note below. of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,1 and maintenance of such projects;
+
+(8) the term “wildlife conservation education” means projects, including public outreach, intended to foster responsible natural resource stewardship; and
+
+(9) the term “wildlife-restoration project” includes the wildlife conservation and restoration program and means the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 669c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/d&num=0&edition=prelim), referred to in par. (6), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs.
+[Section 669c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/d&num=0&edition=prelim), referred to in par. (7), was in the original “section 304(d)”, and was translated as reading “section 4(d)”, meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs.
 
-This chapter, referred to in par. (6), was in the original “this title”, and was translated as reading “this Act”, meaning Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, which enacted this chapter, does not contain titles.
+This chapter, referred to in par. (7), was in the original “this title”, and was translated as reading “this Act”, meaning Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, which enacted this chapter, does not contain titles.
 
 #### Amendments
+2019—Pars. (2) to (9). Pub. L. 116–17 added par. (2) and redesignated former pars. (2) to (8) as (3) to (9), respectively.
+
 2000—Pub. L. 106–553 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “For the purposes of this chapter the term ‘wildlife-restoration project’ shall be construed to mean and include the selection, restoration, rehabilitation, and improvement of areas of land or water adaptable as feeding, resting, or breeding places for wildlife, including acquisition by purchase, condemnation, lease, or gift of such areas or estates or interests therein as are suitable or capable of being made suitable therefor, and the construction thereon or therein of such works as may be necessary to make them available for such purposes and also including such research into problems of wildlife management as may be necessary to efficient administration affecting wildlife resources, and such preliminary or incidental costs and expenses as may be incurred in and about such projects; the term ‘State fish and game department’ shall be construed to mean and include any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department.”
 
 1960—Pub. L. 86–624 struck out provisions which defined “State” as including the several States and the Territory of Hawaii.
@@ -79,6 +94,9 @@ This chapter, referred to in par. (6), was in the original “this title”, and
 
 #### Effective Date of 1956 Amendment
 Act July 2, 1956, ch. 489, § 5, 70 Stat. 473, provided in part that: “The amendments made by this Act [amending this section and sections 669g–1, 777a, and 777k of this title] shall be applicable only with respect to fiscal years beginning after the passage of this Act [July 2, 1956].”
+
+#### Findings, Purpose, and Definition Regarding Public Target Ranges
+Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that: “SEC. 2. FINDINGS; PURPOSE.“(a) Findings.—Congress finds that—“(1) the use of firearms and archery equipment for target practice and marksmanship training activities on Federal land is allowed, except to the extent specific portions of that land have been closed to those activities; “(2) in recent years preceding the date of enactment of this Act [May 10, 2019], portions of Federal land have been closed to target practice and marksmanship training for many reasons; “(3) the availability of public target ranges on non-Federal land has been declining for a variety of reasons, including continued population growth and development near former ranges; “(4) providing opportunities for target practice and marksmanship training at public target ranges on Federal and non-Federal land can help—“(A) to promote enjoyment of shooting, recreational, and hunting activities; and “(B) to ensure safe and convenient locations for those activities; “(5) Federal law in effect on the date of enactment of this Act, including the Pittman-Robertson Wildlife Restoration Act ([16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.), provides Federal support for construction and expansion of public target ranges by making available to States amounts that may be used for construction, operation, and maintenance of public target ranges; and “(6) it is in the public interest to provide increased Federal support to facilitate the construction or expansion of public target ranges. “(b) Purpose.—The purpose of this Act [see Short Title of 2019 Amendment note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669)] is to facilitate the construction and expansion of public target ranges, including ranges on Federal land managed by the Forest Service and the Bureau of Land Management. “SEC. 3. DEFINITION OF PUBLIC TARGET RANGE.“In this Act, the term ‘public target range’ means a specific location that—“(1) is identified by a governmental agency for recreational shooting; “(2) is open to the public; “(3) may be supervised; and “(4) may accommodate archery or rifle, pistol, or shotgun shooting.”
 
 
 <a id="section-669b"></a>
@@ -351,14 +369,24 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 ## § 669g. Maintenance of projects; expenditures for management of wildlife areas and resources
 **(a)** Maintenance of wildlife-restoration projects established under the provisions of this chapter shall be the duty of the States in accordance with their respective laws. Beginning July 1, 1945, the term “wildlife-restoration project”, as defined in [section 669a of this title](./chapter-5b-wildlife-restoration.md#section-669a), shall include maintenance of completed projects. Notwithstanding any other provisions of this chapter, funds apportioned to a State under this chapter may be expended by the State for management (exclusive of law enforcement and public relations) of wildlife areas and resources. Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.
 
-**(b)** Each State may use the funds apportioned to it under section 669c(c) 11 Probably means section 669c(c) relating to apportionment of certain taxes. of this title to pay up to 75 per centum of the costs of a hunter safety program and the construction, operation, and maintenance of public target ranges, as a part of such program. The non-Federal share of such costs may be derived from license fees paid by hunters, but not from other Federal grant programs. The Secretary shall issue not later than the 120th day after the effective date of this subsection such regulations as he deems advisable relative to the criteria for the establishment of hunter safety programs and public target ranges under this subsection.
+**(b) Expenditures for Management of Wildlife Areas and Resources.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), each State may use the funds apportioned to it under section 669c(c) 11 Probably means section 669c(c) relating to apportionment of certain taxes. of this title to pay up to 75 per centum of the costs of a hunter safety program and the operation and maintenance of public target ranges, as a part of such program.
+
+(2) **Exception.—** — Notwithstanding the limitation described in paragraph (1), a State may pay up to 90 percent of the cost of acquiring land for, expanding, or constructing a public target range.
+
+(3) **Non-federal share.—** — The non-Federal share of such costs may be derived from license fees paid by hunters, but not from other Federal grant programs.
+
+(4) **Regulations.—** — The Secretary shall issue not later than the 120th day after the effective date of this subsection such regulations as he deems advisable relative to the criteria for the establishment of hunter safety programs and public target ranges under this subsection.
 
 ### Statutory Notes
 
 #### References in Text
-The effective date of this subsection, referred to in subsec. (b), probably means Oct. 23, 1970, the date of approval of Pub. L. 91–503 which added subsec. (b).
+The effective date of this subsection, referred to in subsec. (b)(4), probably means Oct. 23, 1970, the date of approval of Pub. L. 91–503 which added subsec. (b).
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–17 inserted subsec. heading, designated first, second, and third sentences of existing provisions as pars. (1), (3), and (4), respectively, and inserted par. headings, in par. (1), substituted “Except as provided in paragraph (2), each State” for “Each State” and “operation” for “construction, operation,”, and added par. (2).
+
 2000—Subsec. (a). Pub. L. 106–553 inserted at end “Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife.”
 
 Subsec. (b). Pub. L. 106–408 substituted “[section 669c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/c&num=0&edition=prelim)” for “[section 669c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/b&num=0&edition=prelim)” in first sentence.
@@ -508,11 +536,21 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (2) **Limitation on use** — Under paragraph (1), a State shall not be required to use more than the amount described in [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim) for hunter safety programs and the construction, operation, and maintenance of public target ranges.
 
-**(b) Cost sharing** The Federal share of the cost of any activity carried out with a grant under this section shall not exceed 75 percent of the total cost of the activity.
+(3) **Allocation of additional amounts** — Of the amount apportioned to a State for any fiscal year under [section 669c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/b&num=0&edition=prelim), the State may elect to allocate not more than 10 percent, to be combined with the amount apportioned to the State under paragraph (1) for that fiscal year, for acquiring land for, expanding, or constructing a public target range.
+
+**(b) Cost sharing**
+
+(1) **In general** — Except as provided in paragraph (2), the Federal share of the cost of any activity carried out using a grant under this section shall not exceed 75 percent of the total cost of the activity.
+
+(2) **Public target range construction or expansion** — The Federal share of the cost of acquiring land for, expanding, or constructing a public target range in a State on Federal or non-Federal land pursuant to this section or [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim) shall not exceed 90 percent of the cost of the activity.
 
 **(c) Period of availability; reapportionment**
 
-(1) **Period of availability** — Amounts made available and apportioned for grants under this section shall remain available only for the fiscal year for which the amounts are apportioned.
+(1) **Period of availability**
+
+  (A) *In general* — Except as provided in subparagraph (B), amounts made available and apportioned for grants under this section shall remain available only for the fiscal year for which the amounts are apportioned.
+
+  (B) *Exception* — Amounts provided for acquiring land for, constructing, or expanding a public target range shall remain available for expenditure and obligation during the 5-fiscal-year period beginning on October 1 of the first fiscal year for which the amounts are made available.
 
 (2) **Reapportionment** — At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) for use by those States in accordance with this chapter.
 
@@ -520,6 +558,13 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Prior Provisions
 A prior section 10 of act Sept. 2, 1937, was renumbered section 12 and is classified to [section 669i of this title](./chapter-5b-wildlife-restoration.md#section-669i).
+
+#### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–17, § 4(c)(1), added par. (3).
+
+Subsec. (b). Pub. L. 116–17, § 4(c)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Federal share of the cost of any activity carried out with a grant under this section shall not exceed 75 percent of the total cost of the activity.”
+
+Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), amounts made” for “Amounts made”, and added subpar. (B).
 
 
 <a id="section-669h-2"></a>

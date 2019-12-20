@@ -178,6 +178,9 @@ Subsec. (e). Pub. L. 101–246, § 114(2), added subsec. (e).
 
 1986—Subsecs. (b)(1), (3), (c). Pub. L. 99–569 inserted references to the Federal Bureau of Investigation and such bureau.
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 1986 Amendment
 Pub. L. 99–569, title IV, § 402(c), Oct. 27, 1986, 100 Stat. 3196, provided that: “The amendments made by this section [amending this section and provisions set out as a note under this section] shall become effective with respect to any inquiry which begins after the date of enactment of this Act [Oct. 27, 1986] conducted by the Federal Bureau of Investigation for purposes specified in paragraph (b)(1) of [section 9101 of title 5](./chapter-091-access-to-criminal-history-records-for-national-security-and-other-purposes.md#section-9101), United States Code.”
 

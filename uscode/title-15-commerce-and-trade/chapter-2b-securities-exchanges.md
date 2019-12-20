@@ -207,7 +207,7 @@ Pub. L. 104–290, title V, § 510(a), Oct. 11, 1996, 110 Stat. 3450, provided t
 Pub. L. 103–325, title II, § 209, Sept. 23, 1994, 108 Stat. 2202, provided that: “(a) Joint Study Required.—The Board and the Commission shall conduct a joint study of the impact of the provisions of this subtitle [subtitle A [§§ 201–210 of title II of Pub. L. 103–325], see Short Title of 1994 Amendment note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a)] (including the amendments made by this subtitle) on the credit and securities markets. Such study shall evaluate—“(1) the impact of the provisions of this subtitle on the availability of credit for business and commercial enterprises in general, and the availability of credit in particular for—“(A) businesses in low- and moderate-income areas; “(B) businesses owned by women and minorities; “(C) community development efforts; “(D) community development financial institutions; “(E) businesses in different geographical regions; and “(F) a diversity of types of businesses; “(2) the structure and operation of the markets that develop for small business related securities and commercial mortgage related securities, including the types of entities (such as pension funds and insurance companies) that are significant purchasers of such securities, the extent to which such entities are sophisticated investors, the use of credit enhancements in obtaining investment-grade ratings, any conflicts of interest that arise in such markets, and any adverse effects of such markets on commercial real estate ventures, pension funds, or pension fund beneficiaries; “(3) the extent to which the provisions of this subtitle with regard to margin requirements, the number of eligible investment rating categories, preemption of State law, and the treatment of such securities as government securities for the purpose of State investment limitations, affect the structure and operation of such markets; and “(4) in view of the findings made pursuant to paragraphs (2) and (3), any additional suitability or disclosure requirements or other investor protections that should be required. “(b) Reports.—“(1) In general.—The Board and the Commission shall submit to the Congress a report on the results of the study required by subsection (a) before the end of—“(A) the 2-year period beginning on the date of enactment of this Act [Sept. 23, 1994]; “(B) the 4-year period beginning on such date of enactment; and “(C) the 6-year period beginning on such date of enactment. “(2) Contents of report.—Each report required under paragraph (1) shall contain or be accompanied by such recommendations for administrative or legislative action as the Board and the Commission consider appropriate and may include recommendations regarding the need to develop a system for reporting additional information concerning investments by the entities described in subsection (a)(2). “(c) Definitions.—As used in this section—“(1) the term ‘Board’ means the Board of Governors of the Federal Reserve System; and “(2) the term ‘Commission’ means the Securities and Exchange Commission.”
 
 #### Intermarket Coordination; Reports to Congress
-Pub. L. 101–432, § 8(a), Oct. 16, 1990, 104 Stat. 976, provided that: “The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission, shall report to the Congress not later than May 31, 1991, and annually thereafter until May 31, 1995, on the following:“(1) the efforts their respective agencies have made relating to the coordination of regulatory activities to ensure the integrity and competitiveness of United States financial markets; “(2) the efforts their respective agencies have made to formulate coordinated mechanisms across marketplaces to protect the payments and market systems during market emergencies; “(3) the views of their respective agencies with respect to the adequacy of margin levels and use of leverage by market participants; and “(4) such other issues and concerns relating to the soundness, stability, and integrity of domestic and international capital markets as may be appropriate. The agencies shall cooperate in the development of their reports, and prior to submitting its report to Congress, each agency shall provide copies to the other agencies.”
+Pub. L. 101–432, § 8(a), Oct. 16, 1990, 104 Stat. 976, provided that the Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission should report to the Congress not later than May 31, 1991, and annually thereafter until May 31, 1995, on the efforts their respective agencies have made relating to the coordination of regulatory activities to ensure the integrity and competitiveness of United States financial markets and to formulate coordinated mechanisms across marketplaces to protect the payments and market systems during market emergencies, on the views of their respective agencies with respect to the adequacy of margin levels and use of leverage by market participants, and other issues relating to market soundness.
 
 #### Securities Laws Study
 Pub. L. 100–704, § 7, Nov. 19, 1988, 102 Stat. 4682, directed Securities and Exchange Commission to study and investigate adequacy of Federal securities laws and regulations for protection of the public interest and interests of investors, specified subjects for the study and investigation and authority of Commission in conducting the study and investigation, directed Commission to supply interim information to Congress on the progress of, and any impediments to completing, the study and investigation, directed Commission to report to Congress on results of the study and investigation within 18 months after the date funds are appropriated for the study and investigation, including in such report the Commission’s recommendations.
@@ -356,9 +356,6 @@ Ronald Reagan.
   (F) *Rule of construction* — Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
@@ -1207,9 +1204,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), (c), (e)(1), (f), and (g), and (h)(1)(C), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -1680,9 +1674,6 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 (4) References in this chapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement, as the context may require.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsec. (b)(2) to (4), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
@@ -2580,9 +2571,6 @@ Harry S. Truman.
 **(c) Rule of construction** No provision of this chapter that was added by the Wall Street Transparency and Accountability Act of 2010, or any rule or regulation thereunder, shall apply to any person insofar as such person transacts a business in security-based swaps without the jurisdiction of the United States, unless such person transacts such business in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate to prevent the evasion of any provision of this chapter that was added by the Wall Street Transparency and Accountability Act of 2010. This subsection shall not be construed to limit the jurisdiction of the Commission under any provision of this chapter, as in effect prior to July 21, 2010.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
@@ -3846,9 +3834,6 @@ to comply with such rules of such exchange as the Commission may specify.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendments by subtitle A (§§ 711–754) and subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of either subtitle A or B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A or B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(ii), and (i), was in the original “this title”. This chapter, referred to in subsec. (h)(6), was in the original “this Act”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -4281,9 +4266,6 @@ In adopting rules under paragraph (2), the Commission shall, consistent with the
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 The Commodity Exchange Act, referred to in subsec. (h)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
@@ -4379,9 +4361,6 @@ It shall be unlawful for any person, directly or indirectly, by the use of any m
 Rules promulgated under subsection (b) that prohibit fraud, manipulation, or insider trading (but not rules imposing or specifying reporting or recordkeeping requirements, procedures, or standards as prophylactic measures against fraud, manipulation, or insider trading), and judicial precedents decided under subsection (b) and rules promulgated thereunder that prohibit fraud, manipulation, or insider trading, shall apply to security-based swap agreements to the same extent as they apply to securities. Judicial precedents decided under [section 77q(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77q/a&num=0&edition=prelim) and sections 78i, 78o, 78p, 78t, and 78u–1 of this title, and judicial precedents decided under applicable rules promulgated under such sections, shall apply to security-based swap agreements to the same extent as they apply to securities.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### Amendments
 2010—Pub. L. 111–203, § 762(d)(3)(B), which directed amendment of the matter following subsection (b) “by striking ‘(as defined in section 206B of the Gramm-Leach-Bliley Act), in each place that such terms appear’ ”, was executed by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements” in two places in concluding provisions following subsec. (c) to reflect the probable intent of Congress.
@@ -6056,9 +6035,6 @@ Every issuer of a security registered on a national securities exchange shall al
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, and this chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), (i), and (n)(6)(B)(v), (C)(i)(I), (7)(A), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -6250,9 +6226,6 @@ George W. Bush.
 **(c) Derivatives** Unless the Commission is expressly authorized by any provision described in this subsection to grant exemptions, the Commission shall not grant exemptions, with respect to amendments made by subtitle B of the Wall Street Transparency and Accountability Act of 2010, with respect to paragraphs (65), (66), (68), (69), (70), (71), (72), (73), (74), (75), (76), and (79) of [section 78c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim), and sections 78j–2(a), 78j–2(b), 78j–2(c), 78m–1, 78o–10, 78q–1(g), 78q–1(h), 78q–1(i), 78q–1(j), 78q–1(k), and 78q–1(l) of this title; provided that the Commission shall have exemptive authority under this chapter with respect to security-based swaps as to the same matters that the Commodity Futures Trading Commission has under the Wall Street Transparency and Accountability Act of 2010 with respect to swaps, including under [section 6(c) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6/c&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (c), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
@@ -6660,10 +6633,10 @@ Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 #### Study and Report on Shareholder Access to Proxy Statements
-Pub. L. 104–290, title V, § 510(b), Oct. 11, 1996, 110 Stat. 3450, provided that: “(1) Study.—The Commission shall conduct a study of—“(A) whether shareholder access to proxy statements pursuant to section 14 of the Securities Exchange Act of 1934 [[15 U.S.C. 78n](./chapter-2b-securities-exchanges.md#section-78n)] has been impaired by recent statutory, judicial, or regulatory changes; and “(B) the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements. “(2) Report.—Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1), together with any recommendations for regulatory or legislative changes that it considers necessary to improve shareholder access to proxy statements.”
+Pub. L. 104–290, title V, § 510(b), Oct. 11, 1996, 110 Stat. 3450, provided that the Securities and Exchange Commission should conduct a study to determine if shareholder access to proxy statements pursuant to this section had been impaired by recent statutory, judicial, or regulatory changes and the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements, and provided that the Commission report the study and any recommendations to Congress by 1 year after Oct. 11, 1996.
 
 #### Evaluation of Fairness Opinion Preparation, Disclosure, and Use
-Pub. L. 103–202, title III, § 302(c), Dec. 17, 1993, 107 Stat. 2363, provided that: “(1) Evaluation required.—The Comptroller General of the United States shall, within 18 months after the date of enactment of this Act [Dec. 17, 1993], conduct a study of—“(A) the use of fairness opinions in limited partnership rollup transactions; “(B) the standards which preparers use in making determinations of fairness; “(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers; “(D) the nature and quality of disclosures provided with respect to such opinions; “(E) any conflicts of interest with respect to the preparation of such opinions; and “(F) the usefulness of such opinions to limited partners. “(2) Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1).”
+Pub. L. 103–202, title III, § 302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate
 By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
@@ -7176,9 +7149,6 @@ the Commission shall seek to prosecute and sanction violators of the standard of
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendments by subtitle A (§§ 711–754) and subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of either subtitle A or B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A or B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (b)(2)(B), (C), (3), (4)(A), (D), (E), (11)(B), (12)(B), (c)(3)(B), (8), (f), (g), and (i)(1), was in the original “this title”, and this chapter, referred to in subsecs. (k)(1) and (m), was in the original “this Act”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -7446,7 +7416,7 @@ Pub. L. 104–290, title V, § 510(d), Oct. 11, 1996, 110 Stat. 3451, provided t
 Pub. L. 101–429, title V, § 502, Oct. 15, 1990, 104 Stat. 951, provided that: “The Congress finds the following: “(1) The maintenance of an honest and healthy primary and secondary market for securities offerings is essential to enhancing long-term capital formation and economic growth and providing legitimate investment opportunities for individuals and institutions. “(2) Protecting investors in new securities is a critical component in the maintenance of an honest and healthy market for such securities. “(3) Protecting issuers of new securities and promoting the capital formation process on behalf of small companies are fundamental concerns in maintaining a strong economy and viable trading markets. “(4) Unscrupulous market practices and market participants have pervaded the ‘penny stock’ market with an overwhelming amount of fraud and abuse. “(5) Although the Securities and Exchange Commission, State securities regulators, and securities self-regulators have made efforts to curb these abusive and harmful practices, the penny stock market still lacks an adequate and sufficient regulatory structure, particularly in comparison to the structure for overseeing trading in National Market System securities. “(6) Investors in the penny stock market suffer from a serious lack of adequate information concerning price and volume of penny stock transactions, the nature of this market, and the specific securities in which they are investing. “(7) Current practices do not adequately regulate the role of ‘promoters’ and ‘consultants’ in the penny stock market, and many professionals who have been banned from the securities markets have ended up in promoter and consultant roles, contributing substantially to fraudulent and abusive schemes. “(8) The present regulatory environment has permitted the ascendancy of the use of particular market practices, such as ‘reverse mergers’ with shell corporations and ‘blank check’ offerings, which are used to facilitate manipulation schemes and harm investors. “(9) In light of the substantial and continuing problems in the penny stock markets, additional legislative measures are necessary and appropriate.”
 
 #### Revision of Sanction Authority With Respect to Penny Stocks; Recommendations to Congress
-Pub. L. 101–429, title V, § 504(b), Oct. 15, 1990, 104 Stat. 953, provided that: “Within 6 months after the date of enactment of this Act [Oct. 15, 1990], the Securities and Exchange Commission shall submit to each House of the Congress such recommendations as the Commission considers appropriate with respect to further revision of section 15(b)(6) of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o(b)(6)). In preparing such recommendations, the Commission shall consider the desirability and effect of expanding the applicability of such section to any promoter, finder, consultant, agent or other person who engages in activities with a broker, dealer, or issuer for purposes of the issuance of or trading in, or inducing or attempting to induce the purchase or sale of, any security (and not just penny stock).”
+Pub. L. 101–429, title V, § 504(b), Oct. 15, 1990, 104 Stat. 953, provided that within 6 months after Oct. 15, 1990, the Securities and Exchange Commission was to submit to each House of Congress any recommendations the Commission considered appropriate with respect to further revision of subsection (b)(6) of this section.
 
 
 <a id="section-78oo"></a>
@@ -9813,9 +9783,6 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### Amendments
 2010—Subsec. (a)(1). Pub. L. 111–203, § 929R(b)(1), struck out “(and, if such security is registered on a national securities exchange, also with the exchange)” after “Commission”.
 
@@ -10518,9 +10485,6 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), (3)(B), (4), (5), (e), and (h) to (j), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -10876,9 +10840,6 @@ This chapter, referred to in subsec. (a), was in the original “this title”. 
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (b)(2)(C)(i), (3)(C), (7)(C), (8), (c), (d)(1), (e)(1)(A), (2), (f), (g), and (h), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -10964,9 +10925,6 @@ Pub. L. 101–429, title V, § 510, Oct. 15, 1990, 104 Stat. 957, directed Compt
 **(f) Limitation on Commission authority** The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of [section 78c–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–1/b&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
@@ -11383,9 +11341,6 @@ Pub. L. 105–353, title I, § 102, Nov. 3, 1998, 112 Stat. 3233, provided that:
 
 ### Statutory Notes
 
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text
 This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”, and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original “this Act”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -11446,7 +11401,7 @@ Pub. L. 112–105, § 9(b)(2)(A), Apr. 4, 2012, 126 Stat. 297, provided that: �
 Pub. L. 100–704, § 2, Nov. 19, 1988, 102 Stat. 4677, provided that: “The Congress finds that— “(1) the rules and regulations of the Securities and Exchange Commission under the Securities Exchange Act of 1934 [[15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.] governing trading while in possession of material, nonpublic information are, as required by such Act, necessary and appropriate in the public interest and for the protection of investors; “(2) the Commission has, within the limits of accepted administrative and judicial construction of such rules and regulations, enforced such rules and regulations vigorously, effectively, and fairly; and “(3) nonetheless, additional methods are appropriate to deter and prosecute violations of such rules and regulations.”
 
 #### Commission Recommendations for Additional Civil Penalty Authority Required
-Pub. L. 100–704, § 3(c), Nov. 19, 1988, 102 Stat. 4680, provided that: “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act [Nov. 19, 1988], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission’s authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 [[15 U.S.C. 78u–1](./chapter-2b-securities-exchanges.md#section-78u-1)] (as added by this section).”
+Pub. L. 100–704, § 3(c), Nov. 19, 1988, 102 Stat. 4680, provided that the Securities and Exchange Commission should, within 60 days after Nov. 19, 1988, submit to Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission’s authority to seek civil penalties or impose administrative fines for violations other than those described in this section.
 
 
 <a id="section-78u-2"></a>
@@ -11506,9 +11461,6 @@ Pub. L. 100–704, § 3(c), Nov. 19, 1988, 102 Stat. 4680, provided that: “The
 (2) **Security-based swap dealer or major security-based swap participant** — Any security-based swap dealer or major security-based swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of [section 78c–3 of this title](./chapter-2b-securities-exchanges.md#section-78c-3) shall be liable for a civil money penalty in twice the amount otherwise available for a violation of [section 78c–3 of this title](./chapter-2b-securities-exchanges.md#section-78c-3).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Unless otherwise provided, amendment by subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
 
 #### References in Text
 The Securities Act of 1933, referred to in subsec. (a)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.

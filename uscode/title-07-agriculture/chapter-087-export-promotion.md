@@ -1229,7 +1229,7 @@ Section was enacted as part of the Federal Agriculture Improvement and Reform Ac
 
 (1) this section;
 
-(2) the emerging markets program under section 154211 See References in Text note below. and [section 5623(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5623/d&num=0&edition=prelim); or
+(2) the emerging markets program under section 1542 11 See References in Text note below. and [section 5623(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5623/d&num=0&edition=prelim); or
 
 (3) the Cochran Fellowship Program under [section 3293 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3293).
 

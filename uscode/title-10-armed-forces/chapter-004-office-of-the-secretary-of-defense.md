@@ -29,7 +29,8 @@ source: >-
   (E) The Under Secretary of Defense for Personnel and Readiness.
 
   (F) The Under Secretary of Defense for Intelligence.
-  4) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
+
+(4) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
 
   (A) The Director of Cost Assessment and Program Evaluation.
 
@@ -325,7 +326,7 @@ For order of succession during any period when the Secretary has died, resigned,
 #### Assignment of Duties
 Pub. L. 110–181, div. A, title IX, § 904(a)(2), Jan. 28, 2008, 122 Stat. 273, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that: “(A) The Secretary of Defense shall assign duties and authorities relating to the management of the business operations of the Department of Defense. “(B) The Secretary shall assign such duties and authorities to the Chief Management Officer as are necessary for that official to effectively and efficiently organize the business operations of the Department of Defense. “(C) The Secretary shall assign such duties and authorities to the Deputy Chief Management Officer as are necessary for that official to assist the Chief Management Officer to effectively and efficiently organize the business operations of the Department of Defense. “(D) The Deputy Chief Management Officer shall perform the duties and have the authorities assigned by the Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer.”
 
-[Deputy Chief Management Officer of the Department of Defense deemed to refer to Chief Management Officer of the Department of Defense, see section 1081(f)(2) of Pub. L. 115-232, set out as a Change of Name note under [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).]
+[Deputy Chief Management Officer of the Department of Defense deemed to refer to Chief Management Officer of the Department of Defense, see section 1081(f)(2) of Pub. L. 115–232, set out as a Change of Name note under [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).]
 
 #### Assignment of Management Duties and Designation of the Chief Management Officers of the Military Departments
 Pub. L. 110–181, div. A, title IX, § 904(b), Jan. 28, 2008, 122 Stat. 274, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title X, § 1081(f)(1)(E), Aug. 13, 2018, 132 Stat. 1987, provided that: “(1) The Secretary of a military department shall assign duties and authorities relating to the management of the business operations of such military department. “(2) The Secretary of a military department, in assigning duties and authorities under paragraph (1) shall designate the Under Secretary of such military department to have the primary management responsibility for business operations, to be known in the performance of such duties as the Chief Management Officer. “(3) The Secretary shall assign such duties and authorities to the Chief Management Officer as are necessary for that official to effectively and efficiently organize the business operations of the military department concerned. “(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer of the Department of Defense as is necessary to assist the Chief Management Officer in the performance of the duties assigned to such official.”
@@ -417,7 +418,7 @@ Pub. L. 115–91, div. A, title IX, § 910(e), Dec. 12, 2017, 131 Stat. 1518, pr
 Pub. L. 115–232, div. A, title IX, § 916, Aug. 13, 2018, 132 Stat. 1924, provided that: “(a) Department of the Army.—An individual may not be appointed as Deputy Chief Management Officer of the Department of the Army unless the individual—“(1) has significant experience in business operations or management in the public sector; or “(2) has significant experience managing an enterprise in the private sector. “(b) Department of the Navy.—An individual may not be appointed as Deputy Chief Management Officer of the Department of the Navy unless the individual—“(1) has significant experience in business operations or management in the public sector; or “(2) has significant experience managing an enterprise in the private sector. “(c) Department of the Air Force.—An individual may not be appointed as Deputy Chief Management Officer of the Department of the Air Force unless the individual—“(1) has significant experience in business operations or management in the public sector; or “(2) has significant experience managing an enterprise in the private sector.”
 
 #### Execution of Authority in Subsection (c)
-Pub. L. 115–232, div. A, title IX, § 921(a)(2)(B), Aug. 13, 2018, 132 Stat. 1927, provided that: “In order to execute the authority in subsection (c) of [section 132a of title 10](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), United States Code (as amended by subparagraph (A) [amending this section]), the Chief Management Officer of the Department of Defense shall do the following: “(i) By April 1, 2019, develop an assessment of cost and expertise requirements to execute such authority. “(ii) By September 1, 2019, develop guidance for Defense Agencies and Department of Defense Field Activities to delineate spending on enterprise business operations and develop a process to determine the adequacy of their budgets for such operations.”
+Pub. L. 115–232, div. A, title IX, § 921(a)(2)(B), Aug. 13, 2018, 132 Stat. 1927, provided that: “In order to execute the authority in subsection (c) of [section 132a of title 10](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), United States Code (as amended by subparagraph (A)), the Chief Management Officer of the Department of Defense shall do the following: “(i) By April 1, 2019, develop an assessment of cost and expertise requirements to execute such authority. “(ii) By September 1, 2019, develop guidance for Defense Agencies and Department of Defense Field Activities to delineate spending on enterprise business operations and develop a process to determine the adequacy of their budgets for such operations.”
 
 #### Defense Agencies and Field Activities Providing Shared Business Services
 Pub. L. 115–91, div. A, title IX, § 910(f), Dec. 12, 2017, 131 Stat. 1518, provided that: “(1) Initial reporting requirement.—Not later than January 15, 2018, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report specifying each Defense Agency and Department of Defense Field Activity providing shared business services for the Department of Defense that is to be designated by the Secretary of Defense or the Deputy Secretary of Defense for purposes of subsection (b)(3) of [section 132a of title 10](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), United States Code (as amended by subsection (a)), as of the coming into effect of such section 132a. “(2) Notice to congress on transfer of oversight.—Upon the transfer to the Chief Management Officer of the Department of Defense of responsibility for oversight of shared business services of a Defense Agency or Department of Defense Field Activity specified in the report required by paragraph (1), the Secretary of Defense shall submit to the congressional defense committees a notice of the transfer, including the Defense Agency or Field Activity subject to the transfer and a description of the nature and scope of the responsibility for oversight transferred.”
@@ -846,7 +847,7 @@ Pub. L. 107–314, div. A, title IX, § 901(d), Dec. 2, 2002, 116 Stat. 2620, as
 
 (6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence, who shall be appointed from among persons who have extensive expertise in intelligence matters.
 
-**(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+**(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 ### Statutory Notes
 
@@ -1656,7 +1657,7 @@ Another prior [section 141 of this title](./chapter-004-office-of-the-secretary-
 
 <a id="section-142"></a>
 ## § 142. Chief Information Officer
-**(a)** There is a Chief Information Officer of the Department of Defense.
+**(a)** There is a Chief Information Officer of the Department of Defense, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer.
 
 **(b)**
 
@@ -1678,54 +1679,41 @@ Another prior [section 141 of this title](./chapter-004-office-of-the-secretary-
 
   (H) has the responsibilities for policy, oversight, and guidance for matters related to precision navigation and timing; and
 
-  (I) has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the networking and cyber defense architecture of the Department.
+  (I) has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the information technology, networking, information assurance, cybersecurity, and cyber capability architectures of the Department.
 
-(2) The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
+(2)
 
-**(c)** The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) 11 See References in Text note below. of this title. The officials serving in positions specified in section 131(b)(4) 1 and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
+  (A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense Agencies with responsibilities associated with any activity specified in paragraph (1) to transmit the proposed budget for such activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) for that fiscal year to the Chief Information Officer for review under subparagraph (B) before submitting the proposed budget to the Under Secretary of Defense (Comptroller).
+
+  (B) The Chief Information Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary of Defense a report containing the comments of the Chief Information Officer with respect to all such proposed budgets, together with the certification of the Chief Information Officer regarding whether each proposed budget is adequate.
+
+  (C) Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report specifying each proposed budget contained in the most-recent report submitted under subparagraph (B) that the Chief Information Officer did not certify to be adequate. The report of the Secretary shall include the following matters:
+
+    (i) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets specified in the report.
+
+    (ii) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
+
+(3)
+
+  (A) The Secretary of a military department or head of a Defense Agency may not develop or procure information technology (as defined in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim)) that does not fully comply with such standards as the Chief Information Officer may establish.
+
+  (B) The Chief Information Officer shall implement and enforce a process for—
+
+    (i) developing, adopting, or publishing standards for information technology, networking, or cyber capabilities to which any military department or defense agency would need to adhere in order to run such capabilities on defense networks; and
+
+    (ii) certifying on a regular and ongoing basis that any capabilities being developed or procured meets such standards as have been published by the Department at the time of certification.
+
+  (C) The Chief Information Officer shall identify gaps in standards and mitigation plans for operating in the absence of acceptable standards.
+
+(4) The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
+
+**(c)** 11 So in original. Two subsecs. (c) have been enacted. The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) 22 See References in Text note below. of this title. The officials serving in positions specified in section 131(b)(4) 2 and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
+
+**(c)** 1 The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
+
+**(d)** The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in [section 131(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section131/b/4&num=0&edition=prelim). The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–91, div. A, title IX, § 909(a)–(d), (g), Dec. 12, 2017, 131 Stat. 1514–1516, provided that, effective Jan. 1, 2019, this section is amended:
-
-(1) in subsection (a), by inserting before the period at the end the following: “, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer”;
-
-(2) in subsection (b)—
-
-(A) in paragraph (1)(I), by striking “the networking and cyber defense architecture” and inserting “the information technology, networking, information assurance, cybersecurity, and cyber capability architectures”;
-
-(B) by redesignating paragraph (2) as paragraph (4); and
-
-(C) by inserting after paragraph (1) the following new paragraphs:
-
-“(2)(A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense Agencies with responsibilities associated with any activity specified in paragraph (1) to transmit the proposed budget for such activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) for that fiscal year to the Chief Information Officer for review under subparagraph (B) before submitting the proposed budget to the Under Secretary of Defense (Comptroller).
-
-“(B) The Chief Information Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary of Defense a report containing the comments of the Chief Information Officer with respect to all such proposed budgets, together with the certification of the Chief Information Officer regarding whether each proposed budget is adequate.
-
-“(C) Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report specifying each proposed budget contained in the most-recent report submitted under subparagraph (B) that the Chief Information Officer did not certify to be adequate. The report of the Secretary shall include the following matters:
-
-“(i) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets specified in the report.
-
-“(ii) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
-
-“(3)(A) The Secretary of a military department or head of a Defense Agency may not develop or procure information technology (as defined in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim)) that does not fully comply with such standards as the Chief Information Officer may establish.
-
-“(B) The Chief Information Officer shall implement and enforce a process for—
-
-“(i) developing, adopting, or publishing standards for information technology, networking, or cyber capabilities to which any military department or defense agency would need to adhere in order to run such capabilities on defense networks; and
-
-“(ii) certifying on a regular and ongoing basis that any capabilities being developed or procured meets such standards as have been published by the Department at the time of certification.
-
-“(C) The Chief Information Officer shall identify gaps in standards and mitigation plans for operating in the absence of acceptable standards.”; and
-
-(3) by adding at the end the following new subsections:
-
-(c) The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
-
-(d) The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in [section 131(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section131/b/4&num=0&edition=prelim). The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.
-
-See 2017 Amendment notes below.
 
 #### References in Text
 [Section 131(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section131/b/4&num=0&edition=prelim), referred to in subsec. (c), was redesignated [section 131(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section131/b/5&num=0&edition=prelim) by Pub. L. 115–91, div. A, title IX, § 910(c)(1)(A), Dec. 12, 2017, 131 Stat. 1518.

@@ -90,15 +90,9 @@ Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor t
 <a id="section-176a"></a>
 ## § 176a. Confidential nature of information furnished Bureau
 
-Any statistical information furnished in confidence to the Bureau of Foreign and Domestic Commerce by individuals, corporations, and firms shall be held to be confidential, and shall be used only for the statistical purposes for which it is supplied. Except as provided in the Confidential Information Protection and Statistical Efficiency Act of 2002, the Director of the Bureau of Foreign and Domestic Commerce shall not permit anyone other than the sworn employees of the Bureau to examine such individual reports, nor shall he permit any statistics of domestic commerce to be published in such manner as to reveal the identity of the individual, corporation, or firm furnishing such data.
+Any statistical information furnished in confidence to the Bureau of Foreign and Domestic Commerce by individuals, corporations, and firms shall be held to be confidential, and shall be used only for the statistical purposes for which it is supplied. Except as provided in subchapter III of chapter 35 of title 44, the Director of the Bureau of Foreign and Domestic Commerce shall not permit anyone other than the sworn employees of the Bureau to examine such individual reports, nor shall he permit any statistics of domestic commerce to be published in such manner as to reveal the identity of the individual, corporation, or firm furnishing such data.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–435, title III, § 302(c)(4), title IV, § 403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, this section is amended by striking “the Confidential Information Protection and Statistical Efficiency Act of 2002” and inserting “subchapter III of chapter 35 of title 44”. See 2019 Amendment note below.
-
-#### References in Text
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in text, is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended this section, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
 #### Amendments
 2019—Pub. L. 115–435 substituted “subchapter III of chapter 35 of title 44” for “the Confidential Information Protection and Statistical Efficiency Act of 2002”.

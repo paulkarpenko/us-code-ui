@@ -275,12 +275,28 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 **(m) Earliest date for certain refunds** No credit or refund of an overpayment for a taxable year shall be made to a taxpayer before the 15th day of the second month following the close of such taxable year if a credit is allowed to such taxpayer under section 24 (by reason of subsection (d) thereof) or 32 for such taxable year.
 
+**(n) Misdirected direct deposit refund** Not later than the date which is 6 months after the date of the enactment of the Taxpayer First Act, the Secretary shall prescribe regulations to establish procedures to allow for—
+
+(1) taxpayers to report instances in which a refund made by the Secretary by electronic funds transfer was not transferred to the account of the taxpayer;
+
+(2) coordination with financial institutions for the purpose of—
+
+  (A) identifying the accounts to which transfers described in paragraph (1) were made; and
+
+  (B) recovery of the amounts so transferred; and
+
+(3) the refund to be delivered to the correct account of the taxpayer.
+
 ### Statutory Notes
 
 #### References in Text
 The Social Security Act, referred to in subsecs. (c), (d)(3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204 and 464 of the Act are classified to sections 404 and 664, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+The date of the enactment of the Taxpayer First Act, referred to in subsec. (n), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
+
 #### Amendments
+2019—Subsec. (n). Pub. L. 116–25 added subsec. (n).
+
 2018—Subsec. (a). Pub. L. 115–141, § 401(a)(285), substituted “(f), refund” for “(f) refund”.
 
 Subsec. (c). Pub. L. 115–141, § 401(a)(286), substituted “of such Act” for “of of such Act”.
@@ -454,7 +470,7 @@ In the case of a tax payable in installments, if the taxpayer has paid as an ins
 
 (3) is erroneously or illegally assessed.
 
-**(b) No claim for abatement of income, estate, and gift taxes** No claim for abatement shall be filed by a taxpayer in respect of any assessment of any tax imposed under subtitle A or B.
+**(b) No claim for abatement of income, estate, and gift taxes** No claim for abatement shall be filed by a taxpayer in respect of an assessment of any tax imposed under subtitle A or B.
 
 **(c) Small tax balances** The Secretary is authorized to abate the unpaid portion of the assessment of any tax, or any liability in respect thereof, if the Secretary determines under uniform rules prescribed by the Secretary that the administration and collection costs involved would not warrant collection of the amount due.
 
@@ -2591,7 +2607,11 @@ Amendment by act July 25, 1956, applicable to amounts paid on or after first day
 Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), is section 9 of act Mar. 8, 1946, ch. 82, 60 Stat. 46, which was repealed by Pub. L. 94–412, title V, § 501(g), Sept. 14, 1976, 90 Stat. 1258.
 
 #### Amendments
-2018—Pars. (7) to (12). Pub. L. 115–141 redesignated pars. (8) to (12) as (7) to (11), respectively, substituted “For credit” for “for credit” in par. (10), and struck out former par. (7) which read as follows: “For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).”
+2018—Pars. (7) to (9). Pub. L. 115–141, § 401(a)(292)(A), (B), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).”
+
+Pars. (10), (11). Pub. L. 115–141, § 401(a)(292)(B), (C), redesignated par. (11) as (10) and substituted “For credit” for “for credit”. Former par. (10) redesignated (9).
+
+Par. (12). Pub. L. 115–141, § 401(a)(292)(B), which directed the redesignation of par. (12) as (11), could not be executed because there was no par. (12) following the amendment by Pub. L. 114–74. See 2015 Amendment note below.
 
 2015—Par. (12). Pub. L. 114–74 struck out par. (12) which read as follows: “For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.”
 

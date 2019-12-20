@@ -478,7 +478,7 @@ Pub. L. 108–136, div. A, title III, § 313(b), Nov. 24, 2003, 117 Stat. 1430, 
 Pub. L. 104–201, div. A, title III, § 322(b), Sept. 23, 1996, 110 Stat. 2478, provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under [section 2703(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2703/a/1&num=0&edition=prelim), United States Code (as amended by subsection (a)(1)).”
 
 #### Unobligated Balances in Defense Environmental Restoration Account
-Pub. L. 104–201, div. A, title III, § 322(d), Sept. 23, 1996, 110 Stat. 2479, provided that: “Any unobligated balances that remain in the Defense Environmental Restoration Account under [section 2703(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2703/a&num=0&edition=prelim), United States Code, as of the effective date specified in subsection (e) [Oct. 1, 1996] shall be transferred on such date to the Environmental Restoration Account, Defense, established under [section 2703(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2703/a/1&num=0&edition=prelim), United States Code (as amended by subsection (a)(1)).”
+Pub. L. 104–201, div. A, title III, § 322(d), Sept. 23, 1996, 110 Stat. 2479, provided that unobligated balances remaining in the Defense Environmental Restoration Account under this section as of Oct. 1, 1996, would be transferred on such date to the Environmental Restoration Account, Defense, established under this section.
 
 
 <a id="section-2704"></a>

@@ -85,7 +85,7 @@ Section was formerly classified to [section 14044 of Title 42](https://uscode.ho
 Subsec. (c)(2). Pub. L. 110–457, § 302(2)(B), which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
 
 #### Best Practices in Delivering Justice for Victims of Trafficking
-Pub. L. 115–392, § 8, Dec. 21, 2018, 132 Stat. 5253, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 21, 2018], the Attorney General shall issue guidance to all offices and components of the Department of Justice— “(1) emphasizing that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim), United States Code) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18, United States Code, and is a party to a severe form of trafficking in persons, as that term is defined in section 103(9) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)); “(2) recommending and implementing best practices for the collection of special assessments under [section 3014 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3014&num=0&edition=prelim), United States Code, as added by section 101 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 228), including a directive that civil liens are an authorized collection method and remedy under [section 3613 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3613&num=0&edition=prelim), United States Code; and “(3) clarifying that commercial sexual exploitation is a form of gender-based violence.”
+Pub. L. 115–392, § 8, Dec. 21, 2018, 132 Stat. 5253, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 21, 2018], the Attorney General shall issue guidance to all offices and components of the Department of Justice— “(1) emphasizing that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim), United States Code) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18, United States Code, and is a party to a severe form of trafficking in persons, as that term is defined in section 103(9) [now 103(11)] of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim) [now 7102(11)]); “(2) recommending and implementing best practices for the collection of special assessments under [section 3014 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3014&num=0&edition=prelim), United States Code, as added by section 101 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 228), including a directive that civil liens are an authorized collection method and remedy under [section 3613 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3613&num=0&edition=prelim), United States Code; and “(3) clarifying that commercial sexual exploitation is a form of gender-based violence.”
 
 #### Ending Government Partnerships With the Commercial Sex Industry
 Pub. L. 115–392, § 19, Dec. 21, 2018, 132 Stat. 5258, provided that: “No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that— “(1) has the primary purpose of providing adult entertainment; and “(2) derives profits from the commercial sex trade.”
@@ -523,7 +523,7 @@ Section was formerly classified to [section 14044b of Title 42](https://uscode.h
 ### Statutory Notes
 
 #### References in Text
-Section 103, referred to in subsec. (a), means section 103 of Pub. L. 114–22.
+Section 103, referred to in subsec. (a), means section 103 of Pub. L. 114–22. For classification of section 103 to the Code, see Tables.
 
 This title, referred to in subsec. (b)(3)(A), (4)(A), is title I of Pub. L. 114–22, May 29, 2015, 129 Stat. 228. For complete classification of title I to the Code, see Tables.
 
@@ -550,7 +550,7 @@ Pub. L. 115–392, § 22, Dec. 21, 2018, 132 Stat. 5259, provided that: “(a) D
 
   (E) to educate and train law enforcement personnel in how to establish trust of persons subjected to trafficking and encourage cooperation with prosecution efforts; and
 
-  (F) as appropriate, to designate at least 1 prosecutor for cases of severe forms of trafficking in persons (as such term is defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim).11 So in original. The period probably should be preceded by a closing parenthesis.
+  (F) as appropriate, to designate at least 1 prosecutor for cases of severe forms of trafficking in persons (as such term is defined in section 7102(9) 11 See References in Text note below. of title 22).
 
 (2) **Definition** — In this subsection, the term “related offenses” includes violations of tax laws, transacting in illegally derived proceeds, money laundering, racketeering, and other violations of criminal laws committed in connection with an act of sex trafficking or a severe form of trafficking in persons.
 
@@ -569,6 +569,9 @@ Pub. L. 115–392, § 22, Dec. 21, 2018, 132 Stat. 5259, provided that: “(a) D
 (2) recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate to improve the ability described in paragraph (1).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim), referred to in subsec. (a)(1)(F), was redesignated [section 7102(11) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/11&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Codification
 Section was formerly classified to [section 14044c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044c&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -615,9 +618,9 @@ Section was formerly classified to [section 14044d of Title 42](https://uscode.h
 
 In this chapter:
 
-(1) **Severe forms of trafficking in persons** — The term “severe forms of trafficking in persons” has the meaning given the term in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim).
+(1) **Severe forms of trafficking in persons** — The term “severe forms of trafficking in persons” has the meaning given the term in section 7102(9) 11 See References in Text note below. of title 22.
 
-(2) **Sex trafficking** — The term “sex trafficking” has the meaning given the term in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim).
+(2) **Sex trafficking** — The term “sex trafficking” has the meaning given the term in section 7102(10) 1 of title 22.
 
 (3) **Commercial sex act** — The term “commercial sex act” has the meaning given the term in [section 7102(4) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/4&num=0&edition=prelim).
 
@@ -625,6 +628,8 @@ In this chapter:
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 109–164, Jan. 10, 2006, 119 Stat. 3567, which enacted sections 20701 to 20703 and 20705 to 20707 of this title and amended sections 7103 and 7104 of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Tables.
+
+Section 7102(9) and (10) of title 22, referred to in pars. (1) and (2), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Codification
 Section was formerly classified to [section 14044e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044e&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -641,7 +646,7 @@ Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)
 ## § 20708. Grants for specialized human trafficking training and technical assistance for service providers
 **(a) Definitions** In this section:
 
-(1) **Act of trafficking** — The term “act of trafficking” means an act or practice described in paragraph (9) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
+(1) **Act of trafficking** — The term “act of trafficking” means an act or practice described in paragraph (9) 11 See References in Text note below. of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
 
 (2) **Eligible entity** — The term “eligible entity” means—
 
@@ -697,6 +702,9 @@ Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)
 
 ### Statutory Notes
 
+#### References in Text
+Paragraph (9) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim), referred to in subsec. (a)(1), was redesignated par. (11) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+
 #### Codification
 Section was formerly classified to [section 14044f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044f&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -705,7 +713,7 @@ Section was formerly classified to [section 14044f of Title 42](https://uscode.h
 
 Subsec. (a)(2). Pub. L. 115–392, § 10(a)(2), substituted “means—” and subpars. (A) to (F) for “means a State or a local government.”
 
-Subsec. (b). Pub. L. 115–392, § 10(a)(3), added subsec. (b) and struck out former subsec. (b). Text read as follows: “The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking.”
+Subsec. (b). Pub. L. 115–392, § 10(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking.”
 
 Subsec. (c)(4) to (8). Pub. L. 115–392, § 10(a)(4), added pars. (4) to (8).
 
@@ -810,7 +818,7 @@ Section is comprised of section 114 of Pub. L. 114–22. Subsec. (d) of section 
 Section was formerly classified to [section 14044g of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044g&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-2019—Subsec. (e)(1)(A). Subsec. (e)(1)(A). Pub. L. 115–425, § 121(b)(1), (2), substituted “number” for “rates” in introductory provisions and inserted “, noting the number of covered offenders” after “covered offense” wherever appearing.
+2019—Subsec. (e)(1)(A). Pub. L. 115–425, § 121(b)(1), (2), substituted “number” for “rates” in introductory provisions and inserted “, noting the number of covered offenders” after “covered offense” wherever appearing.
 
 Subsec. (e)(1)(A)(i). Pub. L. 115–425, § 121(b)(3), substituted “arrests” for “arrest”.
 
@@ -829,7 +837,7 @@ Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that: �
 <a id="section-20709a"></a>
 ## § 20709a. Holistic training for Federal law enforcement officers and prosecutors
 
-All training required under [section 20709 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20709) and [section 7105(c)(4) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/4&num=0&edition=prelim) 11 See References in Text note below. shall—
+All training required under [section 20709 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20709) and section 7105(c)(4) 11 See References in Text note below. of title 22 shall—
 
 (1) emphasize that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim)) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense;
 
@@ -934,11 +942,11 @@ Section was formerly classified as a note under [section 5611 of Title 42](https
 
 (3) conducting public outreach and awareness activities relating to human trafficking;
 
-(4) ensuring the collection of data required to be collected under clause (viii) of section 7103(d)(7)(Q)) of title 22, as added by section 17 of the Abolish Human Trafficking Act of 2017,11 See References in Text note below. is sought;
+(4) ensuring the collection of data required to be collected under clause (viii) of [section 7103(d)(7)(Q) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7103/d/7/Q&num=0&edition=prelim), as added by section 17 of the Abolish Human Trafficking Act of 2017,11 See References in Text note below. is sought;
 
 (5) coordinating with other Federal agencies, State, tribal, and local law enforcement agencies, victim service providers, and other relevant non-governmental organizations to build partnerships on activities relating to human trafficking; and
 
-(6) ensuring the collection of restitution for victims is sought as required to be ordered under [section 1593 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1593&num=0&edition=prelim) and section 2429 of such title.
+(6) ensuring the collection of restitution for victims is sought as required to be ordered under [section 1593 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1593&num=0&edition=prelim) and section 2429 of such title, as added by section 3 of the Abolish Human Trafficking Act of 2017.
 
 **(d) Department of Justice Coordinator** Not later than 60 days after December 21, 2018, the Attorney General shall designate an official who shall coordinate human trafficking efforts within the Department of Justice who, in addition to any other responsibilities, shall be responsible for—
 
@@ -959,7 +967,7 @@ Section was formerly classified as a note under [section 5611 of Title 42](https
 ### Statutory Notes
 
 #### References in Text
-Clause (viii) of section 7103(d)(7)(Q)) of title 22, as added by section 17 of the Abolish Human Trafficking Act of 2017, referred to subsec. (c)(4), probably should be a reference to the clause as added by section 16 of the Abolish Human Trafficking Act of 2017, which is section 16 of Pub. L. 115–392, Dec. 21, 2018, 132 Stat. 5257.
+Clause (viii) of [section 7103(d)(7)(Q) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7103/d/7/Q&num=0&edition=prelim), as added by section 17 of the Abolish Human Trafficking Act of 2017, referred to subsec. (c)(4), probably should be a reference to the clause as added by section 16 of the Abolish Human Trafficking Act of 2017, which is section 16 of Pub. L. 115–392, Dec. 21, 2018, 132 Stat. 5257.
 
 Section 2429 of such title, as added by section 3 of the Abolish Human Trafficking Act of 2017, referred to in subsec. (c)(6), means [section 2429 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2429&num=0&edition=prelim), as added by section 3(a) of Pub. L. 115–392, Dec. 21, 2018, 132 Stat. 5251.
 

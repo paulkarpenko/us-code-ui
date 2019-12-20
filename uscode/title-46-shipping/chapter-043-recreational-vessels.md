@@ -398,7 +398,7 @@ Subsec. (f)(1). Pub. L. 98–557, § 8(c), inserted provisions relating to advic
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Coast Guard Authorization Act of 2017, referred to in subsecs. (a) and (c)(1), probably means the date of enactment of Pub. L. 115–282, which is the Frank LoBiondo Coast Guard Authorization Act of 2018 and was approved Dec. 4, 2018. No act with the title “Coast Guard Authorization Act of 2017” has been enacted.
+The date of enactment of the Coast Guard Authorization Act of 2017, referred to in subsecs. (a) and (c)(1), probably means the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018, Pub. L. 115–282, which enacted this section and was approved Dec. 4, 2018. No act with the title “Coast Guard Authorization Act of 2017” has been enacted.
 
 The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 115–282, which was approved Dec. 4, 2018.
 

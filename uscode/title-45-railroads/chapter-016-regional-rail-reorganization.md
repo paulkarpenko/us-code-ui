@@ -97,7 +97,9 @@ As used in this chapter, unless the context otherwise requires—
 
 (16) “railroad in reorganization” means a railroad which is subject to a bankruptcy proceeding and which has not been determined by a court to be reorganizable or not subject to reorganization pursuant to this chapter as prescribed in [section 717(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section717/b&num=0&edition=prelim). A “bankruptcy proceeding” includes a proceeding pursuant to section 77 of the Bankruptcy Act and an equity receivership or equivalent proceeding;
 
-(17) “Region” means the States of Maine, New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, Ohio, Indiana, Michigan, and Illinois; the District of Columbia; and those portions of contiguous States in which are located rail properties owned or operated by railroads doing business primarily in the aforementioned jurisdictions (as determined by the Commission by order);(17A) “sale date” means the date on which the initial public offering of the securities of the Corporation is closed under the Conrail Privatization Act [[45 U.S.C. 1301](./chapter-022-conrail-privatization.md#section-1301) et seq.];
+(17) “Region” means the States of Maine, New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, West Virginia, Ohio, Indiana, Michigan, and Illinois; the District of Columbia; and those portions of contiguous States in which are located rail properties owned or operated by railroads doing business primarily in the aforementioned jurisdictions (as determined by the Commission by order);
+
+(17A) “sale date” means the date on which the initial public offering of the securities of the Corporation is closed under the Conrail Privatization Act [[45 U.S.C. 1301](./chapter-022-conrail-privatization.md#section-1301) et seq.];
 
 (18) “Secretary” means the Secretary of Transportation or the designated representative of the Secretary;
 

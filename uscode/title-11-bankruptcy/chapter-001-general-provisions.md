@@ -33,7 +33,9 @@ In this title the following definitions shall apply:
 
 (3) The term “assisted person” means any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $150,000.11 See Adjustment of Dollar Amounts notes below.
 
-(4) The term “attorney” means attorney, professional law association, corporation, or partnership, authorized under applicable law to practice law.(4A) The term “bankruptcy assistance” means any goods or services sold or otherwise provided to an assisted person with the express or implied purpose of providing information, advice, counsel, document preparation, or filing, or attendance at a creditors’ meeting or appearing in a case or proceeding on behalf of another or providing legal representation with respect to a case or proceeding under this title.
+(4) The term “attorney” means attorney, professional law association, corporation, or partnership, authorized under applicable law to practice law.
+
+(4A) The term “bankruptcy assistance” means any goods or services sold or otherwise provided to an assisted person with the express or implied purpose of providing information, advice, counsel, document preparation, or filing, or attendance at a creditors’ meeting or appearing in a case or proceeding on behalf of another or providing legal representation with respect to a case or proceeding under this title.
 
 (5) The term “claim” means—
 
@@ -43,11 +45,15 @@ In this title the following definitions shall apply:
 
 (6) The term “commodity broker” means futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, as defined in [section 761 of this title](./chapter-007-liquidation.md#section-761), with respect to which there is a customer, as defined in [section 761 of this title](./chapter-007-liquidation.md#section-761).
 
-(7) The term “community claim” means claim that arose before the commencement of the case concerning the debtor for which property of the kind specified in [section 541(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section541/a/2&num=0&edition=prelim) is liable, whether or not there is any such property at the time of the commencement of the case. (7A) The term “commercial fishing operation” means—
+(7) The term “community claim” means claim that arose before the commencement of the case concerning the debtor for which property of the kind specified in [section 541(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section541/a/2&num=0&edition=prelim) is liable, whether or not there is any such property at the time of the commencement of the case.
+
+(7A) The term “commercial fishing operation” means—
 
   (A) the catching or harvesting of fish, shrimp, lobsters, urchins, seaweed, shellfish, or other aquatic species or products of such species; or
 
-  (B) for purposes of section 109 and chapter 12, aquaculture activities consisting of raising for market any species or product described in subparagraph (A).(7B) The term “commercial fishing vessel” means a vessel used by a family fisherman to carry out a commercial fishing operation.
+  (B) for purposes of section 109 and chapter 12, aquaculture activities consisting of raising for market any species or product described in subparagraph (A).
+
+(7B) The term “commercial fishing vessel” means a vessel used by a family fisherman to carry out a commercial fishing operation.
 
 (8) The term “consumer debt” means debt incurred by an individual primarily for a personal, family, or household purpose.
 
@@ -73,7 +79,9 @@ In this title the following definitions shall apply:
 
   (B) entity that has a claim against the estate of a kind specified in section 348(d), 502(f), 502(g), 502(h) or 502(i) of this title; or
 
-  (C) entity that has a community claim.(10A) The term “current monthly income”—
+  (C) entity that has a community claim.
+
+(10A) The term “current monthly income”—
 
   (A) means the average monthly income from all sources that the debtor receives (or in a joint case the debtor and the debtor’s spouse receive) without regard to whether such income is taxable income, derived during the 6-month period ending on—
 
@@ -81,7 +89,19 @@ In this title the following definitions shall apply:
 
     (ii) the date on which current income is determined by the court for purposes of this title if the debtor does not file the schedule of current income required by section 521(a)(1)(B)(ii); and
 
-  (B) includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor’s spouse), on a regular basis for the household expenses of the debtor or the debtor’s dependents (and in a joint case the debtor’s spouse if not otherwise a dependent), but excludes benefits received under the Social Security Act, payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes, and payments to victims of international terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) or domestic terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) on account of their status as victims of such terrorism.
+  (B)
+
+    (i) includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor’s spouse), on a regular basis for the household expenses of the debtor or the debtor’s dependents (and in a joint case the debtor’s spouse if not otherwise a dependent); and
+
+    (ii) excludes—
+
+      (I) benefits received under the Social Security Act ([42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.);
+
+      (II) payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes;
+
+      (III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), on account of their status as victims of such terrorism; and
+
+      (IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.
 
 (11) The term “custodian” means—
 
@@ -91,7 +111,9 @@ In this title the following definitions shall apply:
 
   (C) trustee, receiver, or agent under applicable law, or under a contract, that is appointed or authorized to take charge of property of the debtor for the purpose of enforcing a lien against such property, or for the purpose of general administration of such property for the benefit of the debtor’s creditors.
 
-(12) The term “debt” means liability on a claim. (12A) The term “debt relief agency” means any person who provides any bankruptcy assistance to an assisted person in return for the payment of money or other valuable consideration, or who is a bankruptcy petition preparer under section 110, but does not include—
+(12) The term “debt” means liability on a claim.
+
+(12A) The term “debt relief agency” means any person who provides any bankruptcy assistance to an assisted person in return for the payment of money or other valuable consideration, or who is a bankruptcy petition preparer under section 110, but does not include—
 
   (A) any person who is an officer, director, employee, or agent of a person who provides such assistance or of the bankruptcy petition preparer;
 
@@ -103,7 +125,9 @@ In this title the following definitions shall apply:
 
   (E) an author, publisher, distributor, or seller of works subject to copyright protection under title 17, when acting in such capacity.
 
-(13) The term “debtor” means person or municipality concerning which a case under this title has been commenced. (13A) The term “debtor’s principal residence”—
+(13) The term “debtor” means person or municipality concerning which a case under this title has been commenced.
+
+(13A) The term “debtor’s principal residence”—
 
   (A) means a residential structure if used as the principal residence by the debtor, including incidental property, without regard to whether that structure is attached to real property; and
 
@@ -115,7 +139,9 @@ In this title the following definitions shall apply:
 
   (B) is not and was not, within 2 years before the date of the filing of the petition, a director, officer, or employee of the debtor; and
 
-  (C) does not have an interest materially adverse to the interest of the estate or of any class of creditors or equity security holders, by reason of any direct or indirect relationship to, connection with, or interest in, the debtor, or for any other reason.(14A) The term “domestic support obligation” means a debt that accrues before, on, or after the date of the order for relief in a case under this title, including interest that accrues on that debt as provided under applicable nonbankruptcy law notwithstanding any other provision of this title, that is—
+  (C) does not have an interest materially adverse to the interest of the estate or of any class of creditors or equity security holders, by reason of any direct or indirect relationship to, connection with, or interest in, the debtor, or for any other reason.
+
+(14A) The term “domestic support obligation” means a debt that accrues before, on, or after the date of the order for relief in a case under this title, including interest that accrues on that debt as provided under applicable nonbankruptcy law notwithstanding any other provision of this title, that is—
 
   (A) owed to or recoverable by—
 
@@ -149,7 +175,7 @@ In this title the following definitions shall apply:
 
 (18) The term “family farmer” means—
 
-  (A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $3,237,000 1 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
+  (A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
 
     (i) the taxable year preceding; or
 
@@ -160,11 +186,13 @@ In this title the following definitions shall apply:
 
     (i) more than 80 percent of the value of its assets consists of assets related to the farming operation;
 
-    (ii) its aggregate debts do not exceed $3,237,000 1 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+    (ii) its aggregate debts do not exceed $10,000,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
 
     (iii) if such corporation issues stock, such stock is not publicly traded.
 
-(19) The term “family farmer with regular annual income” means family farmer whose annual income is sufficiently stable and regular to enable such family farmer to make payments under a plan under chapter 12 of this title. (19A) The term “family fisherman” means—
+(19) The term “family farmer with regular annual income” means family farmer whose annual income is sufficiently stable and regular to enable such family farmer to make payments under a plan under chapter 12 of this title.
+
+(19A) The term “family fisherman” means—
 
   (A) an individual or individual and spouse engaged in a commercial fishing operation—
 
@@ -186,15 +214,21 @@ In this title the following definitions shall apply:
 
       (II) its aggregate debts do not exceed $1,500,000 1 and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
 
-      (III) if such corporation issues stock, such stock is not publicly traded.(19B) The term “family fisherman with regular annual income” means a family fisherman whose annual income is sufficiently stable and regular to enable such family fisherman to make payments under a plan under chapter 12 of this title.
+      (III) if such corporation issues stock, such stock is not publicly traded.
+
+(19B) The term “family fisherman with regular annual income” means a family fisherman whose annual income is sufficiently stable and regular to enable such family fisherman to make payments under a plan under chapter 12 of this title.
 
 (20) The term “farmer” means (except when such term appears in the term “family farmer”) person that received more than 80 percent of such person’s gross income during the taxable year of such person immediately preceding the taxable year of such person during which the case under this title concerning such person was commenced from a farming operation owned or operated by such person.
 
-(21) The term “farming operation” includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry or livestock products in an unmanufactured state. (21A) The term “farmout agreement” means a written agreement in which—
+(21) The term “farming operation” includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry or livestock products in an unmanufactured state.
+
+(21A) The term “farmout agreement” means a written agreement in which—
 
   (A) the owner of a right to drill, produce, or operate liquid or gaseous hydrocarbons on property agrees or has agreed to transfer or assign all or a part of such right to another entity; and
 
-  (B) such other entity (either directly or through its agents or its assigns), as consideration, agrees to perform drilling, reworking, recompleting, testing, or similar or related operations, to develop or produce liquid or gaseous hydrocarbons on the property.(21B) The term “Federal depository institutions regulatory agency” means—
+  (B) such other entity (either directly or through its agents or its assigns), as consideration, agrees to perform drilling, reworking, recompleting, testing, or similar or related operations, to develop or produce liquid or gaseous hydrocarbons on the property.
+
+(21B) The term “Federal depository institutions regulatory agency” means—
 
   (A) with respect to an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act) for which no conservator or receiver has been appointed, the appropriate Federal banking agency (as defined in section 3(q) of such Act);
 
@@ -208,7 +242,9 @@ In this title the following definitions shall apply:
 
   (A) a Federal reserve bank, or an entity that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, federally-insured credit union, or receiver, liquidating agent, or conservator for such entity and, when any such Federal reserve bank, receiver, liquidating agent, conservator or entity is acting as agent or custodian for a customer (whether or not a “customer”, as defined in section 741) in connection with a securities contract (as defined in section 741) such customer; or
 
-  (B) in connection with a securities contract (as defined in section 741) an investment company registered under the Investment Company Act of 1940.(22A) The term “financial participant” means—
+  (B) in connection with a securities contract (as defined in section 741) an investment company registered under the Investment Company Act of 1940.
+
+(22A) The term “financial participant” means—
 
   (A) an entity that, at the time it enters into a securities contract, commodity contract, swap agreement, repurchase agreement, or forward contract, or at the time of the date of the filing of the petition, has one or more agreements or transactions described in paragraph (1), (2), (3), (4), (5), or (6) of section 561(a) with the debtor or any other entity (other than an affiliate) of a total gross dollar value of not less than $1,000,000,000 in notional or actual principal amount outstanding (aggregated across counterparties) at such time or on any day during the 15-month period preceding the date of the filing of the petition, or has gross mark-to-market positions of not less than $100,000,000 (aggregated across counterparties) in one or more such agreements or transactions with the debtor or any other entity (other than an affiliate) at such time or on any day during the 15-month period preceding the date of the filing of the petition; or
 
@@ -232,7 +268,9 @@ In this title the following definitions shall apply:
 
 (26) The term “forward contract merchant” means a Federal reserve bank, or an entity the business of which consists in whole or in part of entering into forward contracts as or with merchants in a commodity (as defined in section 761) or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade.
 
-(27) The term “governmental unit” means United States; State; Commonwealth; District; Territory; municipality; foreign state; department, agency, or instrumentality of the United States (but not a United States trustee while serving as a trustee in a case under this title), a State, a Commonwealth, a District, a Territory, a municipality, or a foreign state; or other foreign or domestic government. (27A) The term “health care business”—
+(27) The term “governmental unit” means United States; State; Commonwealth; District; Territory; municipality; foreign state; department, agency, or instrumentality of the United States (but not a United States trustee while serving as a trustee in a case under this title), a State, a Commonwealth, a District, a Territory, a municipality, or a foreign state; or other foreign or domestic government.
+
+(27A) The term “health care business”—
 
   (A) means any public or private entity (without regard to whether that entity is organized for profit or not for profit) that is primarily engaged in offering to the general public facilities and services for—
 
@@ -266,7 +304,9 @@ In this title the following definitions shall apply:
 
       (V) domiciliary care facility; and
 
-      (VI) health care institution that is related to a facility referred to in subclause (I), (II), (III), (IV), or (V), if that institution is primarily engaged in offering room, board, laundry, or personal assistance with activities of daily living and incidentals to activities of daily living.(27B) The term “incidental property” means, with respect to a debtor’s principal residence—
+      (VI) health care institution that is related to a facility referred to in subclause (I), (II), (III), (IV), or (V), if that institution is primarily engaged in offering room, board, laundry, or personal assistance with activities of daily living and incidentals to activities of daily living.
+
+(27B) The term “incidental property” means, with respect to a debtor’s principal residence—
 
   (A) property commonly conveyed with a principal residence in the area where the real property is located;
 
@@ -356,7 +396,9 @@ In this title the following definitions shall apply:
 
   (A) has the meaning given it in section 3(c)(2) of the Federal Deposit Insurance Act; and
 
-  (B) includes an insured credit union (except in the case of paragraphs (21B) and (33)(A) of this subsection).(35A) The term “intellectual property” means—
+  (B) includes an insured credit union (except in the case of paragraphs (21B) and (33)(A) of this subsection).
+
+(35A) The term “intellectual property” means—
 
   (A) trade secret;
 
@@ -375,21 +417,31 @@ In this title the following definitions shall apply:
 
 (37) The term “lien” means charge against or interest in property to secure payment of a debt or performance of an obligation.
 
-(38) The term “margin payment” means, for purposes of the forward contract provisions of this title, payment or deposit of cash, a security or other property, that is commonly known in the forward contract trade as original margin, initial margin, maintenance margin, or variation margin, including mark-to-market payments, or variation payments. (38A) The term “master netting agreement”—
+(38) The term “margin payment” means, for purposes of the forward contract provisions of this title, payment or deposit of cash, a security or other property, that is commonly known in the forward contract trade as original margin, initial margin, maintenance margin, or variation margin, including mark-to-market payments, or variation payments.
+
+(38A) The term “master netting agreement”—
 
   (A) means an agreement providing for the exercise of rights, including rights of netting, setoff, liquidation, termination, acceleration, or close out, under or in connection with one or more contracts that are described in any one or more of paragraphs (1) through (5) of section 561(a), or any security agreement or arrangement or other credit enhancement related to one or more of the foregoing, including any guarantee or reimbursement obligation related to 1 or more of the foregoing; and
 
-  (B) if the agreement contains provisions relating to agreements or transactions that are not contracts described in paragraphs (1) through (5) of section 561(a), shall be deemed to be a master netting agreement only with respect to those agreements or transactions that are described in any one or more of paragraphs (1) through (5) of section 561(a).(38B) The term “master netting agreement participant” means an entity that, at any time before the date of the filing of the petition, is a party to an outstanding master netting agreement with the debtor.
+  (B) if the agreement contains provisions relating to agreements or transactions that are not contracts described in paragraphs (1) through (5) of section 561(a), shall be deemed to be a master netting agreement only with respect to those agreements or transactions that are described in any one or more of paragraphs (1) through (5) of section 561(a).
 
-(39) The term “mask work” has the meaning given it in [section 901(a)(2) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section901/a/2&num=0&edition=prelim). (39A) The term “median family income” means for any year—
+(38B) The term “master netting agreement participant” means an entity that, at any time before the date of the filing of the petition, is a party to an outstanding master netting agreement with the debtor.
+
+(39) The term “mask work” has the meaning given it in [section 901(a)(2) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section901/a/2&num=0&edition=prelim).
+
+(39A) The term “median family income” means for any year—
 
   (A) the median family income both calculated and reported by the Bureau of the Census in the then most recent year; and
 
   (B) if not so calculated and reported in the then current year, adjusted annually after such most recent year until the next year in which median family income is both calculated and reported by the Bureau of the Census, to reflect the percentage change in the Consumer Price Index for All Urban Consumers during the period of years occurring after such most recent year and before such current year.
 
-(40) The term “municipality” means political subdivision or public agency or instrumentality of a State.(40A) The term “patient” means any individual who obtains or receives services from a health care business. (40B) The term “patient records” means any record relating to a patient, including a written document or a record recorded in a magnetic, optical, or other form of electronic medium.
+(40) The term “municipality” means political subdivision or public agency or instrumentality of a State.
 
-(41) The term “person” includes individual, partnership, and corporation, but does not include governmental unit, except that a governmental unit that— (41A) The term “personally identifiable information” means—
+(40A) The term “patient” means any individual who obtains or receives services from a health care business.
+
+(40B) The term “patient records” means any record relating to a patient, including a written document or a record recorded in a magnetic, optical, or other form of electronic medium.
+
+(41) The term “person” includes individual, partnership, and corporation, but does not include governmental unit, except that a governmental unit that—
 
   (A) acquires an asset from a person—
 
@@ -405,6 +457,8 @@ In this title the following definitions shall apply:
 
     (ii) an eligible deferred compensation plan, as defined in section 457(b) of the Internal Revenue Code of 1986;
   shall be considered, for purposes of [section 1102 of this title](./chapter-011-reorganization.md#section-1102), to be a person with respect to such asset or such benefit.
+
+(41A) The term “personally identifiable information” means—
 
   (A) if provided by an individual to the debtor in connection with obtaining a product or a service from the debtor primarily for personal, family, or household purposes—
 
@@ -426,7 +480,9 @@ In this title the following definitions shall apply:
 
     (ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
 
-(42) The term “petition” means petition filed under section 301, 302, 303 and 33 So in original. Probably should be “or”. See 2010 Amendment note below. 1504 of this title, as the case may be, commencing a case under this title. (42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
+(42) The term “petition” means petition filed under section 301, 302, 303 and 33 So in original. Probably should be “or”. See 2010 Amendment note below. 1504 of this title, as the case may be, commencing a case under this title.
+
+(42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
 
   (A) contingent on the production of a liquid or gaseous hydrocarbon from particular real property; and
 
@@ -456,7 +512,9 @@ In this title the following definitions shall apply:
 
   (B) does not include a repurchase obligation under a participation in a commercial mortgage loan.
 
-(48) The term “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.(48A) The term “securities self regulatory organization” means either a securities association registered with the Securities and Exchange Commission under section 15A of the Securities Exchange Act of 1934 or a national securities exchange registered with the Securities and Exchange Commission under section 6 of the Securities Exchange Act of 1934.
+(48) The term “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.
+
+(48A) The term “securities self regulatory organization” means either a securities association registered with the Securities and Exchange Commission under section 15A of the Securities Exchange Act of 1934 or a national securities exchange registered with the Securities and Exchange Commission under section 6 of the Securities Exchange Act of 1934.
 
 (49) The term “security”—
 
@@ -510,15 +568,35 @@ In this title the following definitions shall apply:
 
 (50) The term “security agreement” means agreement that creates or provides for a security interest.
 
-(51) The term “security interest” means lien created by an agreement. (51A) The term “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade. (51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto. (51C) The term “small business case” means a case filed under chapter 11 of this title in which the debtor is a small business debtor. (51D) The term “small business debtor”—
+(51) The term “security interest” means lien created by an agreement.
 
-  (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 1 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
+(51A) The term “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade.
 
-  (B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 1 (excluding debt owed to 1 or more affiliates or insiders).
+(51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto.
+
+(51C) The term “small business case” means a case filed under chapter 11 of this title in which the debtor is a small business debtor and has not elected that subchapter V of chapter 11 of this title shall apply.
+
+(51D) The term “small business debtor”—
+
+  (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 1 (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
+
+  (B) does not include—
+
+    (i) any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 1 (excluding debt owed to 1 or more affiliates or insiders);
+
+    (ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); or
+
+    (iii) any corporation that—
+
+      (I) is subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); and
+
+      (II) is an affiliate of a debtor.
 
 (52) The term “State” includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
 
-(53) The term “statutory lien” means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute. (53A) The term “stockbroker” means person—
+(53) The term “statutory lien” means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute.
+
+(53A) The term “stockbroker” means person—
 
   (A) with respect to which there is a customer, as defined in [section 741 of this title](./chapter-007-liquidation.md#section-741); and
 
@@ -526,7 +604,9 @@ In this title the following definitions shall apply:
 
     (i) for the account of others; or
 
-    (ii) with members of the general public, from or for such person’s own account.(53B) The term “swap agreement”—
+    (ii) with members of the general public, from or for such person’s own account.
+
+(53B) The term “swap agreement”—
 
   (A) means—
 
@@ -566,7 +646,13 @@ In this title the following definitions shall apply:
 
     (vi) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in clause (i) through (v), including any guarantee or reimbursement obligation by or to a swap participant or financial participant in connection with any agreement or transaction referred to in any such clause, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
-  (B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act.(53C) The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor. (56A) 44 So in original. The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized. (53D) The term “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
+  (B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act.
+
+(53C) The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor.
+
+(56A) 44 So in original. The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
+
+(53D) The term “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
 
 (54) The term “transfer” means—
 
@@ -580,7 +666,9 @@ In this title the following definitions shall apply:
 
     (i) property; or
 
-    (ii) an interest in property.(54A) The term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation.
+    (ii) an interest in property.
+
+(54A) The term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation.
 
 (55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
@@ -705,7 +793,7 @@ Paragraph (38) defines another kind of lien, “statutory lien.” The definitio
 Paragraph (40) defines “transfer.” It is derived and adapted, with stylistic changes, from section 1(30) of the Bankruptcy Act [section 1(30) of former title 11]. A transfer is a disposition of an interest in property. The definition of transfer is as broad as possible. Many of the potentially limiting words in current law are deleted, and the language is simplified. Under this definition, any transfer of an interest in property is a transfer, including a transfer of possession, custody, or control even if there is no transfer of title, because possession, custody, and control are interests in property. A deposit in a bank account or similar account is a transfer.
 
 #### References in Text
-The Social Security Act, referred to in par. (10A)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in par. (10A)(B)(ii)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Internal Revenue Code of 1986, referred to in pars. (12A)(B) and (41)(C), is classified generally to Title 26, Internal Revenue Code.
 
@@ -728,6 +816,16 @@ The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B),
 The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Par. (10A)(B). Pub. L. 116–52 added subpar. (B) and struck out former subpar. (B) which read as follows: “includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor’s spouse), on a regular basis for the household expenses of the debtor or the debtor’s dependents (and in a joint case the debtor’s spouse if not otherwise a dependent), but excludes benefits received under the Social Security Act, payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes, and payments to victims of international terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) or domestic terrorism (as defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim)) on account of their status as victims of such terrorism.”
+
+Par. (18). Pub. L. 116–51 substituted “$10,000,000” for “$3,237,000” in two places.
+
+Par. (51C). Pub. L. 116–54, § 4(a)(1)(A), inserted “and has not elected that subchapter V of chapter 11 of this title shall apply” after “is a small business debtor”.
+
+Par. (51D)(A). Pub. L. 116–54, § 4(a)(1)(B)(i), substituted “single asset real estate” for “or operating real property or activities incidental thereto” and “not less than 50 percent of which arose from the commercial or business activities of the debtor; and” for “for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and”.
+
+Par. (51D)(B). Pub. L. 116–54, § 4(a)(1)(B)(ii), substituted “does not include—” for “does not include”, inserted cl. (i) designation before “any member”, and added cls. (ii) and (iii).
+
 2010—Par. (13A)(A). Pub. L. 111–327, § 2(a)(1)(A)(i), inserted “if used as the principal residence by the debtor” after “a residential structure”.
 
 Par. (13A)(B). Pub. L. 111–327, § 2(a)(1)(A)(ii), inserted “if used as the principal residence by the debtor” before period at end.
@@ -1188,6 +1286,9 @@ Pars. (37) to (39). Pub. L. 97–222, § 1(a)(1), redesignated pars. (36) to (38
 
 Pars. (40), (41). Pub. L. 97–222, § 1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–54, § 5, Aug. 23, 2019, 133 Stat. 1087, provided that: “This Act [see Short Title of 2019 Amendment note set out under this section] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Aug. 23, 2019].”
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–390, § 7, Dec. 12, 2006, 120 Stat. 2700, provided that: “The amendments made by this Act [see Short Title of 2006 Amendment note set out under this section] shall not apply to any cases commenced under title 11, United States Code, or appointments made under any Federal or State law, before the date of the enactment of this Act [Dec. 12, 2006].”
 
@@ -1214,6 +1315,15 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–353, title III, § 552, formerly § 553, July 10, 1984, 98 Stat. 392, as renumbered by Pub. L. 98–531, § 1(2), Oct. 19, 1984, 98 Stat. 2704, provided that: “(a) Except as otherwise provided in this section the amendments made by this title [see Tables for classification] shall become effective to cases filed 90 days after the date of enactment of this Act [July 10, 1984]. “(b) The amendments made by section 426(b) [amending [section 303 of this title](./chapter-003-case-administration.md#section-303)] shall become effective upon the date of enactment of this Act. “(c) The amendments made by subtitle J [enacting [section 1113 of this title](./chapter-011-reorganization.md#section-1113)], shall become effective as provided in section 541(c) [set out as an Effective Date note under [section 1113 of this title](./chapter-011-reorganization.md#section-1113)].”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–54, § 1, Aug. 23, 2019, 133 Stat. 1079, provided that: “This Act [enacting subchapter V of chapter 11 of this title, amending this section, sections 103, 322, 326, 347, 363, 364, 523, 524, 547, 557, 1102, and 1146 of this title, and sections 586, 589b, 1409, and 1930 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be cited as the ‘Small Business Reorganization Act of 2019’.”
+
+Pub. L. 116–53, § 1, Aug. 23, 2019, 133 Stat. 1078, provided that: “This Act [amending provisions set out as a note under [section 707 of this title](./chapter-007-liquidation.md#section-707)] may be cited as the ‘National Guard and Reservists Debt Relief Extension Act of 2019’.”
+
+Pub. L. 116–52, § 1, Aug. 23, 2019, 133 Stat. 1076, provided that: “This Act [amending this section] may be cited as the ‘Honoring American Veterans in Extreme Need Act of 2019’ or the ‘HAVEN Act’.”
+
+Pub. L. 116–51, § 1, Aug. 23, 2019, 133 Stat. 1075, provided that: “This Act [amending this section] may be cited as the ‘Family Farmer Relief Act of 2019’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–107, § 1, Dec. 18, 2015, 129 Stat. 2223, provided that: “This Act [amending provisions set out as a note under [section 707 of this title](./chapter-007-liquidation.md#section-707)] may be cited as the ‘National Guard and Reservist Debt Relief Extension Act of 2015’.”
@@ -1286,13 +1396,15 @@ Pub. L. 109–8, title XII, § 1226, Apr. 20, 2005, 119 Stat. 199, provided that
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in par. (3), dollar amount “186,825” was adjusted to “192,450”; in par. (18), dollar amount “4,031,575” was adjusted to “4,153,150” each time it appeared; in par. (19A), dollar amount “1,868,200” was adjusted to “1,924,550” each time it appeared; and, in par. (51D), dollar amount “2,490,925” was adjusted to “2,566,050” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in par. (3), dollar amount “192,450” was adjusted to “204,425”; in par. (18), dollar amount “4,153,150” was adjusted to “4,411,400” each time it appeared; in par. (19A), dollar amount “1,924,550” was adjusted to “2,044,225” each time it appeared; and, in par. (51D), dollar amount “2,566,050” was adjusted to “2,725,625” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in par. (3), dollar amount “186,825” was adjusted to “192,450”; in par. (18), dollar amount “4,031,575” was adjusted to “4,153,150” each time it appeared; in par. (19A), dollar amount “1,868,200” was adjusted to “1,924,550” each time it appeared; and, in par. (51D), dollar amount “2,490,925” was adjusted to “2,566,050” each time it appeared.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3), dollar amount “175,750” was adjusted to “186,825”; in par. (18), dollar amount “3,792,650” was adjusted to “4,031,575” each time it appeared; in par. (19A), dollar amount “1,757,475” was adjusted to “1,868,200” each time it appeared; and, in par. (51D), dollar amount “2,343,300” was adjusted to “2,490,925” each time it appeared.
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3), dollar amount “164,250” was adjusted to “175,750”; in par. (18)(A), (B)(ii), dollar amount “3,544,525” was adjusted to “3,792,650” each time it appeared; in par. (19A)(A)(i), (B)(ii)(II), dollar amount “1,642,500” was adjusted to “1,757,475” each time it appeared; and, in par. (51D)(A), (B), dollar amount “2,190,000” was adjusted to “2,343,300” each time it appeared.
 
-By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount “150,000” was adjusted to “164,250”; in par. (18), dollar amount “3,237,000” was adjusted to “3,544,525” each time it appeared; in par. (19A), dollar amount “1,500,000” was adjusted to “1,642,500” each time it appeared; and, in par. (51D), dollar amount “2,000,000” was adjusted to “2,190,000” each time it appeared.
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in par. (3), dollar amount “150,000” was adjusted to “164,250”; in par. (18), dollar amount “3,237,000” was adjusted to “3,544,525” each time it appeared; in par. (19A), dollar amount “1,500,000” was adjusted to “1,642,500” each time it appeared; and, in par. (51D), dollar amount “2,000,000” was adjusted to “2,190,000” each time it appeared. In par. (18), Pub. L. 116–51 subsequently substituted “10,000,000” for “3,237,000” both places it appeared, see 2019 Amendment note above.
 
 
 <a id="section-102"></a>
@@ -1388,11 +1500,13 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(h)** Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
 
-**(i)** Chapter 13 of this title applies only in a case under such chapter.
+**(i)** Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a small business debtor elects that subchapter V of chapter 11 shall apply.
 
-**(j)** Chapter 12 of this title applies only in a case under such chapter.
+**(j)** Chapter 13 of this title applies only in a case under such chapter.
 
-**(k)** Chapter 15 applies only in a case under such chapter, except that—
+**(k)** Chapter 12 of this title applies only in a case under such chapter.
+
+**(l)** Chapter 15 applies only in a case under such chapter, except that—
 
 (1) sections 1505, 1513, and 1514 apply in all cases under this title; and
 
@@ -1409,6 +1523,8 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly kn
 Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), was classified to [section 4422 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4422&num=0&edition=prelim), Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 #### Amendments
+2019—Subsecs. (i) to (l). Pub. L. 116–54 added subsec. (i) and redesignated former subsecs. (i) to (k) as (j) to (l), respectively.
+
 2010—Subsec. (a). Pub. L. 111–327 substituted “362(o)” for “362(n)”.
 
 2005—Subsec. (a). Pub. L. 109–8, § 802(a)(1), inserted “, and this chapter, sections 307, 362(n), 555 through 557, and 559 through 562 apply in a case under chapter 15” before period.
@@ -1424,6 +1540,9 @@ Subsec. (i). Pub. L. 99–554, § 252(2), added subsec. (i).
 1984—Subsec. (c). Pub. L. 98–353 substituted “stockbroker” for “stockholder”.
 
 1982—Subsec. (d). Pub. L. 97–222 struck out “except with respect to section 746(c) which applies to margin payments made by any debtor to a commodity broker or forward contract merchant” after “concerning a commodity broker”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -1500,66 +1619,70 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendm
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Adjustment of Dollar Amounts
-By notice dated Feb. 16, 2016, 81 F.R. 8748, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2016, as follows:
+By notice dated Feb. 5, 2019, 84 F.R. 3488, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2019, as follows:
 
 | 28 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
 | --- | --- | --- |
 | Section 1409(b)—a trustee may commence a proceeding arising in or related to a case to recover |  |  |
-| (1)—money judgment of or property worth less than | $1,250 | $1,300. |
-| (2)—a consumer debt less than | $18,675 | $19,250. |
-| (3)—a non consumer debt against a non insider less than | $12,475 | $12,850. |
+| (1)—money judgment of or property worth less than | $1,300 | $1,375 |
+| (2)—a consumer debt less than | $19,250 | $20,450 |
+| (3)—a non consumer debt against a non insider less than | $12,850 | $13,650 |
 
 | 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
 | --- | --- | --- |
-| 1 The New (Adjusted) Dollar Amounts reflect a 3.016 percent increase, rounded to the nearest $25. |  |  |
-| Section 101(3)—definition of assisted person | $186,825 | $192,450. |
-| Section 101(18)—definition of family farmer | $4,031,575 (each time it appears) | $4,153,150 (each time it appears). |
-| Section 101(19A)—definition of family fisherman | $1,868,200 (each time it appears) | $1,924,550 (each time it appears). |
-| Section 101(51D)—definition of small business debtor | $2,490,925 (each time it appears) | $2,566,050 (each time it appears). |
-| Section 109(e)—debt limits for individual filing bankruptcy under chapter 13 | $383,175 (each time it appears) $1,149,525 (each time it appears) | $394,725 (each time it appears)[.] $1,184,200 (each time it appears). |
+| 1 The New (Adjusted) Dollar Amounts reflect a 6.218 percent increase, rounded to the nearest $25. |  |  |
+| 2 So in original. Probably should indicate “each time it appears”. |  |  |
+| Section 101(3)—definition of assisted person | $192,450 | $204,425. |
+| Section 101(18)—definition of family farmer | $4,153,150 (each time it appears) | $4,411,400 (each time it appears) |
+| Section 101(19A)—definition of family fisherman | $1,924,550 (each time it appears) | $2,044,225 (each time it appears) |
+| Section 101(51D)—definition of small business debtor | $2,566,050 (each time it appears) | $2,725,625 (each time it appears) |
+| Section 109(e)—debt limits for individual filing bankruptcy under chapter 13 | $394,725 (each time it appears) $1,184,200 (each time it appears) | $419,275 (each time it appears) $1,257,850 2 |
 | Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary chapter 7 or 11 petition |  |  |
-| (1)—in paragraph (1) | $15,325 | $15,775. |
-| (2)—in paragraph (2) | $15,325 | $15,775. |
+| (1)—in paragraph (1) | $15,775 | $16,750 |
+| (2)—in paragraph (2) | $15,775 | $16,750 |
 | Section 507(a)—priority expenses and claims |  |  |
-| (1)—in paragraph (4) | $12,475 | $12,850. |
-| (2)—in paragraph (5)(B)(i) | $12,475 | $12,850. |
-| (3)—in paragraph (6)(B) | $6,150 | $6,325. |
-| (4)—in paragraph (7) | $2,775 | $2,850. |
+| (1)—in paragraph (4) | $12,850 | $13,650 |
+| (2)—in paragraph (5)(B)(i) | $12,850 | $13,650 |
+| (3)—in paragraph (6)(B) | $6,325 | $6,725 |
+| (4)—in paragraph (7) | $2,850 | $3,025 |
 | Section 522(d)—value of property exemptions allowed to the debtor |  |  |
-| (1)—in paragraph (1) | $22,975 | $23,675. |
-| (2)—in paragraph (2) | $3,675 | $3,775. |
-| (3)—in paragraph (3) | $575 $12,250 | $600. $12,625. |
-| (4)—in paragraph (4) | $1,550 | $1,600. |
-| (5)—in paragraph (5) | $1,225 $11,500 | $1,250. $11,850. |
-| (6)—in paragraph (6) | $2,300 | $2,375. |
-| (7)—in paragraph (8) | $12,250 | $12,625. |
-| (8)—in paragraph (11)(D) | $22,975 | $23,675. |
-| Section 522(f)(3)—exception to lien avoidance under certain state laws | $6,225 | $6,425. |
-| Section 522(f)(4)—items excluded from definition of household goods for lien avoidance purposes | $650 (each time it appears) | $675 (each time it appears). |
-| Section 522(n)—maximum aggregate value of assets in individual retirement accounts exempted | $1,245,475 | $1,283,025. |
-| Section 522(p)—qualified homestead exemption | $155,675 | $160,375. |
-| Section 522(q)—state homestead exemption | $155,675 | $160,375. |
+| (1)—in paragraph (1) | $23,675 | $25,150 |
+| (2)—in paragraph (2) | $3,775 | $4,000 |
+| (3)—in paragraph (3) | $600 $12,625 | $625 $13,400 |
+| (4)—in paragraph (4) | $1,600 | $1,700 |
+| (5)—in paragraph (5) | $1,250 $11,850 | $1,325 $12,575 |
+| (6)—in paragraph (6) | $2,375 | $2,525 |
+| (7)—in paragraph (8) | $12,625 | $13,400 |
+| (8)—in paragraph (11)(D) | $23,675 | $25,150 |
+| Section 522(f)(3)—exception to lien avoidance under certain state laws | $6,425 | $6,825 |
+| Section 522(f)(4)—items excluded from definition of household goods for lien avoidance purposes | $675 (each time it appears) | $725 (each time it appears) |
+| Section 522(n)—maximum aggregate value of assets in individual retirement accounts exempted | $1,283,025 | $1,362,800 |
+| Section 522(p)—qualified homestead exemption | $160,375 | $170,350 |
+| Section 522(q)—state homestead exemption | $160,375 | $170,350 |
 | Section 523(a)(2)(C)—exceptions to discharge |  |  |
-| (1)—in paragraph (i)(I)—consumer debts for luxury goods or services incurred < 90 days before filing owed to a single creditor in the aggregate | $650 | $675. |
-| (2)—in paragraph (i)(II)—cash advances incurred < 70 days before filing in the aggregate | $925 | $950. |
+| (1)—in paragraph (i)(I)—consumer debts for luxury goods or services incurred < 90 days before filing owed to a single creditor in the aggregate | $675 | $725 |
+| (2)—in paragraph (i)(II)—cash advances incurred < 70 days before filing in the aggregate | $950 | $1,000 |
 | Section 541(b)—property of the estate exclusions |  |  |
-| (1)—in paragraph (5)(C)—education IRA funds in the aggregate | $6,225 | $6,425. |
-| (2)—in paragraph (6)(C)—pre-purchased tuition credits in the aggregate | $6,225 | $6,425. |
-| Section 547(c)(9)—preferences, trustee may not avoid a transfer if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of property is less than | $6,225 | $6,425. |
+| (1)—in paragraph (5)(C)—education IRA funds in the aggregate | $6,425 | $6,825 |
+| (2)—in paragraph (6)(C)—pre-purchased tuition credits in the aggregate | $6,425 | $6,825 |
+| (3)—in paragraph (10)(C)—qualified ABLE program funds in the aggregate | $6,425 | $6,825 |
+| Section 547(c)(9)—preferences, trustee may not avoid a transfer if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of property is less than | $6,425 | $6,825 |
 | Section 707(b)—dismissal of a chapter 7 case or conversion to chapter 11 or 13 (means test) |  |  |
-| (1)—in paragraph (2)(A)(i)(I) | $7,475 | $7,700. |
-| (2)—in paragraph (2)(A)(i)(II) | $12,475 | $12,850. |
-| (3)—in paragraph (2)(A)(ii)(IV) | $1,875 | $1,925. |
-| (4)—in paragraph (2)(B)(iv)(I) | $7,475 | $7,700. |
-| (5)—in paragraph (2)(B)(iv)(II) | $12,475 | $12,850. |
-| (6)—in paragraph (5)(B) | $1,250 | $1,300. |
-| (7)—in paragraph (6)(C) | $675 | $700. |
-| (8)—in paragraph (7)(A)(iii) | $675 | $700. |
-| Section 1322(d)—contents of chapter 13 plan, monthly income | $675 (each time it appears) | $700 (each time it appears). |
-| Section 1325(b)—chapter 13 confirmation of plan, disposable income | $675 (each time it appears) | $700 (each time it appears). |
-| Section 1326(b)(3)—payments to former chapter 7 trustee | $25 | $25. |
+| (1)—in paragraph (2)(A)(i)(I) | $7,700 | $8,175 |
+| (2)—in paragraph (2)(A)(i)(II) | $12,850 | $13,650 |
+| (3)—in paragraph (2)(A)(ii)(IV) | $1,925 | $2,050 |
+| (4)—in paragraph (2)(B)(iv)(I) | $7,700 | $8,175 |
+| (5)—in paragraph (2)(B)(iv)(II) | $12,850 | $13,650 |
+| (6)—in paragraph (5)(B) | $1,300 | $1,375 |
+| (7)—in paragraph (6)(C) | $700 | $750 |
+| (8)—in paragraph (7)(A)(iii) | $700 | $750 |
+| Section 1322(d)—contents of chapter 13 plan, monthly income | $700 (each time it appears) | $750 (each time it appears) |
+| Section 1325(b)—chapter 13 confirmation of plan, disposable income | $700 (each time it appears) | $750 (each time it appears) |
+| Section 1326(b)(3)—payments to former chapter 7 trustee | $25 | $25 |
 
 Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in subsec. (a) of this section were contained in the following:
+
+Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016.
 
 Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013.
 
@@ -1985,7 +2108,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (e), dollar amounts “383,175” and “1,149,525” were adjusted to “394,725” and “1,184,200”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (e), dollar amounts “394,725” and “1,184,200” were adjusted to “419,275” and “1,257,850”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (e), dollar amounts “383,175” and “1,149,525” were adjusted to “394,725” and “1,184,200”, respectively, each time they appeared.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (e), dollar amounts “360,475” and “1,081,400” were adjusted to “383,175” and “1,149,525”, respectively, each time they appeared.
 
@@ -2331,7 +2456,7 @@ Section effective Oct. 22, 1994, and not applicable with respect to cases commen
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Debtor Financial Management Training Test Program
-Pub. L. 109–8, title I, § 105, Apr. 20, 2005, 119 Stat. 36, provided that: “(a) Development of Financial Management and Training Curriculum and Materials.—The Director of the Executive Office for United States Trustees (in this section referred to as the ‘Director’) shall consult with a wide range of individuals who are experts in the field of debtor education, including trustees who serve in cases under chapter 13 of title 11, United States Code, and who operate financial management education programs for debtors, and shall develop a financial management training curriculum and materials that can be used to educate debtors who are individuals on how to better manage their finances. “(b) Test.—“(1) Selection of districts.—The Director shall select 6 judicial districts of the United States in which to test the effectiveness of the financial management training curriculum and materials developed under subsection (a). “(2) Use.—For an 18-month period beginning not later than 270 days after the date of the enactment of this Act [Apr. 20, 2005], such curriculum and materials shall be, for the 6 judicial districts selected under paragraph (1), used as the instructional course concerning personal financial management for purposes of [section 111 of title 11](./chapter-001-general-provisions.md#section-111), United States Code. “(c) Evaluation.—“(1) In general.—During the 18-month period referred to in subsection (b), the Director shall evaluate the effectiveness of—“(A) the financial management training curriculum and materials developed under subsection (a); and “(B) a sample of existing consumer education programs such as those described in the Report of the National Bankruptcy Review Commission (October 20, 1997) that are representative of consumer education programs carried out by the credit industry, by trustees serving under chapter 13 of title 11, United States Code, and by consumer counseling groups. “(2) Report.—Not later than 3 months after concluding such evaluation, the Director shall submit a report to the Speaker of the House of Representatives and the President pro tempore of the Senate, for referral to the appropriate committees of the Congress, containing the findings of the Director regarding the effectiveness of such curriculum, such materials, and such programs and their costs.”
+Pub. L. 109–8, title I, § 105, Apr. 20, 2005, 119 Stat. 36, provided that the Director of the Executive Office for United States Trustees develop a financial management training curriculum and materials to educate individual debtors on how to better manage their finances, with 6 judicial districts used to test the program for 18 months beginning not later than 270 days after Apr. 20, 2005, and within 3 months after the conclusion of an evaluation, the Director should report to the Speaker of the House of Representatives and the President pro tempore of the Senate on the appropriate findings.
 
 
 <a id="section-112"></a>

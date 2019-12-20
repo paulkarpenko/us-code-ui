@@ -764,7 +764,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(h) Use of resources of State and other Federal agencies** The Secretary shall, whenever appropriate, use by agreement the personnel, services, and facilities of State and other Federal departments, agencies, and instrumentalities, on a reimbursable or nonreimbursable basis, to carry out the Secretary’s responsibilities under this section.
 
-**(i) Coast Guard authority not limited** Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+**(i) Coast Guard authority not limited** Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 11 See References in Text note below. of title 14.
 
 **(j) Injunctive relief** If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under [section 1443 of this title](./chapter-032-marine-sanctuaries.md#section-1443), the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction, loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
 
@@ -775,6 +775,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
+[Section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim), referred to in subsec. (i), was redesignated [section 522 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section522&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (k), is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 #### Amendments
@@ -805,9 +807,6 @@ Subsec. (e)(1). Pub. L. 102–587, § 2107(c), added par. (1) and struck out for
 Subsec. (j). Pub. L. 102–587, § 2107(e), added subsec. (j).
 
 1988—Pub. L. 100–627 amended section generally, substituting provisions consisting of subsecs. (a) to (i) relating to enforcement activities in general, powers of authorized officers, civil penalties, forfeiture, payment of storage, care, and other costs, subpoenas, use of resources of State and other Federal agencies, Coast Guard authority, and injunctive relief for former provisions consisting of subsecs. (a) to (c) relating to enforcement activities in general, civil penalties, and jurisdiction.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) redesignated [section 522 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section522&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

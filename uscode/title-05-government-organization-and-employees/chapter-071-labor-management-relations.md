@@ -676,7 +676,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, § 5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, § 3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§ 2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, § 3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, § 2, Jan. 12, 2017, 82 F.R. 5325, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, § 5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, § 3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§ 2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, § 3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, § 2, Jan. 12, 2017, 82 F.R. 5325; Ex. Ord. No. 13869, § 3(b), Apr. 24, 2019, 84 F.R. 18130, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including [Section 7103(b) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/b&num=0&edition=prelim) of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -830,7 +830,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–207. Defense Intelligence Agency, Department of Defense.
 
-1–208. Defense Security Service, Department of Defense.
+1–208. The Defense Counterintelligence and Security Agency, Department of Defense.
 
 1–209. Agencies or subdivisions of the Department of Justice:
 
@@ -2265,7 +2265,7 @@ Sec. 4. Employee Conduct with Regard to Agency Time and Resources. (a) To ensure
 
 (ii)(1) Except as provided in subparagraph (2) of this subsection, employees shall spend at least three-quarters of their paid time, measured each fiscal year, performing agency business or attending necessary training (as required by their agency), in order to ensure that they develop and maintain the skills necessary to perform their agency duties efficiently and effectively.
 
-(2) Employees who have spent one-quarter of their paid time in any fiscal year on non-agency business may continue to use taxpayer-funded union time in that fiscal year for purposes covered by sections 7131(a) or 7131(c) of title 5, United States Code.
+(2) Employees who have spent one-quarter of their paid time in any fiscal year on non-agency business may continue to use taxpayer-funded union time in that fiscal year for purposes covered by sections [sic] 7131(a) or 7131(c) of title 5, United States Code.
 
 (3) Any time in excess of one-quarter of an employee’s paid time used to perform non-agency business in a fiscal year shall count toward the limitation set forth in subparagraph (1) of this subsection in subsequent fiscal years.
 
@@ -2287,7 +2287,7 @@ Sec. 4. Employee Conduct with Regard to Agency Time and Resources. (a) To ensure
 
 (ii) The head of each agency is responsible for ensuring compliance by employees within such agency with the requirements of this section, to the extent consistent with applicable law and existing collective bargaining agreements. Each agency head shall examine whether existing regulations, policies, and practices are consistent with the rules set forth in this section. If they are not, the agency head shall take all appropriate steps consistent with applicable law to bring them into compliance with this section as soon as practicable.
 
-(e) Nothing in this order shall be construed to prohibit agencies from permitting employees to take unpaid leave to perform representational activities under chapter 71 of title 5, United States Code [[5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) et seq.], including for purposes covered by [section 7121(b)(1)(C) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7121/b/1/C&num=0&edition=prelim), United States Code.
+(e) [sic] Nothing in this order shall be construed to prohibit agencies from permitting employees to take unpaid leave to perform representational activities under chapter 71 of title 5, United States Code [[5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) et seq.], including for purposes covered by [section 7121(b)(1)(C) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7121/b/1/C&num=0&edition=prelim), United States Code.
 
 Sec. 5. Preventing Unlawful or Unauthorized Expenditures. (a) Any employee who uses taxpayer-funded union time without advance written agency authorization required by section 4(b) of this order, or for purposes not specifically authorized by the agency, shall be considered absent without leave and subject to appropriate disciplinary action. Repeated misuse of taxpayer-funded union time may constitute serious misconduct that impairs the efficiency of the Federal service. In such instances, agencies shall take appropriate disciplinary action to address such misconduct.
 

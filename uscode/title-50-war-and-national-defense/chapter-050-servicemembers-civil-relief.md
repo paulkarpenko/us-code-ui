@@ -1953,30 +1953,19 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 (3) be deemed to have become a resident in or a resident of any other State.
 
-**(b) Spouses** For the purposes of voting for any Federal office (as defined in [section 30101 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim)) or a State or local office, a person who is absent from a State because the person is accompanying the person’s spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—
-
-(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
-
-(2) be deemed to have acquired a residence or domicile in any other State; or
-
-(3) be deemed to have become a resident in or a resident of any other State.
-
-### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 115–407, title III, § 303, Dec. 31, 2018, 132 Stat. 5373, provided that, effective on the date that is 90 days after December 31, 2018, subsection (b) of this section is amended by substituting “State or local office—” for “State or local office, a person who is absent from a State because the person is accompanying the person’s spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—” in introductory provisions, striking paragraphs (1) to (3), and inserting the following new paragraphs:
+**(b) Spouses** For the purposes of voting for any Federal office (as defined in [section 30101 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim)) or a State or local office—
 
 (1) a person who is absent from a State because the person is accompanying the person’s spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—
 
-(A) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
+  (A) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
 
-(B) be deemed to have acquired a residence or domicile in any other State; or
+  (B) be deemed to have acquired a residence or domicile in any other State; or
 
-(C) be deemed to have become a resident in or a resident of any other State; and
+  (C) be deemed to have become a resident in or a resident of any other State; and
 
 (2) the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
 
-See 2018 Amendment note below.
+### Statutory Notes
 
 #### Codification
 Section was formerly classified to section 595 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.

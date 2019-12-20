@@ -1439,10 +1439,10 @@ Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30,
 Ex. Ord. No. 13148, Apr. 21, 2000, 65 F.R. 24595, which directed Federal agencies to establish strategies that supported environmental leadership programs, policies, and procedures and to implement environmental compliance audit programs and policies that emphasized pollution prevention, was revoked by Ex. Ord. No. 13423, § 11(a)(iv), Jan. 24, 2007, 72 F.R. 3923, formerly set out below.
 
 #### Executive Order No. 13423
-Ex. Ord. No. 13423, Jan. 24, 2007, 72 F.R. 3919, which set out various goals and duties for Federal Agencies to conduct their environmental, transportation, and energy-related activities under the law in support of their respective missions in an environmentally, economically and fiscally sound, integrated, continuously improving, efficient, and sustainable manner, was revoked by Ex. Ord. No. 13693, § 16(a), Mar. 19, 2015, 80 F.R. 15880, set out below.
+Ex. Ord. No. 13423, Jan. 24, 2007, 72 F.R. 3919, which set out various goals and duties for Federal Agencies to conduct their environmental, transportation, and energy-related activities under the law in support of their respective missions in an environmentally, economically and fiscally sound, integrated, continuously improving, efficient, and sustainable manner, was revoked by Ex. Ord. No. 13693, § 16(a), Mar. 19, 2015, 80 F.R. 15880, formerly set out below.
 
 #### Executive Order No. 13514
-Ex. Ord. No. 13514, Oct. 5, 2009, 74 F.R. 52117, which related to environmental sustainability in the Federal Government, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, set out below.
+Ex. Ord. No. 13514, Oct. 5, 2009, 74 F.R. 52117, which related to environmental sustainability in the Federal Government, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, formerly set out below.
 
 #### Executive Order No. 13653
 Ex. Ord. No. 13653, Nov. 1, 2013, 78 F.R. 66819, as amended by Ex. Ord. No. 13683, § 2, Dec. 11, 2014, 79 F.R. 75041; Ex. Ord. No. 13693, § 16(f), Mar. 19, 2015, 80 F.R. 15881, which related to preparing the United States for the impacts of climate change by undertaking actions to enhance climate preparedness and resilience, was revoked by Ex. Ord. No. 13783, § 3(a)(i), Mar. 28, 2017, 82 F.R. 16094, set out as a note under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201).

@@ -425,6 +425,8 @@ Subsec. (f). Pub. L. 108–375, § 574(c)(4), added subsec. (f).
 
 1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
+1986—Pub. L. 99–433 renumbered [section 8072 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8072) as this section.
+
 1980—Pub. L. 96–343, § 12(b)(1), substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
 
 Subsec. (d). Pub. L. 96–343, § 12(a), added subsec. (d).

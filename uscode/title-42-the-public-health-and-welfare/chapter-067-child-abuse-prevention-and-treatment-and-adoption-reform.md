@@ -2,7 +2,7 @@
 title: 42
 chapter: '67'
 heading: CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM
-section_count: 44
+section_count: 42
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -1047,6 +1047,9 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
 1984—Pub. L. 98–457 substituted “among programs” for “between programs”.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-5106a"></a>
 ## § 5106a. Grants to States for child abuse or neglect prevention and treatment programs
@@ -1222,7 +1225,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
     (xxiii) provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
 
-    (xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim)); and
+    (xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) 22 See References in Text note below. of title 22); and
 
     (xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;
 
@@ -1431,6 +1434,8 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§ 620 et seq.) and part E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(2)(B)(xxi) and (d)(16), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+
+[Section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim), referred to in subsec. (b)(2)(B)(xxiv), was redesignated [section 7102(12) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/12&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(2)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§ 11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
@@ -1941,9 +1946,6 @@ Subsec. (d). Pub. L. 111–320, § 118(c), added subsec. (d).
 
 1989—Subsec. (b). Pub. L. 101–126, § 3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 
 <a id="section-5106f-1"></a>
 ## § 5106f–1. Report concerning voluntary reporting system
@@ -1988,7 +1990,7 @@ Section was enacted as part of the Child Abuse, Domestic Violence, Adoption and 
 
 **(b) Special rule**
 
-(1) **In general** — For purposes of section 3(2) 11 See References in Text note below. and subsection (a)(4), a child shall be considered a victim of “child abuse and neglect” and of “sexual abuse” if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section.
+(1) **In general** — For purposes of section 3(2) 11 See References in Text note below. and subsection (a)(4), a child shall be considered a victim of “child abuse and neglect” and of “sexual abuse” if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) 1 of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) 1 of that section.
 
 (2) **State option** — Notwithstanding the definition of “child” in section 3(1),1 a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) 1 and subsection (a)(4) as a person who has not attained the age of 24.
 
@@ -1996,6 +1998,8 @@ Section was enacted as part of the Child Abuse, Domestic Violence, Adoption and 
 
 #### References in Text
 Section 3, referred to in subsec. (b), means section 3 of Pub. L. 93–247, which is set out as a Definitions note under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101).
+
+Paragraphs (9)(A) and (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim), referred to in subsec. (b)(1), were redesignated pars. (11) and (12), respectively, of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Prior Provisions
 A prior section 111 of Pub. L. 93–247 was renumbered section 109 and is classified to [section 5106e of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106e).
@@ -3144,32 +3148,24 @@ Pub. L. 99–401, title II, § 207, Aug. 27, 1986, 100 Stat. 909, which provided
 Pub. L. 99–401, title II, § 201, Aug. 27, 1986, 100 Stat. 907, as amended by Pub. L. 101–127, § 6, Oct. 25, 1989, 103 Stat. 772, which provided that title II of Pub. L. 99–401 be cited as the “Temporary Child Care for Children With Disabilities and Crisis Nurseries Act of 1986”, was repealed by Pub. L. 104–235, title I, § 142(a), Oct. 3, 1996, 110 Stat. 3089.
 
 
-<a id="section-5117aa"></a>
-## § 5117aa. Repealed. Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028
+<a id="section-5117aa-to-5117aa-22"></a>
+## § 5117aa to 5117aa–22. Repealed. Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028
 
 ### Statutory Notes
 
-Section 5117aa–21, Pub. L. 100–505, title III, § 301, Oct. 18, 1988, 102 Stat. 2537; Pub. L. 108–36, title III, § 305(a), June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, § 401(c), Dec. 20, 2010, 124 Stat. 3513, provided definitions for this subchapter.
+Section 5117aa, Pub. L. 100–505, § 2, Oct. 18, 1988, 102 Stat. 2533; Pub. L. 102–236, § 2, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 108–36, title III, § 301, June 25, 2003, 117 Stat. 822; Pub. L. 111–320, title IV, § 401(a), Dec. 20, 2010, 124 Stat. 3513, related to congressional findings.
 
-Section 5117aa–22, Pub. L. 100–505, title III, § 302, formerly title I, § 104, Oct. 18, 1988, 102 Stat. 2536; Pub. L. 102–236, § 6, Dec. 12, 1991, 105 Stat. 1815; Pub. L. 104–235, title II, § 222, Oct. 3, 1996, 110 Stat. 3092; renumbered title III, § 302, and amended Pub. L. 108–36, title III, § 304, June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, § 401(d), Dec. 20, 2010, 124 Stat. 3513, related to authorization of appropriations.
-
-
-<a id="section-5117aa-11-5117aa-12"></a>
-## § 5117aa–11, 5117aa–12. Repealed. Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028
-
-### Statutory Notes
-
-Section, Pub. L. 100–505, § 2, Oct. 18, 1988, 102 Stat. 2533; Pub. L. 102–236, § 2, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 108–36, title III, § 301, June 25, 2003, 117 Stat. 822; Pub. L. 111–320, title IV, § 401(a), Dec. 20, 2010, 124 Stat. 3513, related to congressional findings.
-
-
-<a id="section-5117aa-21-5117aa-22"></a>
-## § 5117aa–21, 5117aa–22. Repealed. Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028
-
-### Statutory Notes
+Sections 5117aa–11 and 5117aa–12 comprised part A of this subchapter “Projects Regarding Abandonment of Infants and Young Children in Hospitals”.
 
 Section 5117aa–11, Pub. L. 100–505, title I, § 101, Oct. 18, 1988, 102 Stat. 2534; Pub. L. 102–236, § 3, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 104–235, title II, § 221, Oct. 3, 1996, 110 Stat. 3091; Pub. L. 108–36, title III, § 302, June 25, 2003, 117 Stat. 823, related to establishment of local projects.
 
 Section 5117aa–12, Pub. L. 100–505, title I, § 102, Oct. 18, 1988, 102 Stat. 2535; Pub. L. 102–236, § 4, Dec. 12, 1991, 105 Stat. 1814; Pub. L. 108–36, title III, § 303, June 25, 2003, 117 Stat. 823, related to evaluations, study, and reports by Secretary.
+
+Sections 5117aa–21 and 5117aa–22 comprised part B of this subchapter “General Provisions”.
+
+Section 5117aa–21, Pub. L. 100–505, title III, § 301, Oct. 18, 1988, 102 Stat. 2537; Pub. L. 108–36, title III, § 305(a), June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, § 401(c), Dec. 20, 2010, 124 Stat. 3513, provided definitions for this subchapter.
+
+Section 5117aa–22, Pub. L. 100–505, title III, § 302, formerly title I, § 104, Oct. 18, 1988, 102 Stat. 2536; Pub. L. 102–236, § 6, Dec. 12, 1991, 105 Stat. 1815; Pub. L. 104–235, title II, § 222, Oct. 3, 1996, 110 Stat. 3092; renumbered title III, § 302, and amended Pub. L. 108–36, title III, § 304, June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, § 401(d), Dec. 20, 2010, 124 Stat. 3513, related to authorization of appropriations.
 
 
 <a id="section-5118-to-5118e"></a>

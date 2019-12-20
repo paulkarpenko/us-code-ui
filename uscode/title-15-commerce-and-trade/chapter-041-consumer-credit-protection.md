@@ -125,7 +125,7 @@ Pub. L. 108–159, title II, § 213(e), Dec. 4, 2003, 117 Stat. 1979, provided t
 [For definitions of terms used in section 213(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).]
 
 #### Federal Reserve Study of Home Equity Lending and Appropriate Interest Rate Index
-Pub. L. 103–325, title I, § 157, Sept. 23, 1994, 108 Stat. 2197, provided that: “During the period beginning 180 days after the date of enactment of this Act [Sept. 23, 1994] and ending 2 years after that date of enactment, the Board of Governors of the Federal Reserve System shall conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding— “(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of the Truth in Lending Act [[15 U.S.C. 1602](./chapter-041-consumer-credit-protection.md#section-1602)]) secured by the consumer’s principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act [[15 U.S.C. 1637a](./chapter-041-consumer-credit-protection.md#section-1637a)]; and “(2) whether a more appropriate interest rate index exists for purposes of subparagraph (A) of section 103(aa)(1) [now 103(bb)(1)] of the Truth in Lending Act (as added by section 152(a) of this Act [[15 U.S.C. 1602(bb)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/bb/1/A&num=0&edition=prelim)]) than the yield on Treasury securities referred to in that subparagraph.”
+Pub. L. 103–325, title I, § 157, Sept. 23, 1994, 108 Stat. 2197, provided that during the period beginning 180 days after Sept. 23, 1994, and ending 2 years after that date, the Board of Governors of the Federal Reserve System was to conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding whether consumers engaging in open end credit transactions as defined in secton 1602 of this title secured by principal dwellings have adequate Federal protection and whether a more appropriate interest rate index existed for purposes of [section 1602(bb)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/bb/1/A&num=0&edition=prelim) than the yield on Treasury securities.
 
 #### Hearings on Home Equity Lending
 Pub. L. 103–325, title I, § 158, Sept. 23, 1994, 108 Stat. 2197, as amended by Pub. L. 111–203, title X, § 1096, July 21, 2010, 124 Stat. 2102, provided that: “(a) Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act [Sept. 23, 1994], and regularly thereafter, the Bureau, in consultation with the Advisory Board to the Bureau, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle [see Short Title of 1994 Amendment note above] in protecting the interests of consumers, and low-income consumers in particular. “(b) Participation.—In conducting hearings required by subsection (a), the Bureau shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.”
@@ -5038,7 +5038,7 @@ Subsec. (c). Pub. L. 104–208, § 2605(c)(1), (2), redesignated subsec. (b) as 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Study of Advertising Rules
-Pub. L. 103–325, title III, § 336(b), Sept. 23, 1994, 108 Stat. 2235, provided that: “Not later than 365 days after the date of enactment of this Act [Sept. 23, 1994], the Board of Governors of the Federal Reserve System shall submit a report to the Congress on— “(1) the current rules applicable to credit advertising; “(2) how such rules could be modified to increase consumer benefit and decrease creditor costs; and “(3) how such rules could be modified, if at all, for radio advertisements without diminishing consumer protection.”
+Pub. L. 103–325, title III, § 336(b), Sept. 23, 1994, 108 Stat. 2235, provided that not later than 365 days after Sept. 23, 1994, the Board of Governors of the Federal Reserve System shall submit a report to the Congress on credit advertising rules.
 
 
 <a id="section-1667d"></a>
@@ -5326,15 +5326,7 @@ Section applicable after the end of the 6-month period beginning on Sept. 30, 19
 
 <a id="section-1679c"></a>
 ## § 1679c. Disclosures
-**(a) Disclosure required** Any credit repair organization shall provide any consumer with the following written statement before any contract or agreement between the consumer and the credit repair organization is executed: “Consumer Credit File Rights Under State and Federal Law “You have a right to dispute inaccurate information in your credit report by contacting the credit bureau directly. However, neither you nor any ‘credit repair’ company or credit repair organization has the right to have accurate, current, and verifiable information removed from your credit report. The credit bureau must remove accurate, negative information from your report only if it is over 7 years old. Bankruptcy information can be reported for 10 years. “You have a right to obtain a copy of your credit report from a credit bureau. You may be charged a reasonable fee. There is no fee, however, if you have been turned down for credit, employment, insurance, or a rental dwelling because of information in your credit report within the preceding 60 days. The credit bureau must provide someone to help you interpret the information in your credit file. You are entitled to receive a free copy of your credit report if you are unemployed and intend to apply for employment in the next 60 days, if you are a recipient of public welfare assistance, or if you have reason to believe that there is inaccurate information in your credit report due to fraud. “You have a right to sue a credit repair organization that violates the Credit Repair Organization Act. This law prohibits deceptive practices by credit repair organizations. “You have the right to cancel your contract with any credit repair organization for any reason within 3 business days from the date you signed it. “Credit bureaus are required to follow reasonable procedures to ensure that the information they report is accurate. However, mistakes may occur. “You may, on your own, notify a credit bureau in writing that you dispute the accuracy of information in your credit file. The credit bureau must then reinvestigate and modify or remove inaccurate or incomplete information. The credit bureau may not charge any fee for this service. Any pertinent information and copies of all documents you have concerning an error should be given to the credit bureau. “If the credit bureau’s reinvestigation does not resolve the dispute to your satisfaction, you may send a brief statement to the credit bureau, to be kept in your file, explaining why you think the record is inaccurate. The credit bureau must include a summary of your statement about disputed information with any report it issues about you. “The Federal Trade Commission regulates credit bureaus and credit repair organizations. For more information contact: “The Public Reference Branch “Federal Trade Commission “Washington, D.C. 20580”.
-
-**(b) Separate statement requirement** The written statement required under this section shall be provided as a document which is separate from any written contract or other agreement between the credit repair organization and the consumer or any other written material provided to the consumer.
-
-**(c) Retention of compliance records**
-
-(1) **In general** — The credit repair organization shall maintain a copy of the statement signed by the consumer acknowledging receipt of the statement.
-
-(2) **Maintenance for 2 years** — The copy of any consumer’s statement shall be maintained in the organization’s files for 2 years after the date on which the statement is signed by the consumer.
+(a) Disclosure required
 
 ### Statutory Notes
 
@@ -5839,20 +5831,15 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used
 
 (3) **Self-regulatory organization defined.—** — For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in [section 78c(a)(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/26&num=0&edition=prelim)), any entity established under title I of the Sarbanes-Oxley Act of 2002 [[15 U.S.C. 7211](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7211) et seq.], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
-### Statutory Notes
+**(z) Veteran.—** The term “veteran” has the meaning given the term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
 
-#### Amendment of Section
-Pub. L. 115–174, title III, § 302(b)(1), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsections:
-
-(z) Veteran.—The term “veteran” has the meaning given the term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
-
-(aa) Veteran’s Medical Debt.—The term “veteran’s medical debt”—
+**(aa) Veteran’s Medical Debt.—** The term “veteran’s medical debt”—
 
 (1) means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and
 
 (2) includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.
 
-See 2018 Amendment note below.
+### Statutory Notes
 
 #### References in Text
 Subsection (x) of this section, referred to in subsec. (d)(2)(D), was redesignated subsection (y) of this section by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
@@ -6334,6 +6321,10 @@ Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009�
 
   (B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
 
+(7) With respect to a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information related to a veteran’s medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+
+(8) With respect to a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information related to a fully paid or settled veteran’s medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+
 **(b) Exempted cases** The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
 
 (1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
@@ -6386,17 +6377,10 @@ Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009�
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-Pub. L. 115–174, title III, § 302(b)(2), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, subsection (a) of this section is amended by adding at the end the following new paragraphs:
-
-(7) With respect to a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information related to a veteran’s medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
-
-(8) With respect to a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information related to a fully paid or settled veteran’s medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
-
-See 2018 Amendment note below.
-
 #### References in Text
 The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
+
+Section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsec. (a)(7), (8), is section 302(c)(5) of Pub. L. 115–174, which is set out as a note below.
 
 #### Amendments
 2018—Subsec. (a)(7), (8). Pub. L. 115–174 added pars. (7) and (8).
@@ -6468,290 +6452,9 @@ Pub. L. 115–174, title III, § 302(c), May 24, 2018, 132 Stat. 1334, provided 
 
 <a id="section-1681c-1"></a>
 ## § 1681c–1. Identity theft prevention; fraud alerts and active duty alerts
-**(a) One-call fraud alerts**
-
-(1) **Initial alerts** — Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
-
-  (A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 1 year, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
-
-  (B) refer the information regarding the fraud alert under this paragraph to each of the other consumer reporting agencies described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), in accordance with procedures developed under [section 1681s(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681s/f&num=0&edition=prelim).
-
-(2) **Access to free reports** — In any case in which a consumer reporting agency includes a fraud alert in the file of a consumer pursuant to this subsection, the consumer reporting agency shall—
-
-  (A) disclose to the consumer that the consumer may request a free copy of the file of the consumer pursuant to [section 1681j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681j/d&num=0&edition=prelim); and
-
-  (B) provide to the consumer all disclosures required to be made under [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g), without charge to the consumer, not later than 3 business days after any request described in subparagraph (A).
-
-**(b) Extended alerts**
-
-(1) **In general** — Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who submits an identity theft report to a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) that maintains a file on the consumer, if the agency has received appropriate proof of the identity of the requester, the agency shall—
-
-  (A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, during the 7-year period beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period and the agency has received appropriate proof of the identity of the requester for such purpose;
-
-  (B) during the 5-year period beginning on the date of such request, exclude the consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer or such representative requests that such exclusion be rescinded before the end of such period; and
-
-  (C) refer the information regarding the extended fraud alert under this paragraph to each of the other consumer reporting agencies described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), in accordance with procedures developed under [section 1681s(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681s/f&num=0&edition=prelim).
-
-(2) **Access to free reports** — In any case in which a consumer reporting agency includes a fraud alert in the file of a consumer pursuant to this subsection, the consumer reporting agency shall—
-
-  (A) disclose to the consumer that the consumer may request 2 free copies of the file of the consumer pursuant to [section 1681j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681j/d&num=0&edition=prelim) during the 12-month period beginning on the date on which the fraud alert was included in the file; and
-
-  (B) provide to the consumer all disclosures required to be made under [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g), without charge to the consumer, not later than 3 business days after any request described in subparagraph (A).
-
-**(c) Active duty alerts** Upon the direct request of an active duty military consumer, or an individual acting on behalf of or as a personal representative of an active duty military consumer, a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) that maintains a file on the active duty military consumer and has received appropriate proof of the identity of the requester shall—
-
-(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
-
-(2) during the 2-year period beginning on the date of such request, exclude the active duty military consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
-
-(3) refer the information regarding the active duty alert to each of the other consumer reporting agencies described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), in accordance with procedures developed under [section 1681s(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681s/f&num=0&edition=prelim).
-
-**(d) Procedures** Each consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) shall establish policies and procedures to comply with this section, including procedures that inform consumers of the availability of initial, extended, and active duty alerts and procedures that allow consumers and active duty military consumers to request initial, extended, or active duty alerts (as applicable) in a simple and easy manner, including by telephone.
-
-**(e) Referrals of alerts** Each consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) that receives a referral of a fraud alert or active duty alert from another consumer reporting agency pursuant to this section shall, as though the agency received the request from the consumer directly, follow the procedures required under—
-
-(1) paragraphs (1)(A) and (2) of subsection (a), in the case of a referral under subsection (a)(1)(B);
-
-(2) paragraphs (1)(A), (1)(B), and (2) of subsection (b), in the case of a referral under subsection (b)(1)(C); and
-
-(3) paragraphs (1) and (2) of subsection (c), in the case of a referral under subsection (c)(3).
-
-**(f) Duty of reseller to reconvey alert** A reseller shall include in its report any fraud alert or active duty alert placed in the file of a consumer pursuant to this section by another consumer reporting agency.
-
-**(g) Duty of other consumer reporting agencies to provide contact information** If a consumer contacts any consumer reporting agency that is not described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) to communicate a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, the agency shall provide information to the consumer on how to contact the Bureau and the consumer reporting agencies described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) to obtain more detailed information and request alerts under this section.
-
-**(h) Limitations on use of information for credit extensions**
-
-(1) **Requirements for initial and active duty alerts**
-
-  (A) *Notification* — Each initial fraud alert and active duty alert under this section shall include information that notifies all prospective users of a consumer report on the consumer to which the alert relates that the consumer does not authorize the establishment of any new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) 11 See References in Text note below. of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B).
-
-  (B) *Limitation on users*
-
-    (i) *In general* — No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) 1 of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
-
-    (ii) *Verification* — If a consumer requesting the alert has specified a telephone number to be used for identity verification purposes, before authorizing any new credit plan or extension described in clause (i) in the name of such consumer, a user of such consumer report shall contact the consumer using that telephone number or take reasonable steps to verify the consumer’s identity and confirm that the application for a new credit plan is not the result of identity theft.
-
-(2) **Requirements for extended alerts**
-
-  (A) *Notification* — Each extended alert under this section shall include information that provides all prospective users of a consumer report relating to a consumer with—
-
-    (i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) 1 of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
-
-    (ii) a telephone number or other reasonable contact method designated by the consumer.
-
-  (B) *Limitation on users* — No prospective user of a consumer report or of a credit score generated using the information in the file of a consumer that includes an extended fraud alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) 1 of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, unless the user contacts the consumer in person or using the contact method described in subparagraph (A)(ii) to confirm that the application for a new credit plan or increase in credit limit, or request for an additional card is not the result of identity theft.
-
-**(i) National security freeze**
-
-(1) **Definitions** — For purposes of this subsection:
-
-  (A) The term “consumer reporting agency” means a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim).
-
-  (B) The term “proper identification” has the meaning of such term as used under [section 1681h of this title](./chapter-041-consumer-credit-protection.md#section-1681h).
-
-  (C) The term “security freeze” means a restriction that prohibits a consumer reporting agency from disclosing the contents of a consumer report that is subject to such security freeze to any person requesting the consumer report.
-
-(2) **Placement of security freeze**
-
-  (A) *In general* — Upon receiving a direct request from a consumer that a consumer reporting agency place a security freeze, and upon receiving proper identification from the consumer, the consumer reporting agency shall, free of charge, place the security freeze not later than—
-
-    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the consumer; or
-
-    (ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the consumer.
-
-  (B) *Confirmation and additional information* — Not later than 5 business days after placing a security freeze under subparagraph (A), a consumer reporting agency shall—
-
-    (i) send confirmation of the placement to the consumer; and
-
-    (ii) inform the consumer of—
-
-      (I) the process by which the consumer may remove the security freeze, including a mechanism to authenticate the consumer; and
-
-      (II) the consumer’s right described in [section 1681m(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/d/1/D&num=0&edition=prelim).
-
-  (C) *Notice to third parties* — A consumer reporting agency may advise a third party that a security freeze has been placed with respect to a consumer under subparagraph (A).
-
-(3) **Removal of security freeze**
-
-  (A) *In general* — A consumer reporting agency shall remove a security freeze placed on the consumer report of a consumer only in the following cases:
-
-    (i) Upon the direct request of the consumer.
-
-    (ii) The security freeze was placed due to a material misrepresentation of fact by the consumer.
-
-  (B) *Notice if removal not by request* — If a consumer reporting agency removes a security freeze under subparagraph (A)(ii), the consumer reporting agency shall notify the consumer in writing prior to removing the security freeze.
-
-  (C) *Removal of security freeze by consumer request* — Except as provided in subparagraph (A)(ii), a security freeze shall remain in place until the consumer directly requests that the security freeze be removed. Upon receiving a direct request from a consumer that a consumer reporting agency remove a security freeze, and upon receiving proper identification from the consumer, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
-
-    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
-
-    (ii) in the case of a request that is by mail, 3 business days after receiving the request for removal.
-
-  (D) *Third-party requests* — If a third party requests access to a consumer report of a consumer with respect to which a security freeze is in effect, where such request is in connection with an application for credit, and the consumer does not allow such consumer report to be accessed, the third party may treat the application as incomplete.
-
-  (E) *Temporary removal of security freeze* — Upon receiving a direct request from a consumer under subparagraph (A)(i), if the consumer requests a temporary removal of a security freeze, the consumer reporting agency shall, in accordance with subparagraph (C), remove the security freeze for the period of time specified by the consumer.
-
-(4) **Exceptions** — A security freeze shall not apply to the making of a consumer report for use of the following:
-
-  (A) A person or entity, or a subsidiary, affiliate, or agent of that person or entity, or an assignee of a financial obligation owed by the consumer to that person or entity, or a prospective assignee of a financial obligation owed by the consumer to that person or entity in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had prior to assignment an account or contract including a demand deposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owed for the account, contract, or negotiable instrument. For purposes of this subparagraph, “reviewing the account” includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.
-
-  (B) Any Federal, State, or local agency, law enforcement agency, trial court, or private collection agency acting pursuant to a court order, warrant, or subpoena.
-
-  (C) A child support agency acting pursuant to part D of title IV of the Social Security Act ([42 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section651&num=0&edition=prelim) et seq.).
-
-  (D) A Federal agency or a State or its agents or assigns acting to investigate fraud or acting to investigate or collect delinquent taxes or unpaid court orders or to fulfill any of its other statutory responsibilities, provided such responsibilities are consistent with a permissible purpose under [section 1681b of this title](./chapter-041-consumer-credit-protection.md#section-1681b).
-
-  (E) By a person using credit information for the purposes described under [section 1681b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/c&num=0&edition=prelim).
-
-  (F) Any person or entity administering a credit file monitoring subscription or similar service to which the consumer has subscribed.
-
-  (G) Any person or entity for the purpose of providing a consumer with a copy of the consumer’s consumer report or credit score, upon the request of the consumer.
-
-  (H) Any person using the information in connection with the underwriting of insurance.
-
-  (I) Any person using the information for employment, tenant, or background screening purposes.
-
-  (J) Any person using the information for assessing, verifying, or authenticating a consumer’s identity for purposes other than the granting of credit, or for investigating or preventing actual or potential fraud.
-
-(5) **Notice of rights** — At any time a consumer is required to receive a summary of rights required under [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g), the following notice shall be included: “Consumers Have the Right To Obtain a Security Freeze “You have a right to place a ‘security freeze’ on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed to prevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit. “As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer’s credit file. Upon seeing a fraud alert display on a consumer’s credit file, a business is required to take steps to verify the consumer’s identity before extending new credit. If you are a victim of identity theft, you are entitled to an extended fraud alert, which is a fraud alert lasting 7 years. “A security freeze does not apply to a person or entity, or its affiliates, or collection agencies acting on behalf of the person or entity, with which you have an existing account that requests information in your credit report for the purposes of reviewing or collecting the account. Reviewing the account includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.”.
-
-(6) **Webpage**
-
-  (A) *Consumer reporting agencies* — A consumer reporting agency shall establish a webpage that—
-
-    (i) allows a consumer to request a security freeze;
-
-    (ii) allows a consumer to request an initial fraud alert;
-
-    (iii) allows a consumer to request an extended fraud alert;
-
-    (iv) allows a consumer to request an active duty fraud alert;
-
-    (v) allows a consumer to opt-out of the use of information in a consumer report to send the consumer a solicitation of credit or insurance, in accordance with [section 1681m(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/d&num=0&edition=prelim); and
-
-    (vi) shall not be the only mechanism by which a consumer may request a security freeze.
-
-  (B) *FTC* — The Federal Trade Commission shall establish a single webpage that includes a link to each webpage established under subparagraph (A) within the Federal Trade Commission’s website www.Identitytheft.gov, or a successor website.
-
-**(j) National protection for files and credit records of protected consumers**
-
-(1) **Definitions** — As used in this subsection:
-
-  (A) The term “consumer reporting agency” means a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim).
-
-  (B) The term “protected consumer” means an individual who is—
-
-    (i) under the age of 16 years at the time a request for the placement of a security freeze is made; or
-
-    (ii) an incapacitated person or a protected person for whom a guardian or conservator has been appointed.
-
-  (C) The term “protected consumer’s representative” means a person who provides to a consumer reporting agency sufficient proof of authority to act on behalf of a protected consumer.
-
-  (D) The term “record” means a compilation of information that—
-
-    (i) identifies a protected consumer;
-
-    (ii) is created by a consumer reporting agency solely for the purpose of complying with this subsection; and
-
-    (iii) may not be created or used to consider the protected consumer’s credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living.
-
-  (E) The term “security freeze” means a restriction that prohibits a consumer reporting agency from disclosing the contents of a consumer report that is the subject of such security freeze or, in the case of a protected consumer for whom the consumer reporting agency does not have a file, a record that is subject to such security freeze to any person requesting the consumer report for the purpose of opening a new account involving the extension of credit.
-
-  (F) The term “sufficient proof of authority” means documentation that shows a protected consumer’s representative has authority to act on behalf of a protected consumer and includes—
-
-    (i) an order issued by a court of law;
-
-    (ii) a lawfully executed and valid power of attorney;
-
-    (iii) a document issued by a Federal, State, or local government agency in the United States showing proof of parentage, including a birth certificate; or
-
-    (iv) with respect to a protected consumer who has been placed in a foster care setting, a written communication from a county welfare department or its agent or designee, or a county probation department or its agent or designee, certifying that the protected consumer is in a foster care setting under its jurisdiction.
-
-  (G) The term “sufficient proof of identification” means information or documentation that identifies a protected consumer and a protected consumer’s representative and includes—
-
-    (i) a social security number or a copy of a social security card issued by the Social Security Administration;
-
-    (ii) a certified or official copy of a birth certificate issued by the entity authorized to issue the birth certificate; or
-
-    (iii) a copy of a driver’s license, an identification card issued by the motor vehicle administration, or any other government issued identification.
-
-(2) **Placement of security freeze for a protected consumer**
-
-  (A) *In general* — Upon receiving a direct request from a protected consumer’s representative that a consumer reporting agency place a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, place the security freeze not later than—
-
-    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the protected consumer’s representative; or
-
-    (ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the protected consumer’s representative.
-
-  (B) *Confirmation and additional information* — Not later than 5 business days after placing a security freeze under subparagraph (A), a consumer reporting agency shall—
-
-    (i) send confirmation of the placement to the protected consumer’s representative; and
-
-    (ii) inform the protected consumer’s representative of the process by which the protected consumer may remove the security freeze, including a mechanism to authenticate the protected consumer’s representative.
-
-  (C) *Creation of file* — If a consumer reporting agency does not have a file pertaining to a protected consumer when the consumer reporting agency receives a direct request under subparagraph (A), the consumer reporting agency shall create a record for the protected consumer.
-
-(3) **Prohibition on release of record or file of protected consumer** — After a security freeze has been placed under paragraph (2)(A), and unless the security freeze is removed in accordance with this subsection, a consumer reporting agency may not release the protected consumer’s consumer report, any information derived from the protected consumer’s consumer report, or any record created for the protected consumer.
-
-(4) **Removal of a protected consumer security freeze**
-
-  (A) *In general* — A consumer reporting agency shall remove a security freeze placed on the consumer report of a protected consumer only in the following cases:
-
-    (i) Upon the direct request of the protected consumer’s representative.
-
-    (ii) Upon the direct request of the protected consumer, if the protected consumer is not under the age of 16 years at the time of the request.
-
-    (iii) The security freeze was placed due to a material misrepresentation of fact by the protected consumer’s representative.
-
-  (B) *Notice if removal not by request* — If a consumer reporting agency removes a security freeze under subparagraph (A)(iii), the consumer reporting agency shall notify the protected consumer’s representative in writing prior to removing the security freeze.
-
-  (C) *Removal of freeze by request* — Except as provided in subparagraph (A)(iii), a security freeze shall remain in place until a protected consumer’s representative or protected consumer described in subparagraph (A)(ii) directly requests that the security freeze be removed. Upon receiving a direct request from the protected consumer’s representative or protected consumer described in subparagraph (A)(ii) that a consumer reporting agency remove a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
-
-    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
-
-    (ii) in the case of a request that is by mail, 3 business days after receiving the request for removal.
-
-  (D) *Temporary removal of security freeze* — Upon receiving a direct request from a protected consumer or a protected consumer’s representative under subparagraph (A)(i), if the protected consumer or protected consumer’s representative requests a temporary removal of a security freeze, the consumer reporting agency shall, in accordance with subparagraph (C), remove the security freeze for the period of time specified by the protected consumer or protected consumer’s representative.
+(a) One-call fraud alerts
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–174, title III, § 302(d)(1), (e), May 24, 2018, 132 Stat. 1334, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsection:
-
-(k) Credit monitoring
-
-(1) Definitions
-
-In this subsection:
-
-(A) The term “active duty military consumer” includes a member of the National Guard.
-
-(B) The term “National Guard” has the meaning given the term in [section 101(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/c&num=0&edition=prelim).
-
-(2) Credit monitoring
-
-A consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) shall provide a free electronic credit monitoring service that, at a minimum, notifies a consumer of material additions or modifications to the file of the consumer at the consumer reporting agency to any consumer who provides to the consumer reporting agency—
-
-(A) appropriate proof that the consumer is an active duty military consumer; and
-
-(B) contact information of the consumer.
-
-(3) Rulemaking
-
-Not later than 1 year after May 24, 2018, the Federal Trade Commission shall promulgate regulations regarding the requirements of this subsection, which shall at a minimum include—
-
-(A) a definition of an electronic credit monitoring service and material additions or modifications to the file of a consumer; and
-
-(B) what constitutes appropriate proof.
-
-(4) Applicability
-
-(A) Sections 1681n and 1681o of this title shall not apply to any violation of this subsection.
-
-(B) This subsection shall be enforced exclusively under [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s) by the Federal agencies and Federal and State officials identified in that section.
-
-See 2018 Amendment note below.
 
 #### References in Text
 [Section 1602(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/i&num=0&edition=prelim), referred to in subsec. (h), was redesignated [section 1602(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/j&num=0&edition=prelim) by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -6988,269 +6691,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 <a id="section-1681g"></a>
 ## § 1681g. Disclosures to consumers
-**(a) Information on file; sources; report recipients** Every consumer reporting agency shall, upon request, and subject to [section 1681h(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681h/a/1&num=0&edition=prelim), clearly and accurately disclose to the consumer:
-
-(1) All information in the consumer’s file at the time of the request, except that—
-
-  (A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
-
-  (B) nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
-
-(2) The sources of the information; except that the sources of information acquired solely for use in preparing an investigative consumer report and actually used for no other purpose need not be disclosed: Provided, That in the event an action is brought under this subchapter, such sources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought.
-
-(3)
-
-  (A) Identification of each person (including each end-user identified under [section 1681e(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681e/e/1&num=0&edition=prelim)) that procured a consumer report—
-
-    (i) for employment purposes, during the 2-year period preceding the date on which the request is made; or
-
-    (ii) for any other purpose, during the 1-year period preceding the date on which the request is made.
-
-  (B) An identification of a person under subparagraph (A) shall include—
-
-    (i) the name of the person or, if applicable, the trade name (written in full) under which such person conducts business; and
-
-    (ii) upon request of the consumer, the address and telephone number of the person.
-
-  (C) Subparagraph (A) does not apply if—
-
-    (i) the end user is an agency or department of the United States Government that procures the report from the person for purposes of determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) 11 See References in Text note below. of this title); and
-
-    (ii) the head of the agency or department makes a written finding as prescribed under [section 1681b(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/b/4/A&num=0&edition=prelim).
-
-(4) The dates, original payees, and amounts of any checks upon which is based any adverse characterization of the consumer, included in the file at the time of the disclosure.
-
-(5) A record of all inquiries received by the agency during the 1-year period preceding the request that identified the consumer in connection with a credit or insurance transaction that was not initiated by the consumer.
-
-(6) If the consumer requests the credit file and not the credit score, a statement that the consumer may request and obtain a credit score.
-
-**(b) Exempt information** The requirements of subsection (a) respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
-
-**(c) Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores**
-
-(1) **Commission 22 So in original. Probably should be “Bureau”. summary of rights required**
-
-  (A) *In general* — The Commission 2 shall prepare a model summary of the rights of consumers under this subchapter.
-
-  (B) *Content of summary* — The summary of rights prepared under subparagraph (A) shall include a description of—
-
-    (i) the right of a consumer to obtain a copy of a consumer report under subsection (a) from each consumer reporting agency;
-
-    (ii) the frequency and circumstances under which a consumer is entitled to receive a consumer report without charge under [section 1681j of this title](./chapter-041-consumer-credit-protection.md#section-1681j);
-
-    (iii) the right of a consumer to dispute information in the file of the consumer under [section 1681i of this title](./chapter-041-consumer-credit-protection.md#section-1681i);
-
-    (iv) the right of a consumer to obtain a credit score from a consumer reporting agency, and a description of how to obtain a credit score;
-
-    (v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Bureau prescribed under section 211(c) 1 of the Fair and Accurate Credit Transactions Act of 2003; and
-
-    (vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) 1 of this title, as provided in the regulations of the Bureau prescribed under [section 1681j(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681j/a/1/C&num=0&edition=prelim).
-
-  (C) *Availability of summary of rights* — The Commission 2 shall—
-
-    (i) actively publicize the availability of the summary of rights prepared under this paragraph;
-
-    (ii) conspicuously post on its Internet website the availability of such summary of rights; and
-
-    (iii) promptly make such summary of rights available to consumers, on request.
-
-(2) **Summary of rights required to be included with agency disclosures** — A consumer reporting agency shall provide to a consumer, with each written disclosure by the agency to the consumer under this section—
-
-  (A) the summary of rights prepared by the Bureau under paragraph (1);
-
-  (B) in the case of a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
-
-  (C) a list of all Federal agencies responsible for enforcing any provision of this subchapter, and the address and any appropriate phone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
-
-  (D) a statement that the consumer may have additional rights under State law, and that the consumer may wish to contact a State or local consumer protection agency or a State attorney general (or the equivalent thereof) to learn of those rights; and
-
-  (E) a statement that a consumer reporting agency is not required to remove accurate derogatory information from the file of a consumer, unless the information is outdated under [section 1681c of this title](./chapter-041-consumer-credit-protection.md#section-1681c) or cannot be verified.
-
-**(d) Summary of rights of identity theft victims**
-
-(1) **In general** — The Commission,2 in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
-
-(2) **Summary of rights and contact information** — Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Bureau pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Bureau under paragraph (1), and information on how to contact the Bureau to obtain more detailed information.
-
-**(e) Information available to victims**
-
-(1) **In general** — For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
-
-  (A) the victim;
-
-  (B) any Federal, State, or local government law enforcement agency or officer specified by the victim in such a request; or
-
-  (C) any law enforcement agency investigating the identity theft and authorized by the victim to take receipt of records provided under this subsection.
-
-(2) **Verification of identity and claim** — Before a business entity provides any information under paragraph (1), unless the business entity, at its discretion, otherwise has a high degree of confidence that it knows the identity of the victim making a request under paragraph (1), the victim shall provide to the business entity—
-
-  (A) as proof of positive identification of the victim, at the election of the business entity—
-
-    (i) the presentation of a government-issued identification card;
-
-    (ii) personally identifying information of the same type as was provided to the business entity by the unauthorized person; or
-
-    (iii) personally identifying information that the business entity typically requests from new applicants or for new transactions, at the time of the victim’s request for information, including any documentation described in clauses (i) and (ii); and
-
-  (B) as proof of a claim of identity theft, at the election of the business entity—
-
-    (i) a copy of a police report evidencing the claim of the victim of identity theft; and
-
-    (ii) a properly completed—
-
-      (I) copy of a standardized affidavit of identity theft developed and made available by the Bureau; or
-
-      (II) an 33 So in original. The word “an” probably should not appear. affidavit of fact that is acceptable to the business entity for that purpose.
-
-(3) **Procedures** — The request of a victim under paragraph (1) shall—
-
-  (A) be in writing;
-
-  (B) be mailed to an address specified by the business entity, if any; and
-
-  (C) if asked by the business entity, include relevant information about any transaction alleged to be a result of identity theft to facilitate compliance with this section including—
-
-    (i) if known by the victim (or if readily obtainable by the victim), the date of the application or transaction; and
-
-    (ii) if known by the victim (or if readily obtainable by the victim), any other identifying information such as an account or transaction number.
-
-(4) **No charge to victim** — Information required to be provided under paragraph (1) shall be so provided without charge.
-
-(5) **Authority to decline to provide information** — A business entity may decline to provide information under paragraph (1) if, in the exercise of good faith, the business entity determines that—
-
-  (A) this subsection does not require disclosure of the information;
-
-  (B) after reviewing the information provided pursuant to paragraph (2), the business entity does not have a high degree of confidence in knowing the true identity of the individual requesting the information;
-
-  (C) the request for the information is based on a misrepresentation of fact by the individual requesting the information relevant to the request for information; or
-
-  (D) the information requested is Internet navigational data or similar information about a person’s visit to a website or online service.
-
-(6) **Limitation on liability** — Except as provided in [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s), sections 1681n and 1681o of this title do not apply to any violation of this subsection.
-
-(7) **Limitation on civil liability** — No business entity may be held civilly liable under any provision of Federal, State, or other law for disclosure, made in good faith pursuant to this subsection.
-
-(8) **No new recordkeeping obligation** — Nothing in this subsection creates an obligation on the part of a business entity to obtain, retain, or maintain information or records that are not otherwise required to be obtained, retained, or maintained in the ordinary course of its business or under other applicable law.
-
-(9) **Rule of construction**
-
-  (A) *In general* — No provision of subtitle A of title V of Public Law 106–102 [[15 U.S.C. 6801](./chapter-094-privacy.md#section-6801) et seq.], prohibiting the disclosure of financial information by a business entity to third parties shall be used to deny disclosure of information to the victim under this subsection.
-
-  (B) *Limitation* — Except as provided in subparagraph (A), nothing in this subsection permits a business entity to disclose information, including information to law enforcement under subparagraphs (B) and (C) of paragraph (1), that the business entity is otherwise prohibited from disclosing under any other applicable provision of Federal or State law.
-
-(10) **Affirmative defense** — In any civil action brought to enforce this subsection, it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) for a business entity to file an affidavit or answer stating that—
-
-  (A) the business entity has made a reasonably diligent search of its available business records; and
-
-  (B) the records requested under this subsection do not exist or are not reasonably available.
-
-(11) **Definition of victim** — For purposes of this subsection, the term “victim” means a consumer whose means of identification or financial information has been used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
-
-(12) **Effective date** — This subsection shall become effective 180 days after December 4, 2003.
-
-(13) **Effectiveness study** — Not later than 18 months after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of this provision.
-
-**(f) Disclosure of credit scores**
-
-(1) **In general** — Upon the request of a consumer for a credit score, a consumer reporting agency shall supply to the consumer a statement indicating that the information and credit scoring model may be different than the credit score that may be used by the lender, and a notice which shall include—
-
-  (A) the current credit score of the consumer or the most recent credit score of the consumer that was previously calculated by the credit reporting agency for a purpose related to the extension of credit;
-
-  (B) the range of possible credit scores under the model used;
-
-  (C) all of the key factors that adversely affected the credit score of the consumer in the model used, the total number of which shall not exceed 4, subject to paragraph (9);
-
-  (D) the date on which the credit score was created; and
-
-  (E) the name of the person or entity that provided the credit score or credit file upon which the credit score was created.
-
-(2) **Definitions** — For purposes of this subsection, the following definitions shall apply:
-
-  (A) *Credit score* — The term “credit score”—
-
-    (i) means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default (and the numerical value or the categorization derived from such analysis may also be referred to as a “risk predictor” or “risk score”); and
-
-    (ii) does not include—
-
-      (I) any mortgage score or rating of an automated underwriting system that considers one or more factors in addition to credit information, including the loan to value ratio, the amount of down payment, or the financial assets of a consumer; or
-
-      (II) any other elements of the underwriting process or underwriting decision.
-
-  (B) *Key factors* — The term “key factors” means all relevant elements or reasons adversely affecting the credit score for the particular individual, listed in the order of their importance based on their effect on the credit score.
-
-(3) **Timeframe and manner of disclosure** — The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a).
-
-(4) **Applicability to certain uses** — This subsection shall not be construed so as to compel a consumer reporting agency to develop or disclose a score if the agency does not—
-
-  (A) distribute scores that are used in connection with residential real property loans; or
-
-  (B) develop scores that assist credit providers in understanding the general credit behavior of a consumer and predicting the future credit behavior of the consumer.
-
-(5) **Applicability to credit scores developed by another person**
-
-  (A) *In general* — This subsection shall not be construed to require a consumer reporting agency that distributes credit scores developed by another person or entity to provide a further explanation of them, or to process a dispute arising pursuant to [section 1681i of this title](./chapter-041-consumer-credit-protection.md#section-1681i), except that the consumer reporting agency shall provide the consumer with the name and address and website for contacting the person or entity who developed the score or developed the methodology of the score.
-
-  (B) *Exception* — This paragraph shall not apply to a consumer reporting agency that develops or modifies scores that are developed by another person or entity.
-
-(6) **Maintenance of credit scores not required** — This subsection shall not be construed to require a consumer reporting agency to maintain credit scores in its files.
-
-(7) **Compliance in certain cases** — In complying with this subsection, a consumer reporting agency shall—
-
-  (A) supply the consumer with a credit score that is derived from a credit scoring model that is widely distributed to users by that consumer reporting agency in connection with residential real property loans or with a credit score that assists the consumer in understanding the credit scoring assessment of the credit behavior of the consumer and predictions about the future credit behavior of the consumer; and
-
-  (B) a statement indicating that the information and credit scoring model may be different than that used by the lender.
-
-(8) **Fair and reasonable fee** — A consumer reporting agency may charge a fair and reasonable fee, as determined by the Bureau, for providing the information required under this subsection.
-
-(9) **Use of enquiries as a key factor** — If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
-
-**(g) Disclosure of credit scores by certain mortgage lenders**
-
-(1) **In general** — Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the “lender”) shall provide the following to the consumer as soon as reasonably practicable:
-
-  (A) *Information required under subsection (f)*
-
-    (i) *In general* — A copy of the information identified in subsection (f) that was obtained from a consumer reporting agency or was developed and used by the user of the information.
-
-    (ii) *Notice under subparagraph (D)* — In addition to the information provided to it by a third party that provided the credit score or scores, a lender is only required to provide the notice contained in subparagraph (D).
-
-  (B) *Disclosures in case of automated underwriting system*
-
-    (i) *In general* — If a person that is subject to this subsection uses an automated underwriting system to underwrite a loan, that person may satisfy the obligation to provide a credit score by disclosing a credit score and associated key factors supplied by a consumer reporting agency.
-
-    (ii) *Numerical credit score* — However, if a numerical credit score is generated by an automated underwriting system used by an enterprise, and that score is disclosed to the person, the score shall be disclosed to the consumer consistent with subparagraph (C).
-
-    (iii) *Enterprise defined* — For purposes of this subparagraph, the term “enterprise” has the same meaning as in paragraph (6) of [section 4502 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4502&num=0&edition=prelim).
-
-  (C) *Disclosures of credit scores not obtained from a consumer reporting agency* — A person that is subject to the provisions of this subsection and that uses a credit score, other than a credit score provided by a consumer reporting agency, may satisfy the obligation to provide a credit score by disclosing a credit score and associated key factors supplied by a consumer reporting agency.
-
-  (D) *Notice to home loan applicants* — A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used: “notice to the home loan applicant “In connection with your application for a home loan, the lender must disclose to you the score that a consumer reporting agency distributed to users and the lender used in connection with your home loan, and the key factors affecting your credit scores. “The credit score is a computer generated summary calculated at the time of the request and based on information that a consumer reporting agency or lender has on file. The scores are based on data about your credit history and payment patterns. Credit scores are important because they are used to assist the lender in determining whether you will obtain a loan. They may also be used to determine what interest rate you may be offered on the mortgage. Credit scores can change over time, depending on your conduct, how your credit history and payment patterns change, and how credit scoring technologies change. “Because the score is based on information in your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another. “If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application. “If you have questions concerning the terms of the loan, contact the lender.”.
-
-  (E) *Actions not required under this subsection* — This subsection shall not require any person to—
-
-    (i) explain the information provided pursuant to subsection (f);
-
-    (ii) disclose any information other than a credit score or key factors, as defined in subsection (f);
-
-    (iii) disclose any credit score or related information obtained by the user after a loan has closed;
-
-    (iv) provide more than 1 disclosure per loan transaction; or
-
-    (v) provide the disclosure required by this subsection when another person has made the disclosure to the consumer for that loan transaction.
-
-  (F) *No obligation for content*
-
-    (i) *In general* — The obligation of any person pursuant to this subsection shall be limited solely to providing a copy of the information that was received from the consumer reporting agency.
-
-    (ii) *Limit on liability* — No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
-
-  (G) *Person defined as excluding enterprise* — As used in this subsection, the term “person” does not include an enterprise (as defined in paragraph (6) of [section 4502 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4502&num=0&edition=prelim)).
-
-(2) **Prohibition on disclosure clauses null and void**
-
-  (A) *In general* — Any provision in a contract that prohibits the disclosure of a credit score by a person who makes or arranges loans or a consumer reporting agency is void.
-
-  (B) *No liability for disclosure under this subsection* — A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
+(a) Information on file; sources; report recipients
 
 ### Statutory Notes
 
@@ -7389,7 +6830,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 (1) **Reinvestigation required**
 
-  (A) *In general* — Subject to subsection (f), if the completeness or accuracy of any item of information contained in a consumer’s file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
+  (A) *In general* — Subject to subsection (f) and except as provided in subsection (g), if the completeness or accuracy of any item of information contained in a consumer’s file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
 
   (B) *Extension of period to reinvestigate* — Except as provided in subparagraph (C), the 30-day period described in subparagraph (A) may be extended for not more than 15 additional days if the consumer reporting agency receives information from the consumer during that 30-day period that is relevant to the reinvestigation.
 
@@ -7517,30 +6958,15 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 (4) **Reseller reinvestigations** — No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
 
+**(g) Dispute process for veteran’s medical debt**
+
+(1) **In general** — With respect to a veteran’s medical debt, the veteran may submit a notice described in paragraph (2), proof of liability of the Department of Veterans Affairs for payment of that debt, or documentation that the Department of Veterans Affairs is in the process of making payment for authorized hospital care, medical services, or extended care services rendered to a consumer reporting agency or a reseller to dispute the inclusion of that debt on a consumer report of the veteran.
+
+(2) **Notification to veteran** — The Department of Veterans Affairs shall submit to a veteran a notice that the Department of Veterans Affairs has assumed liability for part or all of a veteran’s medical debt.
+
+(3) **Deletion of information from file** — If a consumer reporting agency receives notice, proof of liability, or documentation under paragraph (1), the consumer reporting agency shall delete all information relating to the veteran’s medical debt from the file of the veteran and notify the furnisher and the veteran of that deletion.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–174, title III, § 302(b)(3), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, this section is amended:
-
-(1) in subsection (a)(1)(A), by inserting “and except as provided in subsection (g)” after “subsection (f)”; and
-
-(2) by adding at the end the following new subsection:
-
-(g) Dispute process for veteran’s medical debt
-
-(1) In general
-
-With respect to a veteran’s medical debt, the veteran may submit a notice described in paragraph (2), proof of liability of the Department of Veterans Affairs for payment of that debt, or documentation that the Department of Veterans Affairs is in the process of making payment for authorized hospital care, medical services, or extended care services rendered to a consumer reporting agency or a reseller to dispute the inclusion of that debt on a consumer report of the veteran.
-
-(2) Notification to veteran
-
-The Department of Veterans Affairs shall submit to a veteran a notice that the Department of Veterans Affairs has assumed liability for part or all of a veteran’s medical debt.
-
-(3) Deletion of information from file
-
-If a consumer reporting agency receives notice, proof of liability, or documentation under paragraph (1), the consumer reporting agency shall delete all information relating to the veteran’s medical debt from the file of the veteran and notify the furnisher and the veteran of that deletion.
-
-See 2018 Amendment notes below.
 
 #### References in Text
 The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim) and Tables.
@@ -8762,7 +8188,9 @@ Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended
 
   (I) [section 1681m(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/h&num=0&edition=prelim), relating to the duties of users of consumer reports to provide notice with respect to terms in certain credit transactions;
 
-  (J) subsections (i) and (j) of [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1) relating to security freezes; or 11 So in original. See Amendment of Subsection (b)(1) note below.
+  (J) subsections (i) and (j) of [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1) relating to security freezes; or
+
+  (K) subsection (k) of [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1), relating to credit monitoring for active duty military consumers, as defined in that subsection;
 
 (2) with respect to the exchange of information among persons affiliated by common ownership or common corporate control, except that this paragraph shall not apply with respect to subsection (a) or (c)(1) of [section 2480e of title 9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title9-section2480e&num=0&edition=prelim), Vermont Statutes Annotated (as in effect on September 30, 1996);
 
@@ -8815,13 +8243,6 @@ Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended
 **(d) Limitations** Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(1)
-Pub. L. 115–174, title III, § 302(d)(2), (e), May 24, 2018, 132 Stat. 1334, 1335, provided that, effective 1 year after May 24, 2018, subsection (b)(1) of this section is amended by adding at the end the following new paragraph:
-
-(K) subsection (k) of [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1), relating to credit monitoring for active duty military consumers, as defined in that subsection;
-
-See 2018 Amendment note below.
 
 #### Prior Provisions
 A prior section 625 of Pub. L. 90–321 was renumbered section 626 and is classified to [section 1681u of this title](./chapter-041-consumer-credit-protection.md#section-1681u).

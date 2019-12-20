@@ -681,7 +681,23 @@ Pub. L. 99–570, title I, § 1364(d), Oct. 27, 1986, 100 Stat. 3207–34, provi
 
   (B) *Procedure.—* — Forfeitures under this paragraph shall be governed by the procedures established in section 413 of the Controlled Substances Act.
 
-(2) **Civil forfeiture.—** — Any property involved in a violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit any such violation, and any property traceable to any such violation or conspiracy, may be seized and forfeited to the United States in accordance with the procedures governing civil forfeitures in money laundering cases pursuant to [section 981(a)(1)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981/a/1/A&num=0&edition=prelim), United States Code.
+(2) **Civil forfeiture.—**
+
+  (A) *In general.—* — Any property involved in a violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit any such violation, and any property traceable to any such violation or conspiracy, may be seized and forfeited to the United States in accordance with the procedures governing civil forfeitures in money laundering cases pursuant to [section 981(a)(1)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981/a/1/A&num=0&edition=prelim), United States Code.
+
+  (B) *Internal revenue service seizure requirements with respect to structuring transactions.—*
+
+    (i) *Property derived from an illegal source.—* — Property may only be seized by the Internal Revenue Service pursuant to subparagraph (A) by reason of a claimed violation of section 5324 if the property to be seized was derived from an illegal source or the funds were structured for the purpose of concealing the violation of a criminal law or regulation other than section 5324.
+
+    (ii) *Notice.—* — Not later than 30 days after property is seized by the Internal Revenue Service pursuant to subparagraph (A), the Internal Revenue Service shall—
+
+      (I) make a good faith effort to find all persons with an ownership interest in such property; and
+
+      (II) provide each such person so found with a notice of the seizure and of the person’s rights under clause (iv).
+
+    (iii) *Extension of notice under certain circumstances.—* — The Internal Revenue Service may apply to a court of competent jurisdiction for one 30-day extension of the notice requirement under clause (ii) if the Internal Revenue Service can establish probable cause of an imminent threat to national security or personal safety necessitating such extension.
+
+    (iv) *Post-seizure hearing.—* — If a person with an ownership interest in property seized pursuant to subparagraph (A) by the Internal Revenue Service requests a hearing by a court of competent jurisdiction within 30 days after the date on which notice is provided under subclause (ii), such property shall be returned unless the court holds an adversarial hearing and finds within 30 days of such request (or such longer period as the court may provide, but only on request of an interested party) that there is probable cause to believe that there is a violation of section 5324 involving such property and probable cause to believe that the property to be seized was derived from an illegal source or the funds were structured for the purpose of concealing the violation of a criminal law or regulation other than section 5324.
 
 ### Statutory Notes
 
@@ -699,6 +715,8 @@ In subsection (b), the words “either” and “the possession of” are omitte
 Section 413 of the Controlled Substances Act, referred to in subsec. (c)(1)(B), is classified to [section 853 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim), Food and Drugs.
 
 #### Amendments
+2019—Subsec. (c)(2). Pub. L. 116–25 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
 2001—Subsec. (c). Pub. L. 107–56, § 372(a), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(c), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.”
 
 Pub. L. 107–56, § 365(b)(2)(B), substituted “section 5324(c)” for “section 5324(b)”.

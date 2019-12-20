@@ -28,7 +28,7 @@ Subsection (a) is set forth to preserve the legal authority for the title of the
 The second proviso is omitted as executed.
 
 #### Prior Provisions
-A prior section 8286, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(5), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, § 1(168), 72 Stat. 1517, prescribed age limitations for original appointment in a commissioned grade in Regular Air Force, except designation as a medical or dental officer or as an Air Force nurse or medical specialist, was repealed by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, ffective Sept. 15, 1981. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
+A prior section 8286, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(5), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, § 1(168), 72 Stat. 1517, prescribed age limitations for original appointment in a commissioned grade in Regular Air Force, except designation as a medical or dental officer or as an Air Force nurse or medical specialist, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
 
 #### Amendments
 2018—Pub. L. 115–232, § 807(b)(12), renumbered [section 6221 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6221&num=0&edition=prelim) as this section.

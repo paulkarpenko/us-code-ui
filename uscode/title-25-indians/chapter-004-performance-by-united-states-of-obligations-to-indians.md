@@ -266,7 +266,7 @@ Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, which enacted sections 117a to 117c
 
 **(b) Funds appropriated in satisfaction of judgments** Nothing in sections 117a to 117c of this title shall affect the requirements of the Act of October 19, 1973 (87 Stat. 466), as amended [[25 U.S.C. 1401](./chapter-016-distribution-of-judgment-funds.md#section-1401) et seq.], or of any plan approved thereunder, with respect to the use or distribution of funds subject to that Act: Provided, That per capita payments made pursuant to a plan approved under that Act may be made by an Indian tribe as provided in [section 117a of this title](./chapter-004-performance-by-united-states-of-obligations-to-indians.md#section-117a) if all other provisions of the 1973 Act are met, including but not limited to, the protection of the interests of minors and incompetents in such funds.
 
-**(c) Shoshone Tribe and Arapahoe Tribe of the Wind River Reservation, Wyoming** Nothing in sections 117a to 117c of this title, except the provisions of subsection (a) of this section, shall apply to the Shoshone Tribe and the Arapahoe Tribe of the Wind River Reservation, Wyoming.
+**(c) Shoshone Tribe and Arapaho Tribe of the Wind River Reservation, Wyoming** Nothing in sections 117a to 117c of this title, except the provisions of subsection (a) of this section, shall apply to the Shoshone Tribe and the Arapahoe 11 So in original. Probably should be “Arapaho”. Tribe of the Wind River Reservation, Wyoming.
 
 ### Statutory Notes
 

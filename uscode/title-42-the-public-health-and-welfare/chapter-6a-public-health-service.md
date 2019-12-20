@@ -2,7 +2,7 @@
 title: 42
 chapter: 6A
 heading: PUBLIC HEALTH SERVICE
-section_count: 1431
+section_count: 1439
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -136,6 +136,13 @@ Section 47(f) of Pub. L. 86–624 provided that: “The amendments made by subse
 
 #### Effective Date of 1959 Amendment
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–60, § 1, Sept. 30, 2019, 133 Stat. 1110, provided that: “This Act [amending sections 280i to 280i–4 and 284g of this title] may be cited as the ‘Autism Collaboration, Accountability, Research, Education, and Support Act of 2019’ or the ‘Autism CARES Act of 2019’.”
+
+Pub. L. 116–49, § 1, Aug. 22, 2019, 133 Stat. 1072, provided that: “This Act [amending [section 300w–9 of this title](./chapter-6a-public-health-service.md#section-300w-9)] may be cited as the ‘Emergency Medical Services for Children Program Reauthorization Act of 2019’.”
+
+Pub. L. 116–22, § 1(a), June 24, 2019, 133 Stat. 905, provided that: “This Act [see Tables for classification] may be cited as the ‘Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–408, § 1, Dec. 31, 2018, 132 Stat. 5384, provided that: “This Act [amending [section 254r of this title](./chapter-6a-public-health-service.md#section-254r)] may be cited as the ‘State Offices of Rural Health Reauthorization Act of 2018’.”
@@ -3315,11 +3322,55 @@ Pub. L. 102–501, § 5, Oct. 24, 1992, 106 Stat. 3271, provided that: “(a) In
 
 
 <a id="section-235"></a>
-## § 235. Repealed. Pub. L. 94–484, title IV, § 408(b)(1), Oct. 12, 1976, 90 Stat. 2281, eff. Oct. 1, 1977
+## § 235. Health care professionals assisting during a public health emergency
+**(a) Limitation on liability** Notwithstanding any other provision of law, a health care professional who is a member of the Medical Reserve Corps under [section 300hh–15 of this title](./chapter-6a-public-health-service.md#section-300hh-15) or who is included in the Emergency System for Advance Registration of Volunteer Health Professionals under [section 247d–7b of this title](./chapter-6a-public-health-service.md#section-247d-7b) and who—
+
+(1) is responding—
+
+  (A) to a public health emergency determined under [section 247d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim), during the initial period of not more than 90 days (as determined by the Secretary) of the public health emergency determination (excluding any period covered by a renewal of such determination); or
+
+  (B) to a major disaster or an emergency as declared by the President under [section 5170 of this title](./chapter-068-disaster-relief.md#section-5170) or under [section 1621 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) during the initial period of such declaration;
+
+(2) is alleged to be liable for an act or omission—
+
+  (A) during the initial period of a determination or declaration described in paragraph (1) and related to the treatment of individuals in need of health care services due to such public health emergency, major disaster, or emergency;
+
+  (B) in the State or States for which such determination or declaration is made;
+
+  (C) in the health care professional’s capacity as a member of the Medical Reserve Corps or a professional included in the Emergency System for Advance Registration of Volunteer Health Professionals under [section 247d–7b of this title](./chapter-6a-public-health-service.md#section-247d-7b); and
+
+  (D) in the course of providing services that are within the scope of the license, registration, or certification of the professional, as defined by the State of licensure, registration, or certification; and
+
+(3) prior to the rendering of such act or omission, was authorized by the State’s authorization of deploying such State’s Emergency System for Advance Registration of Volunteer Health Professionals described in [section 247d–7b of this title](./chapter-6a-public-health-service.md#section-247d-7b) or the Medical Reserve Corps established under [section 300hh–15 of this title](./chapter-6a-public-health-service.md#section-300hh-15), to provide health care services,
+shall be subject only to the State liability laws of the State in which such act or omission occurred, in the same manner and to the same extent as a similar health care professional who is a resident of such State would be subject to such State laws, except with respect to the licensure, registration, and certification of such individual.
+
+**(b) Volunteer Protection Act** Nothing in this section shall be construed to affect an individual’s right to protections under the Volunteer Protection Act of 1997 [[42 U.S.C. 14501](./chapter-139-volunteer-protection.md#section-14501) et seq.].
+
+**(c) Preemption** This section shall supersede the laws of any State that would subject a health care professional described in subsection (a) to the liability laws of any State other than the State liability laws to which such individual is subject pursuant to such subsection.
+
+**(d) Definitions** In this section:
+
+(1) The term “health care professional” means an individual licensed, registered, or certified under Federal or State laws or regulations to provide health care services.
+
+(2) The term “health care services” means any services provided by a health care professional, or by any individual working under the supervision of a health care professional, that relate to—
+
+  (A) the diagnosis, prevention, or treatment of any human disease or impairment; or
+
+  (B) the assessment or care of the health of human beings.
+
+**(e) Effective date**
+
+(1) **In general** — This section shall take effect 90 days after June 24, 2019.
+
+(2) **Application** — This section shall apply to a claim for harm only if the act or omission that caused such harm occurred on or after the effective date described in paragraph (1).
 
 ### Statutory Notes
 
-Section, act July 1, 1944, ch. 373, title II, § 225, as added Oct. 27, 1972, Pub. L. 92–585, § 5, 86 Stat. 1293; amended Aug. 23, 1974, Pub. L. 93–385, § 1, 88 Stat. 741; Apr. 22, 1976, Pub. L. 94–278, title IX, § 901, 90 Stat. 415; Sept. 30, 1976, Pub. L. 94–437, title I, § 104, 90 Stat. 1403; Oct. 12, 1976, Pub. L. 94–484, title I, § 101(t), 90 Stat. 2246, related to Public Health and National Health Service Corps Scholarship Training program.
+#### References in Text
+The Volunteer Protection Act of 1997, referred to in subsec. (b), is Pub. L. 105–19, June 18, 1997, 111 Stat. 218, which is classified generally to chapter 139 (§ 14501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 14501 of this title](./chapter-139-volunteer-protection.md#section-14501) and Tables.
+
+#### Prior Provisions
+A former section 234, act July 1, 1944, ch. 373, title II, § 225, as added Oct. 27, 1972, Pub. L. 92–585, § 5, 86 Stat. 1293; amended Aug. 23, 1974, Pub. L. 93–385, § 1, 88 Stat. 741; Apr. 22, 1976, Pub. L. 94–278, title IX, § 901, 90 Stat. 415; Sept. 30, 1976, Pub. L. 94–437, title I, § 104, 90 Stat. 1403; Oct. 12, 1976, Pub. L. 94–484, title I, § 101(t), 90 Stat. 2246, related to Public Health and National Health Service Corps Scholarship Training program, prior to repeal by Pub. L. 94–484, title IV, § 408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
 
 
 <a id="section-236"></a>
@@ -7498,7 +7549,7 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
   (A) coordinating control programs in the State involved; and
 
-  (B) assisting such State in making grants to political subdivisions of the State to conduct assessments to determine the immediate needs in such subdivisions for control programs, and to develop, on the basis of such assessments, plans for carrying out control programs in the subdivisions.
+  (B) assisting such State in making grants to political subdivisions of the State to conduct assessments to determine the immediate needs in such subdivisions for control programs, including programs to address emerging infectious mosquito-borne diseases, and to develop, on the basis of such assessments, plans for carrying out control programs in the subdivisions or improving existing control programs.
 
 (2) **Preference in making grants** — In making grants under paragraph (1), the Secretary shall give preference to States that have one or more political subdivisions with an incidence, prevalence, or high risk of mosquito-borne disease, or a population of infected mosquitoes, that is substantial relative to political subdivisions in other States.
 
@@ -7524,7 +7575,7 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
 **(b) Prevention and control grants to political subdivisions**
 
-(1) **In general** — The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to political subdivisions of States or consortia of political subdivisions of States, for the operation of control programs.
+(1) **In general** — The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to political subdivisions of States or consortia of political subdivisions of States, for the operation, including improvement, of control programs.
 
 (2) **Preference in making grants** — In making grants under paragraph (1), the Secretary shall give preference to a political subdivision or consortium of political subdivisions that—
 
@@ -7532,15 +7583,21 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
     (i) a history of elevated incidence or prevalence of mosquito-borne disease;
 
-    (ii) a population of infected mosquitoes; or
+    (ii) a population of infected mosquitoes;
 
-    (iii) met criteria determined by the Secretary to suggest an increased risk of elevated incidence or prevalence of mosquito-borne disease in the pending fiscal year;
+    (iii) met criteria determined by the Secretary to suggest an increased risk of elevated incidence or prevalence of mosquito-borne disease in the pending fiscal year, including an emerging infectious mosquito-borne disease that presents a serious public health threat; or
+
+    (iv) a public health emergency due to the incidence or prevalence of a mosquito-borne disease that presents a serious public health threat;
 
   (B) demonstrates to the Secretary that such political subdivision or consortium of political subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
 
   (C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivision or consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
 
-  (D) is located in a State that has received a grant under subsection (a).
+  (D)
+
+    (i) is located in a State that has received a grant under subsection (a); or
+
+    (ii) that 11 So in original. demonstrates to the Secretary that the control program is consistent with existing State mosquito control plans or policies, or other applicable State preparedness plans.
 
 (3) **Requirement of assessment and plan** — A grant may be made under paragraph (1) only if the political subdivision or consortium of political subdivisions involved—
 
@@ -7554,25 +7611,21 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
   (B) *Determination of amount contributed* — Non-Federal contributions required in subparagraph (A) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-  (C) *Waiver* — The Secretary may waive the requirement established in subparagraph (A) if the Secretary determines that extraordinary economic conditions in the political subdivision or consortium of political subdivisions involved justify the waiver.
+  (C) *Waiver* — The Secretary may waive the requirement established in subparagraph (A) if the Secretary determines that—
+
+    (i) extraordinary economic conditions in the political subdivision or consortium of political subdivisions involved justify the waiver; or
+
+    (ii) the geographical area covered by a political subdivision or consortium for a grant under paragraph (1) has an extreme mosquito control need due to—
+
+      (I) the size or density of the potentially impacted human population;
+
+      (II) the size or density of a mosquito population that requires heightened control; or
+
+      (III) the severity of the mosquito-borne disease, such that expected serious adverse health outcomes for the human population justify the waiver.
 
 (5) **Reports to Secretary** — A grant may be made under paragraph (1) only if the political subdivision or consortium of political subdivisions involved agrees that, promptly after the end of the fiscal year for which the grant is made, the subdivision or consortium will submit to the Secretary, and to the State within which the subdivision or consortium is located, a report that describes the control program and contains an evaluation of whether the program was effective.
 
-(6) **Amount of grant; number of grants**
-
-  (A) *Amount of grant*
-
-    (i) *Single political subdivision* — A grant under paragraph (1) awarded to a political subdivision for a fiscal year may not exceed $100,000.
-
-    (ii) *Consortium* — A grant under paragraph (1) awarded to a consortium of 2 or more political subdivisions may not exceed $110,000 for each political subdivision. A consortium is not required to provide matching funds under paragraph (4) for any amounts received by such consortium in excess of amounts each political subdivision would have received separately.
-
-    (iii) *Waiver of requirement* — A grant may exceed the maximum amount in clause (i) or (ii) if the Secretary determines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
-
-      (I) the human population in such geographical area; or
-
-      (II) the mosquito population in such geographical area.
-
-  (B) *Number of grants* — A political subdivision or a consortium of political subdivisions may not receive more than one grant under paragraph (1).
+(6) **Number of grants** — A political subdivision or a consortium of political subdivisions may not receive more than one grant under paragraph (1).
 
 **(c) Applications for grants** A grant may be made under subsection (a) or (b) only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
@@ -7582,16 +7635,34 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
 **(f) Authorization of appropriations**
 
-(1) **In general** — For the purpose of carrying out this section, there are authorized to be appropriated $100,000,000 for fiscal year 2003, and such sums as may be necessary for each of fiscal years 2004 through 2007.
+(1) **In general** — For the purpose of carrying out this section, there are authorized to be appropriated $100,000,000 for each of fiscal years 2019 through 2023.
 
-(2) **Public health emergencies** — In the case of control programs carried out in response to a mosquito-borne disease that constitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under the Public Health Security and Bioterrorism Preparedness and Response Act of 2002.
+(2) **Public health emergencies** — In the case of control programs carried out in response to a mosquito-borne disease that constitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under this chapter and other medical and public health preparedness and response laws.
 
-(3) **Fiscal year 2004 appropriations** — For fiscal year 2004, 50 percent or more of the funds appropriated under paragraph (1) shall be used to award grants to political subdivisions or consortia of political subdivisions under subsection (b).
+(3) **Fiscal year 2019 appropriations** — For fiscal year 2019, 50 percent or more of the funds appropriated under paragraph (1) shall be used to award grants to political subdivisions or consortia of political subdivisions under subsection (b).
 
 ### Statutory Notes
 
-#### References in Text
-The Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (f)(2), is Pub. L. 107–188, June 12, 2002, 116 Stat. 594, as amended. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+#### Amendments
+2019—Subsec. (a)(1)(B). Pub. L. 116–22, § 607(a)(1), inserted “including programs to address emerging infectious mosquito-borne diseases,” after “subdivisions for control programs,” and “or improving existing control programs” after “in the subdivisions”.
+
+Subsec. (b)(1). Pub. L. 116–22, § 607(a)(2)(A), inserted “, including improvement,” after “operation”.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 116–22, § 607(a)(2)(B)(i)(II), substituted “, including an emerging infectious mosquito-borne disease that presents a serious public health threat; or” for semicolon at end.
+
+Subsec. (b)(2)(A)(iv). Pub. L. 116–22, § 607(a)(2)(B)(i)(I), (III), added cl. (iv).
+
+Subsec. (b)(2)(D). Pub. L. 116–22, § 607(a)(2)(B)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “is located in a State that has received a grant under subsection (a).”
+
+Subsec. (b)(4)(C). Pub. L. 116–22, § 607(a)(2)(C), substituted “that—” for “that extraordinary economic conditions in the political subdivision or consortium of political subdivisions involved justify the waiver.” and added cls. (i) and (ii).
+
+Subsec. (b)(6). Pub. L. 116–22, § 607(a)(2)(D), amended par. (6) generally. Prior to amendment, par. (6) related to amount of grant and number of grants.
+
+Subsec. (f)(1). Pub. L. 116–22, § 607(a)(3)(A), substituted “for each of fiscal years 2019 through 2023” for “for fiscal year 2003, and such sums as may be necessary for each of fiscal years 2004 through 2007”.
+
+Subsec. (f)(2). Pub. L. 116–22, § 607(a)(3)(B), substituted “this chapter and other medical and public health preparedness and response laws” for “the Public Health Security and Bioterrorism Preparedness and Response Act of 2002”.
+
+Subsec. (f)(3). Pub. L. 116–22, § 607(a)(3)(C), substituted “2019” for “2004” in heading and “2019,” for “2004,” in text.
 
 
 <a id="section-247b-22"></a>
@@ -8312,23 +8383,33 @@ Pub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under [se
 ## § 247b–7. Loan repayment program
 **(a) In general**
 
-(1) **Authority** — Subject to paragraph (2), the Secretary may carry out a program of entering into contracts with appropriately qualified health professionals under which such health professionals agree to conduct prevention activities, as employees of the Centers for Disease Control and Prevention and the Agency for Toxic Substances and Disease Registry, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
+(1) **Authority** — Subject to paragraph (2), the Secretary may carry out a program of entering into contracts with appropriately qualified health professionals under which such health professionals agree to conduct prevention activities or preparedness and response activities, including rapid response to public health emergencies and significant public health threats, as employees of the Centers for Disease Control and Prevention and the Agency for Toxic Substances and Disease Registry, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $50,000 of the principal and interest of the educational loans of such health professionals.
 
 (2) **Limitation** — The Secretary may not enter into an agreement with a health professional pursuant to paragraph (1) unless such professional—
 
   (A) has a substantial amount of educational loans relative to income; and
 
-  (B) agrees to serve as an employee of the Centers for Disease Control and Prevention or the Agency for Toxic Substances and Disease Registry for purposes of paragraph (1) for a period of not less than 3 years.
+  (B) agrees to serve as an employee of the Centers for Disease Control and Prevention or the Agency for Toxic Substances and Disease Registry for purposes of paragraph (1) for a period of not less than 2 years.
 
 **(b) Applicability of certain provisions** With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of this subchapter, the provisions of such subpart shall, except as inconsistent with subsection (a), apply to the program established in this section in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program.
 
-**(c) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $500,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2002.
+**(c) Authorization of appropriations**
+
+(1) **In general** — For the purpose of carrying out this section, except as described in paragraph (2), there are authorized to be appropriated $500,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2002.
+
+(2) **Epidemic Intelligence Service program** — For purposes of carrying out this section with respect to qualified health professionals serving in the Epidemic Intelligence Service, as authorized under [section 247b–8 of this title](./chapter-6a-public-health-service.md#section-247b-8), there is authorized to be appropriated $1,000,000 for each of fiscal years 2019 through 2023.
 
 **(d) Availability of appropriations** Amounts appropriated for a fiscal year for contracts under subsection (a) shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–22, § 301(c)(1)(A), inserted “or preparedness and response activities, including rapid response to public health emergencies and significant public health threats” after “conduct prevention activities” and substituted “$50,000” for “$35,000”.
+
+Subsec. (a)(2)(B). Pub. L. 116–22, § 301(c)(1)(B), substituted “2 years” for “3 years”.
+
+Subsec. (c). Pub. L. 116–22, § 301(c)(2), designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section, except as described in paragraph (2)” for “ For the purpose of carrying out this section”, and added par. (2).
+
 1998—Subsec. (a)(1). Pub. L. 105–392, § 406(1), substituted “$35,000” for “$20,000”.
 
 Subsec. (c). Pub. L. 105–392, § 406(2), substituted “2002” for “1998”.
@@ -8704,15 +8785,37 @@ the Secretary may take such action as may be appropriate to respond to the publi
 
 **(b) Public Health Emergency Fund**
 
-(1) **In general** — There is established in the Treasury a fund to be designated as the “Public Health Emergency Fund” to be made available to the Secretary without fiscal year limitation to carry out subsection (a) only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
+(1) **In general** — There is established in the Treasury a fund to be designated as the “Public Health Emergency Fund” to be made available to the Secretary without fiscal year limitation to carry out subsection (a) only if a public health emergency has been declared by the Secretary under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities. There is authorized to be appropriated to the Fund such sums as may be necessary.
 
-(2) **Report** — Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
+(2) **Uses** — The Secretary may use amounts in the Fund established under paragraph (1), to—
+
+  (A) facilitate coordination between and among Federal, State, local, Tribal, and territorial entities and public and private health care entities that the Secretary determines may be affected by a public health emergency or potential public health emergency referred to in paragraph (1) (including communication of such entities with relevant international entities, as applicable);
+
+  (B) make grants, provide for awards, enter into contracts, and conduct supportive investigations pertaining to a public health emergency or potential public health emergency, including further supporting programs under section 247d–3a, 247d–3b, or 247d–3c of this title;
+
+  (C) facilitate and accelerate, as applicable, advanced research and development of security countermeasures (as defined in [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b)), qualified countermeasures (as defined in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a)), or qualified pandemic or epidemic products (as defined in [section 247d–6d of this title](./chapter-6a-public-health-service.md#section-247d-6d)), that are applicable to the public health emergency or potential public health emergency under paragraph (1);
+
+  (D) strengthen biosurveillance capabilities and laboratory capacity to identify, collect, and analyze information regarding such public health emergency or potential public health emergency, including the systems under [section 247d–4 of this title](./chapter-6a-public-health-service.md#section-247d-4);
+
+  (E) support initial emergency operations and assets related to preparation and deployment of intermittent disaster response personnel under [section 300hh–11 of this title](./chapter-6a-public-health-service.md#section-300hh-11) and the Medical Reserve Corps under [section 300hh–15 of this title](./chapter-6a-public-health-service.md#section-300hh-15); and
+
+  (F) carry out other activities, as the Secretary determines applicable and appropriate.
+
+(3) **Report** — Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
 
   (A) the expenditures made from the Public Health Emergency Fund in such fiscal year; and
 
   (B) each public health emergency for which the expenditures were made and the activities undertaken with respect to each emergency which was conducted or supported by expenditures from the Fund.
 
-**(c) Supplement not supplant** Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
+(4) **Review** — Not later than 2 years after June 24, 2019, the Secretary, in coordination with the Assistant Secretary for Preparedness and Response, shall conduct a review of the Fund under this section and provide recommendations to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives on policies to improve such Fund for the uses described in paragraph (2).
+
+(5) **GAO report** — Not later than 4 years after June 24, 2019, the Comptroller General of the United States shall—
+
+  (A) conduct a review of the Fund under this section, including its uses and the resources available in the Fund; and
+
+  (B) submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on such review, including recommendations related to such review, as applicable.
+
+**(c) Supplement not supplant** Funds appropriated under this section shall be used to rapidly respond to public health emergencies or potential public health emergencies and supplement and not supplant other Federal, State, and local public funds provided for activities under this chapter or funds otherwise provided for emergency response.
 
 **(d) Data submittal and reporting deadlines** In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a), individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
 
@@ -8796,7 +8899,7 @@ the Secretary may take such action as may be appropriate to respond to the publi
 
   (B) the term “State” includes, in addition to the entities listed in the definition of such term in [section 201 of this title](./chapter-6a-public-health-service.md#section-201), the Freely Associated States.
 
-(8) **Sunset** — This subsection shall terminate on September 30, 2018.
+(8) **Sunset** — This subsection shall terminate on September 30, 2023.
 
 **(f) Determination with respect to Paperwork Reduction Act waiver during a public health emergency**
 
@@ -8834,6 +8937,16 @@ Another prior section 247d, act July 1, 1944, ch. 373, title III, § 319, former
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–22, § 206(1)(A), substituted “under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities.” for “under such subsection.”
+
+Subsec. (b)(2), (3). Pub. L. 116–22, § 206(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (b)(4), (5). Pub. L. 116–22, § 206(1)(D), added pars. (4) and (5).
+
+Subsec. (c). Pub. L. 116–22, § 206(2), inserted “rapidly respond to public health emergencies or potential public health emergencies and” after “used to” and substituted “activities under this chapter or funds otherwise provided for emergency response.” for “activities under this section.”
+
+Subsec. (e)(8). Pub. L. 116–22, § 701(c), substituted “2023” for “2018”.
+
 2016—Subsec. (f). Pub. L. 114–255 added subsec. (f).
 
 2013—Subsec. (e). Pub. L. 113–5 added subsec. (e).
@@ -8858,7 +8971,7 @@ Pub. L. 107–188, title I, § 144(b), June 12, 2002, 116 Stat. 630, provided th
 
 **(d) Guidelines** The Secretary, in order to maintain the confidentiality of relevant information and ensure that none of the information contained in the systems involved may be used to provide proprietary advantage within the vaccine market, while allowing State, local, and tribal health officials access to such information to maximize the delivery and availability of vaccines to high priority populations, during times of influenza pandemics, vaccine shortages, and supply disruptions, in consultation with manufacturers, distributors, wholesalers and State, local, and tribal health departments, shall develop guidelines for subsections (a) and (b).
 
-**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section, $30,800,000 for each of fiscal years 2014 through 2018.
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section, $30,800,000 for each of fiscal years 2019 through 2023.
 
 **(f) Report to Congress** As part of the National Health Security Strategy described in [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1), the Secretary shall provide an update on the implementation of subsections (a) through (d).
 
@@ -8868,6 +8981,8 @@ Pub. L. 107–188, title I, § 144(b), June 12, 2002, 116 Stat. 630, provided th
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c), is section 264(c) of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of this title](./chapter-007-social-security.md#section-1320d-2).
 
 #### Amendments
+2019—Subsec. (e). Pub. L. 116–22 substituted “2019 through 2023” for “2014 through 2018”.
+
 2013—Subsec. (e). Pub. L. 113–5 substituted “$30,800,000 for each of fiscal years 2014 through 2018” for “such sums for each of fiscal years 2007 through 2011”.
 
 2006—Pub. L. 109–417 amended section catchline and text generally, substituting provisions relating to vaccine tracking and distribution for provisions relating to establishment of capacities to combat threats to public health.
@@ -8925,7 +9040,7 @@ Section 247d–3, act July 1, 1944, ch. 373, title III, § 319C, as added Pub. L
 
 <a id="section-247d-3a"></a>
 ## § 247d–3a. Improving State and local public health security
-**(a) In general** To enhance the security of the United States with respect to public health emergencies, the Secretary shall award cooperative agreements to eligible entities to enable such entities to conduct the activities described in subsection (d).
+**(a) In general** To enhance the security of the United States with respect to public health emergencies, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award cooperative agreements to eligible entities to enable such entities to conduct the activities described in subsection (d).
 
 **(b) Eligible entities** To be eligible to receive an award under subsection (a), an entity shall—
 
@@ -8947,27 +9062,39 @@ Section 247d–3, act July 1, 1944, ch. 373, title III, § 319C, as added Pub. L
 
     (iii) preparedness and response strategies and capabilities that take into account the medical and public health needs of at-risk individuals in the event of a public health emergency;
 
-    (iv) a description of the mechanism the entity will implement to utilize the Emergency Management Assistance Compact or other mutual aid agreements for medical and public health mutual aid;
+    (iv) a description of the mechanism the entity will implement to utilize the Emergency Management Assistance Compact, or other mutual aid agreement, for medical and public health mutual aid, and, as appropriate, the activities such entity will implement pursuant to [section 247d–7b of this title](./chapter-6a-public-health-service.md#section-247d-7b) to improve enrollment and coordination of volunteer health care professionals seeking to provide medical services during a public health emergency, which may include—
+
+      (I) providing a public method of communication for purposes of volunteer coordination (such as a phone number);
+
+      (II) providing for optional registration to participate in volunteer services during processes related to State medical licensing, registration, or certification or renewal of such licensing, registration, or certification; or
+
+      (III) other mechanisms as the State determines appropriate;
 
     (v) a description of how the entity will include the State Unit on Aging in public health emergency preparedness;
 
-    (vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders in public health emergency preparedness and response;
+    (vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders, including public health agencies with specific expertise that may be relevant to public health security, such as environmental health agencies, in public health emergency preparedness and response;
 
-    (vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)) and State child care lead agencies (designated under [section 9858b of this title](./chapter-105-community-services-programs.md#section-9858b));
+    (vii) a description of how, as applicable, such entity may integrate information to account for individuals with behavioral health needs following a public health emergency;
 
-    (viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
+    (viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)) and State child care lead agencies (designated under [section 9858b of this title](./chapter-105-community-services-programs.md#section-9858b));
 
-    (ix) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
+    (ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
+
+    (x) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
+
+    (xi) a description of how the entity will partner with health care facilities, including hospitals and nursing homes and other long-term care facilities, to promote and improve public health preparedness and response; and
+
+    (xii) a description of how, as appropriate and practicable, the entity will include critical infrastructure partners, such as utility companies within the entity’s jurisdiction, in planning pursuant to this subparagraph to help ensure that critical infrastructure will remain functioning during, or return to function as soon as practicable after, a public health emergency;
 
   (B) an assurance that the entity will report to the Secretary on an annual basis (or more frequently as determined by the Secretary) on the evidence-based benchmarks and objective standards established by the Secretary to evaluate the preparedness and response capabilities of such entity under subsection (g);
 
-  (C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, including addressing the needs of at-risk individuals,,11 So in original. and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
+  (C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, including addressing the needs of at-risk individuals, and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
 
   (D) an assurance that the entity will provide to the Secretary the data described under [section 247d–4(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–4/c/3&num=0&edition=prelim) as determined feasible by the Secretary;
 
   (E) an assurance that the entity will conduct activities to inform and educate the hospitals within the jurisdiction of such entity on the role of such hospitals in the plan required under subparagraph (A);
 
-  (F) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity make 22 So in original. Probably should be “makes”. satisfactory annual improvement and describe 33 So in original. Probably should be “describes”. such system in the plan under subparagraph (A);
+  (F) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity makes satisfactory annual improvement and describes such system in the plan under subparagraph (A);
 
   (G) a description of the means by which to obtain public comment and input on the plan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
 
@@ -8981,7 +9108,7 @@ Section 247d–3, act July 1, 1944, ch. 373, title III, § 319C, as added Pub. L
 
 (2) **Effect of section** — Nothing in this subsection may be construed as establishing new regulatory authority or as modifying any existing regulatory authority.
 
-**(e) Coordination with local response capabilities** An entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant Metropolitan Medical Response Systems, local public health departments, the Cities Readiness Initiative, and local emergency plans.
+**(e) Coordination with local response capabilities** An entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant Metropolitan Medical Response Systems, local public health departments, the Cities Readiness Initiative, local emergency plans, and any regional health care emergency preparedness and response system established pursuant to the applicable guidelines under [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c).
 
 **(f) Consultation with Homeland Security** In making awards under subsection (a), the Secretary shall consult with the Secretary of Homeland Security to—
 
@@ -9007,15 +9134,15 @@ Section 247d–3, act July 1, 1944, ch. 373, title III, § 319C, as added Pub. L
 
   (A) *In general* — Not later than 180 days after December 19, 2006, the Secretary shall develop and disseminate to the chief executive officer of each State criteria for an effective State plan for responding to pandemic influenza. The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1).
 
-  (B) *Rule of construction* — Nothing in this section shall be construed to require the duplication of Federal efforts with respect to the development of criteria or standards, without regard to whether such efforts were carried out prior to or after December 19, 2006.44 See Codification note below.
+  (B) *Rule of construction* — Nothing in this section shall be construed to require the duplication of Federal efforts with respect to the development of criteria or standards, without regard to whether such efforts were carried out prior to or after December 19, 2006.11 See Codification note below.
 
 (3) **Technical assistance** — The Secretary shall, as determined appropriate by the Secretary, provide to a State, upon request, technical assistance in meeting the requirements of this section, including the provision of advice by experts in the development of high-quality assessments, the setting of State objectives and assessment methods, the development of measures of satisfactory annual improvement that are valid and reliable, and other relevant areas.
 
 (4) **Notification of failures** — The Secretary shall develop and implement a process to notify entities that are determined by the Secretary to have failed to meet the requirements of paragraph (1) or (2). Such process shall provide such entities with the opportunity to correct such noncompliance. An entity that fails to correct such noncompliance shall be subject to paragraph (5).
 
-(5) **Withholding of amounts from entities that fail to achieve benchmarks or submit influenza plan** — Beginning with fiscal year 2009, and in each succeeding fiscal year, the Secretary shall—
+(5) **Withholding of amounts from entities that fail to achieve benchmarks or submit influenza plan** — Beginning with fiscal year 2019, and in each succeeding fiscal year, the Secretary shall—
 
-  (A) withhold from each entity that has failed substantially to meet the benchmarks and performance measures described in paragraph (1) for the immediately preceding fiscal year (beginning with fiscal year 2008), pursuant to the process developed under paragraph (4), the amount described in paragraph (6); and
+  (A) withhold from each entity that has failed substantially to meet the benchmarks and performance measures described in paragraph (1) for either of the 2 immediately preceding fiscal years (beginning with fiscal year 2018), pursuant to the process developed under paragraph (4), the amount described in paragraph (6); and
 
   (B) withhold from each entity that has failed to submit to the Secretary a plan for responding to pandemic influenza that meets the criteria developed under paragraph (2), the amount described in paragraph (6).
 
@@ -9023,13 +9150,9 @@ Section 247d–3, act July 1, 1944, ch. 373, title III, § 319C, as added Pub. L
 
   (A) *In general* — The amounts described in this paragraph are the following amounts that are payable to an entity for activities described in this section or [section 247d–3b of this title](./chapter-6a-public-health-service.md#section-247d-3b):
 
-    (i) For the fiscal year immediately following a fiscal year in which an entity experienced a failure described in subparagraph (A) or (B) of paragraph (5) by the entity, an amount equal to 10 percent of the amount the entity was eligible to receive for such fiscal year.
+    (i) For no more than one of each of the first 2 fiscal years immediately following a fiscal year in which an entity experienced a failure described in subparagraph (A) or (B) of paragraph (5), an amount equal to 10 percent of the amount the entity was eligible to receive for the respective fiscal year.
 
-    (ii) For the fiscal year immediately following two consecutive fiscal years in which an entity experienced such a failure, an amount equal to 15 percent of the amount the entity was eligible to receive for such fiscal year, taking into account the withholding of funds for the immediately preceding fiscal year under clause (i).
-
-    (iii) For the fiscal year immediately following three consecutive fiscal years in which an entity experienced such a failure, an amount equal to 20 percent of the amount the entity was eligible to receive for such fiscal year, taking into account the withholding of funds for the immediately preceding fiscal years under clauses (i) and (ii).
-
-    (iv) For the fiscal year immediately following four consecutive fiscal years in which an entity experienced such a failure, an amount equal to 25 percent of the amount the entity was eligible to receive for such a fiscal year, taking into account the withholding of funds for the immediately preceding fiscal years under clauses (i), (ii), and (iii).
+    (ii) For no more than one of the first 2 fiscal years immediately following the third consecutive fiscal year in which an entity experienced such a failure, in lieu of applying clause (i), an amount equal to 15 percent of the amount the entity was eligible to receive for the respective fiscal year.
 
   (B) *Separate accounting* — Each failure described in subparagraph (A) or (B) of paragraph (5) shall be treated as a separate failure for purposes of calculating amounts withheld under subparagraph (A).
 
@@ -9045,7 +9168,7 @@ Section 247d–3, act July 1, 1944, ch. 373, title III, § 319C, as added Pub. L
 
 (1) **Authorization of appropriations**
 
-  (A) *In general* — For the purpose of carrying out this section, there is authorized to be appropriated $641,900,000 for fiscal year 2014 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5)), and $641,900,000 for each of fiscal years 2015 through 2018.
+  (A) *In general* — For the purpose of carrying out this section, there is authorized to be appropriated $685,000,000 for each of fiscal years 2019 through 2023 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5)).
 
   (B) *Requirement for State matching funds* — Beginning in fiscal year 2009, in the case of any State or consortium of two or more States, the Secretary may not award a cooperative agreement under this section unless the State or consortium of States agree that, with respect to the amount of the cooperative agreement awarded by the Secretary, the State or consortium of States will make available (directly or through donations from public or private entities) non-Federal contributions in an amount equal to—
 
@@ -9137,12 +9260,52 @@ Section 247d–3, act July 1, 1944, ch. 373, title III, § 319C, as added Pub. L
 
 **(j) Compilation and availability of data** The Secretary shall compile the data submitted under this section and make such data available in a timely manner on an appropriate Internet website in a format that is useful to the public and to other entities and that provides information on what activities are best contributing to the achievement of the outcome goals described in subsection (g).
 
+**(k) Evaluation**
+
+(1) **In general** — Not later than 2 years after June 24, 2019, and every 2 years thereafter, the Secretary shall conduct an evaluation of the evidence-based benchmarks and objective standards required under subsection (g). Such evaluation shall be submitted to the congressional committees of jurisdiction together with the National Health Security Strategy under [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1), at such time as such strategy is submitted.
+
+(2) **Content** — The evaluation under this paragraph shall include—
+
+  (A) a review of evidence-based benchmarks and objective standards, and associated metrics and targets;
+
+  (B) a discussion of changes to any evidence-based benchmarks and objective standards, and the effect of such changes on the ability to track whether entities are meeting or making progress toward the goals under this section and, to the extent practicable, the applicable goals of the National Health Security Strategy under [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1);
+
+  (C) a description of amounts received by eligible entities described in subsection (b) and [section 247d–3b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–3b/b&num=0&edition=prelim), and amounts received by subrecipients and the effect of such funding on meeting evidence-based benchmarks and objective standards; and
+
+  (D) recommendations, as applicable and appropriate, to improve evidence-based benchmarks and objective standards to more accurately assess the ability of entities receiving awards under this section to better achieve the goals under this section and [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1).
+
 ### Statutory Notes
 
 #### Codification
 December 19, 2006, referred to in subsec. (g)(2)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–22, § 202(a)(1), inserted “, acting through the Director of the Centers for Disease Control and Prevention,” after “the Secretary”.
+
+Subsec. (b)(2)(A)(iv). Pub. L. 116–22, § 207(b), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a description of the mechanism the entity will implement to utilize the Emergency Management Assistance Compact or other mutual aid agreements for medical and public health mutual aid;”.
+
+Subsec. (b)(2)(A)(vi). Pub. L. 116–22, § 202(a)(2)(A), inserted “, including public health agencies with specific expertise that may be relevant to public health security, such as environmental health agencies,” after “stakeholders”.
+
+Subsec. (b)(2)(A)(vii) to (x). Pub. L. 116–22, § 202(a)(2)(B), (C), added cl. (vii) and redesignated former cls. (vii) to (ix) as (viii) to (x), respectively.
+
+Subsec. (b)(2)(A)(xi), (xii). Pub. L. 116–22, § 202(a)(2)(D), (E), added cls. (xi) and (xii).
+
+Subsec. (b)(2)(C). Pub. L. 116–22, § 705(b)(1), substituted “individuals,” for “individuals,,”.
+
+Subsec. (b)(2)(F). Pub. L. 116–22, § 705(b)(2), substituted “makes satisfactory annual improvement and describes” for “make satisfactory annual improvement and describe”.
+
+Subsec. (e). Pub. L. 116–22, § 203(e)(1), substituted “, local emergency plans, and any regional health care emergency preparedness and response system established pursuant to the applicable guidelines under [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c).” for “, and local emergency plans.”
+
+Subsec. (g)(5). Pub. L. 116–22, § 202(b)(1)(A)(i), substituted “Beginning with fiscal year 2019” for “Beginning with fiscal year 2009” in introductory provisions.
+
+Subsec. (g)(5)(A). Pub. L. 116–22, § 202(b)(1)(A)(ii), substituted “for either of the 2 immediately preceding fiscal years” for “for the immediately preceding fiscal year” and “2018” for “2008”.
+
+Subsec. (g)(6)(A). Pub. L. 116–22, § 202(b)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) consisted of cls. (i) to (iv) describing amounts payable to an entity for the fiscal year immediately following one to four fiscal years in which the entity experienced a failure described in subsec. (g)(5)(A) or (B).
+
+Subsec. (h)(1)(A). Pub. L. 116–22, § 202(d), substituted “$685,000,000 for each of fiscal years 2019 through 2023 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5)).” for “$641,900,000 for fiscal year 2014 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5)), and $641,900,000 for each of fiscal years 2015 through 2018.”
+
+Subsec. (k). Pub. L. 116–22, § 201(a), added subsec. (k).
+
 2015—Subsec. (b)(2)(A)(vii). Pub. L. 114–95 substituted “including State educational agencies (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))” for “including State educational agencies (as defined in [section 7801(41) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/41&num=0&edition=prelim))”.
 
 2013—Subsec. (b)(1)(B). Pub. L. 113–5, § 202(c)(1), substituted “subsection (h)(4)” for “subsection (i)(4)”.
@@ -9211,6 +9374,9 @@ Pub. L. 109–417, § 201(3), redesignated subsec. (j) as (i).
 
 Subsec. (k). Pub. L. 109–417, § 201(5), added subsec. (k).
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–22, title II, § 202(b)(2), June 24, 2019, 133 Stat. 909, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to cooperative agreements awarded on or after the date of enactment of this Act [June 24, 2019].”
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -9220,17 +9386,17 @@ Pub. L. 110–53, title XXII, § 2201(d), Aug. 3, 2007, 121 Stat. 541, provided 
 
 <a id="section-247d-3b"></a>
 ## § 247d–3b. Partnerships for State and regional hospital preparedness to improve surge capacity
-**(a) In general** The Secretary shall award competitive grants or cooperative agreements to eligible entities to enable such entities to improve surge capacity and enhance community and hospital preparedness for public health emergencies, including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals.
+**(a) In general** The Secretary, acting through the Assistant Secretary for Preparedness and Response, shall award competitive grants or cooperative agreements to eligible entities to enable such entities to improve surge capacity and enhance community and hospital preparedness for, and response to, public health emergencies in accordance with subsection (c), including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals.
 
 **(b) Eligibility** To be eligible for an award under subsection (a), an entity shall—
 
 (1)
 
-  (A) be a partnership consisting of—
+  (A) be a coalition that includes—
 
     (i) one or more hospitals, at least one of which shall be a designated trauma center, consistent with [section 300d–13(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300d–13/c&num=0&edition=prelim);
 
-    (ii) one or more other local health care facilities, including clinics, health centers, community health centers, primary care facilities, mental health centers, mobile medical assets, or nursing homes; and
+    (ii) one or more other local health care facilities, including clinics, health centers, community health centers, primary care facilities, mental health centers, mobile medical assets, or nursing homes;
 
     (iii)
 
@@ -9239,6 +9405,8 @@ Pub. L. 110–53, title XXII, § 2201(d), Aug. 3, 2007, 121 Stat. 541, provided 
       (II) one or more States; or
 
       (III) one or more States and one or more political subdivisions; and
+
+    (iv) one or more emergency medical service organizations or emergency management organizations; and
 
   (B) prepare, in consultation with the Chief Executive Officer and the lead health officials of the State, District, or territory in which the hospital and health care facilities described in subparagraph (A) are located, and submit to the Secretary, an application at such time, in such manner, and containing such information as the Secretary may require; or
 
@@ -9256,11 +9424,13 @@ Pub. L. 110–53, title XXII, § 2201(d), Aug. 3, 2007, 121 Stat. 541, provided 
 
   (A) will enhance coordination—
 
-    (i) among the entities described in subsection (b)(1)(A)(i); and
+    (i) among the entities described in subsection (b)(1)(A)(i);
 
-    (ii) between such entities and the entities described in subsection (b)(1)(A)(ii); and
+    (ii) among one or more facilities in a regional health care emergency system under [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c); and
 
-  (B) include, in the partnership described in subsection (b)(1)(A), a significant percentage of the hospitals and health care facilities within the geographic area served by such partnership.
+    (iii) between such entities and the entities described in subsection (b)(1)(A)(ii); and
+
+  (B) include, in the coalition described in subsection (b)(1)(A), a significant percentage of the hospitals and health care facilities within the geographic area served by such coalition.
 
 (2) **Other preferences** — In making awards under subsection (a), the Secretary shall give preference to eligible entities that, in the determination of the Secretary—
 
@@ -9268,17 +9438,17 @@ Pub. L. 110–53, title XXII, § 2201(d), Aug. 3, 2007, 121 Stat. 541, provided 
 
   (B) are located in a geographic area that faces a high degree of risk, as determined by the Secretary in consultation with the Secretary of Homeland Security; or
 
-  (C) have a significant need for funds to achieve the medical preparedness goals described in [section 300hh–1(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b/3&num=0&edition=prelim).
+  (C) have a significant need for funds to achieve the preparedness and response goals described in [section 300hh–1(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b/3&num=0&edition=prelim).
 
 **(e) Consistency of planned activities** The Secretary may not award a cooperative agreement to an eligible entity described in subsection (b)(1) unless the application submitted by the entity is coordinated and consistent with an applicable State All-Hazards Public Health Emergency Preparedness and Response Plan and relevant local plans, as determined by the Secretary in consultation with relevant State health officials.
 
-**(f) Limitation on awards** A political subdivision shall not participate in more than one partnership described in subsection (b)(1).
+**(f) Limitation on awards** A political subdivision shall not participate in more than one coalition described in subsection (b)(1).
 
 **(g) Coordination**
 
 (1) **Local response capabilities** — An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the local Cities Readiness Initiative, and local emergency plans.
 
-(2) **National collaboration** — Partnerships consisting of one or more eligible entities under this section may, to the extent practicable, collaborate with other partnerships consisting of one or more eligible entities under this section for purposes of national coordination and collaboration with respect to activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of [section 300hh–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b&num=0&edition=prelim).
+(2) **National collaboration** — Coalitions consisting of one or more eligible entities under this section may, to the extent practicable, collaborate with other coalitions consisting of one or more eligible entities under this section for purposes of national coordination and collaboration with respect to activities to achieve the preparedness and response goals described under paragraphs (1), (3), (4), (5), and (6) of [section 300hh–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b&num=0&edition=prelim).
 
 **(h) Maintenance of funding**
 
@@ -9288,19 +9458,29 @@ Pub. L. 110–53, title XXII, § 2201(d), Aug. 3, 2007, 121 Stat. 541, provided 
 
 **(i) Performance and accountability**
 
-(1) **In general** — The requirements of section 247d–3a(g), (i), and (j) of this title shall apply to entities receiving awards under this section (regardless of whether such entities are described under subsection (b)(1)(A) or (b)(2)(A)) in the same manner as such requirements apply to entities under [section 247d–3a of this title](./chapter-6a-public-health-service.md#section-247d-3a). An entity described in subsection (b)(1)(A) shall make such reports available to the lead health official of the State in which such partnership is located.
+(1) **In general** — The requirements of section 247d–3a(g), (i), (j), and (k) of this title shall apply to entities receiving awards under this section (regardless of whether such entities are described under subsection (b)(1)(A) or (b)(2)(A)) in the same manner as such requirements apply to entities under [section 247d–3a of this title](./chapter-6a-public-health-service.md#section-247d-3a). In submitting reports under this paragraph, a coalition shall include information on the progress that the coalition has made toward the implementation of [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c) (or barriers to progress, if any). A coalition described in subsection (b)(1)(A) shall make such reports available to the lead health official of the State in which such coalition is located.
 
 (2) **Meeting goals of National Health Security Strategy** — The Secretary shall implement objective, evidence-based metrics to ensure that entities receiving awards under this section are meeting, to the extent practicable, the applicable goals of the National Health Security Strategy under [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1).
 
 **(j) Authorization of appropriations**
 
-(1) **In general** — For purposes of carrying out this section, there is authorized to be appropriated $374,700,000 for each of fiscal years 2014 through 2018.
+(1) **In general**
 
-(2) **Reservation of amounts for partnerships** — Prior to making awards described in paragraph (3), the Secretary may reserve from the amount appropriated under paragraph (1) for a fiscal year, an amount determined appropriate by the Secretary for making awards to entities described in subsection (b)(1)(A).
+  (A) *Authorization of appropriations* — For purposes of carrying out this section and [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c), in accordance with subparagraph (B), there is authorized to be appropriated $385,000,000 for each of fiscal years 2019 through 2023.
+
+  (B) *Reservation of amounts for regional systems*
+
+    (i) *In general* — Subject to clause (ii), of the amount appropriated under subparagraph (A) for a fiscal year, the Secretary may reserve up to 5 percent for the purpose of carrying out [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c).
+
+    (ii) *Reservation contingent on continued appropriations for this section* — If for fiscal year 2019 or a subsequent fiscal year, the amount appropriated under subparagraph (A) is such that, after application of clause (i), the amount remaining for the purpose of carrying out this section would be less than the amount available for such purpose for the previous fiscal year, the amount that may be reserved under clause (i) shall be reduced such that the amount remaining for the purpose of carrying out this section is not less than the amount available for such purpose for the previous fiscal year.
+
+    (iii) *Sunset* — The authority to reserve amounts under clause (i) shall expire on September 30, 2023.
+
+(2) **Reservation of amounts for partnerships** — Prior to making awards described in paragraph (3), the Secretary may reserve from the amount appropriated under paragraph (1)(A) for a fiscal year and not reserved for the purpose described in paragraph (1)(B)(i), an amount determined appropriate by the Secretary for making awards to entities described in subsection (b)(1)(A).
 
 (3) **Awards to States and political subdivisions**
 
-  (A) *In general* — From amounts appropriated for a fiscal year under paragraph (1) and not reserved under paragraph (2), the Secretary shall make awards to entities described in subsection (b)(2)(A) that have completed an application as described in subsection (b)(2)(B).
+  (A) *In general* — From amounts appropriated for a fiscal year under paragraph (1)(A) and not reserved under paragraph (1)(B)(i) or (2), the Secretary shall make awards to entities described in subsection (b)(2)(A) that have completed an application as described in subsection (b)(2)(B).
 
   (B) *Amount* — The Secretary shall determine the amount of an award to each entity described in subparagraph (A) in the same manner as such amounts are determined under [section 247d–3a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–3a/h&num=0&edition=prelim).
 
@@ -9313,6 +9493,34 @@ Pub. L. 110–53, title XXII, § 2201(d), Aug. 3, 2007, 121 Stat. 541, provided 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–22, § 202(c)(1), inserted “, acting through the Assistant Secretary for Preparedness and Response,” after “The Secretary” and substituted “preparedness for, and response to, public health emergencies in accordance with subsection (c)” for “preparedness for public health emergencies”.
+
+Subsec. (b)(1)(A). Pub. L. 116–22, § 202(c)(2)(A), substituted “coalition that includes” for “partnership consisting of” in introductory provisions.
+
+Subsec. (b)(1)(A)(iv). Pub. L. 116–22, § 202(c)(2)(B), (C), added cl. (iv).
+
+Subsec. (d)(1)(A)(ii), (iii). Pub. L. 116–22, § 203(e)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (d)(1)(B). Pub. L. 116–22, § 202(c)(3)(A), substituted “coalition” for “partnership” in two places.
+
+Subsec. (d)(2)(C). Pub. L. 116–22, § 202(c)(3)(B), substituted “preparedness and response” for “medical preparedness”.
+
+Subsec. (f). Pub. L. 116–22, § 202(c)(4), substituted “coalition” for “partnership”.
+
+Subsec. (g)(2). Pub. L. 116–22, § 202(c)(5), substituted “Coalitions” for “Partnerships” and “coalitions” for “partnerships” and inserted “and response” after “preparedness”.
+
+Subsec. (i)(1). Pub. L. 116–22, § 203(c), inserted “In submitting reports under this paragraph, a coalition shall include information on the progress that the coalition has made toward the implementation of [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c) (or barriers to progress, if any).” after “under [section 247d–3a of this title](./chapter-6a-public-health-service.md#section-247d-3a).”
+
+Pub. L. 116–22, § 202(c)(6), substituted “A coalition” for “An entity” and “such coalition” for “such partnership”.
+
+Pub. L. 116–22, § 201(b), substituted “section 247d–3a(g), (i), (j), and (k)” for “section 247d–3a(g), (i), and (j)”.
+
+Subsec. (j)(1). Pub. L. 116–22, § 202(e)(1), amended par. (1) generally. Prior to amendment, text read as follows: “For purposes of carrying out this section, there is authorized to be appropriated $374,700,000 for each of fiscal years 2014 through 2018.”
+
+Subsec. (j)(2). Pub. L. 116–22, § 202(e)(2), substituted “paragraph (1)(A) for a fiscal year and not reserved for the purpose described in paragraph (1)(B)(i)” for “paragraph (1) for a fiscal year”.
+
+Subsec. (j)(3)(A). Pub. L. 116–22, § 202(e)(3), substituted “paragraph (1)(A) and not reserved under paragraph (1)(B)(i) or (2)” for “paragraph (1) and not reserved under paragraph (2)”.
+
 2013—Subsec. (a). Pub. L. 113–5, § 203(c)(1), inserted “, including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals” before period at end.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 113–5, § 203(c)(2), substituted “centers, community health centers, primary” for “centers, primary”.
@@ -9336,11 +9544,61 @@ Subsec. (j)(4). Pub. L. 113–5, § 203(c)(6)(B), added par. (4).
 2006—Pub. L. 109–417 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to partnerships for community and hospital preparedness.
 
 
-<a id="section-247d-4"></a>
-## § 247d–4. Revitalizing the Centers for Disease Control and Prevention
-**(a) Facilities; capacities**
+<a id="section-247d-3c"></a>
+## § 247d–3c. Guidelines for regional health care emergency preparedness and response systems
+**(a) Purpose** It is the purpose of this section to identify and provide guidelines for regional systems of hospitals, health care facilities, and other public and private sector entities, with varying levels of capability to treat patients and increase medical surge capacity during, in advance of, and immediately following a public health emergency, including threats posed by one or more chemical, biological, radiological, or nuclear agents, including emerging infectious diseases.
 
-(1) **Findings** — Congress finds that the Centers for Disease Control and Prevention has an essential role in defending against and combatting public health threats domestically and abroad and requires secure and modern facilities, and expanded and improved capabilities related to bioterrorism and other public health emergencies, sufficient to enable such Centers to conduct this important mission.
+**(b) Guidelines** The Assistant Secretary for Preparedness and Response, in consultation with the Director of the Centers for Disease Control and Prevention, the Administrator of the Centers for Medicare & Medicaid Services, the Administrator of the Health Resources and Services Administration, the Commissioner of Food and Drugs, the Assistant Secretary for Mental Health and Substance Use, the Assistant Secretary of Labor for Occupational Safety and Health, the Secretary of Veterans Affairs, the heads of such other Federal agencies as the Secretary determines to be appropriate, and State, local, Tribal, and territorial public health officials, shall, not later than 2 years after June 24, 2019—
+
+(1) identify and develop a set of guidelines relating to practices and protocols for all-hazards public health emergency preparedness and response for hospitals and health care facilities to provide appropriate patient care during, in advance of, or immediately following, a public health emergency, resulting from one or more chemical, biological, radiological, or nuclear agents, including emerging infectious diseases (which may include existing practices, such as trauma care and medical surge capacity and capabilities), with respect to—
+
+  (A) a regional approach to identifying hospitals and health care facilities based on varying capabilities and capacity to treat patients affected by such emergency, including—
+
+    (i) the manner in which the system will coordinate with and integrate the partnerships and health care coalitions established under [section 247d–3b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–3b/b&num=0&edition=prelim); and
+
+    (ii) informing and educating appropriate first responders and health care supply chain partners of the regional emergency preparedness and response capabilities and medical surge capacity of such hospitals and health care facilities in the community;
+
+  (B) physical and technological infrastructure, laboratory capacity, staffing, blood supply, and other supply chain needs, taking into account resiliency, geographic considerations, and rural considerations;
+
+  (C) protocols or best practices for the safety and personal protection of workers who handle human remains and health care workers (including with respect to protective equipment and supplies, waste management processes, and decontamination), sharing of specialized experience among the health care workforce, behavioral health, psychological resilience, and training of the workforce, as applicable;
+
+  (D) in a manner that allows for disease containment (within the meaning of [section 300hh–1(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b/2/B&num=0&edition=prelim)), coordinated medical triage, treatment, and transportation of patients, based on patient medical need (including patients in rural areas), to the appropriate hospitals or health care facilities within the regional system or, as applicable and appropriate, between systems in different States or regions; and
+
+  (E) the needs of children and other at-risk individuals;
+
+(2) make such guidelines available on the internet website of the Department of Health and Human Services in a manner that does not compromise national security; and
+
+(3) update such guidelines as appropriate, including based on input received pursuant to subsections (c) and (e) and information resulting from applicable reports required under the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019 (including any amendments made by such Act), to address new and emerging public health threats.
+
+**(c) Considerations** In identifying, developing, and updating guidelines under subsection (b), the Assistant Secretary for Preparedness and Response shall—
+
+(1) include input from hospitals and health care facilities (including health care coalitions under [section 247d–3b of this title](./chapter-6a-public-health-service.md#section-247d-3b)), State, local, Tribal, and territorial public health departments, and health care or subject matter experts (including experts with relevant expertise in chemical, biological, radiological, or nuclear threats, including emerging infectious diseases), as the Assistant Secretary determines appropriate, to meet the goals under [section 300hh–1(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b/3&num=0&edition=prelim);
+
+(2) consult and engage with appropriate health care providers and professionals, including physicians, nurses, first responders, health care facilities (including hospitals, primary care clinics, community health centers, mental health facilities, ambulatory care facilities, and dental health facilities), pharmacies, emergency medical providers, trauma care providers, environmental health agencies, public health laboratories, poison control centers, blood banks, tissue banks, and other experts that the Assistant Secretary determines appropriate, to meet the goals under [section 300hh–1(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b/3&num=0&edition=prelim);
+
+(3) consider feedback related to financial implications for hospitals, health care facilities, public health agencies, laboratories, blood banks, tissue banks, and other entities engaged in regional preparedness planning to implement and follow such guidelines, as applicable; and
+
+(4) consider financial requirements and potential incentives for entities to prepare for, and respond to, public health emergencies as part of the regional health care emergency preparedness and response system.
+
+**(d) Technical assistance** The Assistant Secretary for Preparedness and Response, in consultation with the Director of the Centers for Disease Control and Prevention and the Assistant Secretary of Labor for Occupational Safety and Health, may provide technical assistance and consultation toward meeting the guidelines described in subsection (b).
+
+**(e) Demonstration project for regional health care preparedness and response systems**
+
+(1) **In general** — The Assistant Secretary for Preparedness and Response may establish a demonstration project pursuant to the development and implementation of guidelines under subsection (b) to award grants to improve medical surge capacity for all hazards, build and integrate regional medical response capabilities, improve specialty care expertise for all-hazards response, and coordinate medical preparedness and response across State, local, Tribal, territorial, and regional jurisdictions.
+
+(2) **Sunset** — The authority under this subsection shall expire on September 30, 2023.
+
+### Statutory Notes
+
+#### References in Text
+The Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (b)(3), is Pub. L. 116–22, June 24, 2019, 133 Stat. 905. For complete classfication of this Act to the Code, see Short Title of 2019 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+
+
+<a id="section-247d-4"></a>
+## § 247d–4. Facilities and capacities of the Centers for Disease Control and Prevention
+**(a) In general**
+
+(1) **Findings** — Congress finds that the Centers for Disease Control and Prevention has an essential role in defending against and combatting public health threats domestically and abroad and requires secure and modern facilities, and expanded, improved, and appropriately maintained capabilities related to bioterrorism and other public health emergencies, sufficient to enable such Centers to conduct this important mission.
 
 (2) **Facilities**
 
@@ -9348,7 +9606,7 @@ Subsec. (j)(4). Pub. L. 113–5, § 203(c)(6)(B), added par. (4).
 
   (B) *Multiyear contracting authority* — For any project of designing, constructing, equipping, or renovating any facility under subparagraph (A), the Director of the Centers for Disease Control and Prevention may enter into a single contract or related contracts that collectively include the full scope of the project, and the solicitation and contract shall contain the clause “availability of funds” found at section 52.232–18 of title 48, Code of Federal Regulations.
 
-(3) **Improving the capacities of the Centers for Disease Control and Prevention** — The Secretary shall expand, enhance, and improve the capabilities of the Centers for Disease Control and Prevention relating to preparedness for and responding effectively to bioterrorism and other public health emergencies. Activities that may be carried out under the preceding sentence include—
+(3) **Improving the capacities of the Centers for Disease Control and Prevention** — The Secretary shall expand, improve, enhance, and appropriately maintain the capabilities of the Centers for Disease Control and Prevention relating to preparedness for and responding effectively to bioterrorism and other public health emergencies. Activities that may be carried out under the preceding sentence include—
 
   (A) expanding or enhancing the training of personnel;
 
@@ -9358,75 +9616,145 @@ Subsec. (j)(4). Pub. L. 113–5, § 203(c)(6)(B), added par. (4).
 
   (D) improving laboratory facilities related to bioterrorism and other public health emergencies, including increasing the security of such facilities.
 
-**(b) National communications and surveillance networks**
+(4) **Study of resources for facilities and capacities** — Not later than June 1, 2022, the Comptroller General of the United States shall conduct a study on Federal spending in fiscal years 2013 through 2018 for activities authorized under this subsection. Such study shall include a review and assessment of obligations and expenditures directly related to each activity under paragraphs (2) and (3), including a specific accounting of, and delineation between, obligations and expenditures incurred for the construction, renovation, equipping, and security upgrades of facilities and associated contracts under this subsection, and the obligations and expenditures incurred to establish and improve the situational awareness and biosurveillance network under subsection (b), and shall identify the agency or agencies incurring such obligations and expenditures.
+
+**(b) Establishment of systems of public health communications and surveillance networks**
 
 (1) **In general** — The Secretary, directly or through awards of grants, contracts, or cooperative agreements, shall provide for the establishment of an integrated system or systems of public health alert communications and surveillance networks between and among—
 
   (A) Federal, State, and local public health officials;
 
-  (B) public and private health-related laboratories, hospitals, poison control centers, and other health care facilities; and
+  (B) public and private health-related laboratories, hospitals, poison control centers, immunization information systems, and other health care facilities; and
 
   (C) any other entities determined appropriate by the Secretary.
 
-(2) **Requirements** — The Secretary shall ensure that networks under paragraph (1) allow for the timely sharing and discussion, in a secure manner, of essential information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort.
+(2) **Requirements** — The Secretary shall develop a plan to, and ensure that networks under paragraph (1) allow for the timely sharing and discussion, in a secure manner and in a form readily usable for analytical approaches, of essential information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort.
 
-(3) **Standards** — Not later than one year after June 12, 2002, the Secretary, in cooperation with health care providers and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1) and update such standards as necessary.
+(3) **Standards**
+
+  (A) *In general* — Not later than 1 year after June 24, 2019, the Secretary, in cooperation with health care providers, State, local, Tribal, and territorial public health officials, and relevant Federal agencies (including the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology), shall, as necessary, adopt technical and reporting standards, including standards for interoperability as defined by [section 300jj of this title](./chapter-6a-public-health-service.md#section-300jj), for networks under paragraph (1) and update such standards as necessary. Such standards shall be made available on the internet website of the Department of Health and Human Services, in a manner that does not compromise national security.
+
+  (B) *Deference to standards development organizations* — In adopting and implementing standards under this subsection and subsection (c), the Secretary shall give deference to standards published by standards development organizations and voluntary consensus-based standards entities.
 
 **(c) Modernizing public health situational awareness and biosurveillance**
 
-(1) **In general** — Not later than 2 years after March 13, 2013, the Secretary, in collaboration with State, local, and tribal public health officials, shall establish a near real-time electronic nationwide public health situational awareness capability through an interoperable network of systems to share data and information to enhance early detection of rapid response to, and management of, potentially catastrophic infectious disease outbreaks, novel emerging threats, and other public health emergencies that originate domestically or abroad. Such network shall be built on existing State situational awareness systems or enhanced systems that enable such connectivity.
+(1) **In general** — The Secretary, in collaboration with State, local, and tribal public health officials, shall establish, and improve as applicable and appropriate, a near real-time electronic nationwide public health situational awareness capability through an interoperable network of systems to share data and information to enhance early detection of, rapid response to, and management of, potentially catastrophic infectious disease outbreaks, novel emerging threats, and other public health emergencies that originate domestically or abroad. Such network shall be built on existing State situational awareness systems or enhanced systems that enable such interoperability.
 
-(2) **Strategy and implementation plan** — Not later than 180 days after March 13, 2013, the Secretary shall submit to the appropriate committees of Congress a coordinated strategy and an accompanying implementation plan that identifies and demonstrates the measurable steps the Secretary will carry out to—
+(2) **Coordination and consultation** — In establishing and improving the network under paragraph (1), the Secretary shall—
 
-  (A) develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3);
+  (A) facilitate coordination among agencies within the Department of Health and Human Services that provide, or have the potential to provide, information and data to, and analyses for, the situational awareness and biosurveillance network under paragraph (1), including coordination among relevant agencies related to health care services, the facilitation of health information exchange (including the Office of the National Coordinator for Health Information Technology), and public health emergency preparedness and response; and
 
-  (B) modernize and enhance biosurveillance activities; and
+  (B) consult with the Secretary of Agriculture, the Secretary of Commerce (and the Director of the National Institute of Standards and Technology), the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Veterans Affairs, and the heads of other Federal agencies, as the Secretary determines appropriate.
 
-  (C) improve information sharing, coordination, and communication among disparate biosurveillance systems supported by the Department of Health and Human Services.
+(3) **Elements**
 
-(3) **Elements** — The network described in paragraph (1) shall include data and information transmitted in a standardized format from—
+  (A) *In general* — The network described in paragraph (1) shall include data and information transmitted in a standardized format from—
 
-  (A) State, local, and tribal public health entities, including public health laboratories;
+    (i) State, local, and tribal public health entities, including public health laboratories;
 
-  (B) Federal health agencies;
+    (ii) Federal health agencies;
 
-  (C) zoonotic disease monitoring systems;
+    (iii) zoonotic disease monitoring systems;
 
-  (D) public and private sector health care entities, hospitals, pharmacies, poison control centers or professional organizations in the field of poison control, community health centers, health centers and clinical laboratories, to the extent practicable and provided that such data are voluntarily provided simultaneously to the Secretary and appropriate State, local, and tribal public health agencies; and
+    (iv) public and private sector health care entities, hospitals, pharmacies, poison control centers or professional organizations in the field of poison control, immunization information systems, community health centers, health centers, clinical laboratories, and public environmental health agencies, to the extent practicable and provided that such data are voluntarily provided simultaneously to the Secretary and appropriate State, local, and tribal public health agencies; and
 
-  (E) such other sources as the Secretary may deem appropriate.
+    (v) such other sources as the Secretary may deem appropriate.
+
+  (B) *Review* — Not later than 2 years after June 24, 2019, and every 6 years thereafter, the Secretary shall conduct a review of the elements described in subparagraph (A). Such review shall include a discussion of the addition of any elements pursuant to clause (v), including elements added to advancing new technologies, and identify any challenges in the incorporation of elements under subparagraph (A). The Secretary shall provide such review to the congressional committees of jurisdiction.
 
 (4) **Rule of construction** — Paragraph (3) shall not be construed as requiring separate reporting of data and information from each source listed.
 
-(5) **Required activities** — In establishing and operating the network described in paragraph (1), the Secretary shall—
+(5) **Required activities**
 
-  (A) utilize applicable interoperability standards as determined by the Secretary, and in consultation with the Office of the National Coordinator for Health Information Technology, through a joint public and private sector process;
+  (A) *In general* — In establishing and operating the network described in paragraph (1), the Secretary shall—
 
-  (B) define minimal data elements for such network;
+    (i) utilize applicable interoperability standards as adopted by the Secretary, and in consultation with the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology, through a joint public and private sector process;
 
-  (C) in collaboration with State, local, and tribal public health officials, integrate and build upon existing State, local, and tribal capabilities, ensuring simultaneous sharing of data, information, and analyses from the network described in paragraph (1) with State, local, and tribal public health agencies; and
+    (ii) define minimal data elements for such network;
 
-  (D) in collaboration with State, local, and tribal public health officials, develop procedures and standards for the collection, analysis, and interpretation of data that States, regions, or other entities collect and report to the network described in paragraph (1).
+    (iii) in collaboration with State, local, and tribal public health officials, integrate and build upon existing State, local, and tribal capabilities, ensuring simultaneous sharing of data, information, and analyses from the network described in paragraph (1) with State, local, and tribal public health agencies;
 
-(6) **Consultation with the National Biodefense Science Board** — In carrying out this section and consistent with [section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f), the National Biodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall—
+    (iv) in collaboration with State, local, and tribal public health officials, develop procedures and standards for the collection, analysis, and interpretation of data that States, regions, or other entities collect and report to the network described in paragraph (1); and
 
-  (A) identify the steps necessary to achieve a national biosurveillance system for human health, with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
+    (v) pilot test standards and implementation specifications, consistent with the process described in [section 300jj–12(b)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/3/C&num=0&edition=prelim), which State, local, Tribal, and territorial public health entities may utilize, on a voluntary basis, as a part of the network.
 
-  (B) identify any duplicative surveillance programs under the authority of the Secretary, or changes that are necessary to existing programs, in order to enhance and modernize such activities, minimize duplication, strengthen and streamline such activities under the authority of the Secretary, and achieve real-time and appropriate data that relate to disease activity, both human and zoonotic; and
+  (B) *Public meeting*
 
-  (C) coordinate with applicable existing advisory committees of the Director of the Centers for Disease Control and Prevention, including such advisory committees consisting of representatives from State, local, and tribal public health authorities and appropriate public and private sector health care entities and academic institutions, in order to provide guidance on public health surveillance activities.
+    (i) *In general* — Not later than 180 days after June 24, 2019, the Secretary shall convene a public meeting for purposes of discussing and providing input on the potential goals, functions, and uses of the network described in paragraph (1) and incorporating the elements described in paragraph (3)(A).
+
+    (ii) *Experts* — The public meeting shall include representatives of relevant Federal agencies (including representatives from the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology); State, local, Tribal, and territorial public health officials; stakeholders with expertise in biosurveillance and situational awareness; stakeholders with expertise in capabilities relevant to biosurveillance and situational awareness, such as experts in informatics and data analytics (including experts in prediction, modeling, or forecasting); and other representatives as the Secretary determines appropriate.
+
+    (iii) *Topics* — Such public meeting shall include a discussion of—
+
+      (I) data elements, including minimal or essential data elements, that are voluntarily provided for such network, which may include elements from public health and public and private health care entities, to the extent practicable;
+
+      (II) standards and implementation specifications that may improve the collection, analysis, and interpretation of data during a public health emergency;
+
+      (III) strategies to encourage the access, exchange, and use of information;
+
+      (IV) considerations for State, local, Tribal, and territorial capabilities and infrastructure related to data exchange and interoperability;
+
+      (V) privacy and security protections provided at the Federal, State, local, Tribal, and territorial levels, and by nongovernmental stakeholders; and
+
+      (VI) opportunities for the incorporation of innovative technologies to improve the network.
+
+(6) **Strategy and implementation plan**
+
+  (A) *In general* — Not later than 18 months after June 24, 2019, the Secretary shall submit to the congressional committees of jurisdiction a coordinated strategy and an accompanying implementation plan that—
+
+    (i) is informed by the public meeting under paragraph (5)(B);
+
+    (ii) includes a review and assessment of existing capabilities of the network and related infrastructure, including input provided by the public meeting under paragraph (5)(B);
+
+    (iii) identifies and demonstrates the measurable steps the Secretary will carry out to—
+
+      (I) develop, implement, and evaluate the network described in paragraph (1), utilizing elements described in paragraph (3)(A);
+
+      (II) modernize and enhance biosurveillance activities, including strategies to include innovative technologies and analytical approaches (including prediction and forecasting for pandemics and all-hazards) from public and private entities;
+
+      (III) improve information sharing, coordination, and communication among disparate biosurveillance systems supported by the Department of Health and Human Services, including the identification of methods to improve accountability, better utilize resources and workforce capabilities, and incorporate innovative technologies within and across agencies; and
+
+      (IV) test and evaluate capabilities of the interoperable network of systems to improve situational awareness and biosurveillance capabilities;
+
+    (iv) includes performance measures and the metrics by which performance measures will be assessed with respect to the measurable steps under clause (iii); and
+
+    (v) establishes dates by which each measurable step under clause (iii) will be implemented.
+
+  (B) *Annual budget plan* — Not later than 2 years after June 24, 2019, and on an annual basis thereafter, in accordance with the strategy and implementation plan under this paragraph, the Secretary shall, taking into account recommendations provided by the National Biodefense Science Board, develop a budget plan based on the strategy and implementation plan under this section. Such budget plan shall include—
+
+    (i) a summary of resources previously expended to establish, improve, and utilize the nationwide public health situational awareness and biosurveillance network under paragraph (1);
+
+    (ii) estimates of costs and resources needed to establish and improve the network under paragraph (1) according to the strategy and implementation plan under subparagraph (A);
+
+    (iii) the identification of gaps and inefficiencies in nationwide public health situational awareness and biosurveillance capabilities, resources, and authorities needed to address such gaps; and
+
+    (iv) a strategy to minimize and address such gaps and improve inefficiencies.
+
+(7) **Consultation with the National Biodefense Science Board** — In carrying out this section and consistent with [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g), the National Biodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall—
+
+  (A) identify the steps necessary to achieve a national biosurveillance system for human health (taking into account zoonotic disease, including gaps in scientific understanding of the interactions between human, animal, and environmental health), with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
+
+  (B) identify any duplicative surveillance programs and gaps in surveillance programs under the authority of the Secretary, or changes that are necessary to existing programs, in order to enhance and modernize such activities, minimize duplication, strengthen and streamline such activities under the authority of the Secretary, and achieve real-time and appropriate data that relate to disease activity, both human and zoonotic;
+
+  (C) coordinate with applicable existing advisory committees of the Director of the Centers for Disease Control and Prevention, including such advisory committees consisting of representatives from State, local, and tribal public health authorities and appropriate public and private sector health care entities, animal health organizations related to zoonotic disease, and academic institutions, in order to provide guidance on public health surveillance activities; and
+
+  (D) provide recommendations to the Secretary on policies and procedures to complete the steps described in this paragraph in a manner that is consistent with [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1).
+
+(8) **Situational awareness and biosurveillance as a national security priority** — The Secretary, on a periodic basis as applicable and appropriate, shall meet with the Director of National Intelligence to inform the development and capabilities of the nationwide public health situational awareness and biosurveillance network.
 
 **(d) State and regional systems to enhance situational awareness in public health emergencies**
 
-(1) **In general** — To implement the network described in subsection (c), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other health care organizations, and animal health organizations within such States.
+(1) **In general** — To implement the network described in subsection (c), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, environmental health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, immunization programs, other health care organizations, and animal health organizations within such States.
 
 (2) **Eligibility** — To be eligible to receive a grant under paragraph (1), the State or consortium of States shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including an assurance that the State or consortium of States will submit to the Secretary—
 
   (A) reports of such data, information, and metrics as the Secretary may require;
 
-  (B) a report on the effectiveness of the systems funded under the grant; and
+  (B) a report on the effectiveness of the systems funded under the grant;
 
-  (C) a description of the manner in which grant funds will be used to enhance the timelines and comprehensiveness of efforts to detect, respond to, and manage potentially catastrophic infectious disease outbreaks and public health emergencies.
+  (C) a description of the manner in which grant funds will be used to enhance the timelines and comprehensiveness of efforts to detect, respond to, and manage potentially catastrophic infectious disease outbreaks and public health emergencies; and
+
+  (D) an implementation plan that may include measurable steps to achieve the purposes described in paragraph (1).
 
 (3) **Use of funds** — A State or consortium of States that receives an award under this subsection—
 
@@ -9442,7 +9770,7 @@ Subsec. (j)(4). Pub. L. 113–5, § 203(c)(6)(B), added par. (4).
 
   (B) data collection and reporting requirements for the network described in subsection (c).
 
-(5) **Independent evaluation** — Not later than 3 years after March 13, 2013, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report concerning the activities conducted under this subsection and subsection (c).
+(5) **Technical assistance** — The Secretary may provide technical assistance to States, localities, Tribes, and territories or a consortium of States, localities, Tribes, and territories receiving an award under this subsection regarding interoperability and the technical standards set forth by the Secretary.
 
 **(e) Telehealth enhancements for emergency response**
 
@@ -9470,13 +9798,85 @@ Subsec. (j)(4). Pub. L. 113–5, § 203(c)(6)(B), added par. (4).
 
 (2) **Report** — Not later than 12 months after December 19, 2006, the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the findings and recommendations pursuant to subparagraphs (A) through (F) of paragraph (1).
 
-**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section, $138,300,000 for each of fiscal years 2014 through 2018.
+**(f) Personnel authorities**
 
-**(g) Definition** For purposes of this section the term “biosurveillance” means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.
+(1) **Specially qualified personnel** — In addition to any other personnel authorities, to carry out subsections (b) and (c), the Secretary may—
+
+  (A) appoint highly qualified individuals to scientific or professional positions at the Centers for Disease Control and Prevention, not to exceed 30 such employees at any time (specific to positions authorized by this subsection), with expertise in capabilities relevant to biosurveillance and situational awareness, such as experts in informatics and data analytics (including experts in prediction, modeling, or forecasting), and other related scientific or technical fields; and
+
+  (B) compensate individuals appointed under subparagraph (A) in the same manner and subject to the same terms and conditions in which individuals appointed under 9903 11 So in original. Probably should be preceded by “section”. of title 5 are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+
+(2) **Limitations** — The Secretary shall exercise the authority under paragraph (1) in a manner that is consistent with the limitations described in [section 247d–6a(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a/e/2&num=0&edition=prelim).
+
+**(g) Timeline** The Secretary shall accomplish the purposes under subsections (b) and (c) no later than September 30, 2023, and shall provide a justification to the congressional committees of jurisdiction for any missed or delayed implementation of measurable steps identified under subsection (c)(6)(A)(iii).
+
+**(h) Independent evaluation** Not later than 3 years after June 24, 2019, the Comptroller General of the United States shall conduct an independent evaluation and submit to the Secretary and the congressional committees of jurisdiction a report concerning the activities conducted under subsections (b) and (c), and provide recommendations, as applicable and appropriate, on necessary improvements to the biosurveillance and situational awareness network.
+
+**(i) Authorization of appropriations** There are authorized to be appropriated to carry out this section, $161,800,000 for each of fiscal years 2019 through 2023.
+
+**(j) Definition** For purposes of this section the term “biosurveillance” means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–22, § 205(a)(1), substituted “Facilities and capacities of” for “Revitalizing” in section catchline.
+
+Subsec. (a). Pub. L. 116–22, § 205(a)(2)(A), substituted “In general” for “Facilities; capacities” in heading.
+
+Subsec. (a)(1). Pub. L. 116–22, § 205(a)(2)(B), substituted “, improved, and appropriately maintained” for “and improved”.
+
+Subsec. (a)(3). Pub. L. 116–22, § 205(a)(2)(C), substituted “expand, improve, enhance, and appropriately maintain” for “expand, enhance, and improve” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 116–22, § 205(a)(2)(D), added par. (4).
+
+Subsec. (b). Pub. L. 116–22, § 205(a)(3)(A), substituted “Establishment of systems of public health” for “National” in heading.
+
+Subsec. (b)(1)(B). Pub. L. 116–22, § 205(a)(3)(B), inserted “immunization information systems,” after “centers,”.
+
+Subsec. (b)(2). Pub. L. 116–22, § 205(a)(3)(C), inserted “develop a plan to, and” after “The Secretary shall” and “and in a form readily usable for analytical approaches” after “in a secure manner”.
+
+Subsec. (b)(3). Pub. L. 116–22, § 205(a)(3)(D), amended par. (3) generally. Prior to amendment, text read as follows: “Not later than one year after June 12, 2002, the Secretary, in cooperation with health care providers and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1) and update such standards as necessary.”
+
+Subsec. (c)(1). Pub. L. 116–22, § 205(a)(4)(A), substituted “The Secretary” for “Not later than 2 years after March 13, 2013, the Secretary” and “such interoperability” for “such connectivity” and inserted “, and improve as applicable and appropriate,” after “shall establish” and a comma after “detection of”.
+
+Subsec. (c)(2). Pub. L. 116–22, § 205(a)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) related to a coordinated strategy and an accompanying implementation plan.
+
+Subsec. (c)(3). Pub. L. 116–22, § 205(a)(4)(C), designated existing provisions as subpar. (A) and inserted heading; redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, and realigned margins; in cl. (iv), inserted “immunization information systems,” after “poison control,” and substituted “, clinical laboratories, and public environmental health agencies” for “and clinical laboratories”; and added subpar. (B).
+
+Subsec. (c)(5)(A). Pub. L. 116–22, § 205(a)(4)(D)(i), (ii), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (D) as (i) to (iv), respectively, and realigned margins.
+
+Subsec. (c)(5)(A)(i). Pub. L. 116–22, § 205(a)(4)(D)(iv)(I), substituted “as adopted” for “as determined” and inserted “and the National Institute of Standards and Technology” after “Office of the National Coordinator for Health Information Technology”.
+
+Subsec. (c)(5)(A)(v). Pub. L. 116–22, § 205(a)(4)(D)(iv)(II)–(IV), added cl. (v).
+
+Subsec. (c)(5)(B). Pub. L. 116–22, § 205(a)(4)(D)(iii), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+
+Subsec. (c)(6). Pub. L. 116–22, § 205(a)(4)(F), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (c)(7). Pub. L. 116–22, § 205(a)(4)(E), redesignated par. (6) as (7).
+
+Subsec. (c)(7)(A). Pub. L. 116–22, § 205(a)(4)(G)(i), inserted “(taking into account zoonotic disease, including gaps in scientific understanding of the interactions between human, animal, and environmental health)” after “human health”.
+
+Subsec. (c)(7)(B). Pub. L. 116–22, § 205(a)(4)(G)(ii), inserted “and gaps in surveillance programs” after “surveillance programs” and substituted “zoonotic;” for “zoonotic; and”.
+
+Subsec. (c)(7)(C). Pub. L. 116–22, § 205(a)(4)(G)(iii), inserted “, animal health organizations related to zoonotic disease,” after “health care entities” and substituted “activities; and” for “activities.”
+
+Subsec. (c)(7)(D). Pub. L. 116–22, § 205(a)(4)(G)(iv), added subpar. (D).
+
+Subsec. (c)(8). Pub. L. 116–22, § 205(a)(4)(H), added par. (8).
+
+Subsec. (d)(1). Pub. L. 116–22, § 205(a)(5)(A), inserted “environmental health agencies,” after “public health agencies,” and “immunization programs,” after “poison control centers,”.
+
+Subsec. (d)(2)(D). Pub. L. 116–22, § 205(a)(5)(B), added subpar. (D).
+
+Subsec. (d)(5). Pub. L. 116–22, § 205(a)(5)(C), added par. (5) and struck out former par. (5) which required an independent evaluation and report from the Government Accountability Office no later than 3 years after Mar. 13, 2013.
+
+Subsecs. (f) to (h). Pub. L. 116–22, § 205(a)(7), added subsecs. (f) to (h). Former subsecs. (f) and (g) redesignated (i) and (j), respectively.
+
+Subsec. (i). Pub. L. 116–22, § 205(a)(6), (b), redesignated subsec. (f) as (i) and substituted “$161,800,000 for each of fiscal years 2019 through 2023” for “$138,300,000 for each of fiscal years 2014 through 2018”.
+
+Subsec. (j). Pub. L. 116–22, § 205(a)(6), redesignated subsec. (g) as (j).
+
 2013—Subsec. (b)(1)(B). Pub. L. 113–5, § 204(a)(1)(A), inserted “poison control centers,” after “hospitals,”.
 
 Subsec. (b)(2). Pub. L. 113–5, § 204(a)(1)(B), inserted “, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort” before period at end.
@@ -9537,10 +9937,31 @@ There is established in the Treasury a reserve fund to be known as the “Infect
 #### References in Text
 CDC and NIH, referred to in text, mean the Centers for Disease Control and Prevention and the National Institutes of Health, respectively.
 
-The PHS Act, referred to in text, means the Public Health Service Act, act July 1, 1944, ch. 373, 58 Stat. 682. Titles II, III, and XVII of the Act are classified generally to subchapters I (§ 201 et seq.), II (§ 241 et seq.), and XV (§ 300u et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](./chapter-6a-public-health-service.md#section-201) and Tables.
+The PHS Act, referred to in text, means the Public Health Service Act, act July 1, 1944, ch. 373, 58 Stat. 682. Titles II, III, and XVII of the Act are classified generally to subchapters I (§ 201 et seq.), II (§ 241 et seq.), and XV (§ 300u et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was enacted as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2019, and not as part of the Public Health Service Act which comprises this chapter.
+
+
+<a id="section-247d-4b"></a>
+## § 247d–4b. Children’s Preparedness Unit
+**(a) Enhancing emergency preparedness for children** The Secretary, acting through the Director of the Centers for Disease Control and Prevention (referred to in this subsection as the “Director”), shall maintain an internal team of experts, to be known as the Children’s Preparedness Unit (referred to in this subsection as the “Unit”), to work collaboratively to provide guidance on the considerations for, and the specific needs of, children before, during, and after public health emergencies. The Unit shall inform the Director regarding emergency preparedness and response efforts pertaining to children at the Centers for Disease Control and Prevention.
+
+**(b) Expertise** The team described in subsection (a) shall include one or more pediatricians, which may be a developmental-behavioral pediatrician, and may also include behavioral scientists, child psychologists, epidemiologists, biostatisticians, health communications staff, and individuals with other areas of expertise, as the Secretary determines appropriate.
+
+**(c) Duties** The team described in subsection (a) may—
+
+(1) assist State, local, Tribal, and territorial emergency planning and response activities related to children, which may include developing, identifying, and sharing best practices;
+
+(2) provide technical assistance, training, and consultation to Federal, State, local, Tribal, and territorial public health officials to improve preparedness and response capabilities with respect to the needs of children, including providing such technical assistance, training, and consultation to eligible entities in order to support the achievement of measurable evidence-based benchmarks and objective standards applicable to sections 247d–3a and 247d–3b of this title;
+
+(3) improve the utilization of methods to incorporate the needs of children in planning for and responding to a public health emergency, including public awareness of such methods;
+
+(4) coordinate with, and improve, public-private partnerships, such as health care coalitions pursuant to sections 247d–3b and 247d–3c of this title, to address gaps and inefficiencies in emergency preparedness and response efforts for children;
+
+(5) provide expertise and input during the development of guidance and clinical recommendations to address the needs of children when preparing for, and responding to, public health emergencies, including pursuant to [section 247d–3c of this title](./chapter-6a-public-health-service.md#section-247d-3c); and
+
+(6) carry out other duties related to preparedness and response activities for children, as the Secretary determines appropriate.
 
 
 <a id="section-247d-5"></a>
@@ -9676,6 +10097,9 @@ Subsec. (g). Pub. L. 107–188, § 109(3), substituted “$25,000,000 for each o
 
 #### Construction of 2016 Amendment
 Nothing in amendment by Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under [section 356(h) of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section356/h&num=0&edition=prelim), Food and Drugs, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under [section 356 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section356&num=0&edition=prelim).
+
+#### Additional Strategies for Combating Antibiotic Resistance
+Pub. L. 116–22, title V, § 505, June 24, 2019, 133 Stat. 951, provided that: “(a) Advisory Council.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) may continue the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria, referred to in this section as the ‘Advisory Council’. “(b) Duties.—The Advisory Council shall advise and provide information and recommendations to the Secretary regarding programs and policies intended to reduce or combat antibiotic-resistant bacteria that may present a public health threat and improve capabilities to prevent, diagnose, mitigate, or treat such resistance. Such advice, information, and recommendations may be related to improving—“(1) the effectiveness of antibiotics; “(2) research and advanced research on, and the development of, improved and innovative methods for combating or reducing antibiotic resistance, including new treatments, rapid point-of-care diagnostics, alternatives to antibiotics, including alternatives to animal antibiotics, and antimicrobial stewardship activities; “(3) surveillance of antibiotic-resistant bacterial infections, including publicly available and up-to-date information on resistance to antibiotics; “(4) education for health care providers and the public with respect to up-to-date information on antibiotic resistance and ways to reduce or combat such resistance to antibiotics related to humans and animals; “(5) methods to prevent or reduce the transmission of antibiotic-resistant bacterial infections, including stewardship programs; and “(6) coordination with respect to international efforts in order to inform and advance United States capabilities to combat antibiotic resistance. “(c) Meetings and Coordination.—“(1) Meetings.—The Advisory Council shall meet not less than biannually and, to the extent practicable, in coordination with meetings of the Antimicrobial Resistance Task Force established in section 319E(a) of the Public Health Service Act [[42 U.S.C. 247d–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–5/a&num=0&edition=prelim)]. “(2) Coordination.—The Advisory Council shall, to the greatest extent practicable, coordinate activities carried out by the Council with the Antimicrobial Resistance Task Force established under section 319E(a) of the Public Health Service Act ([42 U.S.C. 247d–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–5/a&num=0&edition=prelim)). “(d) FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities and duties of the Advisory Council. “(e) Extension of Advisory Council.—Not later than October 1, 2022, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a recommendation on whether the Advisory Council should be extended, and in addition, identify whether there are other committees, councils, or task forces that have overlapping or similar duties to that of the Advisory Council, and whether such committees, councils, or task forces should be combined, including with respect to section 319E(a) of the Public Health Service Act ([42 U.S.C. 247d–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–5/a&num=0&edition=prelim)).”
 
 #### Availability of Data
 Pub. L. 114–255, div. A, title III, § 3041(b), Dec. 13, 2016, 130 Stat. 1112, provided that: “The Secretary shall make the data collected pursuant to this subsection [probably refers to the amendments made to this section by section 3041(a) of Pub. L. 114–255] public. Nothing in this subsection shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code, or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), United States Code.”
@@ -10026,7 +10450,7 @@ Pub. L. 107–188, title I, § 104(b), June 12, 2002, 116 Stat. 606, provided th
 ## § 247d–6a. Authority for use of certain procedures regarding qualified countermeasure research and development activities
 **(a) In general**
 
-(1) **Authority** — In conducting and supporting research and development activities regarding countermeasures under [section 247d–6(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/h&num=0&edition=prelim), the Secretary may conduct and support such activities in accordance with this section and, in consultation with the Director of the National Institutes of Health, as part of the program under [section 285f of this title](./chapter-6a-public-health-service.md#section-285f), if the activities concern qualified countermeasures.
+(1) **Authority** — In conducting and supporting research and development activities regarding countermeasures under [section 247d–6(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/e&num=0&edition=prelim), the Secretary may conduct and support such activities in accordance with this section and, in consultation with the Director of the National Institutes of Health, as part of the program under [section 285f of this title](./chapter-6a-public-health-service.md#section-285f), if the activities concern qualified countermeasures.
 
 (2) **Definitions** — In this section:
 
@@ -10048,7 +10472,7 @@ Pub. L. 107–188, title I, § 104(b), June 12, 2002, 116 Stat. 606, provided th
 
 (4) **Availability of facilities to the Secretary** — In any grant, contract, or cooperative agreement entered into under the authority provided in this section with respect to a biocontainment laboratory or other related or ancillary specialized research facility that the Secretary determines necessary for the purpose of performing, administering, or supporting qualified countermeasure research and development, the Secretary may provide that the facility that is the object of such grant, contract, or cooperative agreement shall be available as needed to the Secretary to respond to public health emergencies affecting national security.
 
-(5) **Transfers of qualified countermeasures** — Each agreement for an award of a grant, contract, or cooperative agreement under [section 247d–6(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/h&num=0&edition=prelim) for the development of a qualified countermeasure shall provide that the recipient of the award will comply with all applicable export-related controls with respect to such countermeasure.
+(5) **Transfers of qualified countermeasures** — Each agreement for an award of a grant, contract, or cooperative agreement under [section 247d–6(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/e&num=0&edition=prelim) for the development of a qualified countermeasure shall provide that the recipient of the award will comply with all applicable export-related controls with respect to such countermeasure.
 
 **(b) Expedited procurement authority**
 
@@ -10191,6 +10615,8 @@ In subsec. (b)(2)(C), “such section 3304(a)(1)” substituted for “such sect
 In subsec. (b)(3)(A), “subsections (a), (d), and (e) of [section 1902 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1902&num=0&edition=prelim)” substituted for “subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act ([41 U.S.C. 428](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section428&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2019—Subsec. (a)(1), (5). Pub. L. 116–22 substituted “[section 247d–6(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/e&num=0&edition=prelim)” for “[section 247d–6(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/h&num=0&edition=prelim)”.
+
 2013—Subsec. (a)(2)(A). Pub. L. 113–5 struck out “to” before dash at end of introductory provisions, inserted “to” before “diagnose” in cls. (i) and (ii), and added cl. (iii).
 
 2006—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of this section, the term ‘qualified countermeasure’ means a drug (as that term is defined by [section 321(g)(1) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/g/1&num=0&edition=prelim)), biological product (as that term is defined by [section 262(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim)), or device (as that term is defined by [section 321(h) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/h&num=0&edition=prelim)) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
@@ -10203,9 +10629,7 @@ In subsec. (b)(3)(A), “subsections (a), (d), and (e) of [section 1902 of title
 Pub. L. 108–276, § 2(e), July 21, 2004, 118 Stat. 842, provided that: “Nothing in this section [enacting this section and amending sections 247d–6, 287a–2, and 300aa–6 of this title] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 [[6 U.S.C. 182(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section182/2&num=0&edition=prelim), (4), 184(a), (b)].”
 
 #### Collaboration and Coordination
-Pub. L. 109–417, title IV, § 405, Dec. 19, 2006, 120 Stat. 2875, as amended by Pub. L. 113–5, § 402(e)(1), Mar. 13, 2013, 127 Stat. 195, provided that: “(a) Limited Antitrust Exemption.—“(1) Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development.—“(A) Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act ([42 U.S.C. 247d–6b](./chapter-6a-public-health-service.md#section-247d-6b))) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act ([42 U.S.C. 247d–6a](./chapter-6a-public-health-service.md#section-247d-6a))) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act ([42 U.S.C. 247d–6d](./chapter-6a-public-health-service.md#section-247d-6d))) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security. “(B) Meeting and consultation conditions.—A meeting or consultation conducted under subparagraph (A) shall—“(i) be chaired or, in the case of a consultation, facilitated by the Secretary; “(ii) be open to persons involved in the development, manufacture, distribution, purchase, or storage of a countermeasure or product, as determined by the Secretary; “(iii) be open to the Attorney General, the Secretary of Homeland Security, and the Chairman; “(iv) be limited to discussions involving covered activities; and “(v) be conducted in such manner as to ensure that no national security, confidential commercial, or proprietary information is disclosed outside the meeting or consultation. “(C) Limitation.—The Secretary may not require participants to disclose confidential commercial or proprietary information. “(D) Transcript.—The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code, to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552. “(E) Exemption.—“(i) In general.—Subject to clause (ii), it shall not be a violation of the antitrust laws for any person to participate in a meeting or consultation conducted in accordance with this paragraph. “(ii) Limitation.—Clause (i) shall not apply to any agreement or conduct that results from a meeting or consultation and that is not covered by an exemption granted under paragraph (4). “(2) Submission of written agreements.—The Secretary shall submit each written agreement regarding covered activities that is made pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—“(A) an explanation of the intended purpose of the agreement; “(B) a specific statement of the substance of the agreement; “(C) a description of the methods that will be utilized to achieve the objectives of the agreement; “(D) an explanation of the necessity for a cooperative effort among the particular participating persons to achieve the objectives of the agreement; and “(E) any other relevant information determined necessary by the Attorney General, in consultation with the Chairman and the Secretary. “(3) Exemption for conduct under approved agreement.—It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted an exemption under paragraph (4), during the period for which the exemption is in effect. “(4) Action on written agreements.—“(A) In general.—The Attorney General, in consultation with the Chairman, shall grant, deny, grant in part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately. “(B) Extension.—The Attorney General may extend the 15-day period referred to in subparagraph (A) for an additional period of not to exceed 10 business days. “(C) Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved. “(5) Limitation on and renewal of exemptions.—An exemption granted under paragraph (4) shall be limited to covered activities, and such exemption shall be renewed (with modifications, as appropriate, consistent with the finding described in paragraph (4)(C)), on the date that is 3 years after the date on which the exemption is granted unless the Attorney General in consultation with the Chairman determines that the exemption should not be renewed (with modifications, as appropriate) considering the factors described in paragraph (4). “(6) Authority to obtain information.—Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act ([15 U.S.C. 1311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) et seq.). “(7) Limitation on parties.—The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws. “(8) Report.—Not later than one year after the date of enactment of this Act [Dec. 19, 2006] and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection. “(b) Sunset.—The applicability of this section shall expire at the end of the 12-year period that begins on the date of enactment of this Act [Dec. 19, 2006]. “(c) Definitions.—In this section:“(1) Antitrust laws.—The term ‘antitrust laws’—“(A) has the meaning given such term in subsection (a) of the first section of the Clayton Act ([15 U.S.C. 12(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12/a&num=0&edition=prelim)), except that such term includes section 5 of the Federal Trade Commission Act ([15 U.S.C. 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim)) to the extent such section 5 applies to unfair methods of competition; and “(B) includes any State law similar to the laws referred to in subparagraph (A). “(2) Countermeasure or product.—The term ‘countermeasure or product’ refers to a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product (as those terms are defined in subsection (a)(1)). “(3) Covered activities.—“(A) In general.—Except as provided in subparagraph (B), the term ‘covered activities’ includes any activity relating to the development, manufacture, distribution, purchase, or storage of a countermeasure or product. “(B) Exception.—The term ‘covered activities’ shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:“(i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities— “(I) with respect to a countermeasure or product regarding which such meeting or consultation is being conducted; or “(II) that are described in the agreement as exempted. “(ii) Entering into any agreement or engaging in any other conduct— “(I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or “(II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to prevent the misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities. “(iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4). “(iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities. “(v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4). “(vi) Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities. “(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.”
-
-[Pub. L. 113–5, title IV, § 402(e)(2), Mar. 13, 2013, 127 Stat. 195, provided that: “This subsection [amending section 405 of Pub. L. 109–417, set out above] shall take effect as if enacted on December 17, 2012.” ]
+Pub. L. 109–417, title IV, § 405, Dec. 19, 2006, 120 Stat. 2875, as amended by Pub. L. 113–5, § 402(e)(1), Mar. 13, 2013, 127 Stat. 195; Pub. L. 116–22, title VII, § 701(e)(1)(A), (B), June 24, 2019, 133 Stat. 961, which authorized the Secretary of Health and Human Services, in coordination with the Attorney General and the Secretary of Homeland Security, to conduct meetings with persons engaged in the development of a security countermeasure, a qualified countermeasure, or a qualified pandemic or epidemic product, in such a manner to ensure that no national security, confidential commercial, or proprietary information is disclosed outside the meeting, and exempted from antitrust laws conduct pursuant to a written agreement executed at such a meeting approved by the Attorney General and the Chairman of the Federal Trade Commission, was redesignated as section 319L–1 of act July 1, 1944, ch. 373, known as the Public Health Service Act, by Pub. L. 116–22, title VII, § 701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961, and editorially reclassified as [section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f).
 
 #### Outreach
 Pub. L. 108–276, § 6, July 21, 2004, 118 Stat. 862, provided that: “The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act [enacting this section and [section 320 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section320&num=0&edition=prelim), Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering [section 300hh–12 of this title](./chapter-6a-public-health-service.md#section-300hh-12) as [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b), and enacting provisions set out as notes under this section and [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b)].”
@@ -10221,27 +10645,81 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 ## § 247d–6b. Strategic National Stockpile and security countermeasure procurements
 **(a) Strategic National Stockpile**
 
-(1) **In general** — The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with [section 300hh–10 of this title](./chapter-6a-public-health-service.md#section-300hh-10) by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security.
+(1) **In general** — The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with [section 300hh–10 of this title](./chapter-6a-public-health-service.md#section-300hh-10) by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a), make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
 
-(2) **Procedures** — The Secretary, in managing the stockpile under paragraph (1), shall—
+(2) **Threat-based review**
 
-  (A) consult with the working group under [section 247d–6(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/a&num=0&edition=prelim);
+  (A) *In general* — The Secretary shall conduct an annual threat-based review (taking into account at-risk individuals) of the contents of the stockpile under paragraph (1), including non-pharmaceutical supplies, and, in consultation with the Public Health Emergency Medical Countermeasures Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a), review contents within the stockpile and assess whether such contents are consistent with the recommendations made pursuant to [section 300hh–10a(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–10a/c/1/A&num=0&edition=prelim). Such review shall be submitted on June 15, 2019, and on March 15 of each year thereafter, to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, in a manner that does not compromise national security.
+
+  (B) *Additions, modifications, and replenishments* — Each annual threat-based review under subparagraph (A) shall, for each new or modified countermeasure procurement or replenishment, provide—
+
+    (i) information regarding—
+
+      (I) the quantities of the additional or modified countermeasure procured for, or contracted to be procured for, the stockpile;
+
+      (II) planning considerations for appropriate manufacturing capacity and capability to meet the goals of such additions or modifications (without disclosing proprietary information), including consideration of the effect such additions or modifications may have on the availability of such products and ancillary medical supplies in the health care system;
+
+      (III) the presence or lack of a commercial market for the countermeasure at the time of procurement;
+
+      (IV) the emergency health security threat or threats such countermeasure procurement is intended to address, including whether such procurement is consistent with meeting emergency health security needs associated with such threat or threats;
+
+      (V) an assessment of whether the emergency health security threat or threats described in subclause (IV) could be addressed in a manner that better utilizes the resources of the stockpile and permits the greatest possible increase in the level of emergency preparedness to address such threats;
+
+      (VI) whether such countermeasure is replenishing an expiring or expired countermeasure, is a different countermeasure with the same indication that is replacing an expiring or expired countermeasure, or is a new addition to the stockpile;
+
+      (VII) a description of how such additions or modifications align with projected investments under previous countermeasures budget plans under [section 300hh–10(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–10/b/7&num=0&edition=prelim), including expected life-cycle costs, expenditures related to countermeasure procurement to address the threat or threats described in subclause (IV), replenishment dates (including the ability to extend the maximum shelf life of a countermeasure), and the manufacturing capacity required to replenish such countermeasure; and
+
+      (VIII) appropriate protocols and processes for the deployment, distribution, or dispensing of the countermeasure at the State and local level, including plans for relevant capabilities of State and local entities to dispense, distribute, and administer the countermeasure; and
+
+    (ii) an assurance, which need not be provided in advance of procurement, that for each countermeasure procured or replenished under this subsection, the Secretary completed a review addressing each item listed under this subsection in advance of such procurement or replenishment.
+
+(3) **Procedures** — The Secretary, in managing the stockpile under paragraph (1), shall—
+
+  (A) consult with the working group under [section 247d–6(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/a&num=0&edition=prelim) and the Public Health Emergency Medical Countermeasures Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a);
 
   (B) ensure that adequate procedures are followed with respect to such stockpile for inventory management and accounting, and for the physical security of the stockpile;
 
-  (C) in consultation with Federal, State, and local officials, take into consideration the timing and location of special events;
+  (C) in consultation with Federal, State, and local officials, take into consideration the timing and location of special events, and the availability, deployment, dispensing, and administration of countermeasures;
 
   (D) review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that emerging threats, advanced technologies, and new countermeasures are adequately considered and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment;
 
-  (E) devise plans for the effective and timely supply-chain management of the stockpile, in consultation with appropriate Federal, State and local agencies, and the public and private health care infrastructure;
+  (E) devise plans for effective and timely supply-chain management of the stockpile, in consultation with the Director of the Centers for Disease Control and Prevention, the Assistant Secretary for Preparedness and Response, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of Veterans Affairs, and the heads of other appropriate Federal agencies; State, local, Tribal, and territorial agencies; and the public and private health care infrastructure, as applicable, taking into account the manufacturing capacity and other available sources of products and appropriate alternatives to supplies in the stockpile;
 
   (F) deploy the stockpile as required by the Secretary of Homeland Security to respond to an actual or potential emergency;
 
-  (G) deploy the stockpile at the discretion of the Secretary to respond to an actual or potential public health emergency or other situation in which deployment is necessary to protect the public health or safety; and
+  (G) deploy the stockpile at the discretion of the Secretary to respond to an actual or potential public health emergency or other situation in which deployment is necessary to protect the public health or safety;
 
-  (H) ensure the adequate physical security of the stockpile.
+  (H) ensure the adequate physical security of the stockpile;
 
-(3) **Utilization guidelines** — The Secretary shall ensure timely and accurate recommended utilization guidelines for qualified countermeasures (as defined in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a)), qualified pandemic and epidemic products (as defined in [section 247d–6d of this title](./chapter-6a-public-health-service.md#section-247d-6d)), and security countermeasures (as defined in subsection (c)), including for such products in the stockpile.
+  (I) ensure that each countermeasure or product under consideration for procurement pursuant to this subsection receives the same consideration regardless of whether such countermeasure or product receives or had received funding under [section 247d–7e of this title](./chapter-6a-public-health-service.md#section-247d-7e), including with respect to whether the countermeasure or product is most appropriate to meet the emergency health security needs of the United States; and
+
+  (J) provide assistance, including technical assistance, to maintain and improve State and local public health preparedness capabilities to distribute and dispense medical countermeasures and products from the stockpile, as appropriate.
+
+(4) **Utilization guidelines** — The Secretary shall ensure timely and accurate recommended utilization guidelines for qualified countermeasures (as defined in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a)), qualified pandemic and epidemic products (as defined in [section 247d–6d of this title](./chapter-6a-public-health-service.md#section-247d-6d)), and security countermeasures (as defined in subsection (c)), including for such products in the stockpile.
+
+(5) **GAO report**
+
+  (A) *In general* — Not later than 3 years after June 24, 2019, and every 5 years thereafter, the Comptroller General of the United States shall conduct a review of any changes to the contents or management of the stockpile since January 1, 2015. Such review shall include—
+
+    (i) an assessment of the comprehensiveness and completeness of each annual threat-based review under paragraph (2), including whether all newly procured or replenished countermeasures within the stockpile were described in each annual review, and whether, consistent with paragraph (2)(B), the Secretary conducted the necessary internal review in advance of such procurement or replenishment;
+
+    (ii) an assessment of whether the Secretary established health security and science-based justifications, and a description of such justifications for procurement decisions related to health security needs with respect to the identified threat, for additions or modifications to the stockpile based on the information provided in such reviews under paragraph (2)(B), including whether such review was conducted prior to procurement, modification, or replenishment;
+
+    (iii) an assessment of the plans developed by the Secretary for the deployment, distribution, and dispensing of countermeasures procured, modified, or replenished under paragraph (1), including whether such plans were developed prior to procurement, modification, or replenishment;
+
+    (iv) an accounting of countermeasures procured, modified, or replenished under paragraph (1) that received advanced research and development funding from the Biomedical Advanced Research and Development Authority;
+
+    (v) an analysis of how such procurement decisions made progress toward meeting emergency health security needs related to the identified threats for countermeasures added, modified, or replenished under paragraph (1);
+
+    (vi) a description of the resources expended related to the procurement of countermeasures (including additions, modifications, and replenishments) in the stockpile, and how such expenditures relate to the ability of the stockpile to meet emergency health security needs;
+
+    (vii) an assessment of the extent to which additions, modifications, and replenishments reviewed under paragraph (2) align with previous relevant reports or reviews by the Secretary or the Comptroller General;
+
+    (viii) with respect to any change in the Federal organizational management of the stockpile, an assessment and comparison of the processes affected by such change, including planning for potential countermeasure deployment, distribution, or dispensing capabilities and processes related to procurement decisions, use of stockpiled countermeasures, and use of resources for such activities; and
+
+    (ix) an assessment of whether the processes and procedures described by the Secretary pursuant to section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019 are sufficient to ensure countermeasures and products under consideration for procurement pursuant to subsection (a) receive the same consideration regardless of whether such countermeasures and products receive or had received funding under [section 247d–7e of this title](./chapter-6a-public-health-service.md#section-247d-7e), including with respect to whether such countermeasures and products are most appropriate to meet the emergency health security needs of the United States.
+
+  (B) *Submission* — Not later than 6 months after completing a classified version of the review under subparagraph (A), the Comptroller General shall submit an unclassified version of the review to the congressional committees of jurisdiction.
 
 **(b) Smallpox vaccine development**
 
@@ -10285,7 +10763,7 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 
     (ii) determine, on the basis of such assessment, the agents identified under subparagraph (A)(ii) for which countermeasures are necessary to protect the public health.
 
-  (C) *Notice to Congress* — The Secretary and the Homeland Security Secretary shall promptly notify the appropriate committees of Congress that a determination has been made pursuant to subparagraph (A) or (B).
+  (C) *Notice to Congress* — The Secretary and the Secretary of Homeland Security shall send to Congress, on an annual basis, all current material threat determinations and shall promptly notify the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives that a determination has been made pursuant to subparagraph (A) or (B).
 
   (D) *Assuring access to threat information* — In making the assessment and determination required under subparagraph (A), the Homeland Security Secretary shall use all relevant information to which such Secretary is entitled under [section 122 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section122&num=0&edition=prelim), including but not limited to information, regardless of its level of classification, relating to current and emerging threats of chemical, biological, radiological, and nuclear agents.
 
@@ -10361,7 +10839,7 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 
       (II) *Discounted payment* — The contract may provide for a discounted price per unit of a product that is not licensed, cleared, or approved as described in paragraph (1)(B)(i)(III)(aa) at the time of delivery, and may provide for payment of an additional amount per unit if the product becomes so licensed, cleared, or approved before the expiration date of the contract (including an additional amount per unit of product delivered before the effective date of such licensing, clearance, or approval).
 
-      (III) *Contract duration* — The contract shall be for a period not to exceed five years, except that, in first awarding the contract, the Secretary may provide for a longer duration, not exceeding 10 years, if the Secretary determines that complexities or other difficulties in performance under the contract justify such a period. The contract shall be renewable for additional periods, none of which shall exceed five years.
+      (III) *Contract duration* — The contract shall be for a period not to exceed five years, except that, in first awarding the contract, the Secretary may provide for a longer duration, not exceeding 10 years, if the Secretary determines that complexities or other difficulties in performance under the contract justify such a period. The contract shall be renewable for additional periods, none of which shall exceed five years. The Secretary shall notify the vendor within 90 days of a determination by the Secretary to renew, extend, or terminate such contract.
 
       (IV) *Storage by vendor* — The contract may provide that the vendor will provide storage for stocks of a product delivered to the ownership of the Federal Government under the contract, for such period and under such terms and conditions as the Secretary may specify, and in such case amounts from the special reserve fund as defined in subsection (h) shall be available for costs of shipping, handling, storage, and related costs for such product.
 
@@ -10443,7 +10921,7 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 
   (B) *Limitation* — An agreement or undertaking under this paragraph shall not authorize another agency to exercise the authorities provided by this section to the Homeland Security Secretary or to the Secretary.
 
-**(d) Disclosures** No Federal agency shall disclose under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) any information identifying the location at which materials in the stockpile under subsection (a) are stored.
+**(d) Disclosures** No Federal agency may disclose under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) any information identifying the location at which materials in the stockpile described in subsection (a) are stored, or other information regarding the contents or deployment capability of the stockpile that could compromise national security.
 
 **(e) Definition** For purposes of subsection (a), the term “stockpile” includes—
 
@@ -10453,13 +10931,13 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 
 **(f) Authorization of appropriations**
 
-(1) **Strategic National Stockpile** — For the purpose of carrying out subsection (a), there are authorized to be appropriated $533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
+(1) **Strategic National Stockpile** — For the purpose of carrying out subsection (a), there are authorized to be appropriated $610,000,000 for each of fiscal years 2019 through 2023, to remain available until expended. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
 
 (2) **Smallpox vaccine development** — For the purpose of carrying out subsection (b), there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 **(g) Special reserve fund**
 
-(1) **Authorization of appropriations** — In addition to amounts appropriated to the special reserve fund prior to March 13, 2013, there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out [section 247d–7e of this title](./chapter-6a-public-health-service.md#section-247d-7e) (relating to the Biomedical Advanced Research and Development Authority), $2,800,000,000 for the period of fiscal years 2014 through 2018. Amounts appropriated pursuant to the preceding sentence are authorized to remain available until September 30, 2019.
+(1) **Authorization of appropriations** — In addition to amounts appropriated to the special reserve fund prior to March 13, 2013, there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out [section 247d–7e of this title](./chapter-6a-public-health-service.md#section-247d-7e) (relating to the Biomedical Advanced Research and Development Authority), $7,100,000,000 for the period of fiscal years 2019 through 2028, to remain available until expended.
 
 (2) **Use of special reserve fund for advanced research and development** — The Secretary may utilize not more than 50 percent of the amounts authorized to be appropriated under paragraph (1) to carry out [section 247d–7e of this title](./chapter-6a-public-health-service.md#section-247d-7e) (related to the Biomedical Advanced Research and Development Authority). Amounts authorized to be appropriated under this subsection to carry out [section 247d–7e of this title](./chapter-6a-public-health-service.md#section-247d-7e) are in addition to amounts otherwise authorized to be appropriated to carry out such section.
 
@@ -10482,6 +10960,8 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 ### Statutory Notes
 
 #### References in Text
+Section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (a)(5)(A)(ix), is section 403(b) of Pub. L. 116–22, title IV, June 24, 2019, 133 Stat. 947, which is not classified to the Code.
+
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Chapter V of the Act is classified generally to subchapter V (§ 351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 The Project BioShield Act of 2004, referred to in subsec. (c)(7)(B)(iii)(IV), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
@@ -10510,6 +10990,34 @@ In subsec. (c)(7)(B)(vii), “[section 3306(a)(1)(B) of title 41](https://uscode
 Section was formerly classified to [section 300hh–12 of this title](./chapter-6a-public-health-service.md#section-300hh-12) prior to renumbering by Pub. L. 108–276.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–22, § 403(a)(2), inserted “the Assistant Secretary for Preparedness and Response and” after “collaboration with”, “and optimize” after “provide for” and “and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a), make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2)” after “public health emergency”, and struck out at end “The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security.”
+
+Subsec. (a)(2). Pub. L. 116–22, § 403(a)(3), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 116–22, § 403(a)(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(3)(A). Pub. L. 116–22, § 403(a)(4)(A), inserted before semicolon at end “and the Public Health Emergency Medical Countermeasures Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a)”.
+
+Subsec. (a)(3)(C). Pub. L. 116–22, § 403(a)(4)(B), inserted before semicolon at end “, and the availability, deployment, dispensing, and administration of countermeasures”.
+
+Subsec. (a)(3)(E). Pub. L. 116–22, § 403(a)(4)(C), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “devise plans for the effective and timely supply-chain management of the stockpile, in consultation with appropriate Federal, State and local agencies, and the public and private health care infrastructure;”.
+
+Subsec. (a)(3)(I), (J). Pub. L. 116–22, § 403(a)(4)(D)–(F), added subpars. (I) and (J).
+
+Subsec. (a)(4). Pub. L. 116–22, § 403(a)(1), redesignated par. (3) as (4).
+
+Subsec. (a)(5). Pub. L. 116–22, § 403(a)(5), added par. (5).
+
+Subsec. (c)(2)(C). Pub. L. 116–22, § 502(a), substituted “The Secretary and the Secretary of Homeland Security shall send to Congress, on an annual basis, all current material threat determinations and shall promptly notify the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives” for “The Secretary and the Homeland Security Secretary shall promptly notify the appropriate committees of Congress”.
+
+Subsec. (c)(7)(B)(ii)(III). Pub. L. 116–22, § 502(b), inserted at end “The Secretary shall notify the vendor within 90 days of a determination by the Secretary to renew, extend, or terminate such contract.”
+
+Subsec. (d). Pub. L. 116–22, § 702, amended subsec. (d) generally. Prior to amendment, text read as follows: “No Federal agency shall disclose under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) any information identifying the location at which materials in the stockpile under subsection (a) are stored.”
+
+Subsec. (f)(1). Pub. L. 116–22, § 403(c), substituted “$610,000,000 for each of fiscal years 2019 through 2023, to remain available until expended” for “$533,800,000 for each of fiscal years 2014 through 2018”.
+
+Subsec. (g)(1). Pub. L. 116–22, § 504(a), substituted “$7,100,000,000 for the period of fiscal years 2019 through 2028, to remain available until expended” for “$2,800,000,000 for the period of fiscal years 2014 through 2018” and struck out at end “Amounts appropriated pursuant to the preceding sentence are authorized to remain available until September 30, 2019.”
+
 2016—Subsec. (a)(3). Pub. L. 114–255, § 3081(1), added par. (3).
 
 Subsec. (c)(4)(A)(ii). Pub. L. 114–255, § 3085(1), substituted “and subject to the availability of appropriations, make available the special reserve fund as defined in subsection (h) for procurement of such countermeasure, as applicable” for “make a recommendation under paragraph (6) that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure”.
@@ -10601,7 +11109,7 @@ Subsec. (c)(8)(A). Pub. L. 109–417, § 406(2)(G), inserted at end “Such agre
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, § 1705(a)(2), inserted “of Health and Human Services” after “Secretary” wherever appearing.
 
 #### Change of Name
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–296, title XVII, § 1705(b), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section [amending this section] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department [of Homeland Security].”
@@ -11085,8 +11593,8 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 
 <a id="section-247d-7b"></a>
-## § 247d–7b. Emergency system for advance registration of health professions volunteers
-**(a) In general** Not later than 12 months after December 19, 2006, the Secretary shall link existing State verification systems to maintain a single national interoperable network of systems, each system being maintained by a State or group of States, for the purpose of verifying the credentials and licenses of health care professionals who volunteer to provide health services during a public health emergency.
+## § 247d–7b. Emergency system for advance registration of volunteer health professional
+**(a) In general** Not later than 12 months after December 19, 2006, the Secretary shall link existing State verification systems to maintain a single national interoperable network of systems, each system being maintained by a State or group of States, for the purpose of verifying the credentials and licenses of health care professionals who volunteer to provide health services during a public health emergency. Such health care professionals may include members of the National Disaster Medical System, members of the Medical Reserve Corps, and individual health care professionals.
 
 **(b) Requirements** The interoperable network of systems established under subsection (a) (referred to in this section as the “verification network”) shall include—
 
@@ -11110,15 +11618,23 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 **(h) Clarification** Inclusion of a health professional in the verification network shall not constitute appointment of such individual as a Federal employee for any purpose, either under [section 300hh–11(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11/c&num=0&edition=prelim) or otherwise. Such appointment may only be made under section 300hh–11 or 300hh–15 of this title.
 
-**(i) Health care provider licenses** The Secretary shall encourage States to establish and implement mechanisms to waive the application of licensing requirements applicable to health professionals, who are seeking to provide medical services (within their scope of practice), during a national, State, local, or tribal public health emergency upon verification that such health professionals are licensed and in good standing in another State and have not been disciplined by any State health licensing or disciplinary board.
+**(i) Health care provider licenses** The Secretary shall encourage States to establish and implement mechanisms to waive the application of licensing requirements applicable to health professionals, who are seeking to provide medical services (within their scope of practice), during a national, State, local, or tribal public health emergency upon verification that such health professionals are licensed and in good standing in another State and have not been disciplined by any State health licensing or disciplinary board. In order to inform the development of such mechanisms by States, the Secretary shall make available information and material provided by States that have developed mechanisms to waive the application of licensing requirements to applicable health professionals seeking to provide medical services during a public health emergency. Such information shall be made publicly available in a manner that does not compromise national security.
 
 **(j) Rule of construction** This section may not be construed as authorizing the Secretary to issue requirements regarding the provision by the States of credentials, licenses, accreditations, or hospital privileges.
 
-**(k) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2014 through 2018.
+**(k) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–22, § 207(a)(1), substituted “volunteer health professional” for “health professions volunteers” in section catchline.
+
+Subsec. (a). Pub. L. 116–22, § 207(a)(2), inserted at end “Such health care professionals may include members of the National Disaster Medical System, members of the Medical Reserve Corps, and individual health care professionals.”
+
+Subsec. (i). Pub. L. 116–22, § 207(a)(3), inserted at end “In order to inform the development of such mechanisms by States, the Secretary shall make available information and material provided by States that have developed mechanisms to waive the application of licensing requirements to applicable health professionals seeking to provide medical services during a public health emergency. Such information shall be made publicly available in a manner that does not compromise national security.”
+
+Subsec. (k). Pub. L. 116–22, § 207(a)(4), substituted “2019 through 2023” for “2014 through 2018”.
+
 2013—Subsec. (k). Pub. L. 113–5 substituted “$5,000,000 for each of fiscal years 2014 through 2018” for “$2,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2011”.
 
 2006—Subsecs. (a), (b). Pub. L. 109–417, § 303(b)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to establishment of a verification system and provisions regarding its promptness and efficiency.
@@ -11137,9 +11653,14 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
 <a id="section-247d-7d"></a>
 ## § 247d–7d. Security for countermeasure development and production
-**(a) In general** The Secretary, in consultation with the Attorney General and the Secretary of Defense, may provide technical or other assistance to provide security to persons or facilities that conduct development, production, distribution, or storage of priority countermeasures (as defined in [section 247d–6(h)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/h/4&num=0&edition=prelim)).
+**(a) In general** The Secretary, in consultation with the Attorney General and the Secretary of Defense, may provide technical or other assistance to provide security to persons or facilities that conduct development, production, distribution, or storage of priority countermeasures (as defined in [section 247d–6(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/e/4&num=0&edition=prelim)).
 
 **(b) Guidelines** The Secretary may develop guidelines to enable entities eligible to receive assistance under subsection (a) to secure their facilities against potential terrorist attack.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–22 substituted “section 247d–6(e)(4)” for “section 247d–6(h)(4)”.
 
 
 <a id="section-247d-7e"></a>
@@ -11150,7 +11671,7 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
 (2) **Fund** — The term “Fund” means the Biodefense Medical Countermeasure Development Fund established under subsection (d).
 
-(3) **Other transactions** — The term “other transactions” means transactions, other than procurement contracts, grants, and cooperative agreements, such as the Secretary of Defense may enter into under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim).
+(3) **Other transactions** — The term “other transactions” means transactions, other than procurement contracts, grants, and cooperative agreements.
 
 (4) **Qualified countermeasure** — The term “qualified countermeasure” has the meaning given such term in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a).
 
@@ -11230,7 +11751,7 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
       (III) convene such working groups on countermeasure and product advanced research and development as the Secretary may determine are necessary to carry out this section; and
 
-    (iii) carry out the activities described in section 405 of the Pandemic and All-Hazards Preparedness Act.
+    (iii) carry out the activities described in [section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f).
 
   (B) *Support advanced research and development* — To carry out the purpose described in paragraph (2)(B), the Secretary shall—
 
@@ -11254,7 +11775,7 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
     (ii) research on and development of research tools and other devices and technologies; and
 
-    (iii) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies.
+    (iii) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, platform technologies, technologies to administer countermeasures, and technologies to improve storage and transportation of countermeasures.
 
   (E) *Medical countermeasures innovation partner*
 
@@ -11318,19 +11839,27 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
     (viii) *Independent evaluation* — Not later than 4 years after December 13, 2016, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report, concerning the activities conducted under this subparagraph. Such report shall include recommendations with respect to any agreement or activities carried out pursuant to this subparagraph.
 
-    (ix) *Sunset* — This subparagraph shall have no force or effect after September 30, 2022.
+    (ix) *Sunset* — This subparagraph shall have no force or effect after September 30, 2023.
+
+  (F) *Strategic initiatives* — The Secretary, acting through the Director of BARDA, may implement strategic initiatives, including by building on existing programs and by awarding contracts, grants, and cooperative agreements, or entering into other transactions, to support innovative candidate products in preclinical and clinical development that address priority, naturally occurring and man-made threats that, as determined by the Secretary, pose a significant level of risk to national security based on the characteristics of a chemical, biological, radiological or nuclear threat, or existing capabilities to respond to such a threat (including medical response and treatment capabilities and manufacturing infrastructure). Such initiatives shall accelerate and support the advanced research, development, and procurement of countermeasures and products, as applicable, to address areas including—
+
+    (i) chemical, biological, radiological, or nuclear threats, including emerging infectious diseases, for which insufficient approved, licensed, or authorized countermeasures exist, or for which such threat, or the result of an exposure to such threat, may become resistant to countermeasures or existing countermeasures may be rendered ineffective;
+
+    (ii) threats that consistently exist or continually circulate and have a significant potential to become a pandemic, such as pandemic influenza, which may include the advanced research and development, manufacturing, and appropriate stockpiling of qualified pandemic or epidemic products, and products, technologies, or processes to support the advanced research and development of such countermeasures (including multiuse platform technologies for diagnostics, vaccines, and therapeutics; virus seeds; clinical trial lots; novel virus strains; and antigen and adjuvant material); and
+
+    (iii) threats that may result primarily or secondarily from a chemical, biological, radiological, or nuclear agent, or emerging infectious diseases, and which may present increased treatment complications such as the occurrence of resistance to available countermeasures or potential countermeasures, including antimicrobial resistant pathogens.
 
 (5) **Transaction authorities**
 
   (A) *Other transactions*
 
-    (i) *In general* — The Secretary shall have the authority to enter into other transactions under this subsection in the same manner as the Secretary of Defense enters into such transactions under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim).
+    (i) *In general* — The Secretary shall have the authority to enter into other transactions (as defined in subsection (a)(3)) under this subsection.
 
     (ii) *Limitations on authority*
 
-      (I) *In general* — Subsections (b), (c), and (h) of section 845 11 See References in Text note below. of the National Defense Authorization Act for Fiscal Year 1994 ([10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
+      (I) *In general* — To the maximum extent practicable, competitive procedures shall be used when entering into transactions to carry out projects under this subsection.
 
-      (II) *Written determinations required* — The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim)), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
+      (II) *Written determinations required* — The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
 
     (iii) *Guidelines* — The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
 
@@ -11354,7 +11883,7 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
   (G) *Government purpose* — In awarding contracts, grants, and cooperative agreements under this section, the Secretary shall provide a clear statement of defined Government purpose related to activities included in subsection (a)(6)(B) for a qualified countermeasure or qualified pandemic or epidemic product.
 
-(6) **At-risk individuals** — In carrying out the functions under this section, the Secretary may give priority to the advanced research and development of qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, elderly, and other at-risk individuals.
+(6) **At-risk individuals** — In carrying out the functions under this section, the Secretary may give priority to the advanced research and development of qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, older adults, and other at-risk individuals with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products.
 
 (7) **Personnel authorities**
 
@@ -11382,19 +11911,31 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
 (1) **Establishment** — There is established the Biodefense Medical Countermeasure Development Fund, which shall be available to carry out this section in addition to such amounts as are otherwise available for this purpose.
 
-(2) **Funding** — To carry out the purposes of this section, there is authorized to be appropriated to the Fund $415,000,000 for each of fiscal years 2014 through 2018, such amounts to remain available until expended.
+(2) **Funding** — To carry out the purposes of this section, there is authorized to be appropriated to the Fund $611,700,000 for each of fiscal years 2019 through 2023, such amounts to remain available until expended.
 
 **(e) Inapplicability of certain provisions**
 
 (1) **Disclosure**
 
-  (A) *In general* — The Secretary shall withhold from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim).
+  (A) *Nondisclosure of information*
+
+    (i) *In general* — Information described in clause (ii) shall be deemed to be information described in [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim).
+
+    (ii) *Information described* — The information described in this clause is information relevant to programs of the Department of Health and Human Services that could compromise national security and reveal significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against chemical, biological, radiological, or nuclear threats, and is comprised of—
+
+      (I) specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c);
+
+      (II) information pertaining to the location security, personnel, and research materials and methods of high-containment laboratories conducting research with select agents, toxins, or other agents with a material threat determination under [section 247d–6b(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/c/2&num=0&edition=prelim); or
+
+      (III) security and vulnerability assessments.
 
   (B) *Review* — Information subject to nondisclosure under subparagraph (A) shall be reviewed by the Secretary every 5 years, or more frequently as determined necessary by the Secretary, to determine the relevance or necessity of continued nondisclosure.
 
-  (C) *Sunset* — This paragraph shall cease to have force or effect on the date that is 12 years after December 19, 2006.
+  (C) *Reporting* — One year after June 24, 2019, and annually thereafter, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the number of instances in which the Secretary has used the authority under this subsection to withhold information from disclosure, as well as the nature of any request under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) that was denied using such authority.
 
-(2) **Review** — Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under [section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f) shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
+  (D) *Sunset* — This paragraph shall cease to have force or effect on the date that is 17 years after December 19, 2006.
+
+(2) **Review** — Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g) shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 
 **(f) Independent evaluation**
 
@@ -11417,10 +11958,6 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 #### References in Text
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-Section 405 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(4)(A)(iii), is section 405 of Pub. L. 109–417, which is set out as a note under [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a).
-
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is section 845 of Pub. L. 103–160, which was formerly set out as a note under [section 2371 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim), Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896. See [section 2371b of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371b&num=0&edition=prelim).
-
 The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -11433,7 +11970,33 @@ In subsec. (c)(5)(C), “[section 6101 of title 41](https://uscode.house.gov/vie
 In subsec. (c)(5)(F), “[section 3304(a)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a/3&num=0&edition=prelim)” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/c/3&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
-Subsec. (c)(3). Pub. L. 114–255, § 3082(b), inserted “, including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section” before period at end.
+2019—Subsec. (a)(3). Pub. L. 116–22, § 602(1), struck out “, such as the Secretary of Defense may enter into under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim)” before period at end.
+
+Subsec. (c)(4)(A)(iii). Pub. L. 116–22, § 701(e)(2)(B), substituted “[section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f)” for “section 405 of the Pandemic and All-Hazards Preparedness Act”.
+
+Subsec. (c)(4)(D)(iii). Pub. L. 116–22, § 601, substituted “platform technologies, technologies to administer countermeasures, and technologies to improve storage and transportation of countermeasures” for “and platform technologies”.
+
+Subsec. (c)(4)(E)(ix). Pub. L. 116–22, § 701(d), substituted “2023” for “2022”.
+
+Subsec. (c)(4)(F). Pub. L. 116–22, § 404(a), added subpar. (F).
+
+Subsec. (c)(5)(A)(i). Pub. L. 116–22, § 602(2)(A), substituted “(as defined in subsection (a)(3)) under this subsection” for “under this subsection in the same manner as the Secretary of Defense enters into such transactions under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim)”.
+
+Subsec. (c)(5)(A)(ii)(I). Pub. L. 116–22, § 602(2)(B)(i), amended subcl. (I) generally. Prior to amendment, text read as follows: “Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.”
+
+Subsec. (c)(5)(A)(ii)(II). Pub. L. 116–22, § 602(2)(B)(ii), substituted “$100,000,000” for “$20,000,000”, “Assistant Secretary for Financial Resources” for “senior procurement executive for the Department (as designated for purpose of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim))”, and “Assistant Secretary for Financial Resources under” for “senior procurement executive under”.
+
+Subsec. (c)(6). Pub. L. 116–22, § 303(b), substituted “older adults” for “elderly” and inserted “with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products” before period at end.
+
+Subsec. (d)(2). Pub. L. 116–22, § 504(b), substituted “$611,700,000 for each of fiscal years 2019 through 2023” for “$415,000,000 for each of fiscal years 2014 through 2018”.
+
+Subsec. (e)(1)(A). Pub. L. 116–22, § 701(f)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The Secretary shall withhold from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim).”
+
+Subsec. (e)(1)(C). Pub. L. 116–22, § 701(f)(3), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (e)(1)(D). Pub. L. 116–22, § 701(f)(2), (4), redesignated subpar. (C) as (D) and substituted “17” for “12”.
+
+2016—Subsec. (c)(3). Pub. L. 114–255, § 3082(b), inserted “, including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section” before period at end.
 
 Subsec. (c)(4)(E). Pub. L. 114–255, § 3084, added subpar. (E).
 
@@ -11453,9 +12016,264 @@ Subsec. (e)(1)(C). Pub. L. 113–5, § 402(d), substituted “12 years” for �
 
 Subsec. (f). Pub. L. 113–5, § 402(f), added subsec. (f).
 
+#### Ex. Ord. No. 13887. Modernizing Influenza Vaccines in the United States to Promote National Security and Public Health
+Ex. Ord. No. 13887, Sept. 19, 2019, 84 F.R. 49935, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Findings. (a) Influenza viruses are constantly changing as they circulate globally in humans and animals. Relatively minor changes in these viruses cause annual seasonal influenza outbreaks, which result in millions of illnesses, hundreds of thousands of hospitalizations, and tens of thousands of deaths each year in the United States. Periodically, new influenza A viruses emerge from animals, including birds and pigs, that can spread efficiently and have sustained transmission among humans. This situation is called an influenza pandemic (pandemic). Unlike seasonal influenza, a pandemic has the potential to spread rapidly around the globe, infect higher numbers of people, and cause high rates of illness and death in populations that lack prior immunity. While it is not possible to predict when or how frequently a pandemic may occur, there have been 4 pandemics in the last 100 years. The most devastating pandemic occurred in 1918–1919 and is estimated to have killed more than 50 million people worldwide, including 675,000 Americans.
+
+(b) Vaccination is the most effective defense against influenza. Despite recommendations by the Centers for Disease Control and Prevention (CDC) that nearly every American should receive the influenza vaccine annually, however, seasonal influenza vaccination levels in the United States have currently reached only about 45 percent of CDC goals.
+
+(c) All influenza vaccines presently in use have been developed for circulating or anticipated influenza viruses. These vaccines must be reformulated for each influenza season as well as in the event of a pandemic. Additional research is needed to develop influenza vaccines that provide more effective and longer-lasting protection against many or all influenza viruses.
+
+(d) The current domestic enterprise for manufacturing influenza vaccines has critical shortcomings. Most influenza vaccines are made in chicken eggs, using a 70-year-old process that requires months-long production timelines, limiting their utility for pandemic control; rely on a potentially vulnerable supply chain of eggs; require the use of vaccine viruses adapted for growth in eggs, which could introduce mutations of the influenza vaccine virus that may render the final product less effective; and are unsuitable for efficient and scalable continuous manufacturing platforms.
+
+(e) The seasonal influenza vaccine market rewards manufacturers that deliver vaccines in time for the influenza season, without consideration of the speed or scale of these manufacturers’ production processes. This approach is insufficient to meet the response needs in the event of a pandemic, which can emerge rapidly and with little warning. Because the market does not sufficiently reward speed, and because a pandemic has the potential to overwhelm or compromise essential government functions, including defense and homeland security, the Government must take action to promote faster and more scalable manufacturing platforms.
+
+Sec. 2. Policy. It is the policy of the United States to modernize the domestic influenza vaccine enterprise to be highly responsive, flexible, scalable, and more effective at preventing the spread of influenza viruses. This is a public health and national security priority, as influenza has the potential to significantly harm the United States and our interests, including through large-scale illness and death, disruption to military operations, and damage to the economy. This order directs actions to reduce the United States’ reliance on egg-based influenza vaccine production; to expand domestic capacity of alternative methods that allow more agile and rapid responses to emerging influenza viruses; to advance the development of new, broadly protective vaccine candidates that provide more effective and longer lasting immunities; and to support the promotion of increased influenza vaccine immunization across recommended populations.
+
+Sec. 3. National Influenza Vaccine Task Force. (a) There is hereby established a National Influenza Vaccine Task Force (Task Force). The Task Force shall identify actions to achieve the objectives identified in section 2 of this order and monitor and report on the implementation and results of those actions. The Task Force shall be co-chaired by the Secretary of Defense and the Secretary of Health and Human Services, or their designees.
+
+(b) In addition to the Co-Chairs, the Task Force shall consist of a senior official from the following executive branch departments, agencies, and offices:
+
+(i) the Department of Defense (DOD);
+
+(ii) the Department of Justice;
+
+(iii) the Department of Agriculture;
+
+(iv) the Department of Veterans Affairs (VA);
+
+(v) the Department of Homeland Security;
+
+(vi) the United States Food and Drug Administration;
+
+(vii) the Centers for Disease Control and Prevention;
+
+(viii) the National Institutes of Health (NIH);
+
+(ix) the Centers for Medicare and Medicaid Services (CMS); and
+
+(x) the Biomedical Advanced Research and Development Authority (BARDA).
+
+(c) The Co-Chairs may jointly invite additional Federal Government representatives, with the consent of the applicable executive department, agency, or office head, to attend meetings of the Task Force or to become members of the Task Force, as appropriate.
+
+(d) The staffs of the Department of State, the Office of Management and Budget (OMB), the National Security Council, the Council of Economic Advisers, the Domestic Policy Council, the National Economic Council, and the Office of Science and Technology Policy (OSTP) may attend and participate in any Task Force meetings or discussions.
+
+(e) The Task Force may consult with State, local, tribal, and territorial government officials and private sector representatives, as appropriate and consistent with applicable law.
+
+(f) Within 120 days of the date of this order [Sept. 19, 2019], the Task Force shall submit a report to the President, through the Assistant to the President for National Security Affairs, the Assistant to the President for Domestic Policy, the Director of the Office of Management and Budget, and the Director of the Office of Science and Technology Policy. The report shall include:
+
+(i) a 5-year national plan (Plan) to promote the use of more agile and scalable vaccine manufacturing technologies and to accelerate development of vaccines that protect against many or all influenza viruses;
+
+(ii) recommendations for encouraging non-profit, academic, and private-sector influenza vaccine innovation; and
+
+(iii) recommendations for increasing influenza vaccination among the populations recommended by the CDC and for improving public understanding of influenza risk and informed influenza vaccine decision-making.
+
+(g) Not later than June 1 of each of the 5 years following submission of the report described in subsection (f) of this section, the Task Force shall submit an update on implementation of the Plan and, as appropriate, new recommendations for achieving the policy objectives set forth in section 2 of this order.
+
+Sec. 4. Agency Implementation. The heads of executive departments and agencies shall also implement the policy objectives defined in section 2 of this order, consistent with existing authorities and appropriations, as follows:
+
+(a) The Secretary of HHS shall:
+
+(i) through the Assistant Secretary for Preparedness and Response and BARDA:
+
+(A) estimate the cost of expanding and diversifying domestic vaccine-manufacturing capacity to use innovative, faster, and more scalable technologies, including cell-based and recombinant vaccine manufacturing, through cost-sharing agreements with the private sector, which shall include an agreed-upon pricing strategy during a pandemic;
+
+(B) estimate the cost of expanding domestic production capacity of adjuvants in order to combine such adjuvants with both seasonal and pandemic influenza vaccines;
+
+(C) estimate the cost of expanding domestic fill-and-finish capacity to rapidly fulfill antigen and adjuvant needs for pandemic response;
+
+(D) estimate the cost of developing, evaluating, and implementing delivery systems to augment limited supplies of needles and syringes and to enable the rapid and large-scale administration of pandemic influenza vaccines;
+
+(E) evaluate incentives for the development and production of vaccines by private manufacturers and public-private partnerships, including, in emergency situations, the transfer of technology to public-private partnerships—such as the HHS Centers for Innovation and Advanced Development and Manufacturing or other domestic manufacturing facilities—in advance of a pandemic, in order to be able to ensure adequate domestic pandemic manufacturing capacity and capability;
+
+(F) support, in coordination with the DOD, NIH, and VA, a suite of clinical studies featuring different adjuvants to support development of improved vaccines and further expand vaccine supply by reducing the dose of antigen required; and
+
+(G) update, in coordination with other relevant public health agencies, the research agenda to dramatically improve the effectiveness, efficiency, and reliability of influenza vaccine production;
+
+(ii) through the Director of NIH, provide to the Task Force estimated timelines for implementing NIH’s strategic plan and research agenda for developing influenza vaccines that can protect individuals over many years against multiple types of influenza viruses;
+
+(iii) through the Commissioner of Food and Drugs:
+
+(A) further implement vaccine production process improvements to reduce the time required for vaccine production (e.g., through the use of novel technologies for vaccine seed virus development and through implementation of improved potency and sterility assays);
+
+(B) develop, in conjunction with the CDC, proposed alternatives for the timing of vaccine virus selection to account for potentially shorter timeframes associated with non-egg based manufacturing and to facilitate vaccines optimally matched to the circulating strains;
+
+(C) further support the conduct, in collaboration with the DOD, BARDA, and CDC, of applied scientific research regarding developing cell lines and expression systems that markedly increase the yield of cell-based and recombinant influenza vaccine manufacturing processes; and
+
+(D) assess, in coordination with BARDA and relevant vaccine manufacturers, the use and potential effects of using advanced manufacturing platforms for influenza vaccines;
+
+(iv) through the Director of the CDC:
+
+(A) expand vaccine effectiveness studies to more rapidly evaluate the effectiveness of cell-based and recombinant influenza vaccines relative to egg-based vaccines;
+
+(B) explore options to expand the production capacity of cell-based vaccine candidates used by industry;
+
+(C) develop a plan to expand domestic capacity for whole genome characterization of influenza viruses;
+
+(D) increase influenza vaccine use through enhanced communication and by removing barriers to vaccination; and
+
+(E) enhance communication to healthcare providers about the performance of influenza vaccines, in order to assist them in promoting the most effective vaccines for their patient populations; and
+
+(v) through the Administrator of CMS, examine the current legal, regulatory, and policy framework surrounding payment for influenza vaccines and assess adoption of domestically manufactured vaccines that have positive attributes for pandemic response (such as scalability and speed of manufacturing).
+
+(b) The Secretary of Defense shall:
+
+(i) provide OMB with a cost estimate for transitioning DOD’s annual procurement of influenza vaccines to vaccines manufactured both domestically and through faster, more scalable, and innovative technologies;
+
+(ii) direct, in coordination with the VA, CDC, and other components of HHS, the conduct of epidemiological studies of vaccine effectiveness to improve knowledge of the clinical effect of the currently licensed influenza vaccines;
+
+(iii) use DOD’s network of clinical research sites to evaluate the effectiveness of licensed influenza vaccines, including methods of boosting their effectiveness;
+
+(iv) identify opportunities to use DOD’s vaccine research and development enterprise, in collaboration with HHS, to include both early discovery and design of influenza vaccines as well as later-stage evaluation of candidate influenza vaccines;
+
+(v) investigate, in collaboration with HHS, alternative correlates of immune protection that could facilitate development of next-generation influenza vaccines;
+
+(vi) direct the conduct of a study to assess the feasibility of using DOD’s advanced manufacturing facility for manufacturing cell-based or recombinant influenza vaccines during a pandemic; and
+
+(vii) accelerate, in collaboration with HHS, research regarding rapidly scalable prophylactic influenza antibody approaches to complement a universal vaccine initiative and address gaps in current vaccine coverage.
+
+(c) The Secretary of VA shall provide OMB with a cost estimate for transitioning its annual procurement of influenza vaccines to vaccines manufactured both domestically and with faster, more scalable, and innovative technologies.
+
+Sec. 5. Termination. The Task Force shall terminate upon direction from the President or, with the approval of the President, upon direction from the Task Force Co-Chairs.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-247d-7f"></a>
-## § 247d–7f. National Biodefense Science Board and working groups
+## § 247d–7f. Collaboration and Coordination
+**(a) Limited antitrust exemption**
+
+(1) **Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development**
+
+  (A) *Authority to conduct meetings and consultations* — The Secretary, in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b)), a qualified countermeasure (as defined in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a)), or a qualified pandemic or epidemic product (as defined in [section 247d–6d of this title](./chapter-6a-public-health-service.md#section-247d-6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the “Chairman”), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
+
+  (B) *Meeting and consultation conditions* — A meeting or consultation conducted under subparagraph (A) shall—
+
+    (i) be chaired or, in the case of a consultation, facilitated by the Secretary;
+
+    (ii) be open to persons involved in the development, manufacture, distribution, purchase, or storage of a countermeasure or product, as determined by the Secretary;
+
+    (iii) be open to the Attorney General, the Secretary of Homeland Security, and the Chairman;
+
+    (iv) be limited to discussions involving covered activities; and
+
+    (v) be conducted in such manner as to ensure that no national security, confidential commercial, or proprietary information is disclosed outside the meeting or consultation.
+
+  (C) *Limitation* — The Secretary may not require participants to disclose confidential commercial or proprietary information.
+
+  (D) *Transcript* — The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
+
+  (E) *Exemption*
+
+    (i) *In general* — Subject to clause (ii), it shall not be a violation of the antitrust laws for any person to participate in a meeting or consultation conducted in accordance with this paragraph.
+
+    (ii) *Limitation* — Clause (i) shall not apply to any agreement or conduct that results from a meeting or consultation and that is not covered by an exemption granted under paragraph (4).
+
+(2) **Submission of written agreements** — The Secretary shall submit each written agreement regarding covered activities that is made pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
+
+  (A) an explanation of the intended purpose of the agreement;
+
+  (B) a specific statement of the substance of the agreement;
+
+  (C) a description of the methods that will be utilized to achieve the objectives of the agreement;
+
+  (D) an explanation of the necessity for a cooperative effort among the particular participating persons to achieve the objectives of the agreement; and
+
+  (E) any other relevant information determined necessary by the Attorney General, in consultation with the Chairman and the Secretary.
+
+(3) **Exemption for conduct under approved agreement** — It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted an exemption under paragraph (4), during the period for which the exemption is in effect.
+
+(4) **Action on written agreements**
+
+  (A) *In general* — The Attorney General, in consultation with the Chairman, shall grant, deny, grant in part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
+
+  (B) *Extension* — The Attorney General may extend the 15-day period referred to in subparagraph (A) for an additional period of not to exceed 10 business days.
+
+  (C) *Determination* — An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
+
+(5) **Limitation on and renewal of exemptions** — An exemption granted under paragraph (4) shall be limited to covered activities, and such exemption shall be renewed (with modifications, as appropriate, consistent with the finding described in paragraph (4)(C)), on the date that is 3 years after the date on which the exemption is granted unless the Attorney General in consultation with the Chairman determines that the exemption should not be renewed (with modifications, as appropriate) considering the factors described in paragraph (4).
+
+(6) **Authority to obtain information** — Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act ([15 U.S.C. 1311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) et seq.).
+
+(7) **Limitation on parties** — The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws.
+
+(8) **Report** — Not later than one year after the date of enactment of this Act 11 See References in Text note below. and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
+
+**(b) Sunset** The applicability of this section shall expire at the end of the 17-year period that begins on the date of enactment of this Act.1
+
+**(c) Definitions** In this section:
+
+(1) **Antitrust laws** — The term “antitrust laws”—
+
+  (A) has the meaning given such term in subsection (a) of [section 12 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim), except that such term includes [section 45 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim) to the extent such [section 45 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim) applies to unfair methods of competition; and
+
+  (B) includes any State law similar to the laws referred to in subparagraph (A).
+
+(2) **Countermeasure or product** — The term “countermeasure or product” refers to a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product (as those terms are defined in subsection (a)(1)).
+
+(3) **Covered activities**
+
+  (A) *In general* — Except as provided in subparagraph (B), the term “covered activities” includes any activity relating to the development, manufacture, distribution, purchase, or storage of a countermeasure or product.
+
+  (B) *Exception* — The term “covered activities” shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:
+
+    (i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—
+
+      (I) with respect to a countermeasure or product regarding which such meeting or consultation is being conducted; or
+
+      (II) that are described in the agreement as exempted.
+
+    (ii) Entering into any agreement or engaging in any other conduct—
+
+      (I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or
+
+      (II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to prevent the misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities.
+
+    (iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4).
+
+    (iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
+
+    (v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
+
+    (vi) Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities.
+
+    (vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
+
+### Statutory Notes
+
+#### References in Text
+The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) and Tables.
+
+The date of enactment of this Act, referred to in subsecs. (a)(8) and (b), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to redesignation as section 319L–1 of act July 1, 1944, ch. 373. See Codification note below.
+
+#### Codification
+Section 405 of Pub. L. 109–417, formerly set out as a note under [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a), which was redesignated as section 319L–1 of act July 1, 1944, ch. 373 and editorially reclassified as this section, was based on Pub. L. 109–417, title IV, § 405, Dec. 19, 2006, 120 Stat. 2875, as amended by Pub. L. 113–5, § 402(e)(1), Mar. 13, 2013, 127 Stat. 195; Pub. L. 116–22, title VII, § 701(e)(1)(A), (B), June 24, 2019, 133 Stat. 961.
+
+#### Prior Provisions
+A prior section 247d–7f, act July 1, 1944, ch. 373, title III, § 319M, as added Pub. L. 109–417, title IV, § 402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, § 404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g).
+
+#### Amendments
+2019—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–5, title IV, § 402(e)(2), Mar. 13, 2013, 127 Stat. 195, provided that: “This subsection [amending this section] shall take effect as if enacted on December 17, 2012.”
+
+
+<a id="section-247d-7g"></a>
+## § 247d–7g. National Biodefense Science Board and working groups
 **(a) In general**
 
 (1) **Establishment and function** — The Secretary shall establish the National Biodefense Science Board (referred to in this section as the “Board”) to provide expert advice and guidance to the Secretary on scientific, technical and other matters of special interest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
@@ -11532,6 +12350,9 @@ Subsec. (f). Pub. L. 113–5, § 402(f), added subsec. (f).
 **(d) Authorization of appropriations** There are authorized to be appropriated $1,000,000 to carry out this section for fiscal year 2007 and each fiscal year thereafter.
 
 ### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f).
 
 #### Amendments
 2013—Subsec. (a)(2). Pub. L. 113–5, § 404(1)(B), inserted concluding provisions.
@@ -11843,6 +12664,8 @@ Section was formerly classified to [section 341h of title 5](https://uscode.hous
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. B, title II, Mar. 23, 2018, 132 Stat. 415.
 
 Pub. L. 115–31, div. B, title II, May 5, 2017, 131 Stat. 198.
 
@@ -13073,7 +13896,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
 
-  (F) $3,800,000,000 for fiscal year 2018 and $4,000,000,000 for fiscal year 2019.11 So in original. The period probably should be “; and”.
+  (F) $3,800,000,000 for fiscal year 2018, $4,000,000,000 for fiscal year 2019, and $887,671,223 for the period beginning on October 1, 2019, and ending on December 20, 2019; and
 
 (2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
 
@@ -13085,9 +13908,11 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (D) $305,000,000 for fiscal year 2014;
 
-  (E) $310,000,000 for each of fiscal years 2015 through 2017; and
+  (E) $310,000,000 for each of fiscal years 2015 through 2017;
 
-  (F) $310,000,000 for each of fiscal years 2018 and 2019.
+  (F) $310,000,000 for each of fiscal years 2018 and 2019; and
+
+  (G) $68,794,521 for the period beginning on October 1, 2019, and ending on December 20, 2019.
 
 **(c) Construction** There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
 
@@ -13101,6 +13926,14 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+2019—Subsec. (b)(1)(F). Pub. L. 116–69, § 1101(a), substituted “$887,671,223” for “$569,863,014” and “December 20, 2019” for “November 21, 2019”.
+
+Pub. L. 116–59, § 1101(a), substituted “2018, $4,000,000,000 for fiscal year 2019, and $569,863,014 for the period beginning on October 1, 2019, and ending on November 21, 2019; and” for “2018 and $4,000,000,000 for fiscal year 2019.”
+
+Subsec. (b)(2)(G). Pub. L. 116–69, § 1101(a), substituted “$887,671,223” for “$569,863,014” and “December 20, 2019” for “November 21, 2019”.
+
+Pub. L. 116–59, § 1101(b), added subpar. (G).
+
 2018—Subsec. (b)(1)(F). Pub. L. 115–123, § 50901(a), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$550,000,000 for the period of the first and second quarters of fiscal year 2018;”.
 
 Subsec. (b)(2)(F). Pub. L. 115–123, § 50901(c), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$65,000,000 for period of the first and second quarters of fiscal year 2018.”
@@ -13754,6 +14587,8 @@ Amendments by Pub. L. 108–163 deemed to have taken effect immediately after th
 
 Subsecs. (b) to (f). Pub. L. 115–334, § 12608(2), added subsecs. (b) to (f) and struck out former subsecs. (b) to (f) which related to eligibility for grants, use of funds, preference for certain grant applications, matching requirement, and definition of “emergency medical services”, respectively.
 
+Subsec. (g)(1). Pub. L. 115–334, § 12608(3), substituted “2019 through 2023” for “2002 through 2006”.
+
 
 <a id="section-254c-16"></a>
 ## § 254c–16. Mental health services delivered via telehealth
@@ -13947,11 +14782,15 @@ Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided t
 
   (C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-  (D) $150,000,000 for each of fiscal years 2018 and 2019, to remain available until expended.
+  (D) $150,000,000 for each of fiscal years 2018 and 2019, and $33,287,671 for the period beginning on October 1, 2019, and ending on December 20, 2019, to remain available until expended.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(2)(D). Pub. L. 116–69 substituted “$33,287,671” for “$21,369,863” and “December 20, 2019” for “November 21, 2019”.
+
+Pub. L. 116–59 inserted “and $21,369,863 for the period beginning on October 1, 2019, and ending on November 21, 2019,” before “to remain available”.
+
 2018—Subsec. (b)(2)(D). Pub. L. 115–123 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “$37,500,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended.”
 
 2017—Subsec. (b)(2)(D). Pub. L. 115–96 added subpar. (D).
@@ -14011,7 +14850,7 @@ Pub. L. 105–33, title IV, § 4923, Aug. 5, 1997, 111 Stat. 574, as amended by 
 
   (C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-  (D) $150,000,000 for each of fiscal years 2018 and 2019, to remain available until expended.
+  (D) $150,000,000 for each of fiscal years 2018 and 2019, and $33,287,671 for the period beginning on October 1, 2019, and ending on December 20, 2019, to remain available until expended.
 
 ### Statutory Notes
 
@@ -14021,6 +14860,10 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (c)(2)(D). Pub. L. 116–69 substituted “$33,287,671” for “$21,369,863” and “December 20, 2019” for “November 21, 2019”.
+
+Pub. L. 116–59 inserted “and $21,369,863 for the period beginning on October 1, 2019, and ending on November 21, 2019,” before “to remain available”.
+
 2018—Subsec. (c)(2)(D). Pub. L. 115–123 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “$37,500,000 for the first quarter of fiscal year 2018 and $37,500,000 for the second quarter of fiscal year 2018.”
 
 2017—Subsec. (c)(2)(D). Pub. L. 115–96 inserted “and $37,500,000 for the second quarter of fiscal year 2018” before period at end.
@@ -15331,7 +16174,7 @@ Subsec. (b). Pub. L. 97–35, § 2708(b), substituted reference to sections 254d
 
 (2) In providing contracts under the Scholarship Program, the Secretary shall give priority—
 
-  (A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 1 of this title;
+  (A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z 22 See References in Text note below. of this title;
 
   (B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
@@ -15376,7 +16219,7 @@ Subsec. (b). Pub. L. 97–35, § 2708(b), substituted reference to sections 254d
 
 (1) A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
 
-  (A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 22 See References in Text note below. of this title) of—
+  (A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k 2 of this title) of—
 
     (i) the tuition of the student in such school year; and
 
@@ -17987,7 +18830,7 @@ Subsec. (f). Pub. L. 115–302, § 3(2), substituted “$13,903,000 for each of 
 
 **(g) Funding**
 
-(1) **In general** — To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $126,500,000 for each of fiscal years 2018 and 2019, to remain available until expended.
+(1) **In general** — To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 and 2019, and $28,072,603 for the period beginning on October 1, 2019, and ending on December 20, 2019, to remain available until expended.
 
 (2) **Administrative expenses** — Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 
@@ -18060,6 +18903,10 @@ Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A
 Another section 340H of act July 1, 1944, was renumbered section 340I and is classified to [section 256i of this title](./chapter-6a-public-health-service.md#section-256i).
 
 #### Amendments
+2019—Subsec. (g)(1). Pub. L. 116–69 substituted “$28,072,603” for “$18,021,918” and “December 20, 2019” for “November 21, 2019”.
+
+Pub. L. 116–59 struck out “and” before “$126,500,000” and inserted “and $18,021,918 for the period beginning on October 1, 2019, and ending on November 21, 2019,” before “to remain available”.
+
 2018—Subsec. (a). Pub. L. 115–123, § 50901(d)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to subsection (h)(2), the Secretary shall make payments under this section for direct expenses and for indirect expenses to qualified teaching health centers that are listed as sponsoring institutions by the relevant accrediting body for expansion of existing or establishment of new approved graduate medical residency training programs.”
 
 Subsec. (f). Pub. L. 115–123, § 50901(d)(6), substituted “teaching health center” for “hospital” wherever appearing.
@@ -18649,7 +19496,7 @@ Pub. L. 111–148, title VII, § 7002(h), Mar. 23, 2010, 124 Stat. 821, provided
 Pub. L. 111–148, title VII, § 7003, Mar. 23, 2010, 124 Stat. 821, provided that: “(a) Determination.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall for each fiscal year determine the amount of savings to the Federal Government as a result of the enactment of this subtitle [subtitle A (§§ 7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)]. “(b) Use.—Notwithstanding any other provision of this subtitle (or an amendment made by this subtitle), the savings to the Federal Government generated as a result of the enactment of this subtitle shall be used for deficit reduction.”
 
 #### Enhanced Penalties and Control of Biological Agents
-Pub. L. 104–132, title V, § 511, Apr. 24, 1996, 110 Stat. 1284, as amended by Pub. L. 107–188, title II, § 204, June 12, 2002, 116 Stat. 647, provided that: “(a) Findings.—The Congress finds that—“(1) certain biological agents have the potential to pose a severe threat to public health and safety; “(2) such biological agents can be used as weapons by individuals or organizations for the purpose of domestic or international terrorism or for other criminal purposes; “(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and “(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes. “(b) Criminal Enforcement.—[Amended sections 175, 177, and 178 of Title 18, Crimes and Criminal Procedure.] “(c) Terrorism.—[Amended [section 2332a of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332a&num=0&edition=prelim).]”
+Pub. L. 104–132, title V, § 511, Apr. 24, 1996, 110 Stat. 1284, as amended by Pub. L. 107–188, title II, § 204, June 12, 2002, 116 Stat. 647, provided that: “(a) Findings.—The Congress finds that—“(1) certain biological agents have the potential to pose a severe threat to public health and safety; “(2) such biological agents can be used as weapons by individuals or organizations for the purpose of domestic or international terrorism or for other criminal purposes; “(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and “(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes. “(b) Criminal Enforcement.— [Amended sections 175, 177, and 178 of Title 18, Crimes and Criminal Procedure.] “(c) Terrorism.— [Amended [section 2332a of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332a&num=0&edition=prelim).]”
 
 
 <a id="section-262a"></a>
@@ -18856,7 +19703,15 @@ Pub. L. 104–132, title V, § 511, Apr. 24, 1996, 110 Stat. 1284, as amended by
 
 **(j) Notification in event of release** Regulations under subsections (b) and (c) shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (l)), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
 
-**(k) Reports** The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+**(k) Reports**
+
+(1) **In general** — The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+
+(2) **Implementation of recommendations of the Federal Experts Security Advisory Panel and the fast track action committee on select agent regulations**
+
+  (A) *In general* — Not later than 1 year after June 24, 2019, the Secretary shall report to the congressional committees of jurisdiction on the implementation of recommendations of the Federal Experts Security Advisory Panel concerning the select agent program.
+
+  (B) *Continued updates* — The Secretary shall report to the congressional committees of jurisdiction annually following the submission of the report under subparagraph (A) until the recommendations described in such subparagraph are fully implemented, or a justification is provided for the delay in, or lack of, implementation.
 
 **(l) Definitions** For purposes of this section:
 
@@ -18898,6 +19753,8 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2019—Subsec. (k). Pub. L. 116–22 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
 2002—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
 
 #### Effective Date of 2002 Amendment
@@ -21313,7 +22170,7 @@ Based on such examination, the Secretary shall require that the standards used b
 
     (viii) with respect to the system under subparagraph (A), collect, analyze, and publish data in a standardized electronic format, as required by the Secretary, on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached, the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances.
 
-  (B) *Efforts to increase collection of high quality cord blood units* — In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the “inventory goal”), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
+  (B) *Efforts to increase collection of high quality cord blood units* — In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units,11 See 2015 Amendment note below. consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the “inventory goal”), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection,1 consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
 
   (C) *Definition* — In this paragraph, the term “remote collection” means the collection of cord blood units at locations that do not have written contracts with cord blood banks for collection support.
 
@@ -21475,7 +22332,9 @@ Based on such examination, the Secretary shall require that the standards used b
 Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in subsec. (d)(2)(A)(iv), (B), is section 2 of Pub. L. 109–129, Dec. 20, 2005, 119 Stat. 2550, which is set out as a note under this section.
 
 #### Amendments
-2015—Subsec. (d)(2)(B). Pub. L. 114–104 substituted “collection of high quality cord blood units, including remote collection,” for “remote collection of high quality cord blood units,”.
+2015—Subsec. (d)(2)(B). Pub. L. 114–104, § 2(a)(2), which directed insertion of “including remote collection,” after “cord blood units,”, was executed by making the insertion after “cord blood units,” the second place appearing.
+
+Pub. L. 114–104, § 2(a)(1), substituted “expanding collection” for “expanding remote collection”.
 
 2010—Subsec. (a)(6). Pub. L. 111–264, § 2(b)(1), added par. (6) and struck out former par. (6) which read as follows: “The Secretary, acting through the Advisory Council, shall submit to the Congress—
 
@@ -24411,7 +25270,7 @@ Pub. L. 114–182, title I, § 21(a), June 22, 2016, 130 Stat. 510, provided tha
 
     (iii) affected patient access to appropriate care in States operating PDMPs;
 
-  (C) determine 11 So in original. probably should be “determines”. the progress of grantees in achieving interstate interoperability and intrastate interoperability of PDMPs, including an assessment of technical, legal, and financial barriers to such progress and recommendations for addressing these barriers;
+  (C) determine 11 So in original. Probably should be “determines”. the progress of grantees in achieving interstate interoperability and intrastate interoperability of PDMPs, including an assessment of technical, legal, and financial barriers to such progress and recommendations for addressing these barriers;
 
   (D) determines the progress of grantees in implementing near real-time electronic PDMPs;
 
@@ -24785,6 +25644,53 @@ Subsec. (c). Pub. L. 113–55, § 103(b)(2), substituted “$1,900,000 for each 
 Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–373, § 2, Oct. 8, 2008, 122 Stat. 4047, was renumbered section 399S and is classified to [section 280g–7 of this title](./chapter-6a-public-health-service.md#section-280g-7).
 
 Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–374, § 3, Oct. 8, 2008, 122 Stat. 4051, was renumbered section 399T and is classified to [section 280g–8 of this title](./chapter-6a-public-health-service.md#section-280g-8).
+
+#### Ex. Ord. No. 13879. Advancing American Kidney Health
+Ex. Ord. No. 13879, July 10, 2019, 84 F.R. 33817, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. My Administration is dedicated to advancing American kidney health. The state of care for patients with chronic kidney disease and end-stage renal disease (ESRD) is unacceptable: too many at-risk patients progress to late-stage kidney failure; the mortality rate is too high; current treatment options are expensive and do not produce an acceptable quality of life; and there are not enough kidneys donated to meet the current demand for transplants.
+
+Kidney disease was the ninth-leading cause of death in the United States in 2017. Approximately 37 million Americans have chronic kidney disease and more than 726,000 have ESRD. More than 100,000 Americans begin dialysis each year to treat ESRD. Twenty percent die within a year; fifty percent die within 5 years. Currently, nearly 100,000 Americans are on the waiting list to receive a kidney transplant.
+
+Sec. 2. Policy. It is the policy of the United States to:
+
+(a) prevent kidney failure whenever possible through better diagnosis, treatment, and incentives for preventive care;
+
+(b) increase patient choice through affordable alternative treatments for ESRD by encouraging higher value care, educating patients on treatment alternatives, and encouraging the development of artificial kidneys; and
+
+(c) increase access to kidney transplants by modernizing the organ recovery and transplantation systems and updating outmoded and counterproductive regulations.
+
+Sec. 3. Announcing an Awareness Initiative on Kidney and Related Diseases. Within 120 days of the date of this order [July 10, 2019], the Secretary of Health and Human Services (Secretary) shall launch an awareness initiative at the Department of Health and Human Services (Department) to aid the Secretary’s efforts to educate patients and support programs that promote kidney disease awareness. The initiative shall develop proposals for the Secretary to support research regarding preventing, treating, and slowing progression of kidney disease; to improve kidney transplantation; and to share information with patients and providers to enhance awareness of the causes and consequences of kidney disease.
+
+Sec. 4. Payment Model to Identify and Treat At-Risk Populations Earlier in Disease Development. Within 30 days of the date of this order, the Secretary shall select a payment model to test innovations in compensation for providers of kidney care services based on kidney patient cost and quality outcomes. The model should broaden the range of care and Medicare payment options available to potential participants with a focus on delaying or preventing the onset of kidney failure, preventing unnecessary hospitalizations, and increasing the rate of transplants. It should aim at achieving these outcomes by creating incentives to provide care for Medicare beneficiaries who have advanced stages of kidney disease but who are not yet on dialysis. The selected model shall include options for flexible advance payments for nephrologists to better support their management and coordination of care for patients with kidney disease.
+
+Sec. 5. Payment Model to Increase Home Dialysis and Kidney Transplants. Within 30 days of the date of this order, the Secretary shall select a payment model to evaluate the effects of creating payment incentives for greater use of home dialysis and kidney transplants for Medicare beneficiaries on dialysis. The model should adjust payments based on the percentage of a participating provider’s attributed patients who either are on home dialysis or have received a kidney transplant and should include a learning system to help participants improve performance. Greater rates of home dialysis and transplantation will improve quality of life and care for patients who require dialysis and may eliminate the need for dialysis altogether for many patients.
+
+Sec. 6. Encouraging the Development of an Artificial Kidney. Within 120 days of the date of this order, in order to increase breakthrough technologies to provide patients suffering from kidney disease with better options for care than those that are currently available, the Secretary shall:
+
+(a) announce that the Department will consider requests for premarket approval of wearable or implantable artificial kidneys in order to encourage their development and to enhance cooperation between developers and the Food and Drug Administration; and
+
+(b) produce a strategy for encouraging innovation in new therapies through the Kidney Innovation Accelerator (KidneyX), a public-private partnership between the Department and the American Society of Nephrology.
+
+Sec. 7. Increasing Utilization of Available Organs. (a) Within 90 days of the date of this order, the Secretary shall propose a regulation to enhance the procurement and utilization of organs available through deceased donation by revising Organ Procurement Organization (OPO) rules and evaluation metrics to establish more transparent, reliable, and enforceable objective metrics for evaluating an OPO’s performance.
+
+(b) Within 180 days of the date of this order, the Secretary shall streamline and expedite the process of kidney matching and delivery to reduce the discard rate. Removing process inefficiencies in matching and delivery that result in delayed acceptance by transplant centers will reduce the detrimental effects on organ quality of prolonged time with reduced or cut-off blood supply.
+
+Sec. 8. Supporting Living Organ Donors. Within 90 days of the date of this order, the Secretary shall propose a regulation to remove financial barriers to living organ donation. The regulation should expand the definition of allowable costs that can be reimbursed under the Reimbursement of Travel and Subsistence Expenses Incurred Toward Living Organ Donation program, raise the limit on the income of donors eligible for reimbursement under the program, allow reimbursement for lost-wage expenses, and provide for reimbursement of child-care and elder-care expenses.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-280g-7"></a>
@@ -25550,7 +26456,7 @@ Section 7132, referred to in subsec. (c), is section 7132 of Pub. L. 115–271, 
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (d)(1), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
-The Head Start Act, referred to in subsec. subsec. (d)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
+The Head Start Act, referred to in subsec. (d)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
@@ -25562,11 +26468,11 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 ## § 280i. Developmental disabilities surveillance and research program
 **(a) Autism spectrum disorder and other developmental disabilities**
 
-(1) **In general** — The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants or cooperative agreements to eligible entities for the collection, analysis, and reporting of State epidemiological data for children and adults on autism spectrum disorder and other developmental disabilities. An eligible entity shall assist with the development and coordination of State autism spectrum disorder and other developmental disability surveillance efforts within a region. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
+(1) **In general** — The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants or cooperative agreements to eligible entities for the collection, analysis, and reporting of State epidemiological data for children and adults with autism spectrum disorder and other developmental disabilities. An eligible entity shall assist with the development and coordination of State autism spectrum disorder and other developmental disability surveillance efforts within a region. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
 
-(2) **Data standards** — In submitting epidemiological data to the Secretary pursuant to paragraph (1), an eligible entity shall report data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with autism spectrum disorder or other developmental disabilities.
+(2) **Data standards** — In submitting epidemiological data to the Secretary pursuant to paragraph (1), an eligible entity shall report data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with relevant State, local, and Tribal public health officials, private sector developmental disability researchers, and advocates for individuals with autism spectrum disorder and other developmental disabilities.
 
-(3) **Eligibility** — To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, or any other educational institution), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+(3) **Eligibility** — To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, any other educational institution, an Indian tribe, or a tribal organization), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 **(b) Centers of excellence in autism spectrum disorder epidemiology**
 
@@ -25574,7 +26480,7 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
 (2) **Requirements** — To be eligible to receive a grant or cooperative agreement under paragraph (1), an entity shall submit to the Secretary an application containing such agreements and information as the Secretary may require, including an agreement that the center to be established or supported under the grant or cooperative agreement shall operate in accordance with the following:
 
-  (A) The center will collect, analyze, and report autism spectrum disorder and other developmental disability data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with developmental disabilities.
+  (A) The center will collect, analyze, and report autism spectrum disorder and other developmental disability data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with State, local, and Tribal public health officials, private sector developmental disability researchers, advocates for individuals with autism spectrum disorder, and advocates for individuals with other developmental disabilities.
 
   (B) The center will develop or extend an area of special research expertise (including genetics, epigenetics, and epidemiological research related to environmental exposures), immunology, and other relevant research specialty areas.
 
@@ -25584,15 +26490,29 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
 **(d) Definitions** In this part:
 
-(1) **Other developmental disabilities** — The term “other developmental disabilities” has the meaning given the term “developmental disability” in [section 15002(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15002/8&num=0&edition=prelim).
+(1) **Indian tribe; tribal organization** — The terms “Indian tribe” and “tribal organization” have the meanings given such terms in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim).
 
-(2) **State** — The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
+(2) **Other developmental disabilities** — The term “other developmental disabilities” has the meaning given the term “developmental disability” in [section 15002(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15002/8&num=0&edition=prelim).
 
-**(e) Sunset** This section shall not apply after September 30, 2019.
+(3) **State** — The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
+
+**(e) Sunset** This section shall not apply after September 30, 2024.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–60, § 3(a)(1), substituted “adults with autism spectrum disorder” for “adults on autism spectrum disorder”.
+
+Subsec. (a)(2). Pub. L. 116–60, § 3(a)(2), substituted “State, local, and Tribal public health officials” for “State and local public health officials” and “and other developmental disabilities” for “or other developmental disabilities”.
+
+Subsec. (a)(3). Pub. L. 116–60, § 3(a)(3), substituted “a university, any other educational institution, an Indian tribe, or a tribal organization” for “a university, or any other educational institution”.
+
+Subsec. (b)(2)(A). Pub. L. 116–60, § 3(a)(4), substituted “State, local, and Tribal public health officials, private sector developmental disability researchers, advocates for individuals with autism spectrum disorder, and advocates for individuals with other developmental disabilities” for “relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with developmental disabilities”.
+
+Subsec. (d). Pub. L. 116–60, § 3(a)(5), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Subsec. (e). Pub. L. 116–60, § 3(a)(6), substituted “2024” for “2019”.
+
 2014—Subsec. (a)(1). Pub. L. 113–157, § 3(1), inserted “for children and adults” after “reporting of State epidemiological data”.
 
 Subsec. (b)(1). Pub. L. 113–157, § 3(2), substituted “establishment or support of regional centers of excellence” for “establishment of regional centers of excellence” and inserted “for children and adults” before period at end.
@@ -25614,7 +26534,7 @@ Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In 
 ## § 280i–1. Autism education, early detection, and intervention
 **(a) Purpose** It is the purpose of this section—
 
-(1) to increase awareness, reduce barriers to screening and diagnosis, promote evidence-based interventions for individuals with autism spectrum disorder or other developmental disabilities, and train professionals to utilize valid and reliable screening tools to diagnose or rule out and provide evidence-based interventions for children with autism spectrum disorder and other developmental disabilities; and
+(1) to increase awareness, reduce barriers to screening and diagnosis, promote evidence-based interventions for individuals with autism spectrum disorder and other developmental disabilities, and train professionals to utilize valid and reliable screening tools to diagnose or rule out and provide evidence-based interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan; and
 
 (2) to conduct activities under this section with a focus on an interdisciplinary approach (as defined in programs developed under section 501(a)(2) of the Social Security Act [[42 U.S.C. 701(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section701/a/2&num=0&edition=prelim)]) that will also focus on specific issues for children who are not receiving an early diagnosis and subsequent interventions.
 
@@ -25622,19 +26542,21 @@ Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In 
 
 (1) provide culturally competent information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
 
-(2) promote research into the development and validation of reliable screening tools for autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
+(2) promote research into the development and validation of reliable screening tools for individuals with autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
 
 (3) promote early screening of individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
 
-(4) increase the number of individuals who are able to confirm or rule out a diagnosis of autism spectrum disorder and other developmental disabilities;
+(4) promote evidence-based screening techniques and interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan;
 
-(5) increase the number of individuals able to provide evidence-based interventions for individuals diagnosed with autism spectrum disorder or other developmental disabilities; and
+(5) increase the number of individuals who are able to confirm or rule out a diagnosis of autism spectrum disorder and other developmental disabilities;
 
-(6) promote the use of evidence-based interventions for individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable.
+(6) increase the number of individuals able to provide evidence-based interventions for individuals diagnosed with autism spectrum disorder or other developmental disabilities; and
+
+(7) promote the use of evidence-based interventions for individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable.
 
 **(c) Information and education**
 
-(1) **In general** — In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder or other developmental disabilities and their families through—
+(1) **In general** — In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families through—
 
   (A) Federal programs, including—
 
@@ -25668,7 +26590,7 @@ Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In 
 
     (i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-    (ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with an autism spectrum disorder), and evidence-based interventions.
+    (ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
 
   (B) *Requirements of agency* — In designating the lead agency under subparagraph (A)(i), the Governor shall—
 
@@ -25676,9 +26598,9 @@ Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In 
 
       (I) autism spectrum disorder and other developmental disability issues; and
 
-      (II) developing, implementing, conducting, and administering programs and delivering education, information, and referral services (including technology-based curriculum-development services) to individuals with developmental disabilities and their family members, guardians, advocates or authorized representatives, providers, and other appropriate individuals locally and across the State; and
+      (II) developing, implementing, conducting, and administering programs and delivering education, information, and referral services (including technology-based curriculum-development services) to individuals with autism spectrum disorder and developmental disabilities and their family members, guardians, advocates or authorized representatives, providers, and other appropriate individuals locally and across the State; and
 
-    (ii) consider input from individuals with developmental disabilities and their family members, guardians, advocates or authorized representatives, providers, and other appropriate individuals.
+    (ii) consider input from individuals with autism spectrum disorder and developmental disabilities and their family members, guardians, advocates or authorized representatives, providers, and other appropriate individuals.
 
   (C) *Information* — Information under subparagraph (A)(ii) shall be provided through—
 
@@ -25706,7 +26628,7 @@ Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In 
 
 **(e) Diagnosis**
 
-(1) **Training** — The Secretary, in coordination with activities conducted under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.], shall, subject to the availability of appropriations, expand existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities and ensure that—
+(1) **Training** — The Secretary, in coordination with activities conducted under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.], shall, subject to the availability of appropriations, expand existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
 
   (A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand existing or develop new maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act [[42 U.S.C. 701(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section701/a/2&num=0&edition=prelim)]) in States that do not have such a program;
 
@@ -25718,19 +26640,29 @@ Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In 
 
     (iii) are ethnically diverse;
 
-    (iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities; and
+    (iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities across their lifespan; and
 
     (v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in [section 300ii of this title](./chapter-6a-public-health-service.md#section-300ii)); and
 
   (C) program sites provide culturally competent services.
 
-(2) **Technical assistance** — The Secretary may award one or more grants under this section to provide technical assistance to the network of interdisciplinary training programs.
+(2) **Developmental-behavioral pediatrician training programs**
 
-(3) **Best practices** — The Secretary shall promote research into additional valid and reliable tools for shortening the time required to confirm or rule out a diagnosis of autism spectrum disorder or other developmental disabilities and detecting individuals with autism spectrum disorder or other developmental disabilities at an earlier age.
+  (A) *In general* — In making awards under this subsection, the Secretary may prioritize awards to applicants that are developmental-behavioral pediatrician training programs located in rural or underserved areas.
 
-**(f) Intervention** The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+  (B) *Definition of underserved area* — In this paragraph, the term “underserved area” means—
 
-**(g) Sunset** This section shall not apply after September 30, 2019.
+    (i) a health professional shortage area (as defined in [section 254e(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e/a/1/A&num=0&edition=prelim)); and
+
+    (ii) an urban or rural area designated by the Secretary as an area with a shortage of personal health services (as described in [section 254b(b)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b/3/A&num=0&edition=prelim)).
+
+(3) **Technical assistance** — The Secretary may award one or more grants under this section to provide technical assistance to the network of interdisciplinary training programs.
+
+(4) **Best practices** — The Secretary shall promote research into additional valid and reliable tools for shortening the time required to confirm or rule out a diagnosis of autism spectrum disorder or other developmental disabilities and detecting individuals with autism spectrum disorder or other developmental disabilities at an earlier age.
+
+**(f) Intervention** The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+
+**(g) Sunset** This section shall not apply after September 30, 2024.
 
 ### Statutory Notes
 
@@ -25746,6 +26678,30 @@ The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–60, § 3(b)(1), substituted “individuals with autism spectrum disorder and other developmental disabilities” for “individuals with autism spectrum disorder or other developmental disabilities” and “individuals with autism spectrum disorder and other developmental disabilities across their lifespan;” for “children with autism spectrum disorder and other developmental disabilities;”.
+
+Subsec. (b)(2). Pub. L. 116–60, § 3(b)(2)(A), inserted “individuals with” before “autism spectrum disorder”.
+
+Subsec. (b)(4) to (7). Pub. L. 116–60, § 3(b)(2)(B), (C), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
+Subsec. (c)(1). Pub. L. 116–60, § 3(b)(3)(A), substituted “the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families” for “the needs of individuals with autism spectrum disorder or other developmental disabilities and their families” in introductory provisions.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 116–60, § 3(b)(3)(B)(i), substituted “caregivers of individuals with autism spectrum disorder or other developmental disabilities” for “caregivers of individuals with an autism spectrum disorder”.
+
+Subsec. (c)(2)(B)(i)(II). Pub. L. 116–60, § 3(b)(3)(B)(ii), inserted “autism spectrum disorder and” after “individuals with”.
+
+Subsec. (c)(2)(B)(ii). Pub. L. 116–60, § 3(b)(3)(B)(iii), inserted “autism spectrum disorder and” after “individuals with”.
+
+Subsec. (e)(1). Pub. L. 116–60, § 3(b)(4)(A)(i), inserted “across their lifespan” before “and ensure” in introductory provisions.
+
+Subsec. (e)(1)(B)(iv). Pub. L. 116–60, § 3(b)(4)(A)(ii), inserted “across their lifespan” after “other developmental disabilities”.
+
+Subsec. (e)(2) to (4). Pub. L. 116–60, § 3(b)(4)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (f). Pub. L. 116–60, § 3(b)(5), inserted “across the lifespan of such individuals” after “other developmental disabilities”.
+
+Subsec. (g). Pub. L. 116–60, § 3(b)(6), substituted “2024” for “2019”.
+
 2014—Subsec. (b)(1). Pub. L. 113–157, § 4(1), inserted “culturally competent” after “provide”.
 
 Subsec. (c)(2)(A)(ii). Pub. L. 113–157, § 4(2), inserted “(which may include respite care for caregivers of individuals with an autism spectrum disorder)” after “services and supports”.
@@ -25767,13 +26723,13 @@ Subsec. (g). Pub. L. 113–157, § 4(5), substituted “2019” for “2014”.
 
 (1) monitor autism spectrum disorder research, and to the extent practicable services and support activities, across all relevant Federal departments and agencies, including coordination of Federal activities with respect to autism spectrum disorder;
 
-(2) develop a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder;
+(2) develop a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder across the lifespan of such individuals;
 
 (3) make recommendations to the Secretary regarding any appropriate changes to such activities, including with 11 So in original. Probably should be preceded by “recommendations”. respect to the strategic plan developed under paragraph (5);
 
 (4) make recommendations to the Secretary regarding public participation in decisions relating to autism spectrum disorder, and the process by which public feedback can be better integrated into such decisions;
 
-(5) develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, including as practicable for services and supports, for individuals with an autism spectrum disorder and the families of such individuals, which shall include—
+(5) develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, including as practicable for services and supports, for individuals with an autism spectrum disorder across the lifespan of such individuals and the families of such individuals, which shall include—
 
   (A) proposed budgetary requirements; and
 
@@ -25795,19 +26751,19 @@ Subsec. (g). Pub. L. 113–157, § 4(5), substituted “2019” for “2014”.
 
   (C) the heads of such other agencies as the Secretary determines appropriate, such as the Administration for Community Living, Administration for Children and Families, the Centers for Medicare & Medicaid Services, the Food and Drug Administration, and the Health Resources and Services Administration; and
 
-  (D) representatives of other Federal Governmental agencies that serve individuals with autism spectrum disorder such as the Department of Education and the Department of Defense.
+  (D) representatives of other Federal Governmental agencies that serve individuals with autism spectrum disorder such as the Department of Education, the Department of Labor, the Department of Justice, the Department of Veterans Affairs, the Department of Housing and Urban Development, and the Department of Defense.
 
 (2) **Non-Federal members** — Not more than ½, but not fewer than ⅓, of the total membership of the Committee,22 So in original. The comma probably should not appear. shall be composed of non-Federal public members to be appointed by the Secretary, of which—
 
-  (A) at least two such members shall be individuals with a diagnosis of autism spectrum disorder;
+  (A) at least three such members shall be individuals with a diagnosis of autism spectrum disorder;
 
-  (B) at least two such members shall be parents or legal guardians of an individual with an autism spectrum disorder; and
+  (B) at least three such members shall be parents or legal guardians of an individual with an autism spectrum disorder; and
 
-  (C) at least two such members shall be representatives of leading research, advocacy, and service organizations for individuals with autism spectrum disorder.
+  (C) at least three such members shall be representatives of leading research, advocacy, and service organizations for individuals with autism spectrum disorder.
 
 (3) **Period of appointment; vacancies**
 
-  (A) *Period of appointment for non-Federal members* — Non-Federal members shall serve for a term of 4 years, and may be reappointed for one or more additional 4-year terms.
+  (A) *Period of appointment for non-Federal members* — Non-Federal members shall serve for a term of 4 years, and may be reappointed for one additional 4-year term.
 
   (B) *Vacancies* — A vacancy on the Committee shall be filled in the manner in which the original appointment was made and shall not affect the powers or duties of the Committee. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member’s term until a successor has been appointed.
 
@@ -25821,11 +26777,23 @@ Subsec. (g). Pub. L. 113–157, § 4(5), substituted “2019” for “2014”.
 
 **(e) Subcommittees; establishment and membership** In carrying out its functions, the Committee may establish subcommittees and convene workshops and conferences. Such subcommittees shall be composed of Committee members and may hold such meetings as are necessary to enable the subcommittees to carry out their duties.
 
-**(f) Sunset** This section shall not apply after September 30, 2019, and the Committee shall be terminated on such date.
+**(f) Sunset** This section shall not apply after September 30, 2024, and the Committee shall be terminated on such date.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–60, § 3(c)(1)(A), inserted “across the lifespan of such individuals” before semicolon at end.
+
+Subsec. (b)(5). Pub. L. 116–60, § 3(c)(1)(B), inserted “across the lifespan of such individuals” before “and the families” in introductory provisions.
+
+Subsec. (c)(1)(D). Pub. L. 116–60, § 3(c)(2)(A), inserted “, the Department of Labor, the Department of Justice, the Department of Veterans Affairs, the Department of Housing and Urban Development,” after “Department of Education”.
+
+Subsec. (c)(2). Pub. L. 116–60, § 3(c)(2)(B), substituted “at least three such members” for “at least two such members” in subpars. (A) to (C).
+
+Subsec. (c)(3)(A). Pub. L. 116–60, § 3(c)(2)(C), substituted “one additional 4-year term” for “one or more additional 4-year terms”.
+
+Subsec. (f). Pub. L. 116–60, § 3(c)(3), substituted “2024” for “2019”.
+
 2014—Subsec. (b)(1). Pub. L. 113–157, § 5(1)(C), added par. (1). Former par. (1) redesignated (2).
 
 Pub. L. 113–157, § 5(1)(A), struck out “and annually update” after “develop” and substituted “interventions, including school and community-based interventions” for “intervention”.
@@ -25871,78 +26839,98 @@ Subsec. (f). Pub. L. 113–157, § 5(4), substituted “2019” for “2014”.
 ## § 280i–3. Reports to Congress
 **(a) Progress report**
 
-(1) **In general** — Not later than 4 years after August 8, 2014, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities.
+(1) **In general** — Not later than 4 years after September 30, 2019, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities.
 
 (2) **Contents** — The report submitted under subsection (a) shall contain—
 
-  (A) a description of the progress made in implementing the provisions of the Autism CARES Act of 2014;
+  (A) a description of the progress made in implementing the provisions of the Autism CARES Act of 2019;
 
-  (B) a description of the amounts expended on the implementation of the amendments made by the Autism CARES Act of 2014;
+  (B) a description of the amounts expended on the implementation of the amendments made by the Autism CARES Act of 2019;
 
   (C) information on the incidence and prevalence of autism spectrum disorder, including available information on the prevalence of autism spectrum disorder among children and adults, and identification of any changes over time with respect to the incidence and prevalence of autism spectrum disorder;
 
-  (D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on August 8, 2014, and, as appropriate, how this age varies across population subgroups;
+  (D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
 
-  (E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on August 8, 2014, and, as appropriate, how this age varies across population subgroups;
+  (E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
 
   (F) information on the average time between initial screening and then diagnosis or rule out for individuals with autism spectrum disorder or other developmental disabilities, as well as information on the average time between diagnosis and evidence-based intervention for individuals with autism spectrum disorder or other developmental disabilities and, as appropriate, on how such average time varies across population subgroups;
 
-  (G) information on the effectiveness and outcomes of interventions for individuals diagnosed with autism spectrum disorder, including by severity level as practicable, and other developmental disabilities and how the age of the child or other factors, such as demographic characteristics, may affect such effectiveness;
+  (G) information on the effectiveness and outcomes of interventions for individuals diagnosed with autism spectrum disorder, including by severity level as practicable, and other developmental disabilities and how the age of the individual or other factors, such as demographic characteristics, may affect such effectiveness;
 
-  (H) information on the effectiveness and outcomes of innovative and newly developed intervention strategies for individuals with autism spectrum disorder or other developmental disabilities; and
+  (H) information on the effectiveness and outcomes of innovative and newly developed intervention strategies for individuals with autism spectrum disorder or other developmental disabilities;
 
-  (I) a description of the actions taken to implement and the progress made on implementation of the strategic plan developed by the Interagency Autism Coordinating Committee under [section 280i–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280i–2/b&num=0&edition=prelim).
+  (I) a description of the actions taken to implement and the progress made on implementation of the strategic plan developed by the Interagency Autism Coordinating Committee under [section 280i–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280i–2/b&num=0&edition=prelim); and
 
-**(b) Report on young adults and transitioning youth**
+  (J) information on how States use home- and community-based services and other supports to ensure that individuals with autism spectrum disorder and other developmental disabilities are living, working, and participating in their community.
 
-(1) **In general** — Not later than 2 years after August 8, 2014, the Secretary of Health and Human Services, in coordination with the Secretary of Education and in collaboration with the Secretary of Transportation, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Attorney General, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning young adults with autism spectrum disorder and the challenges related to the transition from existing school-based services to those services available during adulthood.
+**(b) Report on the health and well-being of individuals with autism spectrum disorder across their lifespan**
+
+(1) **In general** — Not later than 2 years after September 30, 2019, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the health and well-being of individuals with autism spectrum disorder.
 
 (2) **Contents** — The report submitted under paragraph (1) shall contain—
 
-  (A) demographic characteristics of youth transitioning from school-based to community-based supports;
+  (A) demographic factors associated with the health and well-being of individuals with autism spectrum disorder;
 
-  (B) an overview of policies and programs relevant to young adults with autism spectrum disorder relating to post-secondary school transitional services, including an identification of existing Federal laws, regulations, policies, research, and programs;
+  (B) an overview of policies and programs relevant to the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;
 
-  (C) proposals on establishing best practices guidelines to ensure—
+  (C) recommendations on establishing best practices guidelines to ensure interdisciplinary coordination between all relevant service providers receiving Federal funding;
 
-    (i) interdisciplinary coordination between all relevant service providers receiving Federal funding;
+  (D) comprehensive approaches to improving health outcomes and well-being for individuals with autism spectrum disorder, including—
 
-    (ii) coordination with transitioning youth and the family of such transitioning youth; and
+    (i) community-based behavioral supports and interventions;
 
-    (iii) inclusion of the individualized education program for the transitioning youth, as prescribed in [section 1414 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1414&num=0&edition=prelim);
+    (ii) nutrition, recreational, and social activities; and
 
-  (D) comprehensive approaches to transitioning from existing school-based services to those services available during adulthood, including—
+    (iii) personal safety services related to public safety agencies or the criminal justice system for such individuals; and
 
-    (i) services that increase access to, and improve integration and completion of, post-secondary education, peer support, vocational training (as defined in [section 723 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section723&num=0&edition=prelim)), rehabilitation, self-advocacy skills, and competitive, integrated employment;
+  (E) recommendations that seek to improve health outcomes for such individuals, including across their lifespan, by addressing—
 
-    (ii) community-based behavioral supports and interventions;
+    (i) screening and diagnosis of children and adults;
 
-    (iii) community-based integrated residential services, housing, and transportation;
+    (ii) behavioral and other therapeutic approaches;
 
-    (iv) nutrition, health and wellness, recreational, and social activities;
+    (iii) primary and preventative care;
 
-    (v) personal safety services for individuals with autism spectrum disorder related to public safety agencies or the criminal justice system; and
+    (iv) communication challenges;
 
-    (vi) evidence-based approaches for coordination of resources and services once individuals have aged out of post-secondary education; and
+    (v) aggression, self-injury, elopement, and other behavioral issues;
 
-  (E) proposals that seek to improve outcomes for adults with autism spectrum disorder making the transition from a school-based support system to adulthood by—
+    (vi) emergency room visits and acute care hospitalization;
 
-    (i) increasing the effectiveness of programs that provide transition services;
+    (vii) treatment for co-occurring physical and mental health conditions;
 
-    (ii) increasing the ability of the relevant service providers described in subparagraph (C) to provide supports and services to underserved populations and regions;
+    (viii) premature mortality;
 
-    (iii) increasing the efficiency of service delivery to maximize resources and outcomes, including with respect to the integration of and collaboration among services for transitioning youth;
+    (ix) medical practitioner training; and
 
-    (iv) ensuring access to all services necessary to transitioning youth of all capabilities; and
-
-    (v) encouraging transitioning youth to utilize all available transition services to maximize independence, equal opportunity, full participation, and self-sufficiency.
+    (x) caregiver mental health.
 
 ### Statutory Notes
 
 #### References in Text
-The Autism CARES Act of 2014, referred to in subsec. (a)(2)(A), (B), is Pub. L. 113–157, Aug. 8, 2014, 128 Stat. 1831, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Autism CARES Act of 2019, referred to in subsec. (a)(2)(A), (B), is Pub. L. 116–60, Sept. 30, 2019, 133 Stat. 1110, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2019, which amended this part and [section 284g of this title](./chapter-6a-public-health-service.md#section-284g) and enacted provisions set out as a note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201). For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–60, § 3(d)(1)(A), substituted “September 30, 2019” for “August 8, 2014”.
+
+Subsec. (a)(2)(A), (B). Pub. L. 116–60, § 3(d)(1)(B)(i), substituted “Autism CARES Act of 2019” for “Autism CARES Act of 2014”.
+
+Subsec. (a)(2)(D), (E). Pub. L. 116–60, § 3(d)(1)(B)(i), substituted “September 30, 2019” for “August 8, 2014”.
+
+Subsec. (a)(2)(G). Pub. L. 116–60, § 3(d)(1)(B)(ii), substituted “age of the individual” for “age of the child”.
+
+Subsec. (a)(2)(J). Pub. L. 116–60, § 3(d)(1)(B)(iii)–(v), added subsec. (J).
+
+Subsec. (b). Pub. L. 116–60, § 3(d)(2)(A), substituted “the health and well-being of individuals with autism spectrum disorder across their lifespan” for “young adults and transitioning youth” in heading.
+
+Subsec. (b)(1). Pub. L. 116–60, § 3(d)(2)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Not later than 2 years after August 8, 2014, the Secretary of Health and Human Services, in coordination with the Secretary of Education and in collaboration with the Secretary of Transportation, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Attorney General, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning young adults with autism spectrum disorder and the challenges related to the transition from existing school-based services to those services available during adulthood.”
+
+Subsec. (b)(2)(A). Pub. L. 116–60, § 3(d)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “demographic characteristics of youth transitioning from school-based to community-based supports;”.
+
+Subsec. (b)(2)(B). Pub. L. 116–60, § 3(d)(2)(C)(ii), substituted “the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;” for “young adults with autism spectrum disorder relating to post-secondary school transitional services, including an identification of existing Federal laws, regulations, policies, research, and programs;”.
+
+Subsec. (b)(2)(C) to (E). Pub. L. 116–60, § 3(d)(2)(C)(iii), amended subpars. (C) to (E) generally. Prior to amendment, subpars. (C) to (E) related, respectively, to proposals on establishing certain best practices guidelines, comprehensive approaches to transitioning from existing school-based services to those services available during adulthood, and proposals that seek to improve outcomes for adults with autism spectrum disorder making the transition from a school-based support system to adulthood.
+
 2014—Pub. L. 113–157, § 6(1), substituted “Reports” for “Report” in section catchline.
 
 Subsec. (a). Pub. L. 113–157, § 6(2)–(4), designated existing provisions of entire section as subsec. (a), inserted heading, redesignated former subsecs. (a) and (b) as pars. (1) and (2), respectively, of subsec. (a), redesignated pars. (1) to (9) of former subsec. (b) as subpars. (A) to (I), respectively, of par. (2) of subsec. (a), and realigned margins.
@@ -25972,15 +26960,21 @@ Subsec. (b)(4), (5). Pub. L. 112–32, § 2(4)(B), substituted “the 6-year per
 
 <a id="section-280i-4"></a>
 ## § 280i–4. Authorization of appropriations
-**(a) Developmental disabilities surveillance and research program** To carry out [section 280i of this title](./chapter-6a-public-health-service.md#section-280i), there is authorized to be appropriated $22,000,000 for each of fiscal years 2015 through 2019.
+**(a) Developmental disabilities surveillance and research program** To carry out [section 280i of this title](./chapter-6a-public-health-service.md#section-280i), there is authorized to be appropriated $23,100,000 for each of fiscal years 2020 through 2024.
 
-**(b) Autism education, early detection, and intervention** To carry out [section 280i–1 of this title](./chapter-6a-public-health-service.md#section-280i-1), there is authorized to be appropriated $48,000,000 for each of fiscal years 2015 through 2019.
+**(b) Autism education, early detection, and intervention** To carry out [section 280i–1 of this title](./chapter-6a-public-health-service.md#section-280i-1), there is authorized to be appropriated $50,599,000 for each of fiscal years 2020 through 2024.
 
-**(c) Interagency Autism Coordinating Committee; certain other programs** To carry out sections 280i–2 and 284g of this title, there is authorized to be appropriated $190,000,000 for each of fiscal years 2015 through 2019.
+**(c) Interagency Autism Coordinating Committee; certain other programs** To carry out sections 280i–2 and 284g of this title, there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–60, § 3(e)(1), substituted “$23,100,000 for each of fiscal years 2020 through 2024” for “$22,000,000 for each of fiscal years 2015 through 2019”.
+
+Subsec. (b). Pub. L. 116–60, § 3(e)(2), substituted “$50,599,000 for each of fiscal years 2020 through 2024” for “$48,000,000 for each of fiscal years 2015 through 2019”.
+
+Subsec. (c). Pub. L. 116–60, § 3(e)(3), substituted “there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024” for “there is authorized to be appropriated $190,000,000 for each of fiscal years 2015 through 2019”.
+
 2016—Subsec. (c). Pub. L. 114–255 substituted “280i–2” for “280i–2, 283j,”.
 
 2014—Subsec. (a). Pub. L. 113–157, § 7(1), substituted “fiscal years 2015 through 2019” for “fiscal years 2012 through 2014”.
@@ -29165,7 +30159,7 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
 ## § 284g. Expansion, intensification, and coordination of activities of National Institutes of Health with respect to research on autism spectrum disorder
 **(a) In general**
 
-(1) **Expansion of activities** — The Director of NIH (in this section referred to as the “Director”) shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, and toxicology. Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.
+(1) **Expansion of activities** — The Director of NIH (in this section referred to as the “Director”) shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder. Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.
 
 (2) **Consolidation** — The Director may consolidate program activities under this section if such consolidation would improve program efficiencies and outcomes.
 
@@ -29175,7 +30169,7 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
 
 (1) **In general** — The Director shall under subsection (a)(1) make awards of grants and contracts to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on autism spectrum disorder.
 
-(2) **Research** — Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, and psychopharmacology.
+(2) **Research** — Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, and clinical psychology.
 
 (3) **Services for patients**
 
@@ -29184,6 +30178,8 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
   (B) *Referrals and costs* — A program under subparagraph (A) may, in accordance with such criteria as the Director may establish, provide to the subjects described in such subparagraph, referrals for health and other services, and such patient care costs as are required for research.
 
   (C) *Availability and access* — The extent to which a center can demonstrate availability and access to clinical services shall be considered by the Director in decisions about awarding grants to applicants which meet the scientific criteria for funding under this section.
+
+  (D) *Reducing disparities* — The Director may consider, as appropriate, the extent to which a center can demonstrate availability and access to clinical services for youth and adults from diverse racial, ethnic, geographic, or linguistic backgrounds in decisions about awarding grants to applicants which meet the scientific criteria for funding under this section.
 
 (4) **Organization of centers** — Each center under paragraph (1) shall use the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director.
 
@@ -29203,6 +30199,12 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
 Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to [section 284k of this title](./chapter-6a-public-health-service.md#section-284k).
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–60, § 2(1), substituted “toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder” for “and toxicology” and “Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.” for “Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.”
+
+Subsec. (b)(2). Pub. L. 116–60, § 2(2)(A), substituted “causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan” for “cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder” and “neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, and clinical psychology.” for “neurobiology, genetics, and psychopharmacology.”
+
+Subsec. (b)(3)(D). Pub. L. 116–60, § 2(2)(B), added subpar. (D).
+
 2007—Subsec. (b)(4) to (6). Pub. L. 109–482, § 104(b)(1)(D), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The Director shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers, and may require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.”
 
 Subsec. (e). Pub. L. 109–482, § 103(b)(9), which directed the striking of subsec. (e), could not be executed because of prior amendment by Pub. L. 109–416. See 2006 Amendment note below.
@@ -37269,7 +38271,7 @@ This Act, referred to in pars. (1)(B) and (2)(C)(i), is Pub. L. 114–198, July 
 Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Additional Report
-Pub. L. 114–198, title VII, § 701(e), July 22, 2016, 130 Stat. 740, provided that: “In the case of a report submitted under subsection (c) [enacting this section] to the applicable committees, if such report pertains to a grant under section 103 [[21 U.S.C. 1536](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1536&num=0&edition=prelim)], that report shall also be submitted, in the same manner and at the same time, to the Committee on Oversight and Government Reform of the House of Representatives and to the Committee on the Judiciary of the Senate.”
+Pub. L. 114–198, title VII, § 701(e), July 22, 2016, 130 Stat. 740, provided that: “In the case of a report submitted under subsection (c) [enacting this section] to the applicable committees, if such report pertains to a grant under section 103 [[21 U.S.C. 1536](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1536&num=0&edition=prelim)], that report shall also be submitted, in the same manner and at the same time, to the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives and to the Committee on the Judiciary of the Senate.”
 
 
 <a id="section-290aa-16"></a>
@@ -38457,6 +39459,9 @@ Pub. L. 115–271, title VII, § 7062(a), Oct. 24, 2018, 132 Stat. 4019, provide
 **(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section, $20,000,000 for fiscal year 2019, which shall remain available through fiscal year 2023.
 
 ### Statutory Notes
+
+#### References in Text
+Family First Prevention Services Act, referred to in subsec. (b)(1), is title VII of Pub. L. 115–123, div. E, Feb. 9, 2018, 132 Stat. 232. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
@@ -40976,6 +41981,9 @@ Section is comprised of section 7102 of Pub. L. 115–271. Subsec. (a) of sectio
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-290bb-8-290bb-9"></a>
 ## § 290bb–8, 290bb–9. Repealed. Pub. L. 114–255, div. B, title IX, § 9017, Dec. 13, 2016, 130 Stat. 1248
@@ -42527,7 +43535,7 @@ Another section 550 of act July 1, 1944, is classified to [section 290ee–10 of
 
 (3) the retention rate of program participants; and
 
-(4) any other information that the Secretary may require for the purpose of—ensuring that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
+(4) any other information that the Secretary may require for the purpose of—ensuring 11 So in original. that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
 
 **(i) Privacy** The provisions of this section, including with respect to data reporting and program oversight, shall be subject to all applicable Federal and State privacy laws.
 
@@ -44437,7 +45445,7 @@ A prior section 701 of act July 1, 1944, was classified to [section 292a of this
 Pub. L. 102–408, title I, § 103, Oct. 13, 1992, 106 Stat. 2069, provided that: “The amendment made by section 102 [enacting this subchapter] takes effect on the date of the enactment of this Act [Oct. 13, 1992], except that section 708 of the Public Health Service Act [[42 U.S.C. 292g](./chapter-6a-public-health-service.md#section-292g)], as added by section 102 of this Act, takes effect January 1, 1993. Until such date, section 732(c) of the Public Health Service Act [former [42 U.S.C. 294e(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294e/c&num=0&edition=prelim)], as in effect on the day before the date of the enactment of this Act, continues in effect in lieu of such section 708.”
 
 #### Transfer of Health Education Assistance Loan Program
-Pub. L. 113–76, div. H, title V, § 525, Jan. 17, 2014, 128 Stat. 413, provided that: “(a) In General.—The Health Education Assistance Loan (‘HEAL’) program under title VII, part A, subpart I of the PHS [Public Health Service] Act [[42 U.S.C. 292](./chapter-6a-public-health-service.md#section-292) et seq.], and the authority to administer such program, including servicing, collecting, and enforcing any loans that were made under such program that remain outstanding, shall be permanently transferred from the Secretary of Health and Human Services to the Secretary of Education no later than the end of the first fiscal quarter that begins after the date of enactment of this Act [Jan. 17, 2014]. “(b) Transfer of Functions, Assets, and Liabilities.—The functions, assets, and liabilities of the Secretary of Health and Human Services relating to such program shall be transferred to the Secretary of Education. “(c) Interdepartmental Coordination of Transfer.—The Secretary of Health and Human Services and the Secretary of Education shall carry out the transfer of the HEAL program described in subsection (a), including the transfer of the functions, assets, and liabilities specified in subsection (b), in the manner that they determine is most appropriate. “(d) Use of Authorities Under HEA of 1965.—In servicing, collecting, and enforcing the loans described in subsection (a), the Secretary of Education shall have available any and all authorities available to such Secretary in servicing, collecting, or enforcing a loan made, insured, or guaranteed under part B of title IV of the HEA [Higher Education Act] of 1965 [[20 U.S.C. 1071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1071&num=0&edition=prelim) et seq.]. “(e) Conforming Amendments.—[Amended section 292o of this title.]”
+Pub. L. 113–76, div. H, title V, § 525, Jan. 17, 2014, 128 Stat. 413, provided that: “(a) In General.—The Health Education Assistance Loan (‘HEAL’) program under title VII, part A, subpart I of the PHS [Public Health Service] Act [[42 U.S.C. 292](./chapter-6a-public-health-service.md#section-292) et seq.], and the authority to administer such program, including servicing, collecting, and enforcing any loans that were made under such program that remain outstanding, shall be permanently transferred from the Secretary of Health and Human Services to the Secretary of Education no later than the end of the first fiscal quarter that begins after the date of enactment of this Act [Jan. 17, 2014]. “(b) Transfer of Functions, Assets, and Liabilities.—The functions, assets, and liabilities of the Secretary of Health and Human Services relating to such program shall be transferred to the Secretary of Education. “(c) Interdepartmental Coordination of Transfer.—The Secretary of Health and Human Services and the Secretary of Education shall carry out the transfer of the HEAL program described in subsection (a), including the transfer of the functions, assets, and liabilities specified in subsection (b), in the manner that they determine is most appropriate. “(d) Use of Authorities Under HEA of 1965.—In servicing, collecting, and enforcing the loans described in subsection (a), the Secretary of Education shall have available any and all authorities available to such Secretary in servicing, collecting, or enforcing a loan made, insured, or guaranteed under part B of title IV of the HEA [Higher Education Act] of 1965 [[20 U.S.C. 1071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1071&num=0&edition=prelim) et seq.]. “(e) Conforming Amendments.— [Amended section 292o of this title.]”
 
 #### Study on Effectiveness of Health Professions Programs
 Pub. L. 102–408, title III, § 309, Oct. 13, 1992, 106 Stat. 2089, directed the Comptroller General to conduct a study of the programs carried out under this subchapter and subchapter VI of this chapter for the purpose of determining the effectiveness of such programs in increasing the number of primary care providers (physicians, physician assistants, nurse midwives, nurse practitioners and general dentists), nurses and allied health personnel, improving the geographic distribution of health professionals in medically underserved and rural areas, and recruiting and retaining as students in health professions schools individuals who are members of a minority group, and report to the Congress not later than Jan. 1, 1994, on findings and recommendations made as a result of the study relevant to the reauthorization of such programs.
@@ -54825,7 +55833,7 @@ Pub. L. 94–278, title IV, § 403(c), Apr. 22, 1976, 90 Stat. 410, provided tha
 For short title of title IV of Pub. L. 94–278, which enacted this part, omitted former part B of this subchapter, redesignated former parts C and D of this subchapter as parts B and C of this subchapter, respectively, as the “National Sickle Cell Anemia, Cooley’s Anemia, Tay-Sachs, and Genetic Diseases Act”, see section 401 of Pub. L. 94–278, set out as a note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201).
 
 #### Demonstration Program for the Development and Establishment of Systemic Mechanisms for the Prevention and Treatment of Sickle Cell Disease
-Pub. L. 108–357, title VII, § 712(c), Oct. 22, 2004, 118 Stat. 1559, which was formerly set out as a note under this section, was transferred to [section 300b–5(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300b–5/b&num=0&edition=prelim) by Pub. L. 115–327, § 3(b), Dec. 18, 2018, 132 Stat. 4470.
+Pub. L. 108–357, title VII, § 712(c), Oct. 22, 2004, 118 Stat. 1559, as amended by Pub. L. 115–327, § 3(a), Dec. 18, 2018, 132 Stat. 4469, which was formerly set out as a note under this section, was transferred to [section 300b–5(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300b–5/b&num=0&edition=prelim) by Pub. L. 115–327, § 3(b), Dec. 18, 2018, 132 Stat. 4470.
 
 #### Congressional Declaration of Purpose
 Pub. L. 94–278, title IV, § 402, Apr. 22, 1976, 90 Stat. 407, as amended by Pub. L. 95–626, title II, § 205(a), Nov. 10, 1978, 92 Stat. 3583; Pub. L. 111–256, § 2(i), Oct. 5, 2010, 124 Stat. 2644, provided that: “In order to preserve and protect the health and welfare of all citizens, it is the purpose of this title [see section 401 of Pub. L. 94–278, set out as a Short Title of 1976 Amendment note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] to establish a national program to provide for basic and applied research, research training, testing, counseling, and information and education programs with respect to genetic diseases, and genetic conditions, such as Sickle Cell anemia, Cooley’s Anemia, Tay–Sachs disease, cystic fibrosis, dysautonomia, hemophilia, retinitis pigmentosa, Huntington’s chorea, muscular dystrophy, and genetic conditions leading to intellectual disabilities or genetically caused mental disorders.”
@@ -56989,7 +57997,7 @@ In subsec. (d), “section 3324(a) and (b) of title 31 and [section 6101 of titl
 Section effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as an Effective Date of 1975 Amendment note under [section 247b of this title](./chapter-6a-public-health-service.md#section-247b).
 
 #### Ricky Ray Hemophilia Relief Fund
-Pub. L. 105–369, Nov. 12, 1998, 112 Stat. 3368, as amended by Pub. L. 106–554, § 1(a)(6) [title IX, § 932], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, provided that: “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.“(a) Short Title.—This Act may be cited as the ‘Ricky Ray Hemophilia Relief Fund Act of 1998’. “(b) Table of Contents.—[Omitted.] “title i—hemophilia relief fund“SEC. 101. RICKY RAY HEMOPHILIA RELIEF FUND.“(a) Establishment.—There is established in the Treasury of the United States a trust fund to be known as the ‘Ricky Ray Hemophilia Relief Fund’, which shall be administered by the Secretary of the Treasury. “(b) Investment of Amounts in Fund.—Amounts in the Fund shall be invested in accordance with [section 9702 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9702&num=0&edition=prelim), United States Code, and any interest on and proceeds from any such investment shall be credited to and become part of the Fund. “(c) Availability of Fund.—Amounts in the Fund shall be available only for disbursement by the Secretary of Health and Human Services under section 103. “(d) Termination.—The Fund shall terminate upon the expiration of the 5-year period beginning on the date of the enactment of this Act [Nov. 12, 1998]. If all of the amounts in the Fund have not been expended by the end of the 5-year period, investments of amounts in the Fund shall be liquidated, the receipts of such liquidation shall be deposited in the Fund, and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury of the United States. “(e) Authorization of Appropriations.—There is authorized to be appropriated to the Fund to carry out this title $750,000,000. There is appropriated to the Fund $475,000,000 for fiscal year 2001, to remain available until expended. “SEC. 102. COMPASSIONATE PAYMENT RELATING TO INDIVIDUALS WITH BLOOD-CLOTTING DISORDERS AND HIV.“(a) In General.—If the conditions described in subsection (b) are met and if there are sufficient amounts in the Fund to make each payment, the Secretary shall make a single payment of $100,000 from the Fund to any individual who has an HIV infection and who is described in one of the following paragraphs:“(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated with antihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987. “(2) The individual—“(A) is the lawful spouse of an individual described in paragraph (1); or “(B) is the former lawful spouse of an individual described in paragraph (1) and was the lawful spouse of the individual at any time after a date, within the period described in such subparagraph, on which the individual was treated as described in such paragraph and through medical documentation can assert reasonable certainty of transmission of HIV from individual described in paragraph (1). “(3) The individual acquired the HIV infection through perinatal transmission from a parent who is an individual described in paragraph (1) or (2). “(b) Conditions.—The conditions described in this subsection are, with respect to an individual, as follows:“(1) Submission of medical documentation of hiv infection.—The individual submits to the Secretary written medical documentation that the individual has an HIV infection. “(2) Petition.—A petition for the payment is filed with the Secretary by or on behalf of the individual. “(3) Determination.—The Secretary determines, in accordance with section 103(b), that the petition meets the requirements of this title. “SEC. 103. DETERMINATION AND PAYMENT.“(a) Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section. “(b) Determination.—For each petition filed under this title, the Secretary shall determine whether the petition meets the requirements of this title. “(c) Payment.—“(1) In general.—To the extent there are sufficient amounts in the Fund to cover each payment, the Secretary shall pay, from the Fund, each petition that the Secretary determines meets the requirements of this title in the order received. “(2) Payments in case of deceased individuals.—“(A) In general.—In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on a petition filed by or on behalf of the individual, the payment shall be made as follows:“(i) If the individual is survived by a spouse who is living at the time of payment, the payment shall be made to such surviving spouse. “(ii) If the individual is not survived by a spouse described in clause (i), the payment shall be made in equal shares to all children of the individual who are living at the time of the payment. “(iii) If the individual is not survived by a person described in clause (i) or (ii), the payment shall be made in equal shares to the parents of the individual who are living at the time of the payment. “(iv) If the individual is not survived by a person described in clause (i), (ii), or (iii), the payment shall revert back to the Fund. “(B) Filing of petition by survivor.—If an individual eligible for payment under section 102(a) dies before filing a petition under this title, a survivor of the individual may file a petition for payment under this title on behalf of the individual if the survivor may receive payment under subparagraph (A). “(C) Definitions.—For purposes of this paragraph:“(i) The term ‘spouse’ means an individual who was lawfully married to the relevant individual at the time of death. “(ii) The term ‘child’ includes a recognized natural child, a stepchild who lived with the relevant individual in a regular parent-child relationship, and an adopted child. “(iii) The term ‘parent’ includes fathers and mothers through adoption. “(3) Timing of payment.—The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on the date of the enactment of this Act [Nov. 12, 1998] or after the expiration of the 5-year period beginning on the date of the enactment of this Act. “(d) Action on Petitions.—The Secretary shall complete the determination required by subsection (b) regarding a petition not later than 120 days after the date the petition is filed under this title. “(e) Humanitarian Nature of Payment.—This Act does not create or admit any claim of or on behalf of the individual against the United States or against any officer, employee, or agent thereof acting within the scope of employment or agency that relate to an HIV infection arising from treatment with antihemophilic factor, at any time during the period beginning on July 1, 1982, and ending on December 31, 1987. A payment under this Act shall, however, when accepted by or on behalf of the individual, be in full satisfaction of all such claims by or on behalf of that individual. “(f) Administrative Costs Not Paid From Fund.—No costs incurred by the Secretary in carrying out this title may be paid from the Fund or set off against, or otherwise deducted from, any payment made under subsection (c)(1). “(g) Termination of Duties of Secretary.—The duties of the Secretary under this section shall cease when the Fund terminates. “(h) Treatment of Payments Under Other Laws.—A payment under subsection (c)(1) to an individual—“(1) shall be treated for purposes of the Internal Revenue Code of 1986 as damages described in section 104(a)(2) of such Code; “(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in [section 3803(c)(2)(C) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3803/c/2/C&num=0&edition=prelim), United States Code, or the amount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and “(3) shall not be treated as a third party payment or payment in relation to a legal liability with respect to such benefits and shall not be subject (whether by subrogation or otherwise) to recovery, recoupment, reimbursement, or collection with respect to such benefits (including the Federal or State governments or any entity that provides such benefits under a contract). “(i) Regulatory Authority.—The Secretary may issue regulations necessary to carry out this title. “(j) Time of Issuance of Procedures.—The Secretary shall, through the promulgation of appropriate regulations, guidelines, or otherwise, first establish the procedures to carry out this title not later than 120 days after the date of the enactment of this Act [Nov. 12, 1998]. “SEC. 104. LIMITATION ON TRANSFER OF RIGHTS AND NUMBER OF PETITIONS.“(a) Rights Not Assignable or Transferable.—Any right under this title shall not be assignable or transferable. “(b) One Petition With Respect to Each Victim.—With respect to each individual described in paragraph (1), (2), or (3) of section 102(a), the Secretary may not make payment with respect to more than one petition filed in respect to an individual. “SEC. 105. TIME LIMITATION.“The Secretary may not make any payment with respect to any petition filed under this title unless the petition is filed within 3 years after the date of the enactment of this Act [Nov. 12, 1998]. “SEC. 106. CERTAIN CLAIMS NOT AFFECTED BY PAYMENT.“A payment made under section 103(c)(1) shall not be considered as any form of compensation, or reimbursement for a loss, for purposes of imposing liability on the individual receiving the payment, on the basis of such receipt, to repay any insurance carrier for insurance payments or to repay any person on account of worker’s compensation payments. A payment under this title shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker’s compensation. “SEC. 107. LIMITATION ON AGENT AND ATTORNEY FEES.“Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the petition of an individual under this title, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000. “SEC. 108. DEFINITIONS.“For purposes of this title:“(1) The term ‘AIDS’ means acquired immune deficiency syndrome. “(2) The term ‘Fund’ means the Ricky Ray Hemophilia Relief Fund. “(3) The term ‘HIV’ means human immunodeficiency virus. “(4) Unless otherwise provided, the term ‘Secretary’ means Secretary of Health and Human Services. “title ii—treatment of certain payments in hemophilia-clotting-factor suit under the ssi program“SEC. 201. TREATMENT OF CERTAIN PAYMENTS IN HEMOPHILIA-CLOTTING-FACTOR SUIT UNDER THE MEDICAID AND SSI PROGRAMS.“(a) Private Payments.—“(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of—“(A) medical assistance under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.]; or “(B) supplemental security income benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](./chapter-007-social-security.md#section-1381) et seq.]. “(2) Private payments described.—The payments described in this subsection are—“(A) payments made from any fund established pursuant to a class settlement in the case of Susan Walker v. Bayer Corporation, et al., 96–C–5024 (N.D. Ill.); and “(B) payments made pursuant to a release of all claims in a case—“(i) that is entered into in lieu of the class settlement referred to in subparagraph (A); and “(ii) that is signed by all affected parties in such case on or before the later of— “(I) December 31, 1997; or “(II) the date that is 270 days after the date on which such release is first sent to the persons (or the legal representative of such persons) to whom the payment is to be made. “(b) Government Payments.—“(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of supplemental security income benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](./chapter-007-social-security.md#section-1381) et seq.]. “(2) Government payments described.—The payments described in this subsection are payments made from the Fund established pursuant to section 101 of this Act.”
+Pub. L. 105–369, Nov. 12, 1998, 112 Stat. 3368, as amended by Pub. L. 106–554, § 1(a)(6) [title IX, § 932], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, provided that: “SECTION 1. SHORT TITLE; TABLE OF CONTENTS.“(a) Short Title.—This Act may be cited as the ‘Ricky Ray Hemophilia Relief Fund Act of 1998’. “(b) Table of Contents.— [Omitted.] “title i—hemophilia relief fund“SEC. 101. RICKY RAY HEMOPHILIA RELIEF FUND.“(a) Establishment.—There is established in the Treasury of the United States a trust fund to be known as the ‘Ricky Ray Hemophilia Relief Fund’, which shall be administered by the Secretary of the Treasury. “(b) Investment of Amounts in Fund.—Amounts in the Fund shall be invested in accordance with [section 9702 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9702&num=0&edition=prelim), United States Code, and any interest on and proceeds from any such investment shall be credited to and become part of the Fund. “(c) Availability of Fund.—Amounts in the Fund shall be available only for disbursement by the Secretary of Health and Human Services under section 103. “(d) Termination.—The Fund shall terminate upon the expiration of the 5-year period beginning on the date of the enactment of this Act [Nov. 12, 1998]. If all of the amounts in the Fund have not been expended by the end of the 5-year period, investments of amounts in the Fund shall be liquidated, the receipts of such liquidation shall be deposited in the Fund, and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury of the United States. “(e) Authorization of Appropriations.—There is authorized to be appropriated to the Fund to carry out this title $750,000,000. There is appropriated to the Fund $475,000,000 for fiscal year 2001, to remain available until expended. “SEC. 102. COMPASSIONATE PAYMENT RELATING TO INDIVIDUALS WITH BLOOD-CLOTTING DISORDERS AND HIV.“(a) In General.—If the conditions described in subsection (b) are met and if there are sufficient amounts in the Fund to make each payment, the Secretary shall make a single payment of $100,000 from the Fund to any individual who has an HIV infection and who is described in one of the following paragraphs:“(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated with antihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987. “(2) The individual—“(A) is the lawful spouse of an individual described in paragraph (1); or “(B) is the former lawful spouse of an individual described in paragraph (1) and was the lawful spouse of the individual at any time after a date, within the period described in such subparagraph, on which the individual was treated as described in such paragraph and through medical documentation can assert reasonable certainty of transmission of HIV from individual described in paragraph (1). “(3) The individual acquired the HIV infection through perinatal transmission from a parent who is an individual described in paragraph (1) or (2). “(b) Conditions.—The conditions described in this subsection are, with respect to an individual, as follows:“(1) Submission of medical documentation of hiv infection.—The individual submits to the Secretary written medical documentation that the individual has an HIV infection. “(2) Petition.—A petition for the payment is filed with the Secretary by or on behalf of the individual. “(3) Determination.—The Secretary determines, in accordance with section 103(b), that the petition meets the requirements of this title. “SEC. 103. DETERMINATION AND PAYMENT.“(a) Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section. “(b) Determination.—For each petition filed under this title, the Secretary shall determine whether the petition meets the requirements of this title. “(c) Payment.—“(1) In general.—To the extent there are sufficient amounts in the Fund to cover each payment, the Secretary shall pay, from the Fund, each petition that the Secretary determines meets the requirements of this title in the order received. “(2) Payments in case of deceased individuals.—“(A) In general.—In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on a petition filed by or on behalf of the individual, the payment shall be made as follows:“(i) If the individual is survived by a spouse who is living at the time of payment, the payment shall be made to such surviving spouse. “(ii) If the individual is not survived by a spouse described in clause (i), the payment shall be made in equal shares to all children of the individual who are living at the time of the payment. “(iii) If the individual is not survived by a person described in clause (i) or (ii), the payment shall be made in equal shares to the parents of the individual who are living at the time of the payment. “(iv) If the individual is not survived by a person described in clause (i), (ii), or (iii), the payment shall revert back to the Fund. “(B) Filing of petition by survivor.—If an individual eligible for payment under section 102(a) dies before filing a petition under this title, a survivor of the individual may file a petition for payment under this title on behalf of the individual if the survivor may receive payment under subparagraph (A). “(C) Definitions.—For purposes of this paragraph:“(i) The term ‘spouse’ means an individual who was lawfully married to the relevant individual at the time of death. “(ii) The term ‘child’ includes a recognized natural child, a stepchild who lived with the relevant individual in a regular parent-child relationship, and an adopted child. “(iii) The term ‘parent’ includes fathers and mothers through adoption. “(3) Timing of payment.—The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on the date of the enactment of this Act [Nov. 12, 1998] or after the expiration of the 5-year period beginning on the date of the enactment of this Act. “(d) Action on Petitions.—The Secretary shall complete the determination required by subsection (b) regarding a petition not later than 120 days after the date the petition is filed under this title. “(e) Humanitarian Nature of Payment.—This Act does not create or admit any claim of or on behalf of the individual against the United States or against any officer, employee, or agent thereof acting within the scope of employment or agency that relate to an HIV infection arising from treatment with antihemophilic factor, at any time during the period beginning on July 1, 1982, and ending on December 31, 1987. A payment under this Act shall, however, when accepted by or on behalf of the individual, be in full satisfaction of all such claims by or on behalf of that individual. “(f) Administrative Costs Not Paid From Fund.—No costs incurred by the Secretary in carrying out this title may be paid from the Fund or set off against, or otherwise deducted from, any payment made under subsection (c)(1). “(g) Termination of Duties of Secretary.—The duties of the Secretary under this section shall cease when the Fund terminates. “(h) Treatment of Payments Under Other Laws.—A payment under subsection (c)(1) to an individual—“(1) shall be treated for purposes of the Internal Revenue Code of 1986 as damages described in section 104(a)(2) of such Code; “(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in [section 3803(c)(2)(C) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3803/c/2/C&num=0&edition=prelim), United States Code, or the amount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and “(3) shall not be treated as a third party payment or payment in relation to a legal liability with respect to such benefits and shall not be subject (whether by subrogation or otherwise) to recovery, recoupment, reimbursement, or collection with respect to such benefits (including the Federal or State governments or any entity that provides such benefits under a contract). “(i) Regulatory Authority.—The Secretary may issue regulations necessary to carry out this title. “(j) Time of Issuance of Procedures.—The Secretary shall, through the promulgation of appropriate regulations, guidelines, or otherwise, first establish the procedures to carry out this title not later than 120 days after the date of the enactment of this Act [Nov. 12, 1998]. “SEC. 104. LIMITATION ON TRANSFER OF RIGHTS AND NUMBER OF PETITIONS.“(a) Rights Not Assignable or Transferable.—Any right under this title shall not be assignable or transferable. “(b) One Petition With Respect to Each Victim.—With respect to each individual described in paragraph (1), (2), or (3) of section 102(a), the Secretary may not make payment with respect to more than one petition filed in respect to an individual. “SEC. 105. TIME LIMITATION.“The Secretary may not make any payment with respect to any petition filed under this title unless the petition is filed within 3 years after the date of the enactment of this Act [Nov. 12, 1998]. “SEC. 106. CERTAIN CLAIMS NOT AFFECTED BY PAYMENT.“A payment made under section 103(c)(1) shall not be considered as any form of compensation, or reimbursement for a loss, for purposes of imposing liability on the individual receiving the payment, on the basis of such receipt, to repay any insurance carrier for insurance payments or to repay any person on account of worker’s compensation payments. A payment under this title shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker’s compensation. “SEC. 107. LIMITATION ON AGENT AND ATTORNEY FEES.“Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the petition of an individual under this title, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000. “SEC. 108. DEFINITIONS.“For purposes of this title:“(1) The term ‘AIDS’ means acquired immune deficiency syndrome. “(2) The term ‘Fund’ means the Ricky Ray Hemophilia Relief Fund. “(3) The term ‘HIV’ means human immunodeficiency virus. “(4) Unless otherwise provided, the term ‘Secretary’ means Secretary of Health and Human Services. “title ii—treatment of certain payments in hemophilia-clotting-factor suit under the ssi program“SEC. 201. TREATMENT OF CERTAIN PAYMENTS IN HEMOPHILIA-CLOTTING-FACTOR SUIT UNDER THE MEDICAID AND SSI PROGRAMS.“(a) Private Payments.—“(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of—“(A) medical assistance under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.]; or “(B) supplemental security income benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](./chapter-007-social-security.md#section-1381) et seq.]. “(2) Private payments described.—The payments described in this subsection are—“(A) payments made from any fund established pursuant to a class settlement in the case of Susan Walker v. Bayer Corporation, et al., 96–C–5024 (N.D. Ill.); and “(B) payments made pursuant to a release of all claims in a case—“(i) that is entered into in lieu of the class settlement referred to in subparagraph (A); and “(ii) that is signed by all affected parties in such case on or before the later of— “(I) December 31, 1997; or “(II) the date that is 270 days after the date on which such release is first sent to the persons (or the legal representative of such persons) to whom the payment is to be made. “(b) Government Payments.—“(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of supplemental security income benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](./chapter-007-social-security.md#section-1381) et seq.]. “(2) Government payments described.—The payments described in this subsection are payments made from the Fund established pursuant to section 101 of this Act.”
 
 
 <a id="section-300d"></a>
@@ -58791,6 +59799,111 @@ Nothing in this part may be construed to ease any restriction in Federal law app
 ## § 300d–82. Authorization of appropriations
 
 For the purpose of carrying out this part, there is authorized to be appropriated $100,000,000 for each of fiscal years 2010 through 2015.
+
+
+<a id="section-300d-91"></a>
+## § 300d–91. Military and civilian partnership for trauma readiness grant program
+**(a) Military trauma team placement program**
+
+(1) **In general** — The Secretary, acting through the Assistant Secretary for Preparedness and Response and in consultation with the Secretary of Defense, shall award grants to not more than 20 eligible high-acuity trauma centers to enable military trauma teams to provide, on a full-time basis, trauma care and related acute care at such trauma centers.
+
+(2) **Limitations** — In the case of a grant awarded under paragraph (1) to an eligible high-acuity trauma center, such grant—
+
+  (A) shall be for a period of at least 3 years and not more than 5 years (and may be renewed at the end of such period); and
+
+  (B) shall be in an amount that does not exceed $1,000,000 per year.
+
+(3) **Availability of funds** — Notwithstanding [section 1552 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1552&num=0&edition=prelim) or any other provision of law, funds available to the Secretary for obligation for a grant under this subsection shall remain available for expenditure for 100 days after the last day of the performance period of such grant.
+
+**(b) Military trauma care provider placement program**
+
+(1) **In general** — The Secretary, acting through the Assistant Secretary for Preparedness and Response and in consultation with the Secretary of Defense, shall award grants to eligible trauma centers to enable military trauma care providers to provide trauma care and related acute care at such trauma centers.
+
+(2) **Limitations** — In the case of a grant awarded under paragraph (1) to an eligible trauma center, such grant—
+
+  (A) shall be for a period of at least 1 year and not more than 3 years (and may be renewed at the end of such period); and
+
+  (B) shall be in an amount that does not exceed, in a year—
+
+    (i) $100,000 for each military trauma care provider that is a physician at such eligible trauma center; and
+
+    (ii) $50,000 for each other military trauma care provider at such eligible trauma center.
+
+**(c) Grant requirements**
+
+(1) **Deployment and public health emergencies** — As a condition of receipt of a grant under this section, a grant recipient shall agree to allow military trauma care providers providing care pursuant to such grant to—
+
+  (A) be deployed by the Secretary of Defense for military operations, for training, or for response to a mass casualty incident; and
+
+  (B) be deployed by the Secretary of Defense, in consultation with the Secretary of Health and Human Services, for response to a public health emergency pursuant to [section 247d of this title](./chapter-6a-public-health-service.md#section-247d).
+
+(2) **Use of funds** — Grants awarded under this section to an eligible trauma center may be used to train and incorporate military trauma care providers into such trauma center, including incorporation into operational exercises and training drills related to public health emergencies, expenditures for malpractice insurance, office space, information technology, specialty education and supervision, trauma programs, research, and applicable license fees for such military trauma care providers.
+
+**(d) Rule of construction** Nothing in this section shall be construed to affect any other provision of law that preempts State licensing requirements for health care professionals, including with respect to military trauma care providers.
+
+**(e) Reporting requirements**
+
+(1) **Report to the Secretary and the Secretary of Defense** — Each eligible trauma center or eligible high-acuity trauma center awarded a grant under subsection (a) or (b) for a year shall submit to the Secretary and the Secretary of Defense a report for such year that includes information on—
+
+  (A) the number and types of trauma cases managed by military trauma teams or military trauma care providers pursuant to such grant during such year;
+
+  (B) the ability to maintain the integration of the military trauma providers or teams of providers as part of the trauma center, including the financial effect of such grant on the trauma center;
+
+  (C) the educational effect on resident trainees in centers where military trauma teams are assigned;
+
+  (D) any research conducted during such year supported by such grant; and
+
+  (E) any other information required by the Secretaries for the purpose of evaluating the effect of such grant.
+
+(2) **Report to Congress** — Not less than once every 2 years, the Secretary, in consultation with the Secretary of Defense, shall submit a report to the congressional committees of jurisdiction that includes information on the effect of placing military trauma care providers in trauma centers awarded grants under this section on—
+
+  (A) maintaining military trauma care providers’ readiness and ability to respond to and treat battlefield injuries;
+
+  (B) providing health care to civilian trauma patients in urban and rural settings;
+
+  (C) the capability of trauma centers and military trauma care providers to increase medical surge capacity, including as a result of a large-scale event;
+
+  (D) the ability of grant recipients to maintain the integration of the military trauma providers or teams of providers as part of the trauma center;
+
+  (E) efforts to incorporate military trauma care providers into operational exercises and training and drills for public health emergencies; and
+
+  (F) the capability of military trauma care providers to participate as part of a medical response during or in advance of a public health emergency, as determined by the Secretary, or a mass casualty incident.
+
+**(f) Definitions** For purposes of this part:
+
+(1) **Eligible high-acuity trauma center** — The term “eligible high-acuity trauma center” means a Level I trauma center that satisfies each of the following:
+
+  (A) Such trauma center has an agreement with the Secretary of Defense to enable military trauma teams to provide trauma care and related acute care at such trauma center.
+
+  (B) At least 20 percent of patients treated at such trauma center in the most recent 3-month period for which data are available are treated for a major trauma at such trauma center.
+
+  (C) Such trauma center utilizes a risk-adjusted benchmarking system and metrics to measure performance, quality, and patient outcomes.
+
+  (D) Such trauma center is an academic training center—
+
+    (i) affiliated with a medical school;
+
+    (ii) that maintains residency programs and fellowships in critical trauma specialties and subspecialties, and provides education and supervision of military trauma team members according to those specialties and subspecialties; and
+
+    (iii) that undertakes research in the prevention and treatment of traumatic injury.
+
+  (E) Such trauma center serves as a medical and public health preparedness and response leader for its community, such as by participating in a partnership for State and regional hospital preparedness established under section 247d–3b or 247d–3c of this title.
+
+(2) **Eligible trauma center** — The term “eligible trauma center” means a Level I, II, or III trauma center that satisfies each of the following:
+
+  (A) Such trauma center has an agreement with the Secretary of Defense to enable military trauma care providers to provide trauma care and related acute care at such trauma center.
+
+  (B) Such trauma center utilizes a risk-adjusted benchmarking system and metrics to measure performance, quality, and patient outcomes.
+
+  (C) Such trauma center demonstrates a need for integrated military trauma care providers to maintain or improve the trauma clinical capability of such trauma center.
+
+(3) **Major trauma** — The term “major trauma” means an injury that is greater than or equal to 15 on the injury severity score.
+
+(4) **Military trauma team** — The term “military trauma team” means a complete military trauma team consisting of military trauma care providers.
+
+(5) **Military trauma care provider** — The term “military trauma care provider” means a member of the Armed Forces who furnishes emergency, critical care, and other trauma acute care services (including a physician, surgeon, physician assistant, nurse, nurse practitioner, respiratory therapist, flight paramedic, combat medic, or enlisted medical technician) or other military trauma care provider as the Secretary determines appropriate.
+
+**(g) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $11,500,000 for each of fiscal years 2019 through 2023.
 
 
 <a id="section-300e"></a>
@@ -69936,6 +71049,9 @@ Subsec. (d)(1). Pub. L. 96–502, § 3, inserted provision that such term does n
 #### Amendments
 2006—Pub. L. 109–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a national preparedness plan for carrying out health-related activities to prepare for and respond effectively to bioterrorism and other public health emergencies.
 
+#### Guidance for Participation in Exercises and Drills
+Pub. L. 116–22, title III, § 306, June 24, 2019, 133 Stat. 941, provided that: “Not later than 2 years after the date of enactment of this Act [June 24, 2019], the Secretary of Health and Human Services shall issue final guidance regarding the ability of personnel funded by programs authorized under this Act [see Tables for classification] (including the amendments made by this Act) to participate in drills and operational exercises related to all-hazards medical and public health preparedness and response. Such drills and operational exercises may include activities that incorporate medical surge capacity planning, medical countermeasure distribution and administration, and preparing for and responding to identified threats for that region. Such personnel may include State, local, Tribal, and territorial public health department or agency personnel funded under this Act (including the amendments made by this Act). The Secretary shall consult with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies as necessary and appropriate in the development of such guidance. The Secretary shall make the guidance available on the internet website of the Department of Health and Human Services.”
+
 #### Government Accountability Office Report
 Pub. L. 107–188, title I, § 157, June 12, 2002, 116 Stat. 633, provided that: “(a) In General [sic].—The Comptroller General shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, a report that describes—“(1) Federal activities primarily related to research on, preparedness for, and the management of the public health and medical consequences of a bioterrorist attack against the civilian population; “(2) the coordination of the activities described in paragraph (1); “(3) the effectiveness of such efforts in preparing national, State, and local authorities to address the public health and medical consequences of a potential bioterrorist attack against the civilian population; “(4) the activities and costs of the Civil Support Teams of the National Guard in responding to biological threats or attacks against the civilian population; “(5) the activities of the working group under subsection (a) and the efforts made by such group to carry out the activities described in such subsection; and “(6) the ability of private sector contractors to enhance governmental responses to biological threats or attacks.”
 
@@ -69944,11 +71060,11 @@ Pub. L. 107–188, title I, § 157, June 12, 2002, 116 Stat. 633, provided that:
 ## § 300hh–1. National Health Security Strategy
 **(a) In general**
 
-(1) **Preparedness and response regarding public health emergencies** — Beginning in 2014 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) 11 See References in Text note below. of title 6, or any successor plan.
+(1) **Preparedness and response regarding public health emergencies** — Beginning in 2018 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall describe potential emergency health security threats and identify the process for achieving the preparedness goals described in subsection (b) to be prepared to identify and respond to such threats and shall be consistent with the national preparedness goal (as described in [section 314(a)(19) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/a/19&num=0&edition=prelim)), the National Incident Management System (as defined in section 311(7) of such title), and the National Response Plan developed pursuant to section 314 of such title, or any successor plan.
 
-(2) **Evaluation of progress** — The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to [section 247d–3a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–3a/g&num=0&edition=prelim). Such evaluation shall include aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title.
+(2) **Evaluation of progress** — The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to [section 247d–3a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–3a/g&num=0&edition=prelim). Such evaluation shall include aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title, and an analysis of any changes to the evidence-based benchmarks and objective standards under sections 247d–3a and 247d–3b of this title.
 
-(3) **Public health workforce** — In 2009, the National Health Security Strategy shall include a national strategy for establishing an effective and prepared public health workforce, including defining the functions, capabilities, and gaps in such workforce, and identifying strategies to recruit, retain, and protect such workforce from workplace exposures during public health emergencies.
+(3) **Public health workforce** — In 2022, the National Health Security Strategy shall include a national strategy for establishing an effective and prepared public health workforce, including defining the functions, capabilities, and gaps in such workforce (including gaps in the environmental health and animal health workforces, as applicable), describing the status of such workforce, identifying strategies to recruit, retain, and protect such workforce from workplace exposures during public health emergencies, and identifying current capabilities to meet the requirements of [section 300hh–2 of this title](./chapter-6a-public-health-service.md#section-300hh-2).
 
 **(b) Preparedness goals** The National Health Security Strategy shall include provisions in furtherance of the following:
 
@@ -69960,15 +71076,17 @@ Pub. L. 107–188, title I, § 157, June 12, 2002, 116 Stat. 633, provided that:
 
 (2) **Public health** — Developing and sustaining Federal, State, local, and tribal essential public health security capabilities, including the following:
 
-  (A) Disease situational awareness domestically and abroad, including detection, identification, and investigation.
+  (A) Disease situational awareness domestically and abroad, including detection, identification, investigation, and related information technology activities.
 
-  (B) Disease containment including capabilities for isolation, quarantine, social distancing, and decontamination.
+  (B) Disease containment including capabilities for isolation, quarantine, social distancing, decontamination, relevant health care services and supplies, and transportation and disposal of medical waste.
 
   (C) Risk communication and public preparedness.
 
   (D) Rapid distribution and administration of medical countermeasures.
 
-(3) **Medical** — Increasing the preparedness, response capabilities, and surge capacity of hospitals, other health care facilities (including mental health and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care, and emergency medical service systems, with respect to public health emergencies (including related availability, accessibility, and coordination), which shall include developing plans for the following:
+  (E) Response to environmental hazards.
+
+(3) **Medical** — Increasing the preparedness, response capabilities, and surge capacity of hospitals, other health care facilities (including pharmacies, mental health facilities, and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care, and emergency medical service systems, with respect to public health emergencies (including related availability, accessibility, and coordination), which shall include developing plans for the following:
 
   (A) Strengthening public health emergency medical and trauma management and treatment capabilities.
 
@@ -69980,17 +71098,17 @@ Pub. L. 107–188, title I, § 157, June 12, 2002, 116 Stat. 633, provided that:
 
   (E) Effective utilization of any available public and private mobile medical assets (which may include such dental health assets) and integration of other Federal assets.
 
-  (F) Protecting health care workers and health care first responders from workplace exposures during a public health emergency.
+  (F) Protecting health care workers and health care first responders from workplace exposures during a public health emergency or exposures to agents that could cause a public health emergency.
 
-  (G) Optimizing a coordinated and flexible approach to the medical surge capacity of hospitals, other health care facilities, critical care, trauma care (which may include trauma centers), and emergency medical systems.
+  (G) Optimizing a coordinated and flexible approach to the emergency response and medical surge capacity of hospitals, other health care facilities, critical care, trauma care (which may include trauma centers), and emergency medical systems.
 
 (4) **At-risk individuals**
 
   (A) Taking into account the public health and medical needs of at-risk individuals, including the unique needs and considerations of individuals with disabilities, in the event of a public health emergency.
 
-  (B) For the purpose of this section and sections 247d–3a, 247d–6, and 247d–7e of this title, the term “at-risk individuals” means children, pregnant women, senior citizens and other individuals who have special needs in the event of a public health emergency, as determined by the Secretary.
+  (B) For the purpose of this chapter, the term “at-risk individuals” means children, pregnant women, senior citizens and other individuals who have access or functional needs in the event of a public health emergency, as determined by the Secretary.
 
-(5) **Coordination** — Minimizing duplication of, and ensuring coordination between, Federal, State, local, and tribal planning, preparedness, and response activities (including the State Emergency Management Assistance Compact). Such planning shall be consistent with the National Response Plan, or any successor plan, and National Incident Management System and the National Preparedness Goal.
+(5) **Coordination** — Minimizing duplication of, and ensuring coordination between, Federal, State, local, and tribal planning, preparedness, and response activities (including the State Emergency Management Assistance Compact and other applicable compacts). Such planning shall be consistent with the National Response Plan, or any successor plan, and National Incident Management System and the National Preparedness Goal.
 
 (6) **Continuity of operations** — Maintaining vital public health and medical services to allow for optimal Federal, State, local, and tribal operations in the event of a public health emergency.
 
@@ -70006,12 +71124,37 @@ Pub. L. 107–188, title I, § 157, June 12, 2002, 116 Stat. 633, provided that:
 
   (B) promoting familiarity with local medical and public health systems.
 
+(9) **Zoonotic disease, food, and agriculture** — Improving coordination among Federal, State, local, Tribal, and territorial entities (including through consultation with the Secretary of Agriculture) to prevent, detect, and respond to outbreaks of plant or animal disease (including zoonotic disease) that could compromise national security resulting from a deliberate attack, a naturally occurring threat, the intentional adulteration of food, or other public health threats, taking into account interactions between animal health, human health, and animals’ and humans’ shared environment as directly related to public health emergency preparedness and response capabilities, as applicable.
+
+(10) **Global health security** — Assessing current or potential health security threats from abroad to inform domestic public health preparedness and response capabilities.
+
 ### Statutory Notes
 
-#### References in Text
-[Section 314(6) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/6&num=0&edition=prelim), referred to in subsec. (a)(1), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, § 611(8), Oct. 4, 2006, 120 Stat. 1395.
-
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–22, § 101(1)(A), substituted “2018” for “2014” and “Such National Health Security Strategy shall describe potential emergency health security threats and identify the process for achieving the preparedness goals described in subsection (b) to be prepared to identify and respond to such threats and shall be consistent with the national preparedness goal (as described in [section 314(a)(19) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/a/19&num=0&edition=prelim)), the National Incident Management System (as defined in section 311(7) of such title), and the National Response Plan developed pursuant to section 314 of such title, or any successor plan.” for “Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to [section 314(6) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/6&num=0&edition=prelim), or any successor plan.”
+
+Subsec. (a)(2). Pub. L. 116–22, § 101(1)(B), inserted before period at end “, and an analysis of any changes to the evidence-based benchmarks and objective standards under sections 247d–3a and 247d–3b of this title”.
+
+Subsec. (a)(3). Pub. L. 116–22, § 101(1)(C), substituted “2022” for “2009” and “gaps in such workforce (including gaps in the environmental health and animal health workforces, as applicable), describing the status of such workforce, identifying strategies” for “gaps in such workforce, and identifying strategies” and inserted “, and identifying current capabilities to meet the requirements of [section 300hh–2 of this title](./chapter-6a-public-health-service.md#section-300hh-2)” before period at end.
+
+Subsec. (b)(2)(A). Pub. L. 116–22, § 101(2)(A)(i), substituted “investigation, and related information technology activities” for “and investigation”.
+
+Subsec. (b)(2)(B). Pub. L. 116–22, § 101(2)(A)(ii), substituted “decontamination, relevant health care services and supplies, and transportation and disposal of medical waste” for “and decontamination”.
+
+Subsec. (b)(2)(E). Pub. L. 116–22, § 101(2)(A)(iii), added subpar. (E).
+
+Subsec. (b)(3). Pub. L. 116–22, § 101(2)(B)(i), substituted “including pharmacies, mental health facilities,” for “including mental health” in introductory provisions.
+
+Subsec. (b)(3)(F). Pub. L. 116–22, § 101(2)(B)(ii), inserted “or exposures to agents that could cause a public health emergency” before period at end.
+
+Subsec. (b)(3)(G). Pub. L. 116–22, § 203(d), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “Optimizing a coordinated and flexible approach to the medical surge capacity of hospitals, other health care facilities, critical care, trauma care (which may include trauma centers), and emergency medical systems.”
+
+Subsec. (b)(4)(B). Pub. L. 116–22, § 303(a), substituted “this chapter,” for “this section and sections 247d–3a, 247d–6, and 247d–7e of this title,” and “access or functional” for “special”.
+
+Subsec. (b)(5). Pub. L. 116–22, § 101(2)(C), inserted “and other applicable compacts” after “Compact”.
+
+Subsec. (b)(9), (10). Pub. L. 116–22, § 101(2)(D), added pars. (9) and (10).
+
 2013—Subsec. (a)(1). Pub. L. 113–5, § 101(a)(1), substituted “2014” for “2009”.
 
 Subsec. (b)(1)(A). Pub. L. 113–5, § 101(a)(2)(A), inserted “, including drills and exercises to ensure medical surge capacity for events without notice” after “through drills and exercises”.
@@ -70078,7 +71221,7 @@ Barack Obama.
 ## § 300hh–10. Coordination of preparedness for and response to all-hazards public health emergencies
 **(a) In general** There is established within the Department of Health and Human Services the position of the Assistant Secretary for Preparedness and Response. The President, with the advice and consent of the Senate, shall appoint an individual to serve in such position. Such Assistant Secretary shall report to the Secretary.
 
-**(b) Duties** Subject to the authority of the Secretary, the Assistant Secretary for Preparedness and Response shall carry out the following functions:
+**(b) Duties** Subject to the authority of the Secretary, the Assistant Secretary for Preparedness and Response shall utilize experience related to public health emergency preparedness and response, biodefense, medical countermeasures, and other relevant topics to carry out the following functions:
 
 (1) **Leadership** — Serve as the principal advisor to the Secretary on all matters related to Federal public health and medical preparedness and response for public health emergencies.
 
@@ -70094,7 +71237,7 @@ Barack Obama.
 
   (C) *Emergency medical services* — Promote improved emergency medical services medical direction, system integration, research, and uniformity of data collection, treatment protocols, and policies with regard to public health emergencies.
 
-  (D) *Policy coordination and strategic direction* — Provide integrated policy coordination and strategic direction with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan developed pursuant to section 314(a)(6) 11 See References in Text note below. of title 6, or any successor plan, before, during, and following public health emergencies.
+  (D) *Policy coordination and strategic direction* — Provide integrated policy coordination and strategic direction, before, during, and following public health emergencies, with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan described in [section 314(a)(6) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/a/6&num=0&edition=prelim), or any successor plan; and such Federal responses covered by the National Cybersecurity Incident Response Plan developed under section 660(c) 11 See References in Text note below. of title 6, including public health emergencies or incidents related to cybersecurity threats that present a threat to national health security.
 
   (E) *Identification of inefficiencies* — Identify and minimize gaps, duplication, and other inefficiencies in medical and public health preparedness and response activities and the actions necessary to overcome these obstacles.
 
@@ -70112,27 +71255,35 @@ Barack Obama.
 
   (H) *National security priority* — On a periodic basis consult with, as applicable and appropriate, the Assistant to the President for National Security Affairs, to provide an update on, and discuss, medical and public health preparedness and response activities pursuant to this chapter and the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.], including progress on the development, approval, clearance, and licensure of medical countermeasures.
 
-(5) **Logistics** — In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies.
+  (I) *Threat awareness* — Coordinate with the Director of the Centers for Disease Control and Prevention, the Director of National Intelligence, the Secretary of Homeland Security, the Assistant to the President for National Security Affairs, the Secretary of Defense, and other relevant Federal officials, such as the Secretary of Agriculture, to maintain a current assessment of national security threats and inform preparedness and response capabilities based on the range of the threats that have the potential to result in a public health emergency.
+
+(5) **Logistics** — In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to [section 247d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim) or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
 
 (6) **Leadership** — Provide leadership in international programs, initiatives, and policies that deal with public health and medical emergency preparedness and response.
 
-(7) **Countermeasures budget plan** — Develop, and update not later than March 1 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a)), security countermeasures (as defined in [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b)), and qualified pandemic or epidemic products (as defined in [section 247d–6d of this title](./chapter-6a-public-health-service.md#section-247d-6d)) for each such threat. Each such plan shall—
+(7) **Countermeasures budget plan** — Develop, and update not later than March 15 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a)), security countermeasures (as defined in [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b)), and qualified pandemic or epidemic products (as defined in [section 247d–6d of this title](./chapter-6a-public-health-service.md#section-247d-6d)) for each such threat. Each such plan shall—
 
   (A) include consideration of the entire medical countermeasures enterprise, including—
 
     (i) basic research and advanced research and development;
 
-    (ii) approval, clearance, licensure, and authorized uses of products; and
+    (ii) approval, clearance, licensure, and authorized uses of products;
 
-    (iii) procurement, stockpiling, maintenance, and replenishment of all products in the Strategic National Stockpile;
+    (iii) procurement, stockpiling, maintenance, and potential replenishment (including manufacturing capabilities) of all products in the Strategic National Stockpile;
+
+    (iv) the availability of technologies that may assist in the advanced research and development of countermeasures and opportunities to use such technologies to accelerate and navigate challenges unique to countermeasure research and development; and
+
+    (v) potential deployment, distribution, and utilization of medical countermeasures; development of clinical guidance and emergency use instructions for the use of medical countermeasures; and, as applicable, potential postdeployment activities related to medical countermeasures;
 
   (B) inform prioritization of resources and include measurable outputs and outcomes to allow for the tracking of the progress made toward identified priorities;
 
   (C) identify medical countermeasure life-cycle costs to inform planning, budgeting, and anticipated needs within the continuum of the medical countermeasure enterprise consistent with [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b);
 
-  (D) be made available, not later than March 15 of each year, to the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives; and
+  (D) identify the full range of anticipated medical countermeasure needs related to research and development, procurement, and stockpiling, including the potential need for indications, dosing, and administration technologies, and other countermeasure needs as applicable and appropriate;
 
-  (E) not later than March 15 of each year, be made publicly available in a manner that does not compromise national security.
+  (E) be made available, not later than March 15 of each year, to the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives; and
+
+  (F) not later than March 15 of each year, be made publicly available in a manner that does not compromise national security.
 
 **(c) Functions** The Assistant Secretary for Preparedness and Response shall—
 
@@ -70164,7 +71315,7 @@ Barack Obama.
 
 **(d) Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan**
 
-(1) **In general** — Not later than 180 days after March 13, 2013, and every year thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs. Such strategy and plan shall be known as the “Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan”.
+(1) **In general** — Not later than March 15, 2020, and biennially thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Public Health Emergency Medical Countermeasures Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a). Such strategy and plan shall be known as the “Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan”.
 
 (2) **Requirements** — The plan under paragraph (1) shall—
 
@@ -70172,7 +71323,7 @@ Barack Obama.
 
   (B) evaluate the progress of all activities with respect to such countermeasures or products, including research, advanced research, development, procurement, stockpiling, deployment, distribution, and utilization;
 
-  (C) identify and prioritize near-, mid-, and long-term needs with respect to such countermeasures or products to address a chemical, biological, radiological, and nuclear threat or threats;
+  (C) identify and prioritize near-, mid-, and long-term needs with respect to such countermeasures or products, and ancillary medical supplies to assist with the utilization of such countermeasures or products, to address a chemical, biological, radiological, and nuclear threat or threats;
 
   (D) identify, with respect to each category of threat, a summary of all awards and contracts, including advanced research and development and procurement, that includes—
 
@@ -70180,7 +71331,7 @@ Barack Obama.
 
     (ii) an identification of projected timelines, anticipated funding allocations, benchmarks, and milestones for each medical countermeasure priority under subparagraph (C), including projected needs with regard to replenishment of the Strategic National Stockpile;
 
-  (E) be informed by the recommendations of the National Biodefense Science Board pursuant to [section 247d–7f of this title](./chapter-6a-public-health-service.md#section-247d-7f);
+  (E) be informed by the recommendations of the National Biodefense Science Board pursuant to [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g);
 
   (F) evaluate progress made in meeting timelines, allocations, benchmarks, and milestones identified under subparagraph (D)(ii);
 
@@ -70208,7 +71359,7 @@ Barack Obama.
 
     (iv) whether, with respect to each procurement that is approved by the President under [section 247d–6b(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/c/6&num=0&edition=prelim), a contract was entered into within one year after such approval by the President; and
 
-    (v) with respect to [section 247d–6a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a/d&num=0&edition=prelim), for the one-year period for which the report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
+    (v) with respect to [section 247d–6a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a/d&num=0&edition=prelim), for the 2-year period for which the report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
 
   (K) be made publicly available.
 
@@ -70226,19 +71377,65 @@ Barack Obama.
 
 **(e) Protection of national security** In carrying out subsections (b)(7) and (d), the Secretary shall ensure that information and items that could compromise national security, contain confidential commercial information, or contain proprietary information are not disclosed.
 
+**(f) Protection of national security from threats**
+
+(1) **In general** — In carrying out subsection (b)(3), the Assistant Secretary for Preparedness and Response shall implement strategic initiatives or activities to address threats, including pandemic influenza and which may include a chemical, biological, radiological, or nuclear agent (including any such agent with a significant potential to become a pandemic), that pose a significant level of risk to public health and national security based on the characteristics of such threat. Such initiatives shall include activities to—
+
+  (A) accelerate and support the advanced research, development, manufacturing capacity, procurement, and stockpiling of countermeasures, including initiatives under [section 247d–7e(c)(4)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–7e/c/4/F&num=0&edition=prelim);
+
+  (B) support the development and manufacturing of virus seeds, clinical trial lots, and stockpiles of novel virus strains; and
+
+  (C) maintain or improve preparedness activities, including for pandemic influenza.
+
+(2) **Authorization of appropriations**
+
+  (A) *In general* — To carry out this subsection, there is authorized to be appropriated $250,000,000 for each of fiscal years 2019 through 2023.
+
+  (B) *Supplement, not supplant* — Amounts appropriated under this paragraph shall be used to supplement and not supplant funds provided under sections 247d–7e(d) and 247d–6b(g) of this title.
+
+  (C) *Documentation required* — The Assistant Secretary for Preparedness and Response, in accordance with subsection (b)(7), shall document amounts expended for purposes of carrying out this subsection, including amounts appropriated under the heading “Public Health and Social Services Emergency Fund” under the heading “Office of the Secretary” under title II of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141) and allocated to carrying out [section 247d–7e(c)(4)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–7e/c/4/F&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
-[Section 314(a)(6) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/a/6&num=0&edition=prelim), referred to in subsec. (b)(4)(D), was in the original “section 504(6) of the Homeland Security Act of 2002” and was translated as meaning section 504(a)(6) of the Homeland Security Act of 2002 to reflect the probable intent of Congress.
+[Section 660(c) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section660/c&num=0&edition=prelim), referred to in subsec. (b)(4)(D), was in the original “section 228(c) of the Homeland Security Act of 2002”, and was translated as meaning section 2210(c) of the Homeland Security Act of 2002 to reflect the probable intent of Congress. Section 228 of the Homeland Security Act of 2002, meaning section 228 of Pub. L. 107–296, was renumbered section 2210 of Pub. L. 107–296 by Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to [section 660 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section660&num=0&edition=prelim), Domestic Security. Pub. L. 107–296 no longer contains a section 228.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(4)(H), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+
+The National Emergencies Act, referred to in subsec. (b)(5), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+
 Section 301 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(1)(A), is section 301 of Pub. L. 109–417, title III, Dec. 19, 2006, 120 Stat. 2853, which amended sections 247d–6 and 300hh–11 of this title and sections 313 and 314 of Title 6, Domestic Security, and enacted provisions set out as notes under [section 300hh–11 of this title](./chapter-6a-public-health-service.md#section-300hh-11) and [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
+
+The Consolidated Appropriations Act, 2018, referred to in subsec. (f)(2)(C), is Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 348. Title II of division H of the Act is title II of div. H of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 714, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 2811 of act July 1, 1944, was renumbered section 2812 and is classified to [section 300hh–11 of this title](./chapter-6a-public-health-service.md#section-300hh-11).
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–22, § 401(1), inserted “utilize experience related to public health emergency preparedness and response, biodefense, medical countermeasures, and other relevant topics to” after “shall” in introductory provisions.
+
+Subsec. (b)(4)(D). Pub. L. 116–22, § 703(b), amended subpar. (D) generally. Prior to amendment, text read as follows: “Provide integrated policy coordination and strategic direction with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan developed pursuant to [section 314(a)(6) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/a/6&num=0&edition=prelim), or any successor plan, before, during, and following public health emergencies.”
+
+Subsec. (b)(4)(I). Pub. L. 116–22, § 401(2), added subpar. (I).
+
+Subsec. (b)(5). Pub. L. 116–22, § 302(a), inserted at end “Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to [section 247d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim) or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.”
+
+Subsec. (b)(7). Pub. L. 116–22, § 501(1), substituted “March 15” for “March 1” in introductory provisions.
+
+Subsec. (b)(7)(A)(iii) to (v). Pub. L. 116–22, § 501(2), added cls. (iii) to (v) and struck out former cl. (iii) which read as follows: “procurement, stockpiling, maintenance, and replenishment of all products in the Strategic National Stockpile;”.
+
+Subsec. (b)(7)(D) to (F). Pub. L. 116–22, § 501(3), (4), added subpar. (D) and redesignated formers subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (d)(1). Pub. L. 116–22, § 402(b)(1), substituted “Not later than March 15, 2020, and biennially thereafter” for “Not later than 180 days after March 13, 2013, and every year thereafter” and “Public Health Emergency Medical Countermeasures Enterprise established under [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a)” for “Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs”.
+
+Subsec. (d)(2)(C). Pub. L. 116–22, § 302(b), inserted “, and ancillary medical supplies to assist with the utilization of such countermeasures or products,” after “products”.
+
+Subsec. (d)(2)(J)(v). Pub. L. 116–22, § 402(b)(2), substituted “2-year period” for “one-year period”.
+
+Subsec. (f). Pub. L. 116–22, § 404(b), added subsec. (f).
+
 2016—Subsec. (b)(7). Pub. L. 114–255, § 3083(1), in introductory provisions, substituted “Develop, and update not later than March 1 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in [section 247d–6a of this title](./chapter-6a-public-health-service.md#section-247d-6a)), security countermeasures (as defined in [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b)), and qualified pandemic or epidemic products (as defined in [section 247d–6d of this title](./chapter-6a-public-health-service.md#section-247d-6d)) for each such threat.” for “Develop, and update on an annual basis, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d).”
 
 Subsec. (b)(7)(D). Pub. L. 114–255, § 3083(3), substituted “, not later than March 15 of each year, to the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives; and” for “to the appropriate committees of Congress upon request.”
@@ -70263,14 +71460,60 @@ Pub. L. 113–5, title I, § 102(b), Mar. 13, 2013, 127 Stat. 168, provided that
 
 
 <a id="section-300hh-10a"></a>
-## § 300hh–10a. National Advisory Committee on Children and Disasters
+## § 300hh–10a. Public Health Emergency Medical Countermeasures Enterprise
+**(a) In general** The Secretary shall establish the Public Health Emergency Medical Countermeasures Enterprise (referred to in this section as the “PHEMCE”). The Assistant Secretary for Preparedness and Response shall serve as chair of the PHEMCE.
+
+**(b) Members** The PHEMCE shall include each of the following members, or the designee of such members:
+
+(1) The Assistant Secretary for Preparedness and Response.
+
+(2) The Director of the Centers for Disease Control and Prevention.
+
+(3) The Director of the National Institutes of Health.
+
+(4) The Commissioner of Food and Drugs.
+
+(5) The Secretary of Defense.
+
+(6) The Secretary of Homeland Security.
+
+(7) The Secretary of Agriculture.
+
+(8) The Secretary of Veterans Affairs.
+
+(9) The Director of National Intelligence.
+
+(10) Representatives of any other Federal agency, which may include the Director of the Biomedical Advanced Research and Development Authority, the Director of the Strategic National Stockpile, the Director of the National Institute of Allergy and Infectious Diseases, and the Director of the Office of Public Health Preparedness and Response, as the Secretary determines appropriate.
+
+**(c) Functions**
+
+(1) **In general** — The functions of the PHEMCE shall include the following:
+
+  (A) Utilize a process to make recommendations to the Secretary regarding research, advanced research, development, procurement, stockpiling, deployment, distribution, and utilization with respect to countermeasures, as defined in [section 247d–6b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/c&num=0&edition=prelim), including prioritization based on the health security needs of the United States. Such recommendations shall be informed by, when available and practicable, the National Health Security Strategy pursuant to [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1), the Strategic National Stockpile needs pursuant to [section 247d–6b of this title](./chapter-6a-public-health-service.md#section-247d-6b), and assessments of current national security threats, including chemical, biological, radiological, and nuclear threats, including emerging infectious diseases. In the event that members of the PHEMCE do not agree upon a recommendation, the Secretary shall provide a determination regarding such recommendation.
+
+  (B) Identify national health security needs, including gaps in public health preparedness and response related to countermeasures and challenges to addressing such needs (including any regulatory challenges), and support alignment of countermeasure procurement with recommendations to address such needs under subparagraph (A).
+
+  (C) Assist the Secretary in developing strategies related to logistics, deployment, distribution, dispensing, and use of countermeasures that may be applicable to the activities of the strategic national stockpile under [section 247d–6b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/a&num=0&edition=prelim).
+
+  (D) Provide consultation for the development of the strategy and implementation plan under [section 300hh–10(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–10/d&num=0&edition=prelim).
+
+(2) **Input** — In carrying out subparagraphs (B) and (C) of paragraph (1), the PHEMCE shall solicit and consider input from State, local, Tribal, and territorial public health departments or officials, as appropriate.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 300hh–10a, act July 1, 1944, ch. 373, title XXVIII, § 2811A, as added Pub. L. 113–5, title I, § 103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, § 305(a), June 24, 2019, 133 Stat. 936, which related to the National Advisory Committee on Children and Disasters, was transferred to [section 300hh–10b of this title](./chapter-6a-public-health-service.md#section-300hh-10b).
+
+
+<a id="section-300hh-10b"></a>
+## § 300hh–10b. National Advisory Committee on Children and Disasters
 **(a) Establishment** The Secretary, in consultation with the Secretary of Homeland Security, shall establish an advisory committee to be known as the “National Advisory Committee on Children and Disasters” (referred to in this section as the “Advisory Committee”).
 
 **(b) Duties** The Advisory Committee shall—
 
 (1) provide advice and consultation with respect to the activities carried out pursuant to [section 300hh–16 of this title](./chapter-6a-public-health-service.md#section-300hh-16), as applicable and appropriate;
 
-(2) evaluate and provide input with respect to the medical and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies; and
+(2) evaluate and provide input with respect to the medical, mental and behavioral, and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies; and
 
 (3) provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under [section 300hh–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b&num=0&edition=prelim).
 
@@ -70278,33 +71521,198 @@ Pub. L. 113–5, title I, § 102(b), Mar. 13, 2013, 127 Stat. 168, provided that
 
 **(d) Membership**
 
-(1) **In general** — The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 15 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
+(1) **In general** — The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 25 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
 
-(2) **Required members** — The Secretary, in consultation with such other Secretaries as may be appropriate, may appoint to the Advisory Committee under paragraph (1) such individuals as may be appropriate to perform the duties described in subsections (b) and (c), which may include—
+(2) **Required non-Federal members** — The Secretary, in consultation with such other heads of Federal agencies as may be appropriate, shall appoint to the Advisory Committee under paragraph (1) at least 13 individuals, including—
 
-  (A) the Assistant Secretary for Preparedness and Response;
+  (A) at least 2 non-Federal professionals with expertise in pediatric medical disaster planning, preparedness, response, or recovery;
 
-  (B) the Director of the Biomedical Advanced Research and Development Authority;
+  (B) at least 2 representatives from State, local, Tribal, or territorial agencies with expertise in pediatric disaster planning, preparedness, response, or recovery;
 
-  (C) the Director of the Centers for Disease Control and Prevention;
+  (C) at least 4 members representing health care professionals, which may include members with expertise in pediatric emergency medicine; pediatric trauma, critical care, or surgery; the treatment of pediatric patients affected by chemical, biological, radiological, or nuclear agents, including emerging infectious diseases; pediatric mental or behavioral health related to children affected by a public health emergency; or pediatric primary care; and
 
-  (D) the Commissioner of Food and Drugs;
+  (D) other members as the Secretary determines appropriate, of whom—
 
-  (E) the Director of the National Institutes of Health;
+    (i) at least one such member shall represent a children’s hospital;
 
-  (F) the Assistant Secretary of the Administration for Children and Families;
+    (ii) at least one such member shall be an individual with expertise in schools or child care settings;
 
-  (G) the Administrator of the Federal Emergency Management Agency;
+    (iii) at least one such member shall be an individual with expertise in children and youth with special health care needs; and
 
-  (H) at least two non-Federal health care professionals with expertise in pediatric medical disaster planning, preparedness, response, or recovery;
+    (iv) at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
 
-  (I) at least two representatives from State, local, territorial, or tribal agencies with expertise in pediatric disaster planning, preparedness, response, or recovery; and
+(3) **Federal members** — The Advisory Committee under paragraph (1) shall include the following Federal members or their designees (who may be nonvoting members, as determined by the Secretary):
 
-  (J) representatives from such Federal agencies (such as the Department of Education and the Department of Homeland Security) as determined necessary to fulfill the duties of the Advisory Committee, as established under subsections (b) and (c).
+  (A) The Assistant Secretary for Preparedness and Response.
 
-**(e) Meetings** The Advisory Committee shall meet not less than biannually.
+  (B) The Director of the Biomedical Advanced Research and Development Authority.
 
-**(f) Sunset** The Advisory Committee shall terminate on September 30, 2018.
+  (C) The Director of the Centers for Disease Control and Prevention.
+
+  (D) The Commissioner of Food and Drugs.
+
+  (E) The Director of the National Institutes of Health.
+
+  (F) The Assistant Secretary of the Administration for Children and Families.
+
+  (G) The Administrator of the Health Resources and Services Administration.
+
+  (H) The Administrator of the Federal Emergency Management Agency.
+
+  (I) The Administrator of the Administration for Community Living.
+
+  (J) The Secretary of Education.
+
+  (K) Representatives from such Federal agencies (such as the Substance Abuse and Mental Health Services Administration and the Department of Homeland Security) as the Secretary determines appropriate to fulfill the duties of the Advisory Committee under subsections (b) and (c).
+
+(4) **Term of appointment** — Each member of the Advisory Committee appointed under paragraph (2) shall serve for a term of 3 years, except that the Secretary may adjust the terms of the Advisory Committee appointees serving on June 24, 2019, or appointees who are initially appointed after such date, in order to provide for a staggered term of appointment for all members.
+
+(5) **Consecutive appointments; maximum terms** — A member appointed under paragraph (2) may serve not more than 3 terms on the Advisory Committee, and not more than two of such terms may be served consecutively.
+
+**(e) Meetings** The Advisory Committee shall meet not less than biannually. At least one meeting per year shall be an in-person meeting.
+
+**(f) Coordination** The Secretary shall coordinate duties and activities authorized under this section in accordance with [section 300hh–10e of this title](./chapter-6a-public-health-service.md#section-300hh-10e).
+
+**(g) Sunset** The Advisory Committee shall terminate on September 30, 2023.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a).
+
+#### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–22, § 305(a)(1), inserted “, mental and behavioral,” after “medical”.
+
+Subsec. (d)(1). Pub. L. 116–22, § 305(a)(2)(A), substituted “25 members” for “15 members”.
+
+Subsec. (d)(2) to (5). Pub. L. 116–22, § 305(a)(2)(B), added pars. (2) to (5) and struck out former par. (2) which related to required members of the Advisory Committee.
+
+Subsec. (e). Pub. L. 116–22, § 305(a)(3), inserted at end “At least one meeting per year shall be an in-person meeting.”
+
+Subsec. (f). Pub. L. 116–22, § 305(a)(5), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g) and substituted “2023” for “2018”.
+
+
+<a id="section-300hh-10c"></a>
+## § 300hh–10c. National Advisory Committee on Seniors and Disasters
+**(a) Establishment** The Secretary, in consultation with the Secretary of Homeland Security and the Secretary of Veterans Affairs, shall establish an advisory committee to be known as the National Advisory Committee on Seniors and Disasters (referred to in this section as the “Advisory Committee”).
+
+**(b) Duties** The Advisory Committee shall—
+
+(1) provide advice and consultation with respect to the activities carried out pursuant to [section 300hh–16 of this title](./chapter-6a-public-health-service.md#section-300hh-16), as applicable and appropriate;
+
+(2) evaluate and provide input with respect to the medical and public health needs of seniors related to preparation for, response to, and recovery from all-hazards emergencies; and
+
+(3) provide advice and consultation with respect to State emergency preparedness and response activities relating to seniors, including related drills and exercises pursuant to the preparedness goals under [section 300hh–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b&num=0&edition=prelim).
+
+**(c) Additional duties** The Advisory Committee may provide advice and recommendations to the Secretary with respect to seniors and the medical and public health grants and cooperative agreements as applicable to preparedness and response activities under this subchapter and subchapter III.
+
+**(d) Membership**
+
+(1) **In general** — The Secretary, in consultation with such other heads of agencies as appropriate, shall appoint not more than 17 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
+
+(2) **Required members** — The Advisory Committee shall include Federal members or their designees (who may be nonvoting members, as determined by the Secretary) and non-Federal members, as follows:
+
+  (A) The Assistant Secretary for Preparedness and Response.
+
+  (B) The Director of the Biomedical Advanced Research and Development Authority.
+
+  (C) The Director of the Centers for Disease Control and Prevention.
+
+  (D) The Commissioner of Food and Drugs.
+
+  (E) The Director of the National Institutes of Health.
+
+  (F) The Administrator of the Centers for Medicare & Medicaid Services.
+
+  (G) The Administrator of the Administration for Community Living.
+
+  (H) The Administrator of the Federal Emergency Management Agency.
+
+  (I) The Under Secretary for Health of the Department of Veterans Affairs.
+
+  (J) At least 2 non-Federal health care professionals with expertise in geriatric medical disaster planning, preparedness, response, or recovery.
+
+  (K) At least 2 representatives of State, local, Tribal, or territorial agencies with expertise in geriatric disaster planning, preparedness, response, or recovery.
+
+  (L) Representatives of such other Federal agencies (such as the Department of Energy and the Department of Homeland Security) as the Secretary determines necessary to fulfill the duties of the Advisory Committee.
+
+**(e) Meetings** The Advisory Committee shall meet not less frequently than biannually. At least one meeting per year shall be an in-person meeting.
+
+**(f) Coordination** The Secretary shall coordinate duties and activities authorized under this section in accordance with [section 300hh–10e of this title](./chapter-6a-public-health-service.md#section-300hh-10e).
+
+**(g) Sunset**
+
+(1) **In general** — The Advisory Committee shall terminate on September 30, 2023.
+
+(2) **Extension of Committee** — Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
+
+
+<a id="section-300hh-10d"></a>
+## § 300hh–10d. National Advisory Committee on Individuals With Disabilities and Disasters
+**(a) Establishment** The Secretary, in consultation with the Secretary of Homeland Security, shall establish a national advisory committee to be known as the National Advisory Committee on Individuals with Disabilities and Disasters (referred to in this section as the “Advisory Committee”).
+
+**(b) Duties** The Advisory Committee shall—
+
+(1) provide advice and consultation with respect to activities carried out pursuant to [section 300hh–16 of this title](./chapter-6a-public-health-service.md#section-300hh-16), as applicable and appropriate;
+
+(2) evaluate and provide input with respect to the medical, public health, and accessibility needs of individuals with disabilities related to preparation for, response to, and recovery from all-hazards emergencies; and
+
+(3) provide advice and consultation with respect to State emergency preparedness and response activities, including related drills and exercises pursuant to the preparedness goals under [section 300hh–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b&num=0&edition=prelim).
+
+**(c) Membership**
+
+(1) **In general** — The Secretary, in consultation with such other heads of agencies and departments as appropriate, shall appoint not more than 17 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
+
+(2) **Required members** — The Advisory Committee shall include Federal members or their designees (who may be nonvoting members, as determined by the Secretary) and non-Federal members, as follows:
+
+  (A) The Assistant Secretary for Preparedness and Response.
+
+  (B) The Administrator of the Administration for Community Living.
+
+  (C) The Director of the Biomedical Advanced Research and Development Authority.
+
+  (D) The Director of the Centers for Disease Control and Prevention.
+
+  (E) The Commissioner of Food and Drugs.
+
+  (F) The Director of the National Institutes of Health.
+
+  (G) The Administrator of the Federal Emergency Management Agency.
+
+  (H) The Chair of the National Council on Disability.
+
+  (I) The Chair of the United States Access Board.
+
+  (J) The Under Secretary for Health of the Department of Veterans Affairs.
+
+  (K) At least 2 non-Federal health care professionals with expertise in disability accessibility before, during, and after disasters, medical and mass care disaster planning, preparedness, response, or recovery.
+
+  (L) At least 2 representatives from State, local, Tribal, or territorial agencies with expertise in disaster planning, preparedness, response, or recovery for individuals with disabilities.
+
+  (M) At least 2 individuals with a disability with expertise in disaster planning, preparedness, response, or recovery for individuals with disabilities.
+
+**(d) Meetings** The Advisory Committee shall meet not less frequently than biannually. At least one meeting per year shall be an in-person meeting.
+
+**(e) Disability defined** For purposes of this section, the term “disability” has the meaning given such term in [section 12102 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12102).
+
+**(f) Coordination** The Secretary shall coordinate duties and activities authorized under this section in accordance with [section 300hh–10e of this title](./chapter-6a-public-health-service.md#section-300hh-10e).
+
+**(g) Sunset**
+
+(1) **In general** — The Advisory Committee shall terminate on September 30, 2023.
+
+(2) **Recommendation** — Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
+
+
+<a id="section-300hh-10e"></a>
+## § 300hh–10e. Advisory Committee Coordination
+**(a) In general** The Secretary shall coordinate duties and activities authorized under sections 300hh–10b, 300hh–10c, and 300hh–10d of this title, and make efforts to reduce unnecessary or duplicative reporting, or unnecessary duplicative meetings and recommendations under such sections, as practicable. Members of the advisory committees authorized under such sections, or their designees, shall annually meet to coordinate any recommendations, as appropriate, that may be similar, duplicative, or overlapping with respect to addressing the needs of children, seniors, and individuals with disabilities during public health emergencies. If such coordination occurs through an in-person meeting, it shall not be considered the required in-person meetings under any of sections 300hh–10b(e), 300hh–10c(e), or 300hh–10d(d) of this title.
+
+**(b) Coordination and alignment** The Secretary, acting through the employee designated pursuant to [section 300hh–16 of this title](./chapter-6a-public-health-service.md#section-300hh-16), shall align preparedness and response programs or activities to address similar, dual, or overlapping needs of children, seniors, and individuals with disabilities, and any challenges in preparing for and responding to such needs.
+
+**(c) Notification** The Secretary shall annually notify the congressional committees of jurisdiction regarding the steps taken to coordinate, as appropriate, the recommendations under this section, and provide a summary description of such coordination.
 
 
 <a id="section-300hh-11"></a>
@@ -70325,7 +71733,7 @@ Pub. L. 113–5, title I, § 102(b), Mar. 13, 2013, 127 Stat. 168, provided that
 
     (i) provide health services, health-related social services, other appropriate human services, and appropriate auxiliary services to respond to the needs of victims of a public health emergency, including at-risk individuals as applicable (whether or not determined to be a public health emergency under [section 247d of this title](./chapter-6a-public-health-service.md#section-247d)); or
 
-    (ii) be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified.
+    (ii) be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified, or there is a significant potential for a public health emergency.
 
   (B) *Ongoing activities* — The National Disaster Medical System shall carry out such ongoing activities as may be necessary to prepare for the provision of services described in subparagraph (A) in the event that the Secretary activates the National Disaster Medical System for such purposes.
 
@@ -70339,7 +71747,21 @@ Pub. L. 113–5, title I, § 102(b), Mar. 13, 2013, 127 Stat. 168, provided that
 
 (1) **In general** — Taking into account the findings from the joint review described under paragraph (2), the Secretary shall modify the policies of the National Disaster Medical System as necessary.
 
-(2) **Joint review and medical surge capacity strategic plan** — Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by [section 300hh–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–2/a&num=0&edition=prelim). As part of the National Health Security Strategy under [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1), the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary.
+(2) **Joint review and medical surge capacity strategic plan**
+
+  (A) *Review* — Not later than 180 days after June 24, 2019, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include—
+
+    (i) an evaluation of medical surge capacity, as described in [section 300hh–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–2/a&num=0&edition=prelim);
+
+    (ii) an assessment of the available workforce of the intermittent disaster response personnel described in subsection (c);
+
+    (iii) the capacity of the workforce described in clause (ii) to respond to all hazards, including capacity to simultaneously respond to multiple public health emergencies and the capacity to respond to a nationwide public health emergency;
+
+    (iv) the effectiveness of efforts to recruit, retain, and train such workforce; and
+
+    (v) gaps that may exist in such workforce and recommendations for addressing such gaps.
+
+  (B) *Updates* — As part of the National Health Security Strategy under [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1), the Secretary shall update the findings from the review under subparagraph (A) and provide recommendations to modify the policies of the National Disaster Medical System as necessary.
 
 (3) **Participation agreements for non-Federal entities** — In carrying out paragraph (1), the Secretary shall establish criteria regarding the participation of States and private entities in the National Disaster Medical System, including criteria regarding agreements for such participation. The criteria shall include the following:
 
@@ -70352,6 +71774,20 @@ Pub. L. 113–5, title I, § 102(b), Mar. 13, 2013, 127 Stat. 168, provided that
 (1) **In general** — For the purpose of assisting the National Disaster Medical System in carrying out duties under this section, the Secretary may appoint individuals to serve as intermittent personnel of such System in accordance with applicable civil service laws and regulations.
 
 (2) **Liability** — For purposes of [section 233(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section233/a&num=0&edition=prelim) and the remedies described in such section, an individual appointed under paragraph (1) shall, while acting within the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions. With respect to the participation of individuals appointed under paragraph (1) in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B), acts of individuals so appointed that are within the scope of such participation shall be considered within the scope of the appointment under paragraph (1) (regardless of whether the individuals receive compensation for such participation).
+
+(3) **Notification** — Not later than 30 days after the date on which the Secretary determines the number of intermittent disaster-response personnel of the National Disaster Medical System is insufficient to address a public health emergency or potential public health emergency, the Secretary shall submit to the congressional committees of jurisdiction a notification detailing—
+
+  (A) the impact such shortage could have on meeting public health needs and emergency medical personnel needs during a public health emergency; and
+
+  (B) any identified measures to address such shortage.
+
+(4) **Certain appointments**
+
+  (A) *In general* — If the Secretary determines that the number of intermittent disaster response personnel within the National Disaster Medical System under this section is insufficient to address a public health emergency or potential public health emergency, the Secretary may appoint candidates directly to personnel positions for intermittent disaster response within such system. The Secretary shall provide updates on the number of vacant or unfilled positions within such system to the congressional committees of jurisdiction each quarter for which this authority is in effect.
+
+  (B) *Sunset* — The authority under this paragraph shall expire on September 30, 2021.
+
+(5) **Service benefit** — Individuals appointed to serve under this subsection shall be considered eligible for benefits under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[42 U.S.C. 10281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10281&num=0&edition=prelim) et seq.]. The Secretary shall provide notification to any eligible individual of any effect such designation may have on other benefits for which such individual is eligible, including benefits from private entities.
 
 **(d) Certain employment issues regarding intermittent appointments**
 
@@ -70381,11 +71817,27 @@ Pub. L. 113–5, title I, § 102(b), Mar. 13, 2013, 127 Stat. 168, provided that
 
 **(f) Definition** For purposes of this section, the term “auxiliary services” includes mortuary services, veterinary services, and other services that are determined by the Secretary to be appropriate with respect to the needs referred to in subsection (a)(3)(A).
 
-**(g) Authorization of appropriations** For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under [section 247d of this title](./chapter-6a-public-health-service.md#section-247d) are available, there are authorized to be appropriated $52,700,000 for each of fiscal years 2014 through 2018.
+**(g) Authorization of appropriations** For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under [section 247d of this title](./chapter-6a-public-health-service.md#section-247d) are available, there are authorized to be appropriated $57,400,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
+#### Amendment of Section
+For termination of amendment by section 301(d)(1) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
+
+#### References in Text
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(5), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to subchapter XI (§ 10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2019—Subsec. (a)(3)(A)(ii). Pub. L. 116–22, § 301(a)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified.”
+
+Subsec. (b)(2). Pub. L. 116–22, § 301(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by [section 300hh–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–2/a&num=0&edition=prelim). As part of the National Health Security Strategy under [section 300hh–1 of this title](./chapter-6a-public-health-service.md#section-300hh-1), the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary.”
+
+Subsec. (c)(3), (4). Pub. L. 116–22, § 301(a)(3), added pars. (3) and (4).
+
+Subsec. (c)(5). Pub. L. 116–22, §§ 301(d)(1), (3), temporarily added par. (5). See Termination Date of 2019 Amendment note below.
+
+Subsec. (g). Pub. L. 116–22, § 301(a)(4), substituted “$57,400,000 for each of fiscal years 2019 through 2023” for “$52,700,000 for each of fiscal years 2014 through 2018”.
+
 2015—Subsec. (d)(2). Pub. L. 114–113 designated first, second, and third sentences of existing provisions as subpars. (A), (B), and (C), respectively, realigned margins, inserted subpar. headings, and added subpars. (D) and (E).
 
 2013—Subsec. (a)(3)(A)(i). Pub. L. 113–5, § 104(1)(A), inserted “, including at-risk individuals as applicable” after “victims of a public health emergency”.
@@ -70437,6 +71889,9 @@ Pub. L. 109–417, § 301(a)(3), redesignated subsec. (h) as (g). Former subsec.
 Subsec. (h). Pub. L. 109–417, § 301(a)(3), redesignated subsec. (h) as (g).
 
 Pub. L. 109–417, § 102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+
+#### Termination Date of 2019 Amendment
+Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or effect on Oct. 1, 2021, see section 301(d)(3) of Pub. L. 116–22, set out as a note under [section 10284 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Transfer of Functions
 Pub. L. 109–417, title III, § 301(b), Dec. 19, 2006, 120 Stat. 2854, provided that: “There shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Homeland Security, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto.”
@@ -70699,7 +72154,7 @@ Section was enacted as part of the Security and Accountability For Every Port Ac
 
 <a id="section-300hh-15"></a>
 ## § 300hh–15. Volunteer Medical Reserve Corps
-**(a) In general** Not later than 180 days after December 19, 2006, the Secretary, in collaboration with State, local, and tribal officials, shall build on State, local, and tribal programs in existence on December 19, 2006, to establish and maintain a Medical Reserve Corps (referred to in this section as the “Corps”) to provide for an adequate supply of volunteers in the case of a Federal, State, local, or tribal public health emergency. The Corps shall be headed by a Director who shall be appointed by the Secretary and shall oversee the activities of the Corps chapters that exist at the State, local, and tribal levels.
+**(a) In general** Not later than 180 days after December 19, 2006, the Secretary, in collaboration with State, local, and tribal officials, shall build on State, local, and tribal programs in existence on December 19, 2006, to establish and maintain a Medical Reserve Corps (referred to in this section as the “Corps”) to provide for an adequate supply of volunteers in the case of a Federal, State, local, or tribal public health emergency. The Secretary may appoint a Director to head the Corps and oversee the activities of the Corps chapters that exist at the State, local, Tribal, and territorial levels.
 
 **(b) State, local, and tribal coordination** The Corps shall be established using existing State, local, and tribal teams and shall not alter such teams.
 
@@ -70739,11 +72194,15 @@ Section was enacted as part of the Security and Accountability For Every Port Ac
 
 (3) **Limitation** — State, local, and tribal officials shall have no authority to designate a member of the Corps as Federal intermittent disaster-response personnel, but may request the services of such members.
 
-**(i) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $11,200,000 for each of fiscal years 2014 through 2018.
+**(i) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $11,200,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–22, § 301(b)(1), substituted “The Secretary may appoint a Director to head the Corps and oversee the activities of the Corps chapters that exist at the State, local, Tribal, and territorial levels.” for “The Corps shall be headed by a Director who shall be appointed by the Secretary and shall oversee the activities of the Corps chapters that exist at the State, local, and tribal levels.”
+
+Subsec. (i). Pub. L. 116–22, § 301(b)(2), substituted “2019 through 2023” for “2014 through 2018”.
+
 2013—Subsec. (d)(2). Pub. L. 113–5, § 203(b)(2)(A), inserted at end “Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.”
 
 Subsec. (i). Pub. L. 113–5, § 203(b)(2)(B), substituted “$11,200,000 for each of fiscal years 2014 through 2018” for “$22,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011”.
@@ -70766,13 +72225,17 @@ The Secretary, acting through such employee of the Department of Health and Huma
 
 (6) oversee curriculum development for the public health and medical response training program on medical management of casualties, as it concerns at-risk individuals as described in subparagraphs (A) through (C) of [section 247d–6(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6/a/2&num=0&edition=prelim);
 
-(7) disseminate and, as appropriate, update novel and best practices of outreach to and care of at-risk individuals before, during, and following public health emergencies in as timely a manner as is practicable, including from the time a public health threat is identified; and
+(7) disseminate and, as appropriate, update novel and best practices of outreach to and care of at-risk individuals before, during, and following public health emergencies in as timely a manner as is practicable, including from the time a public health threat is identified;
 
-(8) ensure that public health and medical information distributed by the Department of Health and Human Services during a public health emergency is delivered in a manner that takes into account the range of communication needs of the intended recipients, including at-risk individuals.
+(8) ensure that public health and medical information distributed by the Department of Health and Human Services during a public health emergency is delivered in a manner that takes into account the range of communication needs of the intended recipients, including at-risk individuals; and
+
+(9) facilitate coordination to ensure that, in implementing the situational awareness and biosurveillance network under [section 247d–4 of this title](./chapter-6a-public-health-service.md#section-247d-4), the Secretary considers incorporating data and information from Federal, State, local, Tribal, and territorial public health officials and entities relevant to detecting emerging public health threats that may affect at-risk individuals, such as pregnant and postpartum women and infants, including adverse health outcomes of such populations related to such emerging public health threats.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Par. (9). Pub. L. 116–22 added par. (9).
+
 2013—Par. (1). Pub. L. 113–5, § 101(b)(4), added par. (1). Former par. (1) redesignated (2).
 
 Par. (2). Pub. L. 113–5, § 101(b)(3), (5), redesignated par. (1) as (2) and amended it generally. Prior to amendment, par. (2) read as follows: “oversee the implementation of the National Preparedness goal of taking into account the public health and medical needs of at-risk individuals in the event of a public health emergency, as described in [section 300hh–1(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–1/b/4&num=0&edition=prelim);”. Former par. (2) redesignated (3).
@@ -70825,7 +72288,7 @@ The Secretary, acting through Administrator 11 So in original. Probably should b
 ## § 300hh–31. Epidemiology-laboratory capacity grants
 **(a) In general** Subject to the availability of appropriations, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish an Epidemiology and Laboratory Capacity Grant Program to award grants to State health departments as well as local health departments and tribal jurisdictions that meet such criteria as the Director determines appropriate. Academic centers that assist State and eligible local and tribal health departments may also be eligible for funding under this section as the Director determines appropriate. Grants shall be awarded under this section to assist public health agencies in improving surveillance for, and response to, infectious diseases and other conditions of public health importance by—
 
-(1) strengthening epidemiologic capacity to identify and monitor the occurrence of infectious diseases and other conditions of public health importance;
+(1) strengthening epidemiologic capacity to identify and monitor the occurrence of infectious diseases, including mosquito and other vector-borne diseases, and other conditions of public health importance;
 
 (2) enhancing laboratory practice as well as systems to report test orders and results electronically;
 
@@ -70833,13 +72296,20 @@ The Secretary, acting through Administrator 11 So in original. Probably should b
 
 (4) developing and implementing prevention and control strategies.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to carry out this section $190,000,000 for each of fiscal years 2010 through 2013, of which—
+**(b) Authorization of appropriations** There are authorized to be appropriated to carry out this section $190,000,000 for each of fiscal years 2019 through 2023, of which—
 
 (1) not less than $95,000,000 shall be made available each such fiscal year for activities under paragraphs (1) and (4) of subsection (a);
 
 (2) not less than $60,000,000 shall be made available each such fiscal year for activities under subsection (a)(3); and
 
 (3) not less than $32,000,000 shall be made available each such fiscal year for activities under subsection (a)(2).
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–22, § 607(b)(1), inserted “, including mosquito and other vector-borne diseases,” after “infectious diseases”.
+
+Subsec. (b). Pub. L. 116–22, § 607(b)(2), substituted “2019 through 2023” for “2010 through 2013” in introductory provisions.
 
 
 <a id="section-300h-1"></a>
@@ -71884,7 +73354,7 @@ In this subchapter:
 
 (11) **National Coordinator** — The term “National Coordinator” means the head of the Office of the National Coordinator for Health Information Technology established under [section 300jj–11(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–11/a&num=0&edition=prelim).
 
-(12) **Pharmacist** — The term “pharmacist” has the meaning given such term in [section 384(2) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section384/2&num=0&edition=prelim).
+(12) **Pharmacist** — The term “pharmacist” has the meaning given such term in section 384(2) 33 So in original. Probably should be “(a)(2)”. of title 21.
 
 (13) **Qualified electronic health record** — The term “qualified electronic health record” means an electronic record of health-related information on an individual that—
 
@@ -71900,7 +73370,7 @@ In this subchapter:
 
     (iv) to exchange electronic health information with, and integrate such information from other sources.
 
-(15) **33 So in original. There is no par. (14). State** — The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+(15) **44 So in original. There is no par. (14). State** — The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
 ### Statutory Notes
 
@@ -73945,7 +75415,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(6)(E), is ac
 
     (ii) the program established under [section 1455b of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1455b&num=0&edition=prelim);
 
-    (iii) the agricultural water quality protection program established under chapter 2 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3838](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3838&num=0&edition=prelim) et seq.);
+    (iii) the agricultural water quality protection program established under chapter 2 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3838](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3838&num=0&edition=prelim) et seq.);11 See References in Text note below.
 
     (iv) the sole source aquifer protection program established under [section 300h–6 of this title](./chapter-6a-public-health-service.md#section-300h-6);
 
@@ -74008,7 +75478,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(6)(E), is ac
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§ 3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, § 1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§ 3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, § 336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
 
 #### Amendments
 2018—Subsec. (e). Pub. L. 115–270 substituted “2020 through 2021” for “1997 through 2003”.
@@ -76235,7 +77705,7 @@ The WTC Program Administrator shall institute a program that provides education 
 
 (4) **Numerical limitation on eligible WTC responders**
 
-  (A) *In general* — The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 25,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
+  (A) *In general* — The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
 
   (B) *Process* — In implementing subparagraph (A), the WTC Program Administrator shall—
 
@@ -76258,7 +77728,12 @@ The WTC Program Administrator shall institute a program that provides education 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(4)(A). Pub. L. 116–59 substituted “75,000” for “25,000”.
+
 2015—Subsec. (a)(4)(B)(i)(II). Pub. L. 114–113 struck out “through the end of fiscal year 2020” after “who are enrolled”.
+
+#### Rule of Construction
+Pub. L. 116–59, div. B, title VI, § 1602(c), Sept. 27, 2019, 133 Stat. 1107, provided that: “Nothing in this section [amending this section and [section 300mm–31 of this title](./chapter-6a-public-health-service.md#section-300mm-31)], or the amendments made by this section, shall alter the annual limitations on amounts appropriated to the World Trade Center Health Program Fund under section 3351(a)(2) of the Public Health Service Act ([42 U.S.C. 300mm–61(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300mm–61/a/2&num=0&edition=prelim)).”
 
 
 <a id="section-300mm-22"></a>
@@ -76631,7 +78106,7 @@ Subsec. (a)(6)(F), (G). Pub. L. 114–113, § 302(e)(2), added subpars. (F) and 
 
 (3) **Numerical limitation on certified-eligible WTC survivors**
 
-  (A) *In general* — The total number of individuals not described in paragraph (1)(A)(i) who may be certified as certified-eligible WTC survivors under paragraph (2)(B) shall not exceed 25,000 at any time.
+  (A) *In general* — The total number of individuals not described in paragraph (1)(A)(i) who may be certified as certified-eligible WTC survivors under paragraph (2)(B) shall not exceed 75,000 at any time.
 
   (B) *Process* — In implementing subparagraph (A), the WTC Program Administrator shall—
 
@@ -76656,7 +78131,12 @@ Subsec. (a)(6)(F), (G). Pub. L. 114–113, § 302(e)(2), added subpars. (F) and 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(3)(A). Pub. L. 116–59 substituted “75,000” for “25,000”.
+
 2015—Subsec. (a)(3)(B)(i)(II). Pub. L. 114–113 struck out “through the end of fiscal year 2020” after “certifications”.
+
+#### Rule of Construction
+Nothing in amendment made by Pub. L. 116–59 to alter the annual limitations on amounts appropriated to the World Trade Center Health Program Fund under [section 300mm–61(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300mm–61/a/2&num=0&edition=prelim), see section 1602(c) of Pub. L. 116–59, set out as a note under [section 300mm–21 of this title](./chapter-6a-public-health-service.md#section-300mm-21).
 
 
 <a id="section-300mm-32"></a>
@@ -79218,7 +80698,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 ### Statutory Notes
 
-#### National Milestones to Measure Success in Curtailing the Opioid Crisis
+#### National Milestones To Measure Success in Curtailing the Opioid Crisis
 Pub. L. 115–271, title VII, § 7023, Oct. 24, 2018, 132 Stat. 4012, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), in coordination with the Administrator of the Drug Enforcement Administration and the Director of the Office of National Drug Control Policy, shall develop or identify existing national indicators (referred to in this section as the ‘national milestones’) to measure success in curtailing the opioid crisis, with the goal of significantly reversing the incidence and prevalence of opioid misuse and abuse, and opioid-related morbidity and mortality in the United States within 5 years of such date of enactment. “(b) National Milestones to End the Opioid Crisis.—The national milestones under subsection (a) shall include the following:“(1) Not fewer than 10 indicators or metrics to accurately and expediently measure progress in meeting the goal described in subsection (a), which shall, as appropriate, include, indicators or metrics related to—“(A) the number of fatal and non-fatal opioid overdoses; “(B) the number of emergency room visits related to opioid misuse and abuse; “(C) the number of individuals in sustained recovery from opioid use disorder; “(D) the number of infections associated with illicit drug use, such as HIV, viral hepatitis, and infective endocarditis, and available capacity for treating such infections; “(E) the number of providers prescribing medication-assisted treatment for opioid use disorders, including in primary care settings, community health centers, jails, and prisons; “(F) the number of individuals receiving treatment for opioid use disorder; and “(G) additional indicators or metrics, as appropriate, such as metrics pertaining to specific populations, including women and children, American Indians and Alaskan Natives, individuals living in rural and non-urban areas, and justice-involved populations, that would further clarify the progress made in addressing the opioid crisis. “(2) A reasonable goal, such as a percentage decrease or other specified metric, that signifies progress in meeting the goal described in subsection (a), and annual targets to help achieve that goal. “(c) Consideration of Other Substance Use Disorders.—In developing the national milestones under subsection (b), the Secretary shall, as appropriate, consider other substance use disorders in addition to opioid use disorder. “(d) Extension of Period.—If the Secretary determines that the goal described in subsection (a) will not be achieved with respect to any indicator or metric established under subsection (b)(2) within 5 years of the date of enactment of this Act, the Secretary may extend the timeline for meeting such goal with respect to that indicator or metric. The Secretary shall include with any such extension a rationale for why additional time is needed and information on whether significant changes are needed in order to achieve such goal with respect to the indicator or metric. “(e) Annual Status Update.—Not later than one year after the date of enactment of this Act, the Secretary shall make available on the Internet website of the Department of Health and Human Services, and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, an update on the progress, including expected progress in the subsequent year, in achieving the goals detailed in the national milestones. Each such update shall include the progress made in the first year or since the previous report, as applicable, in meeting each indicator or metric in the national milestones.”
 
 
@@ -80135,7 +81615,7 @@ Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in p
 
 (2) the term “accredited” has the same meaning as in section 292a(5) 1 of this title.
 
-**(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, such sums as may be necessary for each of the fiscal years 1993 through 2005, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, $30,387,656 for fiscal year 2014, and $20,213,000 for each of fiscal years 2015 through 2019.
+**(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, such sums as may be necessary for each of the fiscal years 1993 through 2005, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, $30,387,656 for fiscal year 2014, $20,213,000 for each of fiscal years 2015 through 2019, and $22,334,000 for each of fiscal years 2020 through 2024.
 
 ### Statutory Notes
 
@@ -80145,6 +81625,8 @@ Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in p
 [Section 292a of this title](./chapter-6a-public-health-service.md#section-292a), referred to in subsec. (c), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see [section 295p of this title](./chapter-6a-public-health-service.md#section-295p).
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–49 substituted “2014,” for “2014, and” and inserted before period at end “, and $22,334,000 for each of fiscal years 2020 through 2024”.
+
 2014—Subsec. (d). Pub. L. 113–180 substituted “$30,387,656” for “and $30,387,656” and inserted before period at end “, and $20,213,000 for each of fiscal years 2015 through 2019”.
 
 2010—Subsec. (a). Pub. L. 111–148, § 5603(1), substituted “4-year period (with an optional 5th year” for “3-year period (with an optional 4th year”.

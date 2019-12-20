@@ -235,9 +235,12 @@ Act July 26, 1946, ch. 672, title I, 60 Stat. 684, provided in part: “On Novem
 <a id="section-49c-1"></a>
 ## § 49c–1. Transfer to States of property used by United States Employment Service
 
-For the purpose of assisting the State employment services established and maintained in accordance with the terms of this chapter, the Secretary of Labor is authorized without payment of compensation to transfer and assign to the States in which it is located all property, including records, files, and office equipment, used by the United States Employment Service in its administrative and local employment offices in the respective States, except the records, files, and property used in the Veterans’ Service and in the Farm Placement Service maintained under this chapter, as soon as such States establish and maintain systems of public employment offices, in accordance with the terms of sections 49c, 49d, and 49g of this title and the regulations promulgated thereunder.
+For the purpose of assisting the State employment services established and maintained in accordance with the terms of the Act of June 6, 1933, entitled “An Act to provide for the establishment of a National Employment System and for cooperation with the States in the promotion of such system, and for other purposes”, as amended (48 Stat. 113; 49 Stat. 216) [[29 U.S.C. 49](./chapter-4b-federal-employment-service.md#section-49) et seq.], the Secretary of Labor is authorized without payment of compensation to transfer and assign to the States in which it is located all property, including records, files, and office equipment, used by the United States Employment Service in its administrative and local employment offices in the respective States, except the records, files, and property used in the Veterans’ Service and in the Farm Placement Service maintained under the said Act, as soon as such States establish and maintain systems of public employment offices, in accordance with the terms of sections 4, 5, and 8 of the said Act [[29 U.S.C. 49c](./chapter-4b-federal-employment-service.md#section-49c), 49d, 49g] and the regulations promulgated thereunder.
 
 ### Statutory Notes
+
+#### References in Text
+Act of June 6, 1933, and the said Act, referred to in text, are act June 6, 1933, ch. 49, 48 Stat. 113, known as the Wagner-Peyser Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49) and Tables.
 
 #### Codification
 This section was not enacted as part of the Wagner-Peyser Act which comprises this chapter.
@@ -861,7 +864,11 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
   (A) consult with State and local employers, participants, and local workforce investment boards about the labor market relevance of the data to be collected and disseminated through the statewide workforce and labor market information system;
 
-  (B) consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;
+  (B) consult with eligible agencies (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim))), State educational agencies, and local educational agencies concerning the provision of workforce and labor market information in order to—
+
+    (i) meet the needs of secondary school and postsecondary school students who seek such information; and
+
+    (ii) annually inform the development and implementation of programs of study defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim)), and career pathways;
 
   (C) collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1);
 
@@ -871,9 +878,11 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
   (F) conduct such other data collection, analysis, and dissemination activities as will ensure an effective statewide workforce and labor market information system;
 
-  (G) actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data; and
+  (G) actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data;
 
-  (H) utilize the quarterly records described in [section 3141(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/i/2&num=0&edition=prelim) to assist the State and other States in measuring State progress on State performance measures.
+  (H) utilize the quarterly records described in [section 3141(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/i/2&num=0&edition=prelim) to assist the State and other States in measuring State progress on State performance measures; and
+
+  (I) provide, on an annual and timely basis to each eligible agency (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim))), the data and information described in subparagraphs (A) and (B) of subsection (a)(1).
 
 (3) **Rule of construction** — Nothing in this section shall be construed as limiting the ability of a State agency to conduct additional data collection, analysis, and dissemination activities with State funds or with Federal funds from sources other than this section.
 
@@ -884,27 +893,6 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 **(h) “Local area” defined** In this section, the term “local area” means the smallest geographical area for which data can be produced with statistical reliability.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)(2)
-Pub. L. 115–224, § 4, title III, § 301, July 31, 2018, 132 Stat. 1564, 1622, provided that, effective July 1, 2019, subsection (e)(2) of this section is amended—
-
-(1) by striking subparagraph (B) and inserting the following:
-
-“(B) consult with eligible agencies (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim))), State educational agencies, and local educational agencies concerning the provision of workforce and labor market information in order to—
-
-“(i) meet the needs of secondary school and postsecondary school students who seek such information; and
-
-“(ii) annually inform the development and implementation of programs of study defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim)), and career pathways;”;
-
-(2) in subparagraph (G), by striking “and” after the semicolon;
-
-(3) in subparagraph (H), by striking the period at the end and inserting “; and”; and
-
-(4) by adding at the end the following:
-
-“(I) provide, on an annual and timely basis to each eligible agency (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim))), the data and information described in subparagraphs (A) and (B) of subsection (a)(1).”
-
-See 2018 Amendment notes below.
 
 #### References in Text
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to [section 2864(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/d&num=0&edition=prelim). The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
@@ -952,6 +940,9 @@ Subsec. (g). Pub. L. 113–128, § 308(g), substituted “$60,153,000 for fiscal
 Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(A)], struck out “of this section” after “statistical purposes”.
 
 Subsec. (e)(2)(G). Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(B)], and Pub. L. 105–332, § 5(b)(1)(B), amended subpar. (G) identically, substituting “comple­mentarity” for “complementary”.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim), Education.

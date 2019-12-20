@@ -491,7 +491,7 @@ Subsec. (f). Pub. L. 115–334, § 9002(2), amended subsec. (f) generally. Prior
 
 Subsecs. (h), (i). Pub. L. 115–334, § 9002(4), added subsecs. (h) and (i). Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
 
-Subsecs. (j), (k). Pub. L. 115–334, § 9002(3), redesignated subsecs. (h) and (i) as (j) and (k), respectively. Former subsec. (j) redesignated (l)
+Subsecs. (j), (k). Pub. L. 115–334, § 9002(3), redesignated subsecs. (h) and (i) as (j) and (k), respectively. Former subsec. (j) redesignated (l).
 
 Subsec. (k)(1). Pub. L. 115–334, § 9002(5)(A), substituted “2023” for “2018”.
 
@@ -1079,7 +1079,7 @@ A prior section 8107, Pub. L. 107–171, title IX, § 9007, May 13, 2002, 116 St
 
 Subsec. (c)(3)(D). Pub. L. 115–334, § 9007(1)(B), added subpar. (D).
 
-Subsec. (e). Pub. L. 115–334, § 9007(2), substituted “subsection (f)” for “subsection (g)” in pars, (1) and (2).
+Subsec. (e). Pub. L. 115–334, § 9007(2), substituted “subsection (f)” for “subsection (g)” in pars. (1) and (2).
 
 Subsec. (f). Pub. L. 115–334, § 9007(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than 4 years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a report on the implementation of this section, including the outcomes achieved by projects funded under this section.”
 
@@ -1562,7 +1562,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ### Statutory Notes
 
-Section, Pub. L. 107–171, title IX, § 9009, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2085; amended Pub. L. 112–240, title VII, § 701(f)(8), Jan. 2, 2013, 126 Stat. 2365, established Rural Energy Self-Sufficiency Initiative.
+Section, Pub. L. 107–171, title IX, § 9009, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2085; amended Pub. L. 112–240, title VII, § 701(f)(8), Jan. 2, 2013, 126 Stat. 2365, established the Rural Energy Self-Sufficiency Initiative.
 
 A prior section 8109, Pub. L. 107–171, title IX, § 9011, as added Pub. L. 108–199, div. A, title VII, § 778(b), Jan. 23, 2004, 118 Stat. 41, related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by Pub. L. 110–246. See [section 8114 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8114).
 
@@ -2085,7 +2085,7 @@ Section, Pub. L. 107–171, title IX, § 9012, as added Pub. L. 110–234, title
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Pub. L. 115–334 amended section generally. Prior to amendment, text related to the Community Wood Energy Program.
+2018—Pub. L. 115–334 amended section generally. Prior to amendment, section related to the Community Wood Energy Program.
 
 2014—Subsec. (a). Pub. L. 113–79, § 9012(a), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
@@ -2223,7 +2223,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-Section 7511(a)(4), referred to in subsec. (c)(1)(D)(iv)(II) and (III), means section 7511(a)(4) of Pub. L. 110–246.
+Section 7511(a)(4), referred to in subsec. (c)(1)(D)(iv)(II), (III), means section 7511(a)(4) of Pub. L. 110–246.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -2234,7 +2234,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 Provisions similar to those in this section were contained in [section 8109 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8109) prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
-2018—Subsec. (c)(1)(C)(iv)(IV). Pub. L. 115–334, § 7614(b)(4)(A), struck out subcl. (IV). Prior to amendment, text read as follows: “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.”
+2018—Subsec. (c)(1)(C)(iv)(IV). Pub. L. 115–334, § 7614(b)(4)(A), struck out subcl. (IV). Text read as follows: “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.”
 
 Subsec. (g). Pub. L. 115–334, § 7414, substituted “2023” for “2018”.
 
@@ -2271,7 +2271,7 @@ Subsec. (f)(1). Pub. L. 113–79, § 7516(b), substituted “subsection (c)(1)(C
 Subsec. (g). Pub. L. 113–79, § 7516(a)(5), substituted “2018” for “2012”.
 
 #### Effective Date of 2018 Amendment
-Amendment by section 7614(b)(4)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by section 7614(b)(4)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

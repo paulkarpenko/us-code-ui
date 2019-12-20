@@ -229,29 +229,35 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
     (iii) *Assistance from Secretary of Agriculture and Secretary of the Interior* — To the extent practicable, the Secretary of Agriculture and the Secretary of the Interior shall expedite any request for a permit to use public land under clause (ii)(VI).
 
-(4) **Annual report** — The Interagency Coordinating Committee shall transmit, at the time of the President’s budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. Such report shall include—
+(4) **Biennial report**
 
-  (A) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); 22 See References in Text note below.
+  (A) *In general* — Not less frequently than once every two years, the Interagency Coordinating Committee shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on the Program. Such report shall include—
 
-  (B) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); 2
+    (i) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);
 
-  (C) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I); 2
+    (ii) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);
 
-  (D) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
+    (iii) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I);
 
-  (E) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program; and
+    (iv) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
 
-  (F) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i).
+    (v) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program;
+
+    (vi) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i); and
+
+    (vii) a statement regarding whether the Administrator of the Federal Emergency Management Agency has lowered or waived the cost share requirement for assistance provided under subsection (b)(2)(A)(i).
+
+  (B) *Support for preparation of report* — Each head of a Program agency shall submit to the Director of the National Institute of Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.
 
 (5) **Advisory Committee**
 
-  (A) *In general* — The Director shall establish an Advisory Committee on Earthquake Hazards Reduction of at least 11 members, none of whom may be an employee (as defined in subparagraphs (A) through (F) of [section 7342(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342/a/1&num=0&edition=prelim) 33 So in original. Probably should be followed by a closing parenthesis. including representatives of research and academic institutions, industry standards development organizations, State and local government, and financial communities who are qualified to provide advice on earthquake hazards reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
+  (A) *In general* — The Director shall establish an Advisory Committee on Earthquake Hazards Reduction of at least 11 members, none of whom may be an employee (as defined in subparagraphs (A) through (F) of [section 7342(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342/a/1&num=0&edition=prelim) 22 So in original. Probably should be followed by a closing parenthesis. including representatives of research and academic institutions, industry standards development organizations, State and local government, and financial communities who are qualified to provide advice on earthquake hazards reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
 
   (B) *Assessment* — The Advisory Committee shall assess—
 
     (i) trends and developments in the science and engineering of earthquake hazards reduction;
 
-    (ii) effectiveness of the Program in carrying out the activities under (a)(2) 44 So in original. Probably should be preceded by “subsection”.;
+    (ii) effectiveness of the Program in carrying out the activities under (a)(2) 33 So in original. Probably should be preceded by “subsection”.;
 
     (iii) the need to revise the Program; and
 
@@ -265,7 +271,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (1) **Lead agency** — The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute shall—
 
-  (A) ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning 55 So in original. Probably should be followed by a comma. constructing, evaluating, and retrofitting buildings and lifeline infrastructure;
+  (A) ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning 44 So in original. Probably should be followed by a comma. constructing, evaluating, and retrofitting buildings and lifeline infrastructure;
 
   (B) support the development of performance-based seismic engineering tools, and work with appropriate groups to promote the commercial application of such tools, through earthquake-related building codes, standards, and construction practices;
 
@@ -319,7 +325,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (G) support regional seismic networks, which shall complement the National Seismic Network; and 1
 
-  (H) work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.66 So in original. The period probably should be a semicolon.
+  (H) work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.55 So in original. The period probably should be a semicolon.
 
   (I) work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries;
 
@@ -383,37 +389,8 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(4)
-Pub. L. 115–307, § 3(b)(4), Dec. 11, 2018, 132 Stat. 4411, made amendments to subsection (a)(4) of this section, effective on the first day of the first fiscal year beginning after Dec. 11, 2018. After such effective date, subsection (a)(4) of this section, as amended by section 8(c) of Pub. L. 115–307, will read as follows:
-
-(4) Biennial report
-
-(A) In general
-
-Not less frequently than once every two years, the Interagency Coordinating Committee shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on the Program. Such report shall include—
-
-(i) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);
-
-(ii) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);
-
-(iii) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I);
-
-(iv) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
-
-(v) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program;
-
-(vi) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i); and
-
-(vii) a statement regarding whether the Administrator of the Federal Emergency Management Agency has lowered or waived the cost share requirement for assistance provided under subsection (b)(2)(A)(i).
-
-(B) Support for preparation of report
-
-Each head of a Program agency shall submit to the Director of the National Institute of Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.
-
-See 2018 Amendment notes below.
-
 #### References in Text
-Paragraph (3)(D), referred to in subsec. (a)(4)(A) to (C), was amended generally by Pub. L. 115–307, § 3(b)(3), Dec. 11, 2018, 132 Stat. 4410, and, as so amended, does not contain a cl. (i)(I). For similar provisions after amendment by Pub. L. 115–307, see cl. (ii)(I)(aa) of par. (3)(D).
+Paragraph (3)(D), referred to in subsec. (a)(4)(A)(i) to (iii), was amended generally by Pub. L. 115–307, § 3(b)(3), Dec. 11, 2018, 132 Stat. 4410, and, as so amended, does not contain a cl. (i)(I). For similar provisions after amendment by Pub. L. 115–307, see cl. (ii)(I)(aa) of par. (3)(D).
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(5)(D), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -911,7 +888,7 @@ Pub. L. 101–614, § 11(b), Nov. 16, 1990, 104 Stat. 3239, directed Director of
 
   (I) $5,900,000 for fiscal year 2022, and
 
-  (J) $5,900,000 for fiscal year 2023.
+  (J) $5,900,000 for fiscal year 2023.44 So in original. The period probably should be a comma.
   of which $2,000,000 shall be made available each such fiscal year for supporting the development of performance-based, cost-effective, and affordable codes for buildings, structures, and lifeline infrastructure.
 
 ### Statutory Notes

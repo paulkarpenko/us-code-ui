@@ -35,15 +35,15 @@ In this subtitle, the following definitions apply:
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (1)
+Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking “Commercial item.—The term ‘commercial item’ has” and inserting “Commercial product.—The term ‘commercial product’ has”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 11101 | 40:1401. | Pub. L. 104–106, div. E, § 5002, Feb. 10, 1996, 110 Stat. 679. |
 
 The text of 40:1401(1) is omitted as unnecessary because the complete name of the Director of the Office of Management and Budget is used the first time the term appears in a section.
-
-#### Amendment of Paragraph (1)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking “Commercial item.—The term ‘commercial item’ has” and inserting “Commercial product.—The term ‘commercial product’ has”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Par. (1). Pub. L. 115–232, in heading, substituted “Commercial product” for “Commercial item” and, in text, substituted “The term ‘commercial product’ has” for “The term ‘commercial item’ has”.

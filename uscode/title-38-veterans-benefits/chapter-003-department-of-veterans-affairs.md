@@ -475,6 +475,9 @@ Provisions similar to those in this section were contained in section 9(b) of Pu
 
 Subsec. (b)(3). Pub. L. 103–446, § 1201(g)(1), struck out par. (3) which read as follows: “The Secretary shall provide the number of additional full-time positions in the Office of Inspector General required by paragraph (1) not later than September 30, 1991.”
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-312a"></a>
 ## § 312A. Director of Construction and Facilities Management
@@ -553,7 +556,7 @@ Provisions similar to those in this section were contained in [section 230(a) of
 ## § 315. Regional offices
 **(a)** The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2019.
+**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2020.
 
 ### Statutory Notes
 
@@ -563,6 +566,8 @@ Prior section 315 was renumbered [section 1115 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–61 substituted “September 30, 2020” for “September 30, 2019”.
+
 2018—Subsec. (b). Pub. L. 115–251 substituted “September 30, 2019” for “September 30, 2018”.
 
 2017—Subsec. (b). Pub. L. 115–62 substituted “September 30, 2018” for “September 30, 2017”.

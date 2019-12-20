@@ -300,7 +300,7 @@ In any such proceeding any party in interest may upon demand have the facts at i
 
   (C) Upon receipt of the notification described in subparagraph (A) or (B) of this paragraph, the appropriate customs officer shall immediately notify the addressee or consignee of the seizure and shall transmit information concerning the seizure, including a copy of the certification described in paragraph (4) above and a copy of the notification described in subparagraph (A) or (B) of this paragraph, to the United States attorney of the district in which is situated the office at which such seizure has taken place, who shall institute forfeiture proceedings in accordance with subsection (a) hereof within 14 days of the date of the notification described in subparagraph (A) or (B) above. A copy of the certification described in paragraph (4) above and a copy of the notification described in subparagraph (A) or (B) of this paragraph shall be affixed to the complaint for forfeiture.
 
-**(c) 33 So in original. Two subsecs. (b) and (c) have been enacted. Second subsecs. (b) and (c) probably should be designated (e) and (f), respectively. Stay on motion** Upon motion of the United States, a court, for good cause shown, shall stay civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter whether in the same or in a different district.
+**(c) 1 Stay on motion** Upon motion of the United States, a court, for good cause shown, shall stay civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter whether in the same or in a different district.
 
 ### Statutory Notes
 
@@ -3068,7 +3068,7 @@ Section 2(e) of act Aug. 2, 1956, effective only as to articles entered, or with
 Act Aug. 7, 1953, ch. 348, title III, §§ 301–310, 67 Stat. 473–475, as amended by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657, provided for the establishment of a Commission on Foreign Economic Policy to examine and report on the subjects of international trade and its enlargement consistent with a sound domestic economy, our foreign economic policy, and the trade aspects of our national security and total foreign policy, and to recommend appropriate policies and measures. The Commission was to submit a report on its findings within 60 days after the second session of the 83rd Congress was convened, and was to expire 90 days after the submission of its report to Congress.
 
 #### Extension of Presidential Authority
-Authority of President to enter into trade agreements under this section extended until close of Dec. 31, 1962, see note under [section 1352 of this title](./chapter-004-tariff-act-of-1930.md#section-1352).
+For extensions of authority of President to enter into trade agreements under this section, up until close of Dec. 31, 1962, see notes under [section 1352 of this title](./chapter-004-tariff-act-of-1930.md#section-1352).
 
 #### Executive Order No. 9832
 Ex. Ord. No. 9832, Feb. 25, 1947, 12 F.R. 1363, revoked by Ex. Ord. No. 10004, Oct. 6, 1948, 13 F.R. 5851.
@@ -3089,7 +3089,7 @@ Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Pol
 
 **(b) Termination of foreign trade agreement** Every foreign trade agreement concluded pursuant to this part shall be subject to termination, upon due notice to the foreign government concerned, at the end of not more than three years from the date on which the agreement comes into force, and, if not then terminated, shall be subject to termination there­after upon not more than six months’ notice.
 
-**(c) Termination of authority of President** The authority of the President to enter into foreign trade agreements under [section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351) shall terminate on June 30, 1958.
+**(c) Termination of authority of President** The authority of the President to enter into foreign trade agreements under [section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351) 11 See References in Text note below. shall terminate on the expiration of three years from June 12, 1934.22 See Extension of Presidential Authority notes below.
 
 ### Statutory Notes
 
@@ -3098,40 +3098,43 @@ The Trade Expansion Act of 1962, referred to in subsec. (a), is Pub. L. 87–794
 
 The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
+[Section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351), referred to in subsec. (c), was in the original “section 1 of this Act”, meaning section 1 of act June 12, 1934, and was translated as referring to section 350 of act June 17, 1930, which was enacted by section 1 of act June 12, 1934, and is classified to [section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351).
+
 #### Amendments
 1979—Subsec. (a). Pub. L. 96–39 amended directory language of Pub. L. 93–618, § 602(a), to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
 
-1975—Subsec. (a). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted reference to the Trade Act of 1974.
+1975—Subsec. (a). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted “or the Trade Act of 1974” after “Act of 1962” in two places.
 
-1962—Subsec. (a). Pub. L. 87–794 inserted references to agreements concluded pursuant to the Trade Expansion Act of 1962.
-
-1955—Subsec. (c). Act June 21, 1955, substituted “June 30, 1958” for “June 12, 1955”.
-
-1954—Subsec. (c). Act July 1, 1954, substituted “1955” for “1954”.
-
-1953—Subsec. (c). Act Aug. 7, 1953, substituted “1954” for “1953”.
+1962—Subsec. (a). Pub. L. 87–794 inserted “or the Trade Expansion Act of 1962” after “this part” in two places.
 
 1951—Subsec. (a). Act June 16, 1951, substituted “[section 1336 of this title](./chapter-004-tariff-act-of-1930.md#section-1336)” for “sections 1336 and 1516(b) of this title”.
 
-Subsec. (c). Act June 16, 1951, substituted “1953” for “1951”.
-
-1949—Subsec. (c). Act Sept. 26, 1949, § 3, substituted “1953” for “1948”.
-
-1945—Subsec. (c). Act. July 5, 1945, substituted “1948” for “1945”.
-
-1943—Subsec. (c). Joint Res. June 7, 1943, substituted “1945” for “1943”.
-
-1940—Subsec. (c). Joint Res. Apr. 12, 1940, substituted “1943” for “1940”.
-
-1937—Subsec. (c). Act Mar. 1, 1937, substituted “1937” for “1934”.
-
-#### Repeals
-Act Sept. 26, 1949, § 2, repealed act June 26, 1948, ch. 678, § 2, 62 Stat. 1053, which had extended the President’s authority from June 12, 1948, until the close of June 30, 1949.
-
 #### Extension of Presidential Authority
-Pub. L. 87–794, title II, § 257(c), Oct. 11, 1962, 76 Stat. 882, extended authority of President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 ([section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351)) from close of June 30, 1962, until close of Dec. 31, 1962.
+Extensions of authority of the President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 ([section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351)) were contained in the following:
 
-Pub. L. 85–686, § 2, Aug. 20, 1958, 72 Stat. 673, extended authority of President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 ([section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351)) from close of June 30, 1958, until close of June 30, 1962.
+Pub. L. 87–794, title II, § 257(c), Oct. 11, 1962, 76 Stat. 882, from close of June 30, 1962, until close of Dec. 31, 1962.
+
+Pub. L. 85–686, § 2, Aug. 20, 1958, 72 Stat. 673, from close of June 30, 1958, until close of June 30, 1962.
+
+Act June 21, 1955, ch. 169, § 2, 69 Stat. 162, from June 12, 1955, until close of June 30, 1958.
+
+Act July 1, 1954, ch. 445, § 1, 68 Stat. 360, until one year from June 12, 1954.
+
+Act Aug. 7, 1953, ch. 348, title I, § 101, 67 Stat. 472, until one year from June 12, 1953.
+
+Act June 16, 1951, ch. 141, § 2, 65 Stat. 72, until two years from June 12, 1951.
+
+Act Sept. 26, 1949, ch. 585, § 3, 63 Stat. 698, until three years from June 12, 1948.
+
+Act June 26, 1948, ch. 678, § 2, 62 Stat. 1053, until close of June 30, 1949; repealed by act Sept. 26, 1949, ch. 585, § 2, 63 Stat. 698.
+
+Act July 5, 1945, ch. 269, § 1, 59 Stat. 410, until three years from June 12, 1945.
+
+Act June 7, 1943, ch. 118, § 1, 57 Stat. 125, until two years from June 12, 1943.
+
+Act Apr. 12, 1940, ch. 96, 54 Stat. 107, until three years from June 12, 1940.
+
+Act Mar. 1, 1937, ch. 22, 50 Stat. 24, until three years from June 12, 1937.
 
 
 <a id="section-1352a"></a>
@@ -4413,11 +4416,14 @@ Subsec. (a)(3)(L)(ii). Pub. L. 107–295, § 108(b)(3)(A), substituted “cargo 
 
 Subsec. (a)(3)(L)(v). Pub. L. 107–295, § 108(b)(3)(D)(ii)–(iv), added cl. (v).
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2005 Amendment
 Pub. L. 109–59, title XI, § 11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 10, 2005].”
 
 #### International Postal Agreements
-Pub. L. 115–271, title VIII, § 8004, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) Existing Agreements.—“(1) In general.—In the event that any provision of this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)], or any amendment made by this subtitle, is determined to be in violation of obligations of the United States under any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, the Secretary of State should negotiate to amend the relevant provisions of the agreement so that the United States is no longer in violation of the agreement. “(2) Rule of construction.—Nothing in this subsection shall be construed to permit delay in the implementation of this subtitle or any amendment made by this subtitle. “(b) Future Agreements.—“(1) Consultations.—Before entering into, on or after the date of the enactment of this Act [Oct. 24, 2018], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) [Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Government Reform, and Committee on Homeland Security of the House of Representatives]. “(2) Expedited negotiation of new agreement.—To the extent that any new postal treaty, convention, or other international agreement related to international postal services would improve the ability of the United States to secure the provision of advance electronic information by foreign postal operators as required by regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002 [[19 U.S.C. 1415(a)(3)(K)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K&num=0&edition=prelim)], as amended by section 8003(a)(1), the Secretary of State should expeditiously conclude such an agreement.”
+Pub. L. 115–271, title VIII, § 8004, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) Existing Agreements.—“(1) In general.—In the event that any provision of this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)], or any amendment made by this subtitle, is determined to be in violation of obligations of the United States under any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, the Secretary of State should negotiate to amend the relevant provisions of the agreement so that the United States is no longer in violation of the agreement. “(2) Rule of construction.—Nothing in this subsection shall be construed to permit delay in the implementation of this subtitle or any amendment made by this subtitle. “(b) Future Agreements.—“(1) Consultations.—Before entering into, on or after the date of the enactment of this Act [Oct. 24, 2018], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) [Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Reform, and Committee on Homeland Security of the House of Representatives]. “(2) Expedited negotiation of new agreement.—To the extent that any new postal treaty, convention, or other international agreement related to international postal services would improve the ability of the United States to secure the provision of advance electronic information by foreign postal operators as required by regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002 [[19 U.S.C. 1415(a)(3)(K)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K&num=0&edition=prelim)], as amended by section 8003(a)(1), the Secretary of State should expeditiously conclude such an agreement.”
 
 #### Cost Recoupment
 Pub. L. 115–271, title VIII, § 8005, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) In General.—The United States Postal Service shall, to the extent practicable and otherwise recoverable by law, ensure that all costs associated with complying with this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)] and amendments made by this subtitle are charged directly to foreign shippers or foreign postal operators. “(b) Costs Not Considered Revenue.—The recovery of costs under subsection (a) shall not be deemed revenue for purposes of subchapter I and II of chapter 36 of title 39, United States Code, or regulations prescribed under that chapter.”
@@ -4539,7 +4545,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(b) Documentation required**
 
-(1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B)) 11 See References in Text note below. may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
+(1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B) 11 See References in Text note below.) 22 So in original. Probably should be “1702(17)(B))))”. may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
 
 (2) For the purposes of this subsection, cargo shall be considered properly documented if the shipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
 
@@ -4553,7 +4559,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(c) Loading undocumented cargo prohibited**
 
-(1) No marine terminal operator (as defined in section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14)) 1 may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
+(1) No marine terminal operator (as defined in section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14))) 1 may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
 
 (2) When cargo is booked by 1 vessel carrier to be transported on the vessel of another vessel carrier, the booking carrier shall notify the operator of the vessel that the cargo has been properly documented in accordance with this section. The operator of the vessel may rely on such notification in releasing the cargo for loading aboard the vessel.
 
@@ -4883,6 +4889,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Codification
 Section was enacted as part of the Synthetics Trafficking and Overdose Prevention Act of 2018, also known as the STOP Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-1437"></a>
@@ -8064,7 +8073,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a), transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, § 5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
 #### Review of Protests in Import Surcharge Cases
-Pub. L. 93–618, title VI, § 611, Jan. 3, 1975, 88 Stat. 2075, provided that: “Notwithstanding the provisions of section 515(a) of the Tariff Act of 1930 ([19 U.S.C. 1515(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/a&num=0&edition=prelim)), in the case of any protest under section 514 of such Act [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] involving the imposition of an import surcharge in the form of a supplemental duty pursuant to Presidential Proclamation 4074, dated August 17, 1971 [set out as a note preceding [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202)], the time for review and allowing or denying the protest shall not expire until five years from the date the protest was filed in accordance with such section 514 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)].”
+Pub. L. 93–618, title VI, § 611, Jan. 3, 1975, 88 Stat. 2075, provided that: “Notwithstanding the provisions of section 515(a) of the Tariff Act of 1930 ([19 U.S.C. 1515(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/a&num=0&edition=prelim)), in the case of any protest under section 514 of such Act [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] involving the imposition of an import surcharge in the form of a supplemental duty pursuant to Presidential Proclamation 4074, dated August 17, 1971 [formerly set out as a note preceding [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202)], the time for review and allowing or denying the protest shall not expire until five years from the date the protest was filed in accordance with such section 514 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)].”
 
 
 <a id="section-1516"></a>
@@ -8665,7 +8674,7 @@ Pub. L. 96–542, § 3, Dec. 17, 1980, 94 Stat. 3210, provided that: “The amen
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under [section 251 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section251&num=0&edition=prelim).
 
 #### Effective Date; Transitional Rules
-Section 1002 of title X of Pub. L. 96–39 provided that: “(a) Effective Date.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall take effect on that date (hereinafter in this section referred to as the ‘effective date’) on which title VII of the Tariff Act of 1930 [subtitle IV of this chapter] (as added by title I of this Act) takes effect [Jan. 1, 1980]; and section 515(a) of such Act of 1930 [[section 1515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/a&num=0&edition=prelim)] (as amended by section 1001(b)(2)) shall apply with respect to any denial, in whole or in part, of a protest filed under section 514 of such Act of 1930 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] on or after the effective date. “(b) Transitional Rules.—“(1) Certain protests, petitions, actions, etc.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall not apply with respect to—“(A) any protest, petition, or notice of desire to contest filed before the effective date [Jan. 1, 1980] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 [section 1514, 1516(a), or 1516(d) of this title]; “(B) any civil action commenced before the effective date [Jan. 1, 1980] under [section 2632 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2632&num=0&edition=prelim) of the United States Code; or “(C) any civil action commenced after the effective date [Jan. 1, 1980] under such section 2632 if the protest, petition, or notice of desire to contest (under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930) on which such action is based was filed before such effective date. “(2) Law to be applied for purposes of such actions.—Notwithstanding the repeal of the Antidumping Act, 1921 [sections 160 to 171 of this title], by section 106(a) of this Act, and the amendment of section 303 of the Tariff Act of 1930 [[section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303)] by section 103 of this Act, the law in effect on the date of any finding or determination contested in a civil action described in subparagraph (A), (B), or (C) of paragraph (1) shall be applied for purposes of that action. “(3) Certain countervailing and antidumping duty assessments.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall apply with respect to the review of the assessment of, or failure to assess, any countervailing duty or antidumping duty on entries subject to a countervailing duty order or antidumping finding if the assessment is made after the effective date. If no assessment of such duty had been made before the effective date that could serve the party seeking review as the basis of a review of the underlying determination, made by the Secretary of the Treasury or the International Trade Commission before the effective date, on which such order, finding, or lack thereof is based, then the underlying determination shall be subject to review in accordance with the law in effect on the day before the effective date. “(4) Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 [[section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303)] or the Antidumping Act, 1921 [sections 160 to 171 of this title], which is treated under section 102 of this Act [set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671)] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 [section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
+Pub. L. 96–39, title X, § 1002, July 26, 1979, 93 Stat. 306, provided that: “(a) Effective Date.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall take effect on that date (hereinafter in this section referred to as the ‘effective date’) on which title VII of the Tariff Act of 1930 [subtitle IV of this chapter] (as added by title I of this Act) takes effect [Jan. 1, 1980]; and section 515(a) of such Act of 1930 [[section 1515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/a&num=0&edition=prelim)] (as amended by section 1001(b)(2)) shall apply with respect to any denial, in whole or in part, of a protest filed under section 514 of such Act of 1930 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] on or after the effective date. “(b) Transitional Rules.—“(1) Certain protests, petitions, actions, etc.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall not apply with respect to—“(A) any protest, petition, or notice of desire to contest filed before the effective date [Jan. 1, 1980] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 [section 1514, 1516(a), or 1516(d) of this title]; “(B) any civil action commenced before the effective date [Jan. 1, 1980] under [section 2632 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2632&num=0&edition=prelim) of the United States Code; or “(C) any civil action commenced after the effective date [Jan. 1, 1980] under such section 2632 if the protest, petition, or notice of desire to contest (under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930) on which such action is based was filed before such effective date. “(2) Law to be applied for purposes of such actions.—Notwithstanding the repeal of the Antidumping Act, 1921 [sections 160 to 171 of this title], by section 106(a) of this Act, and the amendment of section 303 of the Tariff Act of 1930 [[section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303)] by section 103 of this Act, the law in effect on the date of any finding or determination contested in a civil action described in subparagraph (A), (B), or (C) of paragraph (1) shall be applied for purposes of that action. “(3) Certain countervailing and antidumping duty assessments.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall apply with respect to the review of the assessment of, or failure to assess, any countervailing duty or antidumping duty on entries subject to a countervailing duty order or antidumping finding if the assessment is made after the effective date. If no assessment of such duty had been made before the effective date that could serve the party seeking review as the basis of a review of the underlying determination, made by the Secretary of the Treasury or the International Trade Commission before the effective date, on which such order, finding, or lack thereof is based, then the underlying determination shall be subject to review in accordance with the law in effect on the day before the effective date. “(4) Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 [[section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303)] or the Antidumping Act, 1921 [sections 160 to 171 of this title], which is treated under section 102 of this Act [set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671)] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 [section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -15850,7 +15859,7 @@ For purposes of this subtitle—
 
     (v) *Termination of this subparagraph* — This subparagraph shall cease to have effect if the United States Trade Representative notifies the administering authority and the Commission that the application of this subparagraph is inconsistent with the international obligations of the United States.
 
-(5) **Countervailable subsidy** — (5B) Categories of noncountervailable subsidies
+(5) **Countervailable subsidy**
 
   (A) *In general* — Except as provided in paragraph (5B), a countervailable subsidy is a subsidy described in this paragraph which is specific as described in paragraph (5A).
 
@@ -15886,7 +15895,9 @@ For purposes of this subtitle—
     (iv) in the case where goods or services are provided, if such goods or services are provided for less than adequate remuneration, and in the case where goods are purchased, if such goods are purchased for more than adequate remuneration.
     For purposes of clause (iv), the adequacy of remuneration shall be determined in relation to prevailing market conditions for the good or service being provided or the goods being purchased in the country which is subject to the investigation or review. Prevailing market conditions include price, quality, availability, marketability, transportation, and other conditions of purchase or sale.
 
-  (F) *Change in ownership* — A change in ownership of all or part of a foreign enterprise or the productive assets of a foreign enterprise does not by itself require a determination by the administering authority that a past countervailable subsidy received by the enterprise no longer continues to be countervailable, even if the change in ownership is accomplished through an arm’s length transaction. (5A) Specificity
+  (F) *Change in ownership* — A change in ownership of all or part of a foreign enterprise or the productive assets of a foreign enterprise does not by itself require a determination by the administering authority that a past countervailable subsidy received by the enterprise no longer continues to be countervailable, even if the change in ownership is accomplished through an arm’s length transaction.
+
+(5A) **Specificity**
 
   (A) *In general* — A subsidy is specific if it is an export subsidy described in subparagraph (B) or an import substitution subsidy described in subparagraph (C), or if it is determined to be specific pursuant to subparagraph (D).
 
@@ -15920,6 +15931,8 @@ For purposes of this subtitle—
 
     (iv) Where a subsidy is limited to an enterprise or industry located within a designated geographical region within the jurisdiction of the authority providing the subsidy, the subsidy is specific.
   For purposes of this paragraph and paragraph (5B), any reference to an enterprise or industry is a reference to a foreign enterprise or foreign industry and includes a group of such enterprises or industries.
+
+(5B) **Categories of noncountervailable subsidies**
 
   (A) *In general* — Notwithstanding the provisions of paragraphs (5) and (5A), in the case of merchandise imported from a Subsidies Agreement country, a subsidy shall be treated as noncountervailable if the administering authority determines in an investigation under part I of this subtitle or a review under part III of this subtitle that the subsidy meets all of the criteria described in subparagraph (B), (C), or (D), as the case may be, or the provisions of subparagraph (E)(i) apply.
 

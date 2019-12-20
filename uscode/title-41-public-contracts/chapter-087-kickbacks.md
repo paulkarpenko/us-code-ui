@@ -97,6 +97,9 @@ In paragraph (3), before subparagraph (A), the words “directly or indirectly�
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(2)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d)(2) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -106,9 +109,6 @@ In paragraph (3), before subparagraph (A), the words “directly or indirectly�
 | 8703(d) | 41:57(d). |  |
 
 In subsection (c)(1), the words “Attorney General” are substituted for “Department of Justice” because of 28:503.
-
-#### Amendment of Subsection (d)(2)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d)(2) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (d)(2). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)” for “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))”.
@@ -125,15 +125,15 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 8704 | 41:58. | Mar. 8, 1946, ch. 80, § 8, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3525; Pub. L. 103–355, title VIII, § 8301(c)(2), Oct. 13, 1994, 108 Stat. 3397. |
 
 In subsection (a), the words “Comptroller General” are substituted for “General Accounting Office” because of 31:702.
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)” for “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))”.

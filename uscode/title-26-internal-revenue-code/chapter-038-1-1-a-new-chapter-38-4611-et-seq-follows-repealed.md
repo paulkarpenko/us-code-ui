@@ -636,7 +636,7 @@ Amendment by Pub. L. 99–509 effective on commencement date as defined in forme
 Pub. L. 99–499, title V, § 515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: “The amendments made by this section [enacting this subchapter] shall take effect on January 1, 1989.”
 
 #### Study and Report
-Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, provided that: “(1) In general.—The Secretary of the Treasury or his delegate shall conduct a study of issues relating to the implementation of—“(A) the tax imposed by the section 4671 of the Internal Revenue Code of 1986 (as added by this section), and “(B) the credit for exports of taxable substances under section 4661(e)(2)(A)(ii)(II) of such Code. In conducting such study, the Secretary of the Treasury or his delegate shall consult with the Environmental Protection Agency and the International Trade Commission. “(2) Report.—The report of the study under paragraph (1) shall be submitted not later than January 1, 1988, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, directed the Secretary of the Treasury or his delegate to conduct a study of issues relating to the implementation of the tax imposed by this section and certain credit for exports of taxable substances, and report to Congress not later than Jan. 1, 1988.
 
 
 <a id="section-4672"></a>

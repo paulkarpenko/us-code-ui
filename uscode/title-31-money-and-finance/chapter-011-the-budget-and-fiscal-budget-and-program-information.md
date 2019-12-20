@@ -1645,6 +1645,11 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 **(c)** The functions and activities of this section shall be considered to be inherently governmental functions. The development of Federal Government and agency priority goals shall be performed only by Federal employees.
 
+### Statutory Notes
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-1121"></a>
 ## § 1121. Quarterly priority progress reviews and use of performance information

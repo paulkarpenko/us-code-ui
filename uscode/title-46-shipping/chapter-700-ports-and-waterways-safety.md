@@ -219,7 +219,7 @@ In carrying out the duties of the Secretary under sections 70001, 70002, and 700
 ### Statutory Notes
 
 #### References in Text
-Section 10 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriations Act of 1899, means section 10 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151, known as the Rivers and Harbors Appropriation Act of 1899, which is classified to [section 403 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section403&num=0&edition=prelim), Navigation and Navigable Waters.
+Section 10 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriations Act of 1899, referred to in subsec. (a), means section 10 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151, known as the Rivers and Harbors Appropriation Act of 1899, which is classified to [section 403 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section403&num=0&edition=prelim), Navigation and Navigable Waters.
 
 
 <a id="section-70021"></a>
@@ -337,11 +337,11 @@ Pub. L. 114–120, title III, § 305, Feb. 8, 2016, 130 Stat. 54, provided that:
 
 (2) **Class c felony.—** — Any person who, in the willful and knowing violation of subchapters A through C 1 or this subchapter or of any regulation issued thereunder, uses a dangerous weapon, or engages in conduct that causes bodily injury or fear of imminent bodily injury to any officer authorized to enforce the provisions of such a subchapter or the regulations issued under such subchapter, commits a class C felony.
 
-**(c) In Rem Liability.—** Any vessel that is used in violation of subchapters A, B, or C 1 or this subchapter, or any regulations issued under such subchapter, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
+**(c) In Rem Liability.—** Any vessel that is used in violation of subchapters A, B, or C 22 So in original. Probably should be “subchapter I, II, or III”. or this subchapter, or any regulations issued under such subchapter, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 
-**(d) Injunction.—** The United States district courts shall have jurisdiction to restrain violations of subchapter A, B, or C 1 or this subchapter or of regulations issued under such subchapter, for cause shown.
+**(d) Injunction.—** The United States district courts shall have jurisdiction to restrain violations of subchapter A, B, or C 2 or this subchapter or of regulations issued under such subchapter, for cause shown.
 
-**(e) Denial of Entry.—** Except as provided in section 70021, the Secretary may, subject to recognized principles of international law, deny entry by any vessel that is not in compliance with subchapter A, B, or C 1 or this subchapter or the regulations issued under such subchapter—
+**(e) Denial of Entry.—** Except as provided in section 70021, the Secretary may, subject to recognized principles of international law, deny entry by any vessel that is not in compliance with subchapter A, B, or C 2 or this subchapter or the regulations issued under such subchapter—
 
 (1) into the navigable waters of the United States; or
 
@@ -389,10 +389,7 @@ Whenever the President by proclamation or Executive order declares a national em
 ### Statutory Notes
 
 #### Codification
-Section, as added by Pub. L. 115–282, is based on act June 15, 1917, ch. 30, title II, § 1, 40 Stat. 220, which was formerly classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section. Prior to transfer, section 407(b)(3) of Pub. L. 115–282, which directed amendment of section 1 of title II of act June 15, 1917, ch. 30, which was classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), by striking “of the department in which the Coast Guard is operating”, was executed by striking the phrase after “Secretary” in concluding provisions to reflect the probable intent of Congress. Pub. L. 115–232, div. C, title XXXV, § 3548(a), Aug. 13, 2018, 132 Stat. 2328, substituted “the Secretary of the department in which the Coast Guard is operating” for “the Secretary of the Treasury” in first par.
-
-#### Amendments
-2018—Pub. L. 115–282 transferred section 1 of title II of act June 15, 1917, ch. 30, to this chapter. See Codification note above.
+Section, as added by Pub. L. 115–282, is based on acts June 15, 1917, ch. 30, title II, § 1, 40 Stat. 220; Aug. 9, 1950, ch. 656, § 1, 64 Stat. 427; Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038; Pub. L. 96–70, title III, § 3302(a), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–208, div. C, title VI, § 649, Sept. 30, 1996, 110 Stat. 3009–711; Pub. L. 108–293, title II, § 223, Aug. 9, 2004, 118 Stat. 1040; Pub. L. 115–232, div. C, title XXXV, § 3548(a), Aug. 13, 2018, 132 Stat. 2328; Pub. L. 115–282, title IV, § 407(b)(1)–(4), Dec. 4, 2018, 132 Stat. 4267, which was formerly classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section. Prior to such renumbering and transfer, section 3548(a) of Pub. L. 115–232 amended section 1 of title II of act June 15, 1917, by substituting “the Secretary of the department in which the Coast Guard is operating” for “the Secretary of the Treasury” in the first par. Subsequently, section 407(b)(2) of Pub. L. 115–282 directed striking out “of the Treasury” but could not be executed because of the amendment by Pub. L. 115–232. Section 407(b)(3) of Pub. L. 115–282 further directed striking out “of the department in which the Coast Guard is operating”, which appeared in two places following the amendment by Pub. L. 115–232, but the amendment did not specify where the deletion should occur. The amendment was executed by striking out such phrase following “regulations to the Secretary” in concluding provisions, to reflect the probable intent of Congress.
 
 #### Proc. No. 6867. Declaration of National Emergency and Invocation of Emergency Authority Relating to Regulation of Anchorage and Movement of Vessels
 Proc. No. 6867, Mar. 1, 1996, 61 F.R. 8843, provided:
@@ -642,10 +639,7 @@ Donald J. Trump.
 Section 4197 of the Revised Statutes of the United States, referred to in subsec. (e)(1), was classified to section 91 of the former Appendix to this title, prior to repeal and restatement as [section 60105 of this title](./chapter-601-arrival-and-departure-requirements.md#section-60105) by Pub. L. 109–304, §§ 9(b), 19, Oct. 6, 2006, 120 Stat. 1675, 1710.
 
 #### Codification
-Section, as added by Pub. L. 115–282, is based on act June 15, 1917, ch. 30, title II, § 2, 40 Stat. 220, which was formerly classified to [section 192 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section192&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
-
-#### Amendments
-2018—Pub. L. 115–282 transferred section 2 of title II of act June 15, 1917, ch. 30, to this chapter. See Codification note above.
+Section, as added by Pub. L. 115–282, is based on acts June 15, 1917, ch. 30, title II, § 2, 40 Stat. 220; Mar. 28, 1940, ch. 72, § 3(a), 54 Stat. 79; Nov. 15, 1941, ch. 471, § 3, 55 Stat. 763; Aug. 9, 1950, ch. 656, § 3, 64 Stat. 428; Pub. L. 107–295, title I, § 104(b), Nov. 25, 2002, 116 Stat. 2085; Pub. L. 108–293, title VIII, § 802(b), Aug. 9, 2004, 118 Stat. 1079; Pub. L. 115–282, title IV, § 407(c)(1), (2), Dec. 4, 2018, 132 Stat. 4267, which was formerly classified to [section 192 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section192&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
 
 
 <a id="section-70053"></a>
@@ -656,10 +650,7 @@ The President may employ such departments, agencies, officers, or instrumentalit
 ### Statutory Notes
 
 #### Codification
-Section, as added by Pub. L. 115–282, is based on act June 15, 1917, ch. 30, title II, § 4, 40 Stat. 220, which was formerly classified to [section 194 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section194&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
-
-#### Amendments
-2018—Pub. L. 115–282 transferred section 4 of title II of act June 15, 1917, ch. 30, to this chapter. See Codification note above.
+Section, as added by Pub. L. 115–282, is based on acts June 15, 1917, ch. 30, title II, § 4, 40 Stat. 220; Aug. 9, 1950, ch. 656, § 2, 64 Stat. 428; Pub. L. 115–282, title IV, § 407(d)(1), (2), Dec. 4, 2018, 132 Stat. 4267, which was formerly classified to [section 194 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section194&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
 
 
 <a id="section-70054"></a>
@@ -674,4 +665,4 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-Presidential Proclamation Number 5928, referred to in par. (2), is Proc. No. 5928, Dec. 27, 1988, 54 F.R. 777, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+Presidential Proclamation Number 5928, referred to in par. (2), is Proc. No. 5928, Dec. 27, 1988, 54 F.R. 777, which is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.

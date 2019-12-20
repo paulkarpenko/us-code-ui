@@ -201,11 +201,11 @@ For transfer of functions, see note set out under [section 107a of this title](.
 <a id="section-107b-1"></a>
 ## § 107b–1. Access to information with State licensing agencies; election and responsibilities of Committee of Blind Vendors
 
-In addition to other requirements imposed in this title and in this chapter upon State licensing agencies, such agencies shall—
+In addition to other requirements imposed in this title 11 See References in Text note below. and in the Randolph-Sheppard Act [[20 U.S.C. 107](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107) et seq.] upon State licensing agencies, such agencies shall—
 
 (1) provide to each blind licensee access to all relevant financial data, including quarterly and annual financial reports, on the operation of the State vending facility program;
 
-(2) conduct the biennial election of a Committee of Blind Vendors who shall be fully representative of all blind licensees in the State program,11 So in original. The comma probably should be a semicolon. and
+(2) conduct the biennial election of a Committee of Blind Vendors who shall be fully representative of all blind licensees in the State program,22 So in original. The comma probably should be a semicolon. and
 
 (3) insure that such committee’s responsibilities include (A) participation, with the State agency, in major administrative decisions and policy and program development, (B) receiving grievances of blind licensees and serving as advocates for such licensees, (C) participation, with the State agency, in the development and administration of a transfer and promotion system for blind licensees, (D) participation, with the State agency, in developing training and retraining programs, and (E) sponsorship, with the assistance of the State agency, of meetings and instructional conferences for blind licensees.
 
@@ -214,8 +214,10 @@ In addition to other requirements imposed in this title and in this chapter upon
 #### References in Text
 This title, referred to in text, is title II of Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617, as amended, known as the “Randolph-Sheppard Act Amendments of 1974”. For complete classification of such title to the Code, see Short Title of 1974 Amendment note set out under [section 107 of this title](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107) and Tables.
 
+The Randolph-Sheppard Act, referred to in text, is act June 20, 1936, ch. 638, 49 Stat. 1559, also popularly known as the Randolph-Sheppard Vending Stand Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 107 of this title](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107) and Tables.
+
 #### Codification
-Section was enacted as part of the Randolph-Sheppard Act Amendments of 1974, and not as part of the Randolph-Sheppard Vending Stand Act which comprises this chapter.
+Section was enacted as part of the Randolph-Sheppard Act Amendments of 1974, and not as part of the Randolph-Sheppard Act which comprises this chapter.
 
 The content of Pub. L. 93–516, including provisions of section 209 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
@@ -243,7 +245,7 @@ The Comptroller General is authorized to conduct regular and periodic audits of 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Randolph-Sheppard Act Amendments of 1974, and not as part of the Randolph-Sheppard Vending Stand Act which comprises this chapter.
+Section was enacted as part of the Randolph-Sheppard Act Amendments of 1974, and not as part of the Randolph-Sheppard Act which comprises this chapter.
 
 The content of Pub. L. 93–516, including provisions of section 211 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 

@@ -169,10 +169,10 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 The word “subsequently” is omitted as surplusage.
 
 #### References in Text
-Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 of title 14.
+Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter “1” in chapter analysis) of title 14.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–232 substituted “chapter 843, 1407, 1409, or 1411” for “chapter 573, 1407, 1409, or 1411”.
+2018—Subsec. (a). Pub. L. 115–232 substituted “under chapter 843,” for “under chapter 573,”.
 
 1996—Subsec. (b)(2). Pub. L. 104–201 inserted “or a reserve active-status list” after “active-duty list”.
 
@@ -222,7 +222,7 @@ Amendment by sections 1627 and 1675(d)(2) of Pub. L. 103–337 effective Oct. 1,
 
 **(e)**
 
-(1) A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 8373, 14513, or 14514 of this title or section 740 22 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
+(1) A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 8373, 14513, or 14514 of this title or section 740 1 of title 14, is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
 
 (2) An officer may be retained on active duty or full-time National Guard duty under paragraph (1) only if—
 
@@ -251,12 +251,14 @@ In subsection (e), the words “at the end of that period” are substituted for
 The change reflects the repeal of section 611 of the Reserve Officer Personnel Act of 1954, ch. 1257 (68 Stat. 1186), formerly [section 1391 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1391&num=0&edition=prelim), and its restatement in [section 787 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section787&num=0&edition=prelim) (see sections 5(2) and 36A of the Act of September 2, 1958, Pub. L. 85–861 (72 Stat. 1547 and 1569)).
 
 #### References in Text
-Chapter 21 of title 14, referred to in subsecs. (a) and (b), was comprised of sections 701 to 713 and 720 to 746 prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 of title 14.
+Chapter 21 of title 14, referred to in subsecs. (a) and (b), was comprised of sections 701 to 713 and 720 to 746 prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter “1” in chapter analysis) of title 14.
+
+[Section 740 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section740&num=0&edition=prelim), referred to in subsec. (e)(1), was redesignated [section 3751 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3751&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 740 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section740&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
-2018—Subsecs. (a), (b). Pub. L. 115–232 substituted “chapter 843, 1407, or 1409” for “chapter 573, 1407, or 1409” in introductory provisions.
+2018—Subsecs. (a), (b). Pub. L. 115–232 substituted “under chapter 843,” for “under chapter 573,” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 115–232 substituted “section 8373, 14513, or 14514” for “section 6389, 14513, or 14514” and “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
+Subsec. (e)(1). Pub. L. 115–232 substituted “under section 8373,” for “under section 6389,” and “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
 
 Subsec. (e)(2)(A). Pub. L. 115–232 substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
 

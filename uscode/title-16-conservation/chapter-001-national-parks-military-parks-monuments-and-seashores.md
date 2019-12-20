@@ -2,7 +2,7 @@
 title: 16
 chapter: '1'
 heading: 'NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES'
-section_count: 2257
+section_count: 2290
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -12,6 +12,9 @@ source: >-
 ### Statutory Notes
 
 Section, act Aug. 25, 1916, ch. 408, § 1, 39 Stat. 535; Ex. Ord. No. 6166, § 2, June 10, 1933; Mar. 2, 1934, ch. 38, § 1, 48 Stat. 389; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 104–333, div. I, title VIII, § 814(e)(1), Nov. 12, 1996, 110 Stat. 4196, related to creation of National Park Service. See sections 100101(a), 100301, and 100302(a)(1), (2), (b), (c) of Title 54, National Park Service and Related Programs.
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–9, § 1(a), Mar. 12, 2019, 133 Stat. 580, provided that: “This Act [see Tables for classification] may be cited as the ‘John D. Dingell, Jr. Conservation, Management, and Recreation Act’.”
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–229, § 1(a), May 8, 2008, 122 Stat. 754, provided that: “This Act [see Tables for classification] may be cited as the ‘Consolidated Natural Resources Act of 2008’.”
@@ -27,6 +30,9 @@ Pub. L. 106–510, § 1, Nov. 13, 2000, 114 Stat. 2363, provided that: “This A
 
 #### Short Title of 1983 Amendment
 Pub. L. 98–141, § 1, Oct. 31, 1983, 97 Stat. 909, provided: “That this Act [amending sections 459b–8, 459g–7, and 460x–14 of this title and sections 872, 874, 875, 880, and 885 of former Title 40, Public Buildings, Property, and Works, repealing [section 433e of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-433e), and amending provisions set out as a note under [section 433c of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-433c)] may be cited as the ‘Public Lands and National Parks Act of 1983’.”
+
+#### Definition of “Secretary”
+Pub. L. 116–9, § 2, Mar. 12, 2019, 133 Stat. 584, provided that: “In this Act [see Short Title of 2018 Amendment note set out above], the term ‘Secretary’ means the Secretary of the Interior.”
 
 
 <a id="section-1a"></a>
@@ -3773,7 +3779,7 @@ Section formerly consisted of sections 101 and 102 of Pub. L. 91–661. Section 
 
 <a id="section-160a-1"></a>
 ## § 160a–1. Boundaries
-**(a) Lands and waters included; legal description; revision** Except as provided in subsection (b) of this section, the park shall include the lands and waters within the boundaries as generally depicted on the drawing entitled “A Proposed Voyageurs National Park, Minnesota,” numbered LNPMW–VOYA–1001, dated February 1969, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. Within one year after acquisition of the lands owned by the State of Minnesota and its political subdivisions within the boundaries of the park the Secretary shall affix to such drawing an exact legal description of said boundaries. The Secretary may revise the boundaries of the park from time to time by publishing in the Federal Register a revised drawing or other boundary description, but such revisions shall not increase the land acreage within the park by more than one thousand acres.
+**(a) Lands and waters included; legal description; revision** Except as provided in subsection (b) of this section, the park shall include the lands and waters within the boundaries as generally depicted on the map entitled “Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment”, numbered 172/80,056, and dated June 2009 (22 sheets), which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. Within one year after acquisition of the lands owned by the State of Minnesota and its political subdivisions within the boundaries of the park the Secretary shall affix to such map an exact legal description of said boundaries. The Secretary may revise the boundaries of the park from time to time by publishing in the Federal Register a revised map or other boundary description, but such revisions shall not increase the land acreage within the park by more than one thousand acres.
 
 **(b) Additional revisions; procedures applicable; failure to comply with procedures**
 
@@ -3792,7 +3798,7 @@ Section formerly consisted of sections 101 and 102 of Pub. L. 91–661. Section 
 
 (2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless, prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
 
-  (A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: Provided, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: Provided further, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land described in paragraph 1(E) 11 So in original. Probably should be “(1)(E)”. shall revert to the United States for administration by the Secretary as part of the park; and
+  (A) tenders a conveyance of the lands described in subparagraphs (C) and (D) of paragraph (1) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: Provided, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: Provided further, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land described in paragraph (1)(E) shall revert to the United States for administration by the Secretary as part of the park; and
 
   (B) enters into a recordable agreement satisfactory to the Secretary which provides that—
 
@@ -3812,21 +3818,64 @@ Section formerly consisted of sections 101 and 102 of Pub. L. 91–661. Section 
 Provisions of section 102 of Pub. L. 91–661 [this section] were formerly set out as an undesignated second paragraph in [section 160a of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-160a) prior to amendment by Pub. L. 97–405.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–9, § 2107(a)(1), substituted “the map entitled ‘Voyageurs National Park, Proposed Land Transfer & Boundary Adjustment’, numbered 172/80,056, and dated June 2009 (22 sheets)” for “the drawing entitled ‘A Proposed Voyageurs National Park, Minnesota,’ numbered LNPMW–VOYA–1001, dated February 1969”, “such map” for “such drawing”, and “revised map” for “revised drawing”.
+
+Subsec. (b)(2)(A). Pub. L. 116–9, § 2107(a)(2), substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C) and (D)” and “paragraph (1)(E)” for “paragraph 1(E)”.
+
 1983—Subsec. (a). Pub. L. 97–405, § 1(1), substituted “(a) Except as provided in subsection (b) of this section, the park” for “The park”.
 
 Subsec. (b). Pub. L. 97–405, § 1(2), added subsec. (b).
 
 
 <a id="section-160b"></a>
-## § 160b. Acquisition of lands; lands outside of boundaries; transfer of Federal property within boundaries to administrative jurisdiction of Secretary; consideration by Secretary of offers to sell property within park area
-**(a)** The Secretary may acquire lands or interests therein within the boundaries of the park by donation, purchase with donated or appropriated funds, or exchange. When any tract of land is only partly within such boundaries, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the park boundaries may be exchanged by the Secretary for non-Federal lands within the park boundaries. Any portion of land acquired outside the park boundaries and not utilized for exchange shall be reported to the General Services Administration for disposal under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. Any Federal property located within the boundaries of the park may be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the park. Lands within the boundaries of the park owned by the State of Minnesota, or any political subdivision thereof, may be acquired only by donation.
+## § 160b. Land acquisitions
+**(a) Authorization**
 
-**(b)** In exercising his authority to acquire property under this section, the Secretary shall give immediate and careful consideration to any offer made by any individual owning property within the park area to sell such property to the Secretary. In considering such offer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring his property.
+(1) **In general** — The Secretary may acquire lands or interests therein within the boundaries of the park by donation, purchase with donated or appropriated funds, or exchange.
+
+(2) **Certain portions of tracts**
+
+  (A) *In general* — In any case in which only a portion of a tract of land is within the boundaries of the park, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs.
+
+  (B) *Exchange*
+
+    (i) *In general* — Any land acquired pursuant to subparagraph (A) outside of the park boundaries may be exchanged by the Secretary for non-Federal lands within the park boundaries.
+
+    (ii) *Portions not exchanged* — Any portion of land acquired outside the park boundaries and not utilized for exchange shall be reported to the General Services Administration for disposal under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+
+  (C) *Transfers of Federal property* — Any Federal property located within the boundaries of the park may be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the park.
+
+  (D) *Administrative jurisdiction* — Effective beginning on March 12, 2019, there is transferred to the National Park Service administrative jurisdiction over—
+
+    (i) any land managed by the Bureau of Land Management within the boundaries of the park, as depicted on the map described in [section 160a–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section160a–1/a&num=0&edition=prelim); and
+
+    (ii) any additional public land identified by the Bureau of Land Management as appropriate for transfer within the boundaries of the park.
+
+  (E) *Land owned by State*
+
+    (i) *Donations and exchanges* — Any land located within or adjacent to the boundaries of the park that is owned by the State of Minnesota (or a political subdivision of the State) may be acquired by the Secretary only through donation or exchange.
+
+    (ii) *Revision* — On completion of an acquisition from the State under clause (i), the Secretary shall revise the boundaries of the park to reflect the acquisition.
+
+**(b) Offers by individuals** In exercising the authority to acquire property under this section, the Secretary shall give immediate and careful consideration to any offer made by any individual owning property within the park area to sell such property to the Secretary. In considering such offer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring his property.
 
 ### Statutory Notes
 
 #### Codification
 In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+2019—Pub. L. 116–9, § 2107(b)(1), inserted section catchline.
+
+Subsec. (a). Pub. L. 116–9, § 2107(b)(1), (2), inserted subsec. heading and in six sentences of existing provisions: designated first sentence as par. (1) and inserted heading; designated second to fifth sentences collectively as par. (2) and individually as subpars. (A), (B)(i), (B)(ii), and (C) thereof, respectively, and inserted par., subpar., and cl. headings; and struck out sixth sentence which read as follows: “Lands within the boundaries of the park owned by the State of Minnesota, or any political subdivision thereof, may be acquired only by donation.”
+
+Subsec. (a)(2)(A). Pub. L. 116–9, § 2107(b)(2)(A), substituted “In any case in which only a portion of a tract of land is within the boundaries of the park” for “When any tract of land is only partly within such boundaries”.
+
+Subsec. (a)(2)(B)(i). Pub. L. 116–9, § 2107(b)(2)(B), substituted “Any land acquired pursuant to subparagraph (A)” for “Land so acquired”.
+
+Subsec. (a)(2)(D), (E). Pub. L. 116–9, § 2107(b)(2)(E), added subpars. (D) and (E).
+
+Subsec. (b). Pub. L. 116–9, § 2107(b)(3), inserted heading and substituted “the authority” for “his authority”.
 
 
 <a id="section-160c"></a>
@@ -6852,7 +6901,83 @@ Recitation in this section as originally enacted of the fact that Sieur de Monts
 “Lafayette National Park” changed to “Acadia National Park” by act Jan. 19, 1929.
 
 #### Permanent Boundary for Acadia National Park
-Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 110–229, title III, § 314(a), (b)(1), (c), (d), May 8, 2008, 122 Stat. 775, provided that: “SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.“In order to protect and conserve the land and water resources of Acadia National Park in the State of Maine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and it shall be made available to the Registry of Deeds for Hancock and Knox Counties, Maine. “SEC. 102. LANDS WITHIN BOUNDARIES.“(a) The Secretary of the Interior (hereinafter in this title referred to as ‘the Secretary’) is authorized to acquire lands and interests therein within the boundaries of the Park by donation, exchange (in accordance with this section), or purchase with donated or appropriated funds, except that—“(1) any lands or interests therein owned by the State of Maine or any political subdivision thereof may be acquired only by donation or exchange; and “(2) privately owned lands or interests therein may be acquired only with the consent of the owner thereof unless the Secretary determines that the property is being developed or proposed to be developed in a manner which is detrimental to the scenic, historical, cultural, and other values for which the Park was established. “(b)(1) Not later than 6 months after the enactment of this Act [Sept. 25, 1986], the Secretary shall publish specific guidelines under which determinations shall be made under subsection (a)(2). The Secretary shall provide adequate opportunity for public comment on such guidelines. The guidelines shall provide for notice to the Secretary prior to commencement of any proposed development within the boundaries of the Park. The Secretary shall provide written notice to the owner of the property of any determination proposed to be made under subsection (a)(2) and shall provide the owner a reasonable opportunity to comment on such proposal. “(2) For purposes of this section, except as provided in paragraph (3), development or proposed development of private property within the boundaries of the Park that is significantly different from, or a significant expansion of, development existing as of November 1, 1985, shall be considered by the Secretary as detrimental to the values for which the Park was established. “(3) Reconstruction or expansion of a private or commercial building shall not be treated as detrimental to the Park or as an incompatible development within the meaning of this section if such reconstruction or expansion is limited to one or more of the following:“(A) Reconstruction of an existing building. “(B) Construction of attached or accessory structural additions, which do not exceed 25 per centum of the square footage of the principal structure. “(C) Construction of reasonable support development such as roads, parking facilities, water and sewage systems, and dock facilities. “(c)(1) The owners of any private property within the Park may, on the date of its acquisition by the Secretary and as a condition of such acquisition, retain for himself and his successors or assigns a right to use and occupancy for a definite term of not more than 25 years, or ending at the death of the owner, or his spouse, whichever is later. The owners shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value, of the right retained by the owner. “(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired. “(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged. “(2) Federally owned property under jurisdiction of the Secretary referred to in paragraph (1) of this subsection shall be conveyed to the towns in which the property is located without encumbrance and without monetary consideration, except that no town shall be eligible to receive such lands unless lands within the Park boundary and owned by the town have been conveyed to the Secretary. “(e) Notwithstanding any other provision of this section, lands depicted on the map referenced in section 101 and identified as 10DBH and 11DBH known as the ‘Bar Harbor Sewage Treatment Plant’; 14DBH known as the ‘New Park Street Ballfield’; and 15DBH known as the ‘Former Park Headquarters’; shall be conveyed by the Secretary, without monetary consideration, to the town of Bar Harbor, Maine, within 180 days following the enactment of this Act [Sept. 25, 1986]. The real property conveyed pursuant to this subsection shall be used and retained by the town for municipal and public purposes. Title to the properties conveyed pursuant to this subsection shall revert to the United States if such property or any portion thereof is conveyed by the town to another party or used for purposes other than those specified in this subsection. “(f) Notwithstanding any other provision of this section, land depicted on the map identified as 4DBH, located in the village of Town Hill, Maine, shall be conveyed by the Secretary without monetary consideration, to the town of Bar Harbor, Maine, as soon as practicable following the enactment of this Act [Sept. 25, 1986], subject to such terms and conditions, including appropriate reversionary provisions, as will in the judgment of the Secretary provide for the development and use of such property by any town which so desires as a solid waste transfer station in accordance with a plan that is satisfactory to the town and the Secretary. The Secretary shall (subject to the availability of prior appropriations) contribute toward the cost of constructing such transfer station the lesser of—“(1) $350,000, or “(2) 50 per centum of the cost of such construction. “(g) Notwithstanding any other provision of this section, the Secretary is authorized to acquire by donation or exchange lands or interests therein in the area identified on the map as ‘Schooner Head’, which is outside the boundary of the park. The Secretary is further authorized to acquire conservation easements on such lands by purchase with donated or appropriated funds if he determines after written notice to the owner and after providing a reasonable opportunity to comment on such notice, that the property is being developed or proposed to be developed in a manner which is significantly different from or a significant expansion of development existing as of November 1, 1985, as defined in subsection (b) of this section. “(h)(1) The Secretary is authorized to acquire conservation easements by purchase from a willing seller or by donation on parcels of land adjacent to the Park on Schoodic Peninsula, the islands of Hancock County, and the islands of Knox County east and south of the Penobscot Ship Channel, except such islands as lie within the town of Isle au Haut, Knox County. Parcels subject to conservation easements acquired or accepted by the Secretary under this subsection must possess one or more of the following characteristics:“(A) important scenic, ecological, historic, archeological, or cultural resources; “(B) shorefront property; or “(C) largely undeveloped entire islands. “(2) Conservation easements acquired pursuant to this subsection shall—“(A) protect the respective scenic, ecological, historic, archeological, or cultural resources existing on the parcels; “(B) preserve, through setback requirements or other appropriate restrictions, the open, natural, or traditional appearance of the shorefront when viewed from the water or from other public viewpoints; or “(C) limit year-round and seasonal residential and commercial development to activities consistent with the preservation of the islands’ natural qualities and to traditional resource-based land use including, but not limited to, fishing, farming, silviculture, and grazing. “(3) In determining whether to accept or acquire conservation easements pursuant to this subsection, the Secretary shall consider the following factors:“(A) the resource protection benefits that would be provided by the conservation easement; “(B) the public benefit that would be provided by the conservation easement; “(C) the significance of the easement in relation to the land planning objectives of local government and regional and State agencies; “(D) the economic impact of the conservation easement on local livelihoods, activities, and government revenues; and “(E) the proximity of the parcel to the boundary of the Park and to other parcels on which the Secretary maintains conservation easements. “(4) For purposes of this subsection, the term ‘conservation easement’ means a less-than-fee interest in land or a conservation restriction as defined in section 476 through 479–B inclusive, as amended, of title 33 of the Maine Revised Statutes of 1964, as in effect on the date of the enactment of this Act [Sept. 25, 1986]. “(5) No easement may be acquired by the Secretary under this subsection without first consulting with, and providing written notification to, the town in which the land is located and the Acadia National Park Advisory Commission established by [section 103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section103&num=0&edition=prelim). In providing such notification, the Secretary shall indicate the manner and degree to which the easement meets the criteria provided in this subsection. “(i) Nothing in this section shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances. “(j)(1) Notwithstanding any other provision of this section, the Secretary shall accept an offer of the following from the Jackson Laboratory (a not-for-profit corporation organized under the laws of Maine):“(A) Lands depicted on the map as 55 A ABH which are held in fee by the Jackson Laboratory. “(B) A conservation easement on lands depicted on the map identified as 55 ABH (the developed property known as ‘Highseas’). The easement shall prohibit subdivision of such land or any further significant development on such lands, except as permitted by the guidelines published under section 102(b)(1). “(2) Upon receipt of the lands and easement described in paragraph (1), the Secretary shall transfer to the Jackson Laboratory the lands depicted on the map as 8 DBH and 9 DBH. Any disparity in the fair market value of the lands and easement referred to in paragraph (1) and the lands described in the preceding sentence shall be equalized as provided in section 102(d)(1). “(k) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, before such construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure. “SEC. 103. ADVISORY COMMISSION.“(a) There is hereby established an Acadia National Park Advisory Commission (hereinafter referred to as ‘the Commission’). The Commission shall be composed of 16 members appointed by the Secretary as follows:“(1) 3 members at large. “(2) 3 members appointed from among individuals recommended by the Governor of Maine. “(3) 4 members, appointed from among individuals recommended by each of the four towns on the island of Mount Desert. “(4) 3 members appointed from among individuals recommended by each of the three Hancock County mainland communities of Gouldsboro, Winter Harbor, and Trenton. “(5) 3 members, appointed from among individuals recommended by each of the three island towns of Cranberry Isles, Swans Island, and Frenchboro. “(b) The terms of the Commission members shall be 3 years except that, for initial appointments under each paragraph, one member shall serve for a term of one year, and one member shall serve for a term of 2 years. “(c) The Commission shall elect its own chairman and adopt its own bylaws. Any vacancy on the Commission shall be filled in the same manner in which the original appointment was made. “(d) Members of the Commission shall serve without compensation as such, except that the Secretary is authorized to pay the expenses reasonably incurred by the Commission in carrying out its responsibilities under this title. “(e) The Secretary shall consult with the Commission on matters relating to the management and development of the Park, including but not limited to each of the following:“(1) The acquisition of lands and interests in lands (including conservation easements on islands). “(2) Termination of rights of use and occupancy. “(f) The Commission established under this section shall terminate 40 years after the enactment of this Act [Sept. 25, 1986]. “SEC. 104. BEAR ISLAND.“(a) Notwithstanding any other provision of law, Federal property located on Bear Island in the town of Cranberry Isle shall, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of the title. Such Federal property shall not be developed by the Secretary in a manner which would provide for or encourage intensive visitor use. “(b) The Secretary is authorized to make improvements to the Federal property on Bear Island as he deems appropriate for the protection of adjacent private property. “SEC. 105. TOWN OF ISLE AU HAUT.“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governed by the provisions of Public Law 97–335 [set out as a note below]. “SEC. 106. AUTHORIZATION OF APPROPRIATIONS.“(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein. “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended ([former] [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9) [now [54 U.S.C. 200306(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/4&num=0&edition=prelim)], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress [Jan. 4, 1977]. “(c) Additional Funding.—In addition to such sums as have been heretofore appropriated, there is hereby authorized $10,000,000 for acquisition of lands and interests therein. “SEC. 107. PAYMENTS TO LOCAL GOVERNMENTS.“(a) Notwithstanding the limitation in subsection 3(d) of the Act of October 20, 1976 (90 Stat. 2662) payments in the manner provided in section 3 of that Act [see [31 U.S.C. 6904(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6904/b&num=0&edition=prelim)] shall be made to the appropriate units of local government having jurisdiction over lands with the boundary of the Park. Such payments shall be made only for a period of 12 years. “(b) Payments received by the units of local government pursuant to this section shall be used only for fire protection, police protection, solid waste management, and road maintenance and improvement. “(c) Payments pursuant to this section may be made only from funds appropriated therefor. Such payments shall be in addition to and not in place of any other funds or form of Federal assistance to which the units of local government are entitled. “SEC. 108. INTERMODAL TRANSPORTATION CENTER.“(a) In General.—The Secretary may provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park. “(b) Agreements.—To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and, notwithstanding chapter 63 of title 31, United States Code, cooperative agreements, under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—“(1) to provide exhibits, interpretive services (including employing individuals to provide such services), and technical assistance; “(2) to conduct activities that facilitate the dissemination of information relating to the Park and the Island Explorer transit system or any successor transit system; “(3) to provide financial assistance for the construction of the intermodal transportation center in exchange for space in the center that is sufficient to interpret the Park; and “(4) to assist with the operation and maintenance of the intermodal transportation center. “(c) Authorization of Appropriations.—“(1) In general.—There are authorized to be appropriated to the Secretary not more than 40 percent of the total cost necessary to carry out this section (including planning, design and construction of the intermodal transportation center). “(2) Operations and maintenance.—There are authorized to be appropriated to the Secretary not more than 85 percent of the total cost necessary to maintain and operate the intermodal transportation center.”
+Pub. L. 116–9, title II, § 2108(c)(1), Mar. 12, 2019, 133 Stat. 730, provided that: The Secretary [of the Interior] shall reestablish and appoint members to the Acadia National Park Advisory Commission in accordance with section 103 of Public Law 99–420 ([16 U.S.C. 341](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-341) note).”
+
+Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 110–229, title III, § 314(a), (b)(1), (c), (d), May 8, 2008, 122 Stat. 775; Pub. L. 116–9, title II, § 2108(a), (b), (c)(2), (f), Mar. 12, 2019, 133 Stat. 728–730, provided that:
+
+“SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.
+
+“(a) Boundaries.—Subject to subsections (b) and (c)(2), to protect and conserve the land and water resources of Acadia National Park in the State of Maine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park.
+
+“(b) Schoodic Peninsula Addition.—
+
+“(1) In general.—The boundary of the Park is confirmed to include approximately 1,441 acres of land and interests in land, as depicted on the map entitled ‘Acadia National Park, Hancock County, Maine, Schoodic Peninsula Boundary Revision’, numbered 123/129102, and dated July 10, 2015.
+
+“(2) Ratification and approval of acquisitions of land.—Congress ratifies and approves—
+
+“(A) effective as of September 26, 2013, the acquisition by the United States of the land and interests in the land described in paragraph (1); and
+
+“(B) effective as of the date on which the alteration occurred, any alteration of the land or interests in the land described in paragraph (1) that is held or claimed by the United States (including conversion of the land to fee simple interest) that occurred after the date described in subparagraph (A).
+
+“(c) Availability and Revisions of Maps.—
+
+“(1) Availability.—The map, together with the map described in subsection (b)(1) and any revised boundary map published under paragraph (2), if applicable, shall be—
+
+“(A) on file and available for public inspection in the offices of the National Park Service, Department of the Interior; and
+
+“(B) made available to the Registry of Deeds for Hancock and Knox Counties, Maine.
+
+“(2) Technical and limited revisions.—Subject to section 102(k), notwithstanding any other provision of this section, the Secretary of the Interior (referred to in this title as the ‘Secretary’), by publication in the Federal Register of a revised boundary map or other description, may make—
+
+“(A) such technical boundary revisions as the Secretary determines to be appropriate to the permanent boundaries of the Park (including any property of the Park located within the Schoodic Peninsula and Isle Au Haut districts) to resolve issues resulting from causes such as survey error or changed road alignments; and
+
+“(B) such limited boundary revisions as the Secretary determines to be appropriate to the permanent boundaries of the Park to take into account acquisitions or losses, by exchange, donation, or purchase from willing sellers using donated or appropriated funds, of land adjacent to or within the Park, respectively, in any case in which the total acreage of the land to be so acquired or lost is less than 10 acres, subject to the condition that—
+
+“(i) any such boundary revision shall not be a part of a more-comprehensive boundary revision; and
+
+“(ii) all such boundary revisions, considered collectively with any technical boundary revisions made pursuant to subparagraph (A), do not increase the size of the Park by more than a total of 100 acres, as compared to the size of the Park on the date of enactment of this paragraph.
+
+“SEC. 102. LANDS WITHIN BOUNDARIES.
+
+“(a) The Secretary is authorized to acquire lands and interests therein within the boundaries of the Park by donation, exchange (in accordance with this section), or purchase with donated or appropriated funds, except that—
+
+“(1) any lands or interests therein owned by the State of Maine or any political subdivision thereof may be acquired only by donation or exchange; and
+
+“(2) privately owned lands or interests therein may be acquired only with the consent of the owner thereof unless the Secretary determines that the property is being developed or proposed to be developed in a manner which is detrimental to the scenic, historical, cultural, and other values for which the Park was established.
+
+“(b)(1) Not later than 6 months after the enactment of this Act [Sept. 25, 1986], the Secretary shall publish specific guidelines under which determinations shall be made under subsection (a)(2). The Secretary shall provide adequate opportunity for public comment on such guidelines. The guidelines shall provide for notice to the Secretary prior to commencement of any proposed development within the boundaries of the Park. The Secretary shall provide written notice to the owner of the property of any determination proposed to be made under subsection (a)(2) and shall provide the owner a reasonable opportunity to comment on such proposal.
+
+“(2) For purposes of this section, except as provided in paragraph (3), development or proposed development of private property within the boundaries of the Park that is significantly different from, or a significant expansion of, development existing as of November 1, 1985, shall be considered by the Secretary as detrimental to the values for which the Park was established.
+
+“(3) Reconstruction or expansion of a private or commercial building shall not be treated as detrimental to the Park or as an incompatible development within the meaning of this section if such reconstruction or expansion is limited to one or more of the following:
+
+“(A) Reconstruction of an existing building.
+
+“(B) Construction of attached or accessory structural additions, which do not exceed 25 per centum of the square footage of the principal structure.
+
+“(C) Construction of reasonable support development such as roads, parking facilities, water and sewage systems, and dock facilities.
+
+“(4) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, before such construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure.
+
+“(c)(1) The owners of any private property within the Park may, on the date of its acquisition by the Secretary and as a condition of such acquisition, retain for himself and his successors or assigns a right to use and occupancy for a definite term of not more than 25 years, or ending at the death of the owner, or his spouse, whichever is later. The owners shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value, of the right retained by the owner.
+
+“(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired.
+
+“(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged.
+
+“(2) Federally owned property under jurisdiction of the Secretary referred to in paragraph (1) of this subsection shall be conveyed to the towns in which the property is located without encumbrance and without monetary consideration, except that no town shall be eligible to receive such lands unless lands within the Park boundary and owned by the town have been conveyed to the Secretary.
+
+“(e) Notwithstanding any other provision of this section, lands depicted on the map referenced in section 101 and identified as 10DBH and 11DBH known as the ‘Bar Harbor Sewage Treatment Plant’; 14DBH known as the ‘New Park Street Ballfield’; and 15DBH known as the ‘Former Park Headquarters’; shall be conveyed by the Secretary, without monetary consideration, to the town of Bar Harbor, Maine, within 180 days following the enactment of this Act [Sept. 25, 1986]. The real property conveyed pursuant to this subsection shall be used and retained by the town for municipal and public purposes. Title to the properties conveyed pursuant to this subsection shall revert to the United States if such property or any portion thereof is conveyed by the town to another party or used for purposes other than those specified in this subsection.
+
+“(f) Notwithstanding any other provision of this section, land depicted on the map identified as 4DBH, located in the village of Town Hill, Maine, shall be conveyed by the Secretary without monetary consideration, to the town of Bar Harbor, Maine, as soon as practicable following the enactment of this Act [Sept. 25, 1986], subject to such terms and conditions, including appropriate reversionary provisions, as will in the judgment of the Secretary provide for the development and use of such property by any town which so desires as a solid waste transfer station in accordance with a plan that is satisfactory to the town and the Secretary. The Secretary shall (subject to the availability of prior appropriations) contribute toward the cost of constructing such transfer station the lesser of—
+
+“(1) $350,000, or
+
+“(2) 50 per centum of the cost of such construction.
+
+“(g) Notwithstanding any other provision of this section, the Secretary is authorized to acquire by donation or exchange lands or interests therein in the area identified on the map as ‘Schooner Head’, which is outside the boundary of the park. The Secretary is further authorized to acquire conservation easements on such lands by purchase with donated or appropriated funds if he determines after written notice to the owner and after providing a reasonable opportunity to comment on such notice, that the property is being developed or proposed to be developed in a manner which is significantly different from or a significant expansion of development existing as of November 1, 1985, as defined in subsection (b) of this section.
+
+“(h)(1) The Secretary is authorized to acquire conservation easements by purchase from a willing seller or by donation on parcels of land adjacent to the Park on Schoodic Peninsula, the islands of Hancock County, and the islands of Knox County east and south of the Penobscot Ship Channel, except such islands as lie within the town of Isle au Haut, Knox County. Parcels subject to conservation easements acquired or accepted by the Secretary under this subsection must possess one or more of the following characteristics: “(A) important scenic, ecological, historic, archeological, or cultural resources; “(B) shorefront property; or “(C) largely undeveloped entire islands.“(2) Conservation easements acquired pursuant to this subsection shall—“(A) protect the respective scenic, ecological, historic, archeological, or cultural resources existing on the parcels; “(B) preserve, through setback requirements or other appropriate restrictions, the open, natural, or traditional appearance of the shorefront when viewed from the water or from other public viewpoints; or “(C) limit year-round and seasonal residential and commercial development to activities consistent with the preservation of the islands’ natural qualities and to traditional resource-based land use including, but not limited to, fishing, farming, silviculture, and grazing. “(3) In determining whether to accept or acquire conservation easements pursuant to this subsection, the Secretary shall consider the following factors:“(A) the resource protection benefits that would be provided by the conservation easement; “(B) the public benefit that would be provided by the conservation easement; “(C) the significance of the easement in relation to the land planning objectives of local government and regional and State agencies; “(D) the economic impact of the conservation easement on local livelihoods, activities, and government revenues; and “(E) the proximity of the parcel to the boundary of the Park and to other parcels on which the Secretary maintains conservation easements. “(4) For purposes of this subsection, the term ‘conservation easement’ means a less-than-fee interest in land or a conservation restriction as defined in section 476 through 479–B inclusive, as amended, of title 33 of the Maine Revised Statutes of 1964, as in effect on the date of the enactment of this Act [Sept. 25, 1986]. “(5) No easement may be acquired by the Secretary under this subsection without first consulting with, and providing written notification to, the town in which the land is located and the Acadia National Park Advisory Commission established by [section 103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section103&num=0&edition=prelim). In providing such notification, the Secretary shall indicate the manner and degree to which the easement meets the criteria provided in this subsection.“(i) Nothing in this section shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances.“(j)(1) Notwithstanding any other provision of this section, the Secretary shall accept an offer of the following from the Jackson Laboratory (a not-for-profit corporation organized under the laws of Maine):“(A) Lands depicted on the map as 55 A ABH which are held in fee by the Jackson Laboratory. “(B) A conservation easement on lands depicted on the map identified as 55 ABH (the developed property known as ‘Highseas’). The easement shall prohibit subdivision of such land or any further significant development on such lands, except as permitted by the guidelines published under section 102(b)(1). “(2) Upon receipt of the lands and easement described in paragraph (1), the Secretary shall transfer to the Jackson Laboratory the lands depicted on the map as 8 DBH and 9 DBH. Any disparity in the fair market value of the lands and easement referred to in paragraph (1) and the lands described in the preceding sentence shall be equalized as provided in section 102(d)(1). “(k) Requirements.—Before revising the boundaries of the Park pursuant to this section or section 101(c)(2)(B), the Secretary shall—“(1) certify that the proposed boundary revision will contribute to, and is necessary for, the proper preservation, protection, interpretation, or management of the Park; “(2) consult with the governing body of each county, city, town, or other jurisdiction with primary taxing authority over the land or interest in land to be acquired regarding the impacts of the proposed boundary revision; “(3) obtain from each property owner the land or interest in land of which is proposed to be acquired for, or lost from, the Park written consent for the proposed boundary revision; and “(4) submit to the Acadia National Park Advisory Commission established by section 103(a), the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Maine Congressional Delegation a written notice of the proposed boundary revision. “(l) Limitation.—The Secretary may not use the authority provided by [section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code, to adjust the permanent boundaries of the Park pursuant to this title. “SEC. 103. ADVISORY COMMISSION.“(a) There is hereby established an Acadia National Park Advisory Commission (hereinafter referred to as ‘the Commission’). The Commission shall be composed of 16 members appointed by the Secretary as follows:“(1) 3 members at large. “(2) 3 members appointed from among individuals recommended by the Governor of Maine. “(3) 4 members, appointed from among individuals recommended by each of the four towns on the island of Mount Desert. “(4) 3 members appointed from among individuals recommended by each of the three Hancock County mainland communities of Gouldsboro, Winter Harbor, and Trenton. “(5) 3 members, appointed from among individuals recommended by each of the three island towns of Cranberry Isles, Swans Island, and Frenchboro. “(b) The terms of the Commission members shall be 3 years except that, for initial appointments under each paragraph, one member shall serve for a term of one year, and one member shall serve for a term of 2 years. “(c) The Commission shall elect its own chairman and adopt its own bylaws. Any vacancy on the Commission shall be filled in the same manner in which the original appointment was made. “(d) Members of the Commission shall serve without compensation as such, except that the Secretary is authorized to pay the expenses reasonably incurred by the Commission in carrying out its responsibilities under this title. “(e) The Secretary shall consult with the Commission on matters relating to the management and development of the Park, including but not limited to each of the following:“(1) The acquisition of lands and interests in lands (including conservation easements on islands). “(2) Termination of rights of use and occupancy. “SEC. 104. BEAR ISLAND.“(a) Notwithstanding any other provision of law, Federal property located on Bear Island in the town of Cranberry Isle shall, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of the title. Such Federal property shall not be developed by the Secretary in a manner which would provide for or encourage intensive visitor use. “(b) The Secretary is authorized to make improvements to the Federal property on Bear Island as he deems appropriate for the protection of adjacent private property. “SEC. 105. TOWN OF ISLE AU HAUT.“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governed by the provisions of Public Law 97–335 [set out as a note below]. “SEC. 106. AUTHORIZATION OF APPROPRIATIONS.“(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein. “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended ([former] [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9) [now [54 U.S.C. 200306(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/4&num=0&edition=prelim)], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress [Jan. 4, 1977]. “(c) Additional Funding.—In addition to such sums as have been heretofore appropriated, there is hereby authorized $10,000,000 for acquisition of lands and interests therein. “SEC. 107. PAYMENTS TO LOCAL GOVERNMENTS.“(a) Notwithstanding the limitation in subsection 3(d) of the Act of October 20, 1976 (90 Stat. 2662) payments in the manner provided in section 3 of that Act [see [31 U.S.C. 6904(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6904/b&num=0&edition=prelim)] shall be made to the appropriate units of local government having jurisdiction over lands with the boundary of the Park. Such payments shall be made only for a period of 12 years. “(b) Payments received by the units of local government pursuant to this section shall be used only for fire protection, police protection, solid waste management, and road maintenance and improvement. “(c) Payments pursuant to this section may be made only from funds appropriated therefor. Such payments shall be in addition to and not in place of any other funds or form of Federal assistance to which the units of local government are entitled. “SEC. 108. INTERMODAL TRANSPORTATION CENTER.“(a) In General.—The Secretary may provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park. “(b) Agreements.—To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and, notwithstanding chapter 63 of title 31, United States Code, cooperative agreements, under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—“(1) to provide exhibits, interpretive services (including employing individuals to provide such services), and technical assistance; “(2) to conduct activities that facilitate the dissemination of information relating to the Park and the Island Explorer transit system or any successor transit system; “(3) to provide financial assistance for the construction of the intermodal transportation center in exchange for space in the center that is sufficient to interpret the Park; and “(4) to assist with the operation and maintenance of the intermodal transportation center. “(c) Authorization of Appropriations.—“(1) In general.—There are authorized to be appropriated to the Secretary not more than 40 percent of the total cost necessary to carry out this section (including planning, design and construction of the intermodal transportation center). “(2) Operations and maintenance.—There are authorized to be appropriated to the Secretary not more than 85 percent of the total cost necessary to maintain and operate the intermodal transportation center. “SEC. 109. CONTINUATION OF CERTAIN TRADITIONAL USES.“(a) Definitions.—In this section:“(1) Land within the park.—The term ‘land within the Park’ means land owned or controlled by the United States—“(A) that is within the boundary of the Park established by section 101; or “(B)(i) that is outside the boundary of the Park; and “(ii) in which the Secretary has or acquires a property interest or conservation easement pursuant to this title. “(2) Marine species; marine worm; shellfish.—The terms ‘marine species’, ‘marine worm’, and ‘shellfish’ have the meanings given those terms in [section 6001 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section6001&num=0&edition=prelim) of the Maine Revised Statutes (as in effect on the date of enactment of this section [March 12, 2019]). “(3) State law.—The term ‘State law’ means the law (including regulations) of the State of Maine, including the common law. “(4) Taking.—The term ‘taking’ means the removal or attempted removal of a marine species, marine worm, or shellfish from the natural habitat of the marine species, marine worm, or shellfish. “(b) Continuation of Traditional Uses.—The Secretary shall allow for the traditional taking of marine species, marine worms, and shellfish, on land within the Park between the mean high watermark and the mean low watermark in accordance with State law.”
 
 [Pub. L. 110–229, title III, § 314(b)(2), May 8, 2008, 122 Stat. 775, provided that: “The amendment made by paragraph (1) [amending section 103(f) of Public Law 99–420, set out above] shall take effect on September 25, 2006.” ]
 
@@ -6881,14 +7006,11 @@ Act July 30, 1947, ch. 350, 61 Stat. 519, provided: “That control and jurisdic
 
 
 <a id="section-342a"></a>
-## § 342a. Extension of boundary limits
-
-The Secretary of the Interior is authorized, in his discretion, to accept in behalf of the United States lands, easements, and buildings, as may be donated for the extension of the Acadia National Park, lying within the bounds of Hancock County within which the park is situated, together with such islands in Knox County adjoining as lie to the east and south of the main ship channel through Penobscot Bay, which complete the archipelago of which Mount Desert Island, whereon the park is situated, forms the dominant and largest unit.
+## § 342a. Repealed. Pub. L. 116–9, title II, § 2108(d)(2), Mar. 12, 2019, 133 Stat. 730
 
 ### Statutory Notes
 
-#### Codification
-Section is based on section 1 of act Jan. 19, 1929. “Lafayette National Park” changed to “Acadia National Park” by section 2 of said act.
+Section, act Jan. 19, 1929, ch. 77, § 1, 45 Stat. 1083, authorized the Secretary of the Interior to accept certain property for the extension of the Acadia National Park.
 
 
 <a id="section-342b"></a>
@@ -6903,9 +7025,11 @@ The Federal Power Act, referred to in text, was in the original the “Act of Ju
 
 
 <a id="section-343"></a>
-## § 343. Acceptance of property on Mount Desert Island
+## § 343. Repealed. Pub. L. 116–9, title II, § 2108(d)(1), Mar. 12, 2019, 133 Stat. 730
 
-The Secretary of the Interior is authorized, in his discretion, to accept in behalf of the United States such other property on said Mount Desert Island, including lands, easements, buildings, and moneys, as may be donated for the extension or improvement of said park.
+### Statutory Notes
+
+Section, act Feb. 26, 1919, ch. 45, § 3, 40 Stat. 1179, authorized the Secretary of the Interior to accept property on Mount Desert Island.
 
 
 <a id="section-343a"></a>
@@ -9735,16 +9859,88 @@ The Congress hereby finds that—
 The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 #### Short Title
-Pub. L. 103–433, § 1, Oct. 31, 1994, 108 Stat. 4471, provided that: “Sections 1 and 2, and titles I through IX of this Act [enacting this subchapter, provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132), and provisions set out as notes under this section, [section 410aaa–82 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-82), and [section 1781 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1781&num=0&edition=prelim), Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)] may be cited as the ‘California Desert Protection Act of 1994’.”
+Pub. L. 103–433, § 1, Oct. 31, 1994, 108 Stat. 4471, as amended by Pub. L. 116–9, title I, § 1458(a), Mar. 12, 2019, 133 Stat. 718, provided that: “Sections 1, 2, and 3, titles I through IX, and titles XIII and XIV of this Act [enacting this subchapter, part E of subchapter LIX–Y of this chapter, subchapters CXLII and CXLIII of this chapter, provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132), provisions set out as notes under this section, [section 410aaa–82 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-82), and [section 1781 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1781&num=0&edition=prelim), Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)] may be cited as the ‘California Desert Protection Act of 1994’.”
 
 #### Timbisha Shoshone Homeland
-Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Timbisha Shoshone Homeland Act’. “SEC. 2. FINDINGS.“Congress finds the following:“(1) Since time immemorial, the Timbisha Shoshone Tribe has lived in portions of California and Nevada. The Tribe’s ancestral homeland includes the area that now comprises Death Valley National Park and other areas of California and Nevada now administered by the Bureau of Land Management. “(2) Since 1936, the Tribe has lived and governed the affairs of the Tribe on approximately 40 acres of land near Furnace Creek in the Park. “(3) The Tribe achieved Federal recognition in 1983 but does not have a land base within the Tribe’s ancestral homeland. “(4) Since the Tribe commenced use and occupancy of the Furnace Creek area, the Tribe’s membership has grown. Tribal members have a desire and need for housing, government and administrative facilities, cultural facilities, and sustainable economic development to provide decent, safe, and healthy conditions for themselves and their families. “(5) The interests of both the Tribe and the National Park Service would be enhanced by recognizing their coexistence on the same land and by establishing partnerships for compatible land uses and for the interpretation of the Tribe’s history and culture for visitors to the Park. “(6) The interests of both the Tribe and the United States would be enhanced by the establishment of a land base for the Tribe and by further delineation of the rights and obligations of each with respect to the Furnace Creek area and to the Park as a whole. “SEC. 3. PURPOSES.“Consistent with the recommendations of the report required by section 705(b) of the California Desert Protection Act of 1994 [[16 U.S.C. 410aaa–75(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410aaa–75/b&num=0&edition=prelim)] (Public Law 103–433; 108 Stat. 4498), the purposes of this Act are—“(1) to provide in trust to the Tribe land on which the Tribe can live permanently and govern the Tribe’s affairs in a modern community within the ancestral homeland of the Tribe outside and within the Park; “(2) to formally recognize the contributions by the Tribe to the history, culture, and ecology of the Park and surrounding area; “(3) to ensure that the resources within the Park are protected and enhanced by—“(A) cooperative activities within the Tribe’s ancestral homeland; and “(B) partnerships between the Tribe and the National Park Service and partnerships involving the Bureau of Land Management; “(4) to ensure that such activities are not in derogation of the purposes and values for which the Park was established; “(5) to provide opportunities for a richer visitor experience at the Park through direct interactions between visitors and the Tribe including guided tours, interpretation, and the establishment of a tribal museum and cultural center; “(6) to provide appropriate opportunities for economically viable and ecologically sustainable visitor-related development, by the Tribe within the Park, that is not in derogation of the purposes and values for which the Park was established; and “(7) to provide trust lands for the Tribe in 4 separate parcels of land that is now managed by the Bureau of Land Management and authorize the purchase of 2 parcels now held in private ownership to be taken into trust for the Tribe. “SEC. 4. DEFINITIONS.“In this Act:“(1) Park.—The term ‘Park’ means Death Valley National Park, including any additions to that Park. “(2) Secretary.—The term ‘Secretary’ means the Secretary of the Interior or the designee of the Secretary. “(3) Tribal.—The term ‘tribal’ means of or pertaining to the Tribe. “(4) Tribe.—The term ‘Tribe’ means the Timbisha Shoshone Tribe, a tribe of American Indians recognized by the United States pursuant to part 83 of title 25, Code of Federal Regulations (or any corresponding similar regulation or ruling). “(5) Trust lands.—The term ‘trust lands’ means those lands taken into trust pursuant to this Act. “SEC. 5. TRIBAL RIGHTS AND AUTHORITY ON THE TIMBISHA SHOSHONE HOMELAND.“(a) In General.—Subject to valid existing rights (existing on the date of enactment of this Act [Nov. 1, 2000]), all right, title, and interest of the United States in and to the lands, including improvements and appurtenances, described in subsection (b) are declared to be held in trust by the United States for the benefit of the Tribe. All maps referred to in subsection (b) shall be on file and available for public inspection in the appropriate offices of the National Park Service and the Bureau of Land Management. “(b) Park Lands and Bureau of Land Management Lands Described.—“(1) In general.—The following lands and water shall be held in trust for the Tribe pursuant to subsection (a):“(A) Furnace Creek, Death Valley National Park, California, an area of 313.99 acres for community development, residential development, historic restoration, and visitor-related economic development, depicted as Tract 37 on the map of Township 27 North, Range 1 East, of the San Bernardino Meridian, California, numbered Map #1 and dated December 2, 1999, together with 92 acre feet per annum of surface and ground water for the purposes associated with the transfer of such lands. This area shall include a 25-acre, nondevelopment zone at the north end of the area and an Adobe Restoration zone containing several historic adobe homes, which shall be managed by the Tribe as a tribal historic district. “(B) Death Valley Junction, California, an area of approximately 1,000 acres, as generally depicted on the map entitled ‘Death Valley Junction, California’, numbered Map #2 and dated April 12, 2000, together with 15.1 acre feet per annum of ground water for the purposes associated with the transfer of such lands. “(C)(i) Centennial, California, an area of approximately 640 acres, as generally depicted on the map entitled ‘Centennial, California’, numbered Map #3 and dated April 12, 2000, together with an amount of ground water not to exceed 10 acre feet per annum for the purposes associated with the transfer of such lands. “(ii) If the Secretary determines that there is insufficient ground water available on the lands described in clause (i) to satisfy the Tribe’s right to ground water to fulfill the purposes associated with the transfer of such lands, then the Tribe and the Secretary shall, within 2 years of such determination, identify approximately 640 acres of land that are administered by the Bureau of Land Management in that portion of Inyo County, California, to the north and east of the China Lake Naval Weapons Center, to be a mutually agreed upon substitute for the lands described in clause (i). If the Secretary determines that sufficient water is available to fulfill the purposes associated with the transfer of the lands described in the preceding sentence, then the Tribe shall request that the Secretary accept such lands into trust for the benefit of the Timbisha Shoshone Tribe, and the Secretary shall accept such lands, together with an amount of water not to exceed 10 acre feet per annum, into trust for the Tribe as a substitute for the lands described in clause (i). “(D) Scotty’s Junction, Nevada, an area of approximately 2,800 acres, as generally depicted on the map entitled ‘Scotty’s Junction, Nevada’, numbered Map #4 and dated April 12, 2000, together with 375.5 acre feet per annum of ground water for the purposes associated with the transfer of such lands. “(E) Lida, Nevada, Community Parcel, an area of approximately 3,000 acres, as generally depicted on the map entitled ‘Lida, Nevada, Community Parcel’, numbered Map #5 and dated April 12, 2000, together with 14.7 acre feet per annum of ground water for the purposes associated with the transfer of such lands. “(2) Water rights.—The priority date of the Federal water rights described in subparagraphs (A) through (E) of paragraph (1) shall be the date of enactment of this Act [Nov. 1, 2000], and such Federal water rights shall be junior to Federal and State water rights existing on such date of enactment. Such Federal water rights shall not be subject to relinquishment, forfeiture or abandonment. “(3) Limitations on furnace creek area development.—“(A) Development.—Recognizing the mutual interests and responsibilities of the Tribe and the National Park Service in and for the conservation and protection of the resources in the area described in paragraph (1), development in the area shall be limited to—“(i) for purposes of community and residential development— “(I) a maximum of 50 single-family residences; and “(II) a tribal community center with space for tribal offices, recreation facilities, a multipurpose room and kitchen, and senior and youth facilities; “(ii) for purposes of economic development— “(I) a small-to-moderate desert inn; and “(II) a tribal museum and cultural center with a gift shop; and “(iii) the infrastructure necessary to support the level of development described in clauses (i) and (ii). “(B) Exception.—Notwithstanding the provisions of subparagraph (A)(ii), the National Park Service and the Tribe are authorized to negotiate mutually agreed upon, visitor-related economic development in lieu of the development set forth in that subparagraph if such alternative development will have no greater environmental impact than the development set forth in that subparagraph. “(C) Right-of-way.—The Tribe shall have a right-of-way for ingress and egress on Highway 190 in California. “(4) Limitations on impact on mining claims.—Nothing in this Act shall be construed as terminating any valid mining claim existing on the date of enactment of this Act [Nov. 1, 2000] on the land described in paragraph (1)(E). Any person with such an existing mining claim shall have all the rights incident to mining claims, including the rights of ingress and egress on the land described in paragraph (1)(E). Any person with such an existing mining claim shall have the right to occupy and use so much of the surface of the land as is required for all purposes reasonably necessary to mine and remove the minerals from the land, including the removal of timber for mining purposes. Such a mining claim shall terminate when the claim is determined to be invalid or is abandoned. “(c) Legal Descriptions.—Not later than 1 year after the date of enactment of this Act [Nov. 1, 2000], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available for public inspection in the offices of the National Park Service and the Bureau of Land Management. “(d) Additional Trust Resources.—The Secretary may purchase from willing sellers the following parcels and appurtenant water rights, or the water rights separately, to be taken into trust for the Tribe:“(1) Indian Rancheria Site, California, an area of approximately 120 acres, as generally depicted on the map entitled ‘Indian Rancheria Site, California’ numbered Map #6 and dated December 3, 1999. “(2) Lida Ranch, Nevada, an area of approximately 2,340 acres, as generally depicted on the map entitled ‘Lida Ranch’ numbered Map #7 and dated April 6, 2000, or another parcel mutually agreed upon by the Secretary and the Tribe. “(e) Special Use Areas.—“(1) In general.—The areas described in this subsection shall be nonexclusive special use areas for the Tribe, subject to other Federal law. Members of the Tribe are authorized to use these areas for low impact, ecologically sustainable, traditional practices pursuant to a jointly established management plan mutually agreed upon by the Tribe, and by the National Park Service or the Bureau of Land Management, as appropriate. All maps referred to in paragraph (4) shall be on file and available for public inspection in the offices of the National Park Service and Bureau of Land Management. “(2) Recognition of the history and culture of the tribe.—In the special use areas, in recognition of the significant contributions the Tribe has made to the history, ecology, and culture of the Park and to ensure that the visitor experience in the Park will be enhanced by the increased and continued presence of the Tribe, the Secretary shall permit the Tribe’s continued use of Park resources for traditional tribal purposes, practices, and activities. “(3) Resource use by the tribe.—In the special use areas, any use of Park resources by the Tribe for traditional purposes, practices, and activities shall not include the taking of wildlife and shall not be in derogation of purposes and values for which the Park was established. “(4) Specific areas.—The following areas are designated special use areas pursuant to paragraph (1):“(A) Mesquite use area.—The area generally depicted on the map entitled ‘Mesquite Use Area’ numbered Map #8 and dated April 12, 2000. The Tribe may use this area for processing mesquite using traditional plant management techniques such as thinning, pruning, harvesting, removing excess sand, and removing exotic species. The National Park Service may limit and condition, but not prohibit entirely, public use of this area or parts of this area, in consultation with the Tribe. This area shall be managed in accordance with the jointly established management plan referred to in paragraph (1). “(B) Buffer area.—An area of approximately 1,500 acres, as generally depicted on the map entitled ‘Buffer Area’ numbered Map #8 and dated April 12, 2000. The National Park Service shall restrict visitor use of this area to protect the privacy of the Tribe and to provide an opportunity for the Tribe to conduct community affairs without undue disruption from the public. “(C) Timbisha shoshone natural and cultural preservation area.—An area that primarily consists of Park lands and also a small portion of Bureau of Land Management land in California, as generally depicted on the map entitled ‘Timbisha Shoshone Natural and Cultural Preservation Area’ numbered Map #9 and dated April 12, 2000. “(5) Additional provisions.—With respect to the Timbisha Shoshone Natural and Cultural Preservation Area designated in paragraph (4)(C)—“(A) the Tribe may establish and maintain a tribal resource management field office, garage, and storage area, all within the area of the existing ranger station at Wildrose (existing as of the date of enactment of this Act [Nov. 1, 2000]); “(B) the Tribe also may use traditional camps for tribal members at Wildrose and Hunter Mountain in accordance with the jointly established management plan referred to in paragraph (1); “(C) the area shall be depicted on maps of the Park and Bureau of Land Management that are provided for general visitor use; “(D) the National Park Service and the Bureau of Land Management shall accommodate access by the Tribe to and use by the Tribe of—“(i) the area (including portions described in subparagraph (E)) for traditional cultural and religious activities, in a manner consistent with the purpose and intent of Public Law 95–341 (commonly known as the ‘American Indian Religious Freedom Act’) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) et seq.); and “(ii) areas designated as wilderness (including portions described in subparagraph (E)), in a manner consistent with the purpose and intent of the Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.); and “(E)(i) on the request of the Tribe, the National Park Service and the Bureau of Land Management shall temporarily close to the general public, 1 or more specific portions of the area in order to protect the privacy of tribal members engaging in traditional cultural and religious activities in those portions; and “(ii) any such closure shall be made in a manner that affects the smallest practicable area for the minimum period necessary for the purposes described in clause (i). “(f) Access and Use.—Members of the Tribe shall have the right to enter and use the Park without payment of any fee for admission into the Park. “(g) Administration.—The trust lands shall constitute the Timbisha Shoshone Reservation and shall be administered pursuant to the laws and regulations applicable to other Indian trust lands, except as otherwise provided in this Act. “SEC. 6. IMPLEMENTATION PROCESS.“(a) Government-to-Government Agreements.—In order to fulfill the purposes of this Act and to establish cooperative partnerships for purposes of this Act, the National Park Service, the Bureau of Land Management, and the Tribe shall enter into government-to-government consultations and shall develop protocols to review planned development in the Park. The National Park Service and the Bureau of Land Management are authorized to enter into cooperative agreements with the Tribe for the purpose of providing training on the interpretation, management, protection, and preservation of the natural and cultural resources of the areas designated for special uses by the Tribe in section 5(e)(4). “(b) Standards.—The National Park Service and the Tribe shall develop mutually agreed upon standards for size, impact, and design for use in planning, resource protection, and development of the Furnace Creek area and for the facilities at Wildrose. The standards shall be based on standards for recognized best practices for environmental sustainability and shall not be less restrictive than the environmental standards applied within the National Park System at any given time. Development in the area shall be conducted in a manner consistent with the standards, which shall be reviewed periodically and revised as necessary. “(c) Water Monitoring.—The Secretary and the Tribe shall develop mutually agreed upon standards for a water monitoring system to assess the effects of water use at Scotty’s Junction and at Death Valley Junction on the tribal trust lands described in subparagraphs (A), (B), and (D) of section 5(b)(1), and on the Park. Water monitoring shall be conducted in a manner that is consistent with such standards, which shall be reviewed periodically and revised as necessary. “SEC. 7. MISCELLANEOUS PROVISIONS.“(a) Tribal Employment.—In employing individuals to perform any construction, maintenance, interpretation, or other service in the Park, the Secretary shall, insofar as practicable, give first preference to qualified members of the Tribe. “(b) Gaming.—Gaming as defined and regulated by the Indian Gaming Regulatory Act ([25 U.S.C. 2701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2701&num=0&edition=prelim) et seq.) shall be prohibited on trust lands within the Park. “(c) Initial Reservation.—Lands taken into trust for the Tribe pursuant to section 5, except for the Park land described in subsections (b)(1)(A) and (d)(1) of such section, shall be considered to be the Tribe’s initial reservation for purposes of section 20(b)(1)(B)(ii) of the Indian Gaming Regulatory Act ([25 U.S.C. 2719(b)(1)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2719/b/1/B/ii&num=0&edition=prelim)). “(d) Tribal Jurisdiction Over Trust Lands.—All trust lands that are transferred under this Act and located within California shall be exempt from [section 1162 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), United States Code, and [section 1360 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim), United States Code, upon the certification by the Secretary, after consultation with the Attorney General, that the law enforcement system in place for such lands will be adequate to provide for the public safety and the public interest, except that no such certification may take effect until the expiration of the 3-year period beginning on the date of enactment of this Act [Nov. 1, 2000]. “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated to carry out this Act such sums as may be necessary.”
+Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Timbisha Shoshone Homeland Act’. “SEC. 2. FINDINGS.“Congress finds the following:“(1) Since time immemorial, the Timbisha Shoshone Tribe has lived in portions of California and Nevada. The Tribe’s ancestral homeland includes the area that now comprises Death Valley National Park and other areas of California and Nevada now administered by the Bureau of Land Management. “(2) Since 1936, the Tribe has lived and governed the affairs of the Tribe on approximately 40 acres of land near Furnace Creek in the Park. “(3) The Tribe achieved Federal recognition in 1983 but does not have a land base within the Tribe’s ancestral homeland. “(4) Since the Tribe commenced use and occupancy of the Furnace Creek area, the Tribe’s membership has grown. Tribal members have a desire and need for housing, government and administrative facilities, cultural facilities, and sustainable economic development to provide decent, safe, and healthy conditions for themselves and their families. “(5) The interests of both the Tribe and the National Park Service would be enhanced by recognizing their coexistence on the same land and by establishing partnerships for compatible land uses and for the interpretation of the Tribe’s history and culture for visitors to the Park. “(6) The interests of both the Tribe and the United States would be enhanced by the establishment of a land base for the Tribe and by further delineation of the rights and obligations of each with respect to the Furnace Creek area and to the Park as a whole. “SEC. 3. PURPOSES.“Consistent with the recommendations of the report required by section 705(b) [now (c) of the California Desert Protection Act of 1994 [[16 U.S.C. 410aaa–75(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410aaa–75/b&num=0&edition=prelim) [now (c)]] (Public Law 103–433; 108 Stat. 4498), the purposes of this Act are—“(1) to provide in trust to the Tribe land on which the Tribe can live permanently and govern the Tribe’s affairs in a modern community within the ancestral homeland of the Tribe outside and within the Park; “(2) to formally recognize the contributions by the Tribe to the history, culture, and ecology of the Park and surrounding area; “(3) to ensure that the resources within the Park are protected and enhanced by—“(A) cooperative activities within the Tribe’s ancestral homeland; and “(B) partnerships between the Tribe and the National Park Service and partnerships involving the Bureau of Land Management; “(4) to ensure that such activities are not in derogation of the purposes and values for which the Park was established; “(5) to provide opportunities for a richer visitor experience at the Park through direct interactions between visitors and the Tribe including guided tours, interpretation, and the establishment of a tribal museum and cultural center; “(6) to provide appropriate opportunities for economically viable and ecologically sustainable visitor-related development, by the Tribe within the Park, that is not in derogation of the purposes and values for which the Park was established; and “(7) to provide trust lands for the Tribe in 4 separate parcels of land that is now managed by the Bureau of Land Management and authorize the purchase of 2 parcels now held in private ownership to be taken into trust for the Tribe. “SEC. 4. DEFINITIONS.“In this Act:“(1) Park.—The term ‘Park’ means Death Valley National Park, including any additions to that Park. “(2) Secretary.—The term ‘Secretary’ means the Secretary of the Interior or the designee of the Secretary. “(3) Tribal.—The term ‘tribal’ means of or pertaining to the Tribe. “(4) Tribe.—The term ‘Tribe’ means the Timbisha Shoshone Tribe, a tribe of American Indians recognized by the United States pursuant to part 83 of title 25, Code of Federal Regulations (or any corresponding similar regulation or ruling). “(5) Trust lands.—The term ‘trust lands’ means those lands taken into trust pursuant to this Act. “SEC. 5. TRIBAL RIGHTS AND AUTHORITY ON THE TIMBISHA SHOSHONE HOMELAND.“(a) In General.—Subject to valid existing rights (existing on the date of enactment of this Act [Nov. 1, 2000]), all right, title, and interest of the United States in and to the lands, including improvements and appurtenances, described in subsection (b) are declared to be held in trust by the United States for the benefit of the Tribe. All maps referred to in subsection (b) shall be on file and available for public inspection in the appropriate offices of the National Park Service and the Bureau of Land Management. “(b) Park Lands and Bureau of Land Management Lands Described.—“(1) In general.—The following lands and water shall be held in trust for the Tribe pursuant to subsection (a):“(A) Furnace Creek, Death Valley National Park, California, an area of 313.99 acres for community development, residential development, historic restoration, and visitor-related economic development, depicted as Tract 37 on the map of Township 27 North, Range 1 East, of the San Bernardino Meridian, California, numbered Map #1 and dated December 2, 1999, together with 92 acre feet per annum of surface and ground water for the purposes associated with the transfer of such lands. This area shall include a 25-acre, nondevelopment zone at the north end of the area and an Adobe Restoration zone containing several historic adobe homes, which shall be managed by the Tribe as a tribal historic district. “(B) Death Valley Junction, California, an area of approximately 1,000 acres, as generally depicted on the map entitled ‘Death Valley Junction, California’, numbered Map #2 and dated April 12, 2000, together with 15.1 acre feet per annum of ground water for the purposes associated with the transfer of such lands. “(C)(i) Centennial, California, an area of approximately 640 acres, as generally depicted on the map entitled ‘Centennial, California’, numbered Map #3 and dated April 12, 2000, together with an amount of ground water not to exceed 10 acre feet per annum for the purposes associated with the transfer of such lands. “(ii) If the Secretary determines that there is insufficient ground water available on the lands described in clause (i) to satisfy the Tribe’s right to ground water to fulfill the purposes associated with the transfer of such lands, then the Tribe and the Secretary shall, within 2 years of such determination, identify approximately 640 acres of land that are administered by the Bureau of Land Management in that portion of Inyo County, California, to the north and east of the China Lake Naval Weapons Center, to be a mutually agreed upon substitute for the lands described in clause (i). If the Secretary determines that sufficient water is available to fulfill the purposes associated with the transfer of the lands described in the preceding sentence, then the Tribe shall request that the Secretary accept such lands into trust for the benefit of the Timbisha Shoshone Tribe, and the Secretary shall accept such lands, together with an amount of water not to exceed 10 acre feet per annum, into trust for the Tribe as a substitute for the lands described in clause (i). “(D) Scotty’s Junction, Nevada, an area of approximately 2,800 acres, as generally depicted on the map entitled ‘Scotty’s Junction, Nevada’, numbered Map #4 and dated April 12, 2000, together with 375.5 acre feet per annum of ground water for the purposes associated with the transfer of such lands. “(E) Lida, Nevada, Community Parcel, an area of approximately 3,000 acres, as generally depicted on the map entitled ‘Lida, Nevada, Community Parcel’, numbered Map #5 and dated April 12, 2000, together with 14.7 acre feet per annum of ground water for the purposes associated with the transfer of such lands. “(2) Water rights.—The priority date of the Federal water rights described in subparagraphs (A) through (E) of paragraph (1) shall be the date of enactment of this Act [Nov. 1, 2000], and such Federal water rights shall be junior to Federal and State water rights existing on such date of enactment. Such Federal water rights shall not be subject to relinquishment, forfeiture or abandonment. “(3) Limitations on furnace creek area development.—“(A) Development.—Recognizing the mutual interests and responsibilities of the Tribe and the National Park Service in and for the conservation and protection of the resources in the area described in paragraph (1), development in the area shall be limited to—“(i) for purposes of community and residential development— “(I) a maximum of 50 single-family residences; and “(II) a tribal community center with space for tribal offices, recreation facilities, a multipurpose room and kitchen, and senior and youth facilities; “(ii) for purposes of economic development— “(I) a small-to-moderate desert inn; and “(II) a tribal museum and cultural center with a gift shop; and “(iii) the infrastructure necessary to support the level of development described in clauses (i) and (ii). “(B) Exception.—Notwithstanding the provisions of subparagraph (A)(ii), the National Park Service and the Tribe are authorized to negotiate mutually agreed upon, visitor-related economic development in lieu of the development set forth in that subparagraph if such alternative development will have no greater environmental impact than the development set forth in that subparagraph. “(C) Right-of-way.—The Tribe shall have a right-of-way for ingress and egress on Highway 190 in California. “(4) Limitations on impact on mining claims.—Nothing in this Act shall be construed as terminating any valid mining claim existing on the date of enactment of this Act [Nov. 1, 2000] on the land described in paragraph (1)(E). Any person with such an existing mining claim shall have all the rights incident to mining claims, including the rights of ingress and egress on the land described in paragraph (1)(E). Any person with such an existing mining claim shall have the right to occupy and use so much of the surface of the land as is required for all purposes reasonably necessary to mine and remove the minerals from the land, including the removal of timber for mining purposes. Such a mining claim shall terminate when the claim is determined to be invalid or is abandoned. “(c) Legal Descriptions.—Not later than 1 year after the date of enactment of this Act [Nov. 1, 2000], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available for public inspection in the offices of the National Park Service and the Bureau of Land Management. “(d) Additional Trust Resources.—The Secretary may purchase from willing sellers the following parcels and appurtenant water rights, or the water rights separately, to be taken into trust for the Tribe:“(1) Indian Rancheria Site, California, an area of approximately 120 acres, as generally depicted on the map entitled ‘Indian Rancheria Site, California’ numbered Map #6 and dated December 3, 1999. “(2) Lida Ranch, Nevada, an area of approximately 2,340 acres, as generally depicted on the map entitled ‘Lida Ranch’ numbered Map #7 and dated April 6, 2000, or another parcel mutually agreed upon by the Secretary and the Tribe. “(e) Special Use Areas.—“(1) In general.—The areas described in this subsection shall be nonexclusive special use areas for the Tribe, subject to other Federal law. Members of the Tribe are authorized to use these areas for low impact, ecologically sustainable, traditional practices pursuant to a jointly established management plan mutually agreed upon by the Tribe, and by the National Park Service or the Bureau of Land Management, as appropriate. All maps referred to in paragraph (4) shall be on file and available for public inspection in the offices of the National Park Service and Bureau of Land Management. “(2) Recognition of the history and culture of the tribe.—In the special use areas, in recognition of the significant contributions the Tribe has made to the history, ecology, and culture of the Park and to ensure that the visitor experience in the Park will be enhanced by the increased and continued presence of the Tribe, the Secretary shall permit the Tribe’s continued use of Park resources for traditional tribal purposes, practices, and activities. “(3) Resource use by the tribe.—In the special use areas, any use of Park resources by the Tribe for traditional purposes, practices, and activities shall not include the taking of wildlife and shall not be in derogation of purposes and values for which the Park was established. “(4) Specific areas.—The following areas are designated special use areas pursuant to paragraph (1):“(A) Mesquite use area.—The area generally depicted on the map entitled ‘Mesquite Use Area’ numbered Map #8 and dated April 12, 2000. The Tribe may use this area for processing mesquite using traditional plant management techniques such as thinning, pruning, harvesting, removing excess sand, and removing exotic species. The National Park Service may limit and condition, but not prohibit entirely, public use of this area or parts of this area, in consultation with the Tribe. This area shall be managed in accordance with the jointly established management plan referred to in paragraph (1). “(B) Buffer area.—An area of approximately 1,500 acres, as generally depicted on the map entitled ‘Buffer Area’ numbered Map #8 and dated April 12, 2000. The National Park Service shall restrict visitor use of this area to protect the privacy of the Tribe and to provide an opportunity for the Tribe to conduct community affairs without undue disruption from the public. “(C) Timbisha shoshone natural and cultural preservation area.—An area that primarily consists of Park lands and also a small portion of Bureau of Land Management land in California, as generally depicted on the map entitled ‘Timbisha Shoshone Natural and Cultural Preservation Area’ numbered Map #9 and dated April 12, 2000. “(5) Additional provisions.—With respect to the Timbisha Shoshone Natural and Cultural Preservation Area designated in paragraph (4)(C)—“(A) the Tribe may establish and maintain a tribal resource management field office, garage, and storage area, all within the area of the existing ranger station at Wildrose (existing as of the date of enactment of this Act [Nov. 1, 2000]); “(B) the Tribe also may use traditional camps for tribal members at Wildrose and Hunter Mountain in accordance with the jointly established management plan referred to in paragraph (1); “(C) the area shall be depicted on maps of the Park and Bureau of Land Management that are provided for general visitor use; “(D) the National Park Service and the Bureau of Land Management shall accommodate access by the Tribe to and use by the Tribe of—“(i) the area (including portions described in subparagraph (E)) for traditional cultural and religious activities, in a manner consistent with the purpose and intent of Public Law 95–341 (commonly known as the ‘American Indian Religious Freedom Act’) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) et seq.); and “(ii) areas designated as wilderness (including portions described in subparagraph (E)), in a manner consistent with the purpose and intent of the Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.); and “(E)(i) on the request of the Tribe, the National Park Service and the Bureau of Land Management shall temporarily close to the general public, 1 or more specific portions of the area in order to protect the privacy of tribal members engaging in traditional cultural and religious activities in those portions; and “(ii) any such closure shall be made in a manner that affects the smallest practicable area for the minimum period necessary for the purposes described in clause (i). “(f) Access and Use.—Members of the Tribe shall have the right to enter and use the Park without payment of any fee for admission into the Park. “(g) Administration.—The trust lands shall constitute the Timbisha Shoshone Reservation and shall be administered pursuant to the laws and regulations applicable to other Indian trust lands, except as otherwise provided in this Act. “SEC. 6. IMPLEMENTATION PROCESS.“(a) Government-to-Government Agreements.—In order to fulfill the purposes of this Act and to establish cooperative partnerships for purposes of this Act, the National Park Service, the Bureau of Land Management, and the Tribe shall enter into government-to-government consultations and shall develop protocols to review planned development in the Park. The National Park Service and the Bureau of Land Management are authorized to enter into cooperative agreements with the Tribe for the purpose of providing training on the interpretation, management, protection, and preservation of the natural and cultural resources of the areas designated for special uses by the Tribe in section 5(e)(4). “(b) Standards.—The National Park Service and the Tribe shall develop mutually agreed upon standards for size, impact, and design for use in planning, resource protection, and development of the Furnace Creek area and for the facilities at Wildrose. The standards shall be based on standards for recognized best practices for environmental sustainability and shall not be less restrictive than the environmental standards applied within the National Park System at any given time. Development in the area shall be conducted in a manner consistent with the standards, which shall be reviewed periodically and revised as necessary. “(c) Water Monitoring.—The Secretary and the Tribe shall develop mutually agreed upon standards for a water monitoring system to assess the effects of water use at Scotty’s Junction and at Death Valley Junction on the tribal trust lands described in subparagraphs (A), (B), and (D) of section 5(b)(1), and on the Park. Water monitoring shall be conducted in a manner that is consistent with such standards, which shall be reviewed periodically and revised as necessary. “SEC. 7. MISCELLANEOUS PROVISIONS.“(a) Tribal Employment.—In employing individuals to perform any construction, maintenance, interpretation, or other service in the Park, the Secretary shall, insofar as practicable, give first preference to qualified members of the Tribe. “(b) Gaming.—Gaming as defined and regulated by the Indian Gaming Regulatory Act ([25 U.S.C. 2701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2701&num=0&edition=prelim) et seq.) shall be prohibited on trust lands within the Park. “(c) Initial Reservation.—Lands taken into trust for the Tribe pursuant to section 5, except for the Park land described in subsections (b)(1)(A) and (d)(1) of such section, shall be considered to be the Tribe’s initial reservation for purposes of section 20(b)(1)(B)(ii) of the Indian Gaming Regulatory Act ([25 U.S.C. 2719(b)(1)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2719/b/1/B/ii&num=0&edition=prelim)). “(d) Tribal Jurisdiction Over Trust Lands.—All trust lands that are transferred under this Act and located within California shall be exempt from [section 1162 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), United States Code, and [section 1360 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim), United States Code, upon the certification by the Secretary, after consultation with the Attorney General, that the law enforcement system in place for such lands will be adequate to provide for the public safety and the public interest, except that no such certification may take effect until the expiration of the 3-year period beginning on the date of enactment of this Act [Nov. 1, 2000]. “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated to carry out this Act such sums as may be necessary.”
 
 #### Findings and Policy
 Pub. L. 103–433, § 2, Oct. 31, 1994, 108 Stat. 4471, provided that: “(a) The Congress finds and declares that—“(1) the federally owned desert lands of southern California constitute a public wildland resource of extraordinary and inestimable value for this and future generations; “(2) these desert wildlands display unique scenic, historical, archeological, environmental, ecological, wildlife, cultural, scientific, educational, and recreational values used and enjoyed by millions of Americans for hiking and camping, scientific study and scenic appreciation; “(3) the public land resources of the California desert now face and are increasingly threatened by adverse pressures which would impair, dilute, and destroy their public and natural values; “(4) the California desert, embracing wilderness lands, units of the National Park System, other Federal lands, State parks and other State lands, and private lands, constitutes a cohesive unit posing unique and difficult resource protection and management challenges; “(5) through designation of national monuments by Presidential proclamation, through enactment of general public land statutes (including section 601 [[43 U.S.C. 1781](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1781&num=0&edition=prelim)] of the Federal Land Policy and Management Act of 1976, 90 Stat. 2743, [43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.) and through interim administrative actions, the Federal Government has begun the process of appropriately providing for protection of the significant resources of the public lands in the California desert; and “(6) statutory land unit designations are needed to afford the full protection which the resources and public land values of the California desert merit. “(b) In order to secure for the American people of this and future generations an enduring heritage of wilderness, national parks, and public land values in the California desert, it is hereby declared to be the policy of the Congress that—“(1) appropriate public lands in the California desert shall be included within the National Park System and the National Wilderness Preservation System, in order to—“(A) preserve unrivaled scenic, geologic, and wildlife values associated with these unique natural landscapes; “(B) perpetuate in their natural state significant and diverse ecosystems of the California desert; “(C) protect and preserve historical and cultural values of the California desert associated with ancient Indian cultures, patterns of western exploration and settlement, and sites exemplifying the mining, ranching and railroading history of the Old West; “(D) provide opportunities for compatible outdoor public recreation, protect and interpret ecological and geological features and historic, paleontological, and archeological sites, maintain wilderness resource values, and promote public understanding and appreciation of the California desert; and “(E) retain and enhance opportunities for scientific research in undisturbed ecosystems.”
 
 #### Removal of Feral Burros and Horses From Death Valley National Monument
 Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384, provided in part: “That in fiscal year 1993 and thereafter, the National Park Service may use helicopters and motorized equipment at Death Valley National Monument for removal of feral burros and horses”.
+
+#### Definitions
+Pub. L. 103–433, § 3, as added by Pub. L. 116–9, title I, § 1458(b), Mar. 12, 2019, 133 Stat. 718, provided that: “(a) Titles I Through IX.—In titles I through IX [enacting this subchapter, subchapter CXLII, provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132), provisions set out as notes under this section, [section 410aaa–82 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-82), and [section 1781 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1781&num=0&edition=prelim), Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)], the term ‘this Act’ means only—“(1) sections 1 and 2 [enacting provisions set out as notes under this section]; and “(2) titles I through IX [enacting this subchapter, subchapter CXLII, provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132), provisions set out as notes under [section 410aaa–82 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-82) and [section 1781 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1781&num=0&edition=prelim), Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)]. “(b) Titles XIII and XIV.—In titles XIII and XIV [enacting part E of subchapter LIX–Y of this chapter and subchapter CXLIII of this chapter]:“(1) Conservation area.—The term ‘Conservation Area’ means the California Desert Conservation Area. “(2) Secretary.—The term ‘Secretary’ means—“(A) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior; and “(B) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture. “(3) State.—The term ‘State’ means the State of California.”
+
+Pub. L. 103–433, title I, § 103(a), Oct. 31, 1994, 108 Stat. 4481, provided in part that in this subchapter “Secretary” means the Secretary of the Interior.
+
+
+<a id="section-410aaaa"></a>
+## § 410aaaa. Fort Sumter and Fort Moultrie National Historical Park
+**(a) Definitions** In this section:
+
+(1) **Map** — The term “map” means the map entitled “Boundary Map, Fort Sumter and Fort Moultrie National Historical Park”, numbered 392/80,088, and dated August 2009.
+
+(2) **Park** — The term “Park” means the Fort Sumter and Fort Moultrie National Historical Park established by subsection (b).
+
+(3) **State** — The term “State” means the State of South Carolina.
+
+(4) **Sullivan’s island life saving station historic district** — The term “Sullivan’s Island Life Saving Station Historic District” means the Charleston Lighthouse, the boathouse, garage, bunker/sighting station, signal tower, and any associated land and improvements to the land that are located between Sullivan’s Island Life Saving Station and the mean low water mark.
+
+**(b) Establishment** There is established the Fort Sumter and Fort Moultrie National Historical Park in the State as a single unit of the National Park System to preserve, maintain, and interpret the nationally significant historical values and cultural resources associated with Fort Sumter National Monument, Fort Moultrie National Monument, and the Sullivan’s Island Life Saving Station Historic District.
+
+**(c) Boundary** The boundary of the Park shall be as generally depicted on the map.
+
+**(d) Availability of map** The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+**(e) Administration**
+
+(1) **In general** — The Secretary, acting through the Director of the National Park Service, shall administer the Park in accordance with this section and the laws generally applicable to units of the National Park System, including—
+
+  (A) section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54; and
+
+  (B) chapter 3201 of title 54.
+
+(2) **Interpretation of historical events** — The Secretary shall provide for the interpretation of historical events and activities that occurred in the vicinity of Fort Sumter and Fort Moultrie, including—
+
+  (A) the Battle of Sullivan’s Island on June 28, 1776;
+
+  (B) the Siege of Charleston during 1780;
+
+  (C) the Civil War, including—
+
+    (i) the bombardment of Fort Sumter by Confederate forces on April 12, 1861; and
+
+    (ii) any other events of the Civil War that are associated with Fort Sumter and Fort Moultrie;
+
+  (D) the development of the coastal defense system of the United States during the period from the Revolutionary War to World War II, including—
+
+    (i) the Sullivan’s Island Life Saving Station;
+
+    (ii) the lighthouse associated with the Sullivan’s Island Life Saving Station; and
+
+    (iii) the coastal defense sites constructed during the period of fortification construction from 1898 to 1942, known as the “Endicott Period”; and
+
+  (E) the lives of—
+
+    (i) the free and enslaved workers who built and maintained Fort Sumter and Fort Moultrie;
+
+    (ii) the soldiers who defended the forts;
+
+    (iii) the prisoners held at the forts; and
+
+    (iv) captive Africans bound for slavery who, after first landing in the United States, were brought to quarantine houses in the vicinity of Fort Moultrie in the 18th century, if the Secretary determines that the quarantine houses and associated historical values are nationally significant.
+
+**(f) Cooperative agreements** The Secretary may enter into cooperative agreements with public and private entities and individuals to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 2203 of Pub. L. 116–9. Subsec. (g) of section 2203 of Pub. L. 116–9 repealed [section 450ee–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450ee-1).
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).
 
 
 <a id="section-410aaa-1"></a>
@@ -9789,6 +9985,13 @@ The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964,
 ## § 410aaa–22. Establishment
 
 There is hereby established the Joshua Tree National Park, (hereinafter in this section referred to as the “park”), as generally depicted on a map entitled “Joshua Tree National Park Boundary—Proposed”, dated May 1991, and four maps entitled “Joshua Tree National Park Boundary and Wilderness”, numbered in the title one through four, and dated October 1991 or prior, which shall be on file and available for public inspection in the offices of the Superintendent of the park and the Director of the National Park Service, Department of the Interior. The Joshua Tree National Monument is hereby abolished as such, the lands and interests therein are hereby incorporated within and made part of the new Joshua Tree National Park, and any funds available for purposes of the monument shall be available for purposes of the park.
+
+### Statutory Notes
+
+#### Boundary Adjustment and Administration, Joshua Tree National Park
+Pub. L. 116–9, title I, § 1433(a)–(d), Mar. 12, 2019, 133 Stat. 700, provided that: “(a) Boundary Adjustment.—The boundary of the Joshua Tree National Park is adjusted to include—“(1) the approximately 2,879 acres of land managed by the Bureau of Land Management that are depicted as ‘BLM Proposed Boundary Addition’ on the map entitled ‘Joshua Tree National Park Proposed Boundary Additions’, numbered 156/149,375, and dated November 1, 2018; and “(2) the approximately 1,639 acres of land that are depicted as ‘MDLT Proposed Boundary Addition’ on the map entitled ‘Joshua Tree National Park Proposed Boundary Additions’, numbered 156/149,375, and dated November 1, 2018. “(b) Availability of Maps.—The map described in subsection (a) and the map depicting the 25 acres described in subsection (c)(2) shall be on file and available for public inspection in the appropriate offices of the National Park Service. “(c) Administration.—“(1) In general.—The Secretary shall administer any land added to the Joshua Tree National Park under subsection (a) and the additional land described in paragraph (2)—“(A) as part of Joshua Tree National Park; and “(B) in accordance with applicable laws (including regulations). “(2) Description of additional land.—The additional land referred to in paragraph (1) is the 25 acres of land—“(A) depicted on the map entitled ‘Joshua Tree National Park Boundary Adjustment Map’, numbered 156/80,049, and dated April 1, 2003; “(B) added to Joshua Tree National Park by the notice of the Department of the Interior of August 28, 2003 (68 Fed. Reg. 51799); and “(C) more particularly described as lots 26, 27, 28, 33, and 34 in sec. 34, T. 1 N., R. 8 E., San Bernardino Meridian. “(d) Southern California Edison Company Energy Transport Facilities and Rights-of-way.—“(1) In general.—Nothing in this section affects any valid right-of-way for the customary operation, maintenance, upgrade, repair, relocation within an existing right-of-way, replacement, or other authorized energy transport facility activities in a right-of-way issued, granted, or permitted to the Southern California Edison Company or the successors or assigns of the Southern California Edison Company that is located on land described in paragraphs (1) and (2) of subsection (a), including, at a minimum, the use of mechanized vehicles, helicopters, or other aerial devices. “(2) Upgrades and replacements.—Nothing in this section prohibits the upgrading or replacement of—“(A) Southern California Edison Company energy transport facilities, including the energy transport facilities referred to as the Jellystone, Burnt Mountain, Whitehorn, Allegra, and Utah distribution circuits rights-of-way; or “(B) an energy transport facility in rights-of-way issued, granted, or permitted by the Secretary adjacent to Southern California Edison Joshua Tree Utility Facilities. “(3) Publication of plans.—Not later than the date that is 1 year after the date of enactment of this Act [Mar. 12, 2019] or the issuance of a new energy transport facility right-of-way within the Joshua Tree National Park, whichever is earlier, the Secretary, in consultation with the Southern California Edison Company, shall publish plans for regular and emergency access by the Southern California Edison Company to the rights-of-way of the Southern California Edison Company within Joshua Tree National Park.”
+
+[For definition of “Secretary” as used in section § 1433(a)–(d) of Pub. L. 116–9, set out above, see section 1401 of Pub. L. 116–9, set out as a Definitions note under [section 410aaa–7 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-7).]
 
 
 <a id="section-410aaa-23"></a>
@@ -9849,6 +10052,26 @@ Act of June 18, 1932 (47 Stat. 324), referred to in text, is not classified to t
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
+<a id="section-410aaa-28"></a>
+## § 410aaa–28. Visitor center
+**(a) In general** The Secretary may acquire not more than 5 acres of land and interests in land, and improvements on the land and interests, outside the boundaries of the park, in the unincorporated village of Joshua Tree, for the purpose of operating a visitor center.
+
+**(b) Boundary** The Secretary shall modify the boundary of the park to include the land acquired under this section as a noncontiguous parcel.
+
+**(c) Administration** Land and facilities acquired under this section—
+
+(1) may include the property owned (as of March 12, 2019) by the Joshua Tree National Park Association and commonly referred to as the “Joshua Tree National Park Visitor Center”;
+
+(2) shall be administered by the Secretary as part of the park; and
+
+(3) may be acquired only with the consent of the owner, by donation, purchase with donated or appropriated funds, or exchange.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Secretary” means the Secretary of the Interior.
+
+
 <a id="section-410aaa-3"></a>
 ## § 410aaa–3. Maps and legal description
 
@@ -9879,7 +10102,7 @@ The Congress hereby finds that—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in par. (1), is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in par. (1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 The Wilderness Act referred to in par. (4), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
@@ -9921,7 +10144,7 @@ The East Mojave National Scenic Area, designated on January 13, 1981 (46 FR 3994
 #### References in Text
 The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-This Act, referred to in subsec. (b), is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in subsec. (b), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 
 <a id="section-410aaa-47"></a>
@@ -10047,6 +10270,9 @@ The Secretary is authorized to acquire all lands and interest in lands within th
 
 ### Statutory Notes
 
+#### Boundary Adjustment, Mojave National Preserve
+Pub. L. 116–9, title I, § 1432, Mar. 12, 2019, 133 Stat. 700, provided that: “The boundary of the Mojave National Preserve is adjusted to include the 25 acres of Bureau of Land Management land in Baker, California, as depicted on the map entitled ‘Mojave National Preserve Proposed Boundary Addition’, numbered 170/100,199A, and dated November 1, 2018.”
+
 #### Land Exchange, Mojave National Preserve
 Pub. L. 108–87, title VIII, § 8121, Sept. 30, 2003, 117 Stat. 1100, provided that: “(a) Exchange Required.—In exchange for the private property described in subsection (b), the Secretary of the Interior shall convey to the Veterans Home of California—Barstow, Veterans of Foreign Wars Post #385E (in this section referred to as the ‘recipient’), all right, title, and interest of the United States in and to a parcel of real property consisting of approximately one acre in the Mojave National Preserve and designated (by section 8137 of the Department of Defense Appropriations Act, 2002 (Public Law 107–117; 115 Stat. 2278) [[54 U.S.C. 320301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim) note]) as a national memorial commemorating United States participation in World War I and honoring the American veterans of that war. Notwithstanding the conveyance of the property under this subsection, the Secretary shall continue to carry out the responsibilities of the Secretary under such section 8137. “(b) Consideration.—As consideration for the property to be conveyed by the Secretary under subsection (a), Mr. and Mrs. Henry Sandoz of Mountain Pass, California, have agreed to convey to the Secretary a parcel of real property consisting of approximately five acres, identified as parcel APN 569–051–44, and located in the west ½ of the northeast ¼ of the northwest ¼ of the northwest ¼ of section 11, township 14 north, range 15 east, San Bernardino base and meridian. “(c) Equal Value Exchange; Appraisal.—The values of the properties to be exchanged under this section shall be equal or equalized as provided in subsection (d). The value of the properties shall be determined through an appraisal performed by a qualified appraiser in conformance with the Uniform Appraisal Standards for Federal Land Acquisitions (Department of Justice, December 2000). “(d) Cash Equalization.—Any difference in the value of the properties to be exchanged under this section shall be equalized through the making of a cash equalization payment. The Secretary shall deposit any cash equalization payment received by the Secretary under this subsection in the Land and Water Conservation Fund. “(e) Reversionary Clause.—The conveyance under subsection (a) shall be subject to the condition that the recipient maintain the conveyed property as a memorial commemorating United States participation in World War I and honoring the American veterans of that war. If the Secretary determines that the conveyed property is no longer being maintained as a war memorial, the property shall revert to the ownership of the United States. “(f) Boundary Adjustment; Administration of Acquired Land.—The boundaries of the Mojave National Preserve shall be adjusted to reflect the land exchange required by this section. The property acquired by the Secretary under this section shall become part of the Mojave National Preserve and be administered in accordance with the laws, rules, and regulations generally applicable to the Mojave National Preserve.”
 
@@ -10085,7 +10311,7 @@ Unless and until acquired by the United States, no lands within the boundaries o
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
@@ -10123,6 +10349,14 @@ In preparing the maps and legal descriptions required by [section 410aaa–3 of 
 #### References in Text
 Section 602 of this Act, referred to in text, is section 602 of Pub. L. 103–433, title VI, Oct. 31, 1994, 108 Stat. 4496, which is not classified to the Code.
 
+#### Death Valley National Park Boundary Revision
+Pub. L. 116–9, title I, § 1431(a)–(c), Mar. 12, 2019, 133 Stat. 699, provided that: “(a) In General.—The boundary of Death Valley National Park is adjusted to include—“(1) the approximately 28,923 acres of Bureau of Land Management land in San Bernardino County, California, abutting the southern end of the Death Valley National Park that lies between Death Valley National Park to the north and Ft. Irwin Military Reservation to the south and which runs approximately 34 miles from west to east, as depicted on the map entitled ‘Death Valley National Park Proposed Boundary Addition-Bowling Alley’, numbered 143/128,605A, and dated November 1, 2018; and “(2) the approximately 6,369 acres of Bureau of Land Management land in Inyo County, California, located in the northeast area of Death Valley National Park that is within, and surrounded by, land under the jurisdiction of the Director of the National Park Service, as depicted on the map entitled ‘Death Valley National Park Proposed Boundary Addition-Crater’, numbered 143/100,079D, and dated November 1, 2018. “(b) Availability of Map.—The maps described in paragraphs (1) and (2) of subsection (a) shall be on file and available for public inspection in the appropriate offices of the National Park Service. “(c) Administration.—The Secretary—“(1) shall administer any land added to Death Valley National Park under subsection (a)—“(A) as part of Death Valley National Park; and “(B) in accordance with applicable laws (including regulations); and “(2) may enter into a memorandum of understanding with Inyo County, California, to permit operationally feasible, ongoing access to and use (including material storage and excavation) of existing gravel pits along Saline Valley Road within Death Valley National Park for road maintenance and repairs in accordance with applicable laws (including regulations).”
+
+[For defintion of “Secretary” as used in section 1431(a)–(c) of Pub. L. 116–9, set out above, see section 1401 of Pub. L. 116–9, set out as a Definitions note below.]
+
+#### Definitions
+Pub. L. 116–9, title I, § 1401, Mar. 12, 2019, 133 Stat. 692, provided that: “In this subtitle [subtitle E (§§ 1401–1461) of title I of Pub. L. 116–9, enacting subchapters CXLII and CXLIII of this chapter and sections 410aaa–28, 410aaa–81 to 410aaa–81c, and 410aaa–91 of this title, amending sections 410aaa–75, 410aaa–77, 410aaa–82, and 1274 of this title, repealing [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81), enacting provisions set out as notes under this section and sections 410aaa, 410aaa–22, 410aaa–56, 670g of this title, amending provisions set out as notes under sections 410aaa and 410aaa–82 of this title, and enacting and amending provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)]: “(1) Conservation area.—The term ‘Conservation Area’ means the California Desert Conservation Area. “(2) Secretary.—The term ‘Secretary’ means—“(A) the Secretary [of the Interior], with respect to land administered by the Department of the Interior; or “(B) the Secretary of Agriculture, with respect to National Forest System land. “(3) State.—The term ‘State’ means the State of California.”
+
 
 <a id="section-410aaa-71"></a>
 ## § 410aaa–71. Transfer of lands to Red Rock Canyon State Park
@@ -10138,7 +10372,7 @@ In preparing land tenure adjustment decisions with the California Desert Conserv
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 
 <a id="section-410aaa-73"></a>
@@ -10149,7 +10383,7 @@ Except as provided in [section 410aaa–26 of this title](./chapter-001-national
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 617t of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section617t&num=0&edition=prelim) and Tables.
 
@@ -10162,27 +10396,91 @@ Any lands within the boundaries of a wilderness area designated under this Act w
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 
 <a id="section-410aaa-75"></a>
 ## § 410aaa–75. Native American uses and interests
-**(a) Access** In recognition of the past use of the National Park System units and wilderness areas designed under this Act by Indian people for traditional cultural and religious purposes, the Secretary shall ensure access to such park system units and wilderness areas by Indian people for such traditional cultural and religious purposes. In implementing this section, the Secretary, upon the request of an Indian tribe or Indian religious community, shall temporarily close to the general public use of one or more specific portions of the park system unit or wilderness area in order to protect the privacy of traditional cultural and religious activities in such areas by Indian people. Any such closure shall be made to affect the smallest practicable area for the minimum period necessary for such purposes. Such access shall be consistent with the purpose and intent of Public Law 95–341 ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) [, 1996a]) commonly referred to as the “American Indian Religious Freedom Act”, and with respect to areas designated as wilderness, the Wilderness Act (78 Stat. 890; [16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131)).
+**(a) Access** The Secretary shall ensure access to areas designated under this Act by members of Indian Tribes for traditional cultural and religious purposes, consistent with applicable law, including Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim)).
 
-**(b) Study**
+**(b) Temporary closure**
+
+(1) **In general** — In accordance with applicable law, including Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) [, 1996a]), and subject to paragraph (2), the Secretary, on request of an Indian Tribe or Indian religious community, shall temporarily close to general public use any portion of an area designated as a national monument, special management area, wild and scenic river, area of critical environmental concern, or National Park System unit under this Act (referred to in this subsection as a “designated area”) to protect the privacy of traditional cultural and religious activities in the designated area by members of the Indian Tribe or Indian religious community.
+
+(2) **Limitation** — In closing a portion of a designated area under paragraph (1), the Secretary shall limit the closure to the smallest practicable area for the minimum period necessary for the traditional cultural and religious activities.
+
+**(c) Study**
 
 (1) The Secretary, in consultation with the Timbisha Shoshone Tribe and relevant Federal agencies, shall conduct a study, subject to the availability of appropriations, to identify lands suitable for a reservation for the Timbisha Shoshone Tribe that are located within the Tribe’s aboriginal homeland area within and outside the boundaries of the Death Valley National Monument and the Death Valley National Park, as described in part A of this subchapter.
 
 (2) Not later than 1 year after October 31, 1994, the Secretary shall submit a report to the Committee on Energy and Natural Resources and the Committee on Indian Affairs of the United States Senate, and the Committee on Natural Resources of the United States House of Representatives on the results of the study conducted under paragraph (1).
 
+**(d) Tribal cultural resources management plan**
+
+(1) **In general** — Not later than 2 years after March 12, 2019, the Secretary shall develop and implement a Tribal cultural resources management plan to identify, protect, and conserve cultural resources of Indian Tribes associated with the Xam Kwatchan Trail network extending from Avikwaame (Spirit Mountain, Nevada) to Avikwlal (Pilot Knob, California).
+
+(2) **Consultation** — The Secretary shall consult on the development and implementation of the Tribal cultural resources management plan under paragraph (1) with—
+
+  (A) each of—
+
+    (i) the Chemehuevi Indian Tribe;
+
+    (ii) the Hualapai Tribal Nation;
+
+    (iii) the Fort Mojave Indian Tribe;
+
+    (iv) the Colorado River Indian Tribes;
+
+    (v) the Quechan Indian Tribe; and
+
+    (vi) the Cocopah Indian Tribe;
+
+  (B) the Advisory Council on Historic Preservation; and
+
+  (C) the State Historic Preservation Offices of Nevada, Arizona, and California.
+
+(3) **Resource protection** — The Tribal cultural resources management plan developed under paragraph (1) shall—
+
+  (A) be based on a completed Tribal cultural resources survey; and
+
+  (B) include procedures for identifying, protecting, and preserving petroglyphs, ancient trails, intaglios, sleeping circles, artifacts, and other resources of cultural, archaeological, or historical significance in accordance with all applicable laws and policies, including—
+
+    (i) chapter 2003 of title 54;
+
+    (ii) Public Law 95–341 (commonly known as the ‘American Indian Religious Freedom Act’) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) [, 1996a]);
+
+    (iii) the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa](./chapter-1b-archaeological-resources-protection.md#section-470aa) et seq.);
+
+    (iv) the Native American Graves Protection and Repatriation Act ([25 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001&num=0&edition=prelim) et seq.); and
+
+    (v) Public Law 103–141 (commonly known as the “Religious Freedom Restoration Act of 1993”) ([42 U.S.C. 2000bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000bb&num=0&edition=prelim) et seq.).
+
+**(e) Withdrawal** Subject to valid existing rights, all Federal land within the area administratively withdrawn and known as the “Indian Pass Withdrawal Area” is permanently withdrawn from—
+
+(1) all forms of entry, appropriation, or disposal under the public land laws;
+
+(2) location, entry, and patent under the mining laws; and
+
+(3) right-of-way leasing and disposition under all laws relating to minerals or solar, wind, or geothermal energy.
+
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in subsecs. (a) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The American Indian Religious Freedom Act, referred to in subsec. (a), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
+The American Indian Religious Freedom Act, referred to in subsecs. (a), (b)(1), and (d)(3)(B)(ii), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(B)(iii), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
+
+The Native American Graves Protection and Repatriation Act, referred to in subsec. (d)(3)(B)(iv), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001&num=0&edition=prelim) and Tables.
+
+The Religious Freedom Restoration Act of 1993, referred to in subsec. (d)(3)(B)(v), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§ 2000bb et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000bb of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000bb&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2019—Pub. L. 116–9 added subsecs. (a), (b), (d), and (e), redesignated former subsec. (b) as (c), and struck out former subsec. (a) which related to access to park system units and wilderness areas by Indian people for traditional cultural and religious purposes.
+
+#### “Secretary” Defined
+Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Secretary” means the Secretary of the Interior.
 
 
 <a id="section-410aaa-76"></a>
@@ -10200,16 +10498,20 @@ The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 19
 #### References in Text
 Section 204 of this Act, referred to in subsec. (a), is section 204 of Pub. L. 103–433, title II, Oct. 31, 1994, 108 Stat. 4485, which is not classified to the Code.
 
-This Act, referred to in subsecs. (a), (c), and (d), is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in subsecs. (a), (c), and (d), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 
 <a id="section-410aaa-77"></a>
 ## § 410aaa–77. California State School lands
-**(a) Negotiations to exchange** Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 [[43 U.S.C. 1716](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716&num=0&edition=prelim)].
+**(a) Negotiations to exchange**
+
+(1) **In general** — The Secretary shall negotiate in good faith to reach an agreement with the California State Lands Commission (referred to in this section as the “Commission”) to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas, national monuments, off-highway vehicle recreation areas, or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”).
+
+(2) **Agreement** — To the maximum extent practicable, not later than 10 years after October 31, 1994, the Secretary shall reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 [[43 U.S.C. 1716](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1716&num=0&edition=prelim)].
 
 **(b) Preparation of list** Within six months after October 31, 1994, the Secretary shall send to the Commission and to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives a list of the following:
 
-(1) State School lands or interests therein (including mineral interests) which are located within the boundaries of the wilderness areas or park system units designated by this Act.
+(1) State School lands or interests therein (including mineral interests) which are located within the boundaries of the wilderness areas, national monuments, off-highway vehicle recreation areas, or park system units designated by this Act.
 
 (2) Lands within the State of California under the jurisdiction of the Secretary that the Secretary determines to be suitable for disposal for exchange, identified in the following priority—
 
@@ -10244,13 +10546,18 @@ This Act, referred to in subsecs. (a), (c), and (d), is defined in [section 410a
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (b)(1), is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in subsecs. (a)(1) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and Tables.
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which amended [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and enacted provisions set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim).
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–9, § 1456(1), designated first sentence as par. (1) and second sentence as par. (2), inserted par. headings, substituted “The Secretary shall negotiate in good faith to reach an agreement with the California State Lands Commission (referred to in this section as the ‘Commission’)” for “Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement” in par. (1) and “To the maximum extent practicable, not later than 10 years after October 31, 1994, the Secretary shall” for “The Secretary shall negotiate in good faith to” in par. (2), and inserted “, national monuments, off-highway vehicle recreation areas,” after “more of the wilderness areas” in par. (1).
+
+Subsec. (b)(1). Pub. L. 116–9, § 1456(2), inserted “, national monuments, off-highway vehicle recreation areas,” after “wilderness areas”.
 
 
 <a id="section-410aaa-78"></a>
@@ -10261,7 +10568,7 @@ The Secretary shall provide adequate access to nonfederally owned land or intere
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 
 <a id="section-410aaa-79"></a>
@@ -10285,20 +10592,183 @@ Lands and interests in lands acquired pursuant to this Act shall be appraised wi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 The Endangered Species Act of 1973, referred to in text, is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 
 <a id="section-410aaa-81"></a>
-## § 410aaa–81. Definition
+## § 410aaa–81. Juniper Flats
 
-Any reference to the term “this Act” in titles I through IX shall be deemed to be solely a reference to sections 1 and 2, and titles I through IX.
+Development of renewable energy generation facilities (excluding rights-of-way or facilities for the transmission of energy and telecommunication facilities and infrastructure) is prohibited on the approximately 27,990 acres of Federal land generally depicted as “BLM Land Unavailable for Energy Development” on the map entitled “Juniper Flats” and dated November 7, 2018.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 410aaa–81, Pub. L. 103–433, title VII, § 711, Oct. 31, 1994, 108 Stat. 4501, which defined the term “this Act” for purposes of titles I through IX of Pub. L. 103–433, was repealed by Pub. L. 116–9, title I, § 1459, Mar. 12, 2019, 133 Stat. 718. See section 3 of Pub. L. 103–433, set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
+
+
+<a id="section-410aaa-81a"></a>
+## § 410aaa–81a. Transfer of land to Anza-Borrego Desert State Park
+**(a) In general** On termination of all mining claims to the land described in subsection (b), the Secretary shall transfer the land described in that subsection to the State of California.
+
+**(b) Description of land** The land referred to in subsection (a) is certain Bureau of Land Management land in San Diego County, California, comprising approximately 934 acres, as generally depicted on the map entitled “Proposed Table Mountain Wilderness Study Area Transfer to the State” and dated November 7, 2018.
+
+**(c) Management**
+
+(1) **In general** — The land transferred under subsection (a) shall be managed in accordance with the provisions of the California Wilderness Act (California Public Resources Code sections 5093.30–5093.40).
+
+(2) **Withdrawal** — Subject to valid existing rights, the land transferred under subsection (a) is withdrawn from—
+
+  (A) all forms of entry, appropriation, or disposal under the public land laws;
+
+  (B) location, entry, and patent under the mining laws; and
+
+  (C) disposition under all laws relating to mineral and geothermal leasing.
+
+(3) **Reversion** — If the State ceases to manage the land transferred under subsection (a) as part of the State Park System or in a manner inconsistent with the California Wilderness Act (California Public Resources Code sections 5093.30–5093.40), the land shall revert to the Secretary at the discretion of the Secretary, to be managed as a Wilderness Study Area.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Secretary” means the Secretary of the Interior.
+
+
+<a id="section-410aaa-81b"></a>
+## § 410aaa–81b. Wildlife corridors
+**(a) In general** The Secretary shall—
+
+(1) assess the impacts of habitat fragmentation on wildlife in the California Desert Conservation Area; and
+
+(2) establish policies and procedures to ensure the preservation of wildlife corridors and facilitate species migration.
+
+**(b) Study**
+
+(1) **In general** — As soon as practicable, but not later than 2 years, after March 12, 2019, the Secretary shall complete a study regarding the impact of habitat fragmentation on wildlife in the California Desert Conservation Area.
+
+(2) **Components** — The study under paragraph (1) shall—
+
+  (A) identify the species migrating, or likely to migrate 11 So in original. Probably should be followed by a comma. in the California Desert Conservation Area;
+
+  (B) examine the impacts and potential impacts of habitat fragmentation on—
+
+    (i) plants, insects, and animals;
+
+    (ii) soil;
+
+    (iii) air quality;
+
+    (iv) water quality and quantity; and
+
+    (v) species migration and survival;
+
+  (C) identify critical wildlife and species migration corridors recommended for preservation; and
+
+  (D) include recommendations for ensuring the biological connectivity of public land managed by the Secretary and the Secretary of Defense throughout the California Desert Conservation Area.
+
+(3) **Rights-of-way** — The Secretary shall consider the information and recommendations of the study under paragraph (1) to determine the individual and cumulative impacts of rights-of-way for projects in the California Desert Conservation Area, in accordance with—
+
+  (A) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
+
+  (B) the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.); and
+
+  (C) any other applicable law.
+
+**(c) Land management plans** The Secretary shall incorporate into all land management plans applicable to the California Desert Conservation Area the findings and recommendations of the study completed under subsection (b).
 
 ### Statutory Notes
 
 #### References in Text
-Sections 1 and 2 and titles I to IX, referred to in text, are sections 1 and 2 and titles I to IX of Pub. L. 103–433, Oct. 31, 1994, 108 Stat. 4471, known as the California Desert Protection Act of 1994. Sections 1 and 2 of the Act are set out as notes under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa). Titles I to IX of the Act are classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The Endangered Species Act of 1973, referred to in subsec. (b)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+#### “Secretary” Defined
+Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Secretary” means the Secretary of the Interior.
+
+
+<a id="section-410aaa-81c"></a>
+## § 410aaa–81c. Prohibited uses of acquired, donated, and conservation land
+**(a) Definitions** In this section:
+
+(1) **Acquired land** — The term “acquired land” means any land acquired within the Conservation Area using amounts from the land and water conservation fund established under [section 200302 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200302&num=0&edition=prelim).
+
+(2) **Conservation area** — The term “Conservation Area” means the California Desert Conservation Area.
+
+(3) **Conservation land** — The term “conservation land” means any land within the Conservation Area that is designated to satisfy the conditions of a Federal habitat conservation plan, general conservation plan, or State natural communities conservation plan, including—
+
+  (A) national conservation land established pursuant to [section 7202(b)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7202/b/2/D&num=0&edition=prelim); and
+
+  (B) areas of critical environmental concern established pursuant to [section 1712(c)(3) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712/c/3&num=0&edition=prelim).
+
+(4) **Donated land** — The term “donated land” means any private land donated to the United States for conservation purposes in the Conservation Area.
+
+(5) **Donor** — The term “donor” means an individual or entity that donates private land within the Conservation Area to the United States.
+
+(6) **Secretary** — The term “Secretary” means the Secretary, acting through the Director of the Bureau of Land Management.
+
+(7) **State** — The term “State” means the State of California.
+
+**(b) Prohibitions** Except as provided in subsection (c), the Secretary shall not authorize the use of acquired land, conservation land, or donated land within the Conservation Area for any activities contrary to the conservation purposes for which the land was acquired, designated, or donated, including—
+
+(1) disposal;
+
+(2) rights-of-way;
+
+(3) leases;
+
+(4) livestock grazing;
+
+(5) infrastructure development, except as provided in subsection (c);
+
+(6) mineral entry; and
+
+(7) off-highway vehicle use, except on—
+
+  (A) designated routes;
+
+  (B) off-highway vehicle areas designated by law; and
+
+  (C) administratively designated open areas.
+
+**(c) Exceptions**
+
+(1) **Authorization by Secretary** — Subject to paragraph (2), the Secretary may authorize limited exceptions to prohibited uses of acquired land or donated land in the Conservation Area if—
+
+  (A) a right-of-way application for a renewable energy development project or associated energy transport facility on acquired land or donated land was submitted to the Bureau of Land Management on or before December 1, 2009; or
+
+  (B) after the completion and consideration of an analysis under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the Secretary has determined that proposed use is in the public interest.
+
+(2) **Conditions**
+
+  (A) *In general* — If the Secretary grants an exception to the prohibition under paragraph (1), the Secretary shall require the permittee to donate private land of comparable value located within the Conservation Area to the United States to mitigate the use.
+
+  (B) *Approval* — The private land to be donated under subparagraph (A) shall be approved by the Secretary after—
+
+    (i) consultation, to the maximum extent practicable, with the donor of the private land proposed for nonconservation uses; and
+
+    (ii) an opportunity for public comment regarding the donation.
+
+**(d) Existing agreements** Nothing in this section affects permitted or prohibited uses of donated land or acquired land in the Conservation Area established in any easements, deed restrictions, memoranda of understanding, or other agreements in existence on March 12, 2019.
+
+**(e) Deed restrictions** Effective beginning on March 12, 2019, within the Conservation Area, the Secretary may—
+
+(1) accept deed restrictions requested by landowners for land donated to, or otherwise acquired by, the United States; and
+
+(2) consistent with existing rights, create deed restrictions, easements, or other third-party rights relating to any public land determined by the Secretary to be necessary—
+
+  (A) to fulfill the mitigation requirements resulting from the development of renewable resources; or
+
+  (B) to satisfy the conditions of—
+
+    (i) a habitat conservation plan or general conservation plan established pursuant to [section 1539 of this title](./chapter-035-endangered-species.md#section-1539); or
+
+    (ii) a natural communities conservation plan approved by the State.
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### “Secretary” Defined
 Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Secretary” means the Secretary of the Interior.
@@ -10306,21 +10776,28 @@ Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Sec
 
 <a id="section-410aaa-82"></a>
 ## § 410aaa–82. Military overflights
-**(a) Overflights** Nothing in this Act, the Wilderness Act [[16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.], or other land management laws generally applicable to the new units of the National Park or Wilderness Preservation Systems (or any additions to existing units) designated by this Act, shall restrict or preclude low-level overflights of military aircraft over such units, including military overflights that can be seen or heard within such units.
+**(a) Overflights** Nothing in this Act, the Wilderness Act [[16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.], or other land management laws generally applicable to the new units of the National Park or Wilderness Preservation Systems (or any additions to existing units), scenic areas, off-highway vehicle recreation areas, or special management areas designated by this Act, shall restrict or preclude low-level overflights of military aircraft over such units, including military overflights that can be seen or heard within such units.
 
-**(b) Special airspace** Nothing in this Act, the Wilderness Act [[16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.], or other land management laws generally applicable to the new units of the National Park or Wilderness Preservation Systems (or any additions to existing units) designated by this Act, shall restrict or preclude the designation of new units of special airspace or the use or establishment of military flight training routes over such new park system or wilderness units.
+**(b) Special airspace** Nothing in this Act, the Wilderness Act [[16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.], or other land management laws generally applicable to the new units of the National Park or Wilderness Preservation Systems (or any additions to existing units), scenic areas, off-highway vehicle recreation areas, or special management areas designated by this Act, shall restrict or preclude the designation of new units of special airspace or the use or establishment of military flight training routes over such new park system or wilderness units.
 
 **(c) No effect on other laws** Nothing in this section shall be construed to modify, expand, or diminish any authority under other Federal law.
+
+**(d) Department of Defense facilities** Nothing in this Act alters any authority of the Secretary of Defense to conduct military operations at installations and ranges within the California Desert Conservation Area that are authorized under any other provision of law.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (b), is defined in [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81).
+This Act, referred to in subsecs. (a), (b), and (d), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 The Wilderness Act, referred to in subsecs. (a) and (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
+#### Amendments
+2019—Subsecs. (a), (b). Pub. L. 116–9, § 1460(b)(1), (2), inserted “, scenic areas, off-highway vehicle recreation areas, or special management areas” before “designated by this Act”.
+
+Subsec. (d). Pub. L. 116–9, § 1460(b)(3), added subsec. (d).
+
 #### Short Title and Findings
-Pub. L. 103–433, title VIII, § 801, Oct. 31, 1994, 108 Stat. 4501, provided that: “(a) Short Title.—This title [enacting this section] may be cited as the ‘California Military Lands Withdrawal and Overflights Act of 1994’. “(b) Findings.—The Congress finds that—“(1) military aircraft testing and training activities as well as demilitarization activities in California are an important part of the national defense system of the United States, and are essential in order to secure for the American people of this and future generations an enduring and viable national defense system; “(2) the National Park System units and wilderness areas designated by this Act [see [section 410aaa–81 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-81)] lie within a region critical to providing training, research, and development for the Armed Forces of the United States and its allies; “(3) there is a lack of alternative sites available for these military training, testing, and research activities; “(4) continued use of the lands and airspace in the California desert region is essential for military purposes; and “(5) continuation of these military activities, under appropriate terms and conditions, is not incompatible with the protection and proper management of the natural, environmental, cultural, and other resources and values of the Federal lands in the California desert area.”
+Pub. L. 103–433, title VIII, § 801, Oct. 31, 1994, 108 Stat. 4501, as amended by Pub. L. 116–9, title I, § 1460(a), Mar. 12, 2019, 133 Stat. 718, provided that: “(a) Short Title.—This title [enacting this section] may be cited as the ‘California Military Lands Withdrawal and Overflights Act of 1994’. “(b) Findings.—The Congress finds that—“(1) military aircraft testing and training activities as well as demilitarization activities in California are an important part of the national defense system of the United States, and are essential in order to secure for the American people of this and future generations an enduring and viable national defense system; “(2) the National Park System units, special management areas, off-highway vehicle recreation areas, scenic areas, and wilderness areas designated by this Act [see section 3 of Pub. L. 103–433, set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa)] lie within a region critical to providing training, research, and development for the Armed Forces of the United States and its allies; “(3) there is a lack of alternative sites available for these military training, testing, and research activities; “(4) continued use of the lands and airspace in the California desert region is essential for military purposes; and “(5) continuation of these military activities, under appropriate terms and conditions, is not incompatible with the protection and proper management of the natural, environmental, cultural, and other resources and values of the Federal lands in the California desert area.”
 
 
 <a id="section-410aaa-83"></a>
@@ -10332,6 +10809,165 @@ There is authorized to be appropriated to the National Park Service and to the B
 
 #### References in Text
 This Act, referred to in text, is defined in [section 410aaa–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-1).
+
+
+<a id="section-410aaa-91"></a>
+## § 410aaa–91. Designation of Off-Highway Vehicle Recreation Areas
+**(a) In general**
+
+(1) **Designation** — In accordance with the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.) and resource management plans developed under this part and subject to valid rights, the following land within the Conservation Area in San Bernardino County, California, is designated as Off-Highway Vehicle Recreation Areas:
+
+  (A) *Dumont Dunes Off-Highway Vehicle Recreation Area* — Certain Bureau of Land Management land in the Conservation Area, comprising approximately 7,620 acres, as generally depicted on the map entitled “Proposed Dumont Dunes OHV Recreation Area” and dated November 7, 2018, which shall be known as the “Dumont Dunes Off-Highway Vehicle Recreation Area”.
+
+  (B) *El Mirage Off-Highway Vehicle Recreation Area* — Certain Bureau of Land Management land in the Conservation Area, comprising approximately 16,370 acres, as generally depicted on the map entitled “Proposed El Mirage OHV Recreation Area” and dated December 10, 2018, which shall be known as the “El Mirage Off-Highway Vehicle Recreation Area”.
+
+  (C) *Rasor Off-Highway Vehicle Recreation Area* — Certain Bureau of Land Management land in the Conservation Area, comprising approximately 23,900 acres, as generally depicted on the map entitled “Proposed Rasor OHV Recreation Area” and dated November 7, 2018, which shall be known as the “Rasor Off-Highway Vehicle Recreation Area”.
+
+  (D) *Spangler Hills Off-Highway Vehicle Recreation Area* — Certain Bureau of Land Management land in the Conservation Area, comprising approximately 92,340 acres, as generally depicted on the map entitled “Proposed Spangler Hills OHV Recreation Area” and dated December 10, 2018, which shall be known as the “Spangler Hills Off-Highway Vehicle Recreation Area”.
+
+  (E) *Stoddard Valley Off-Highway Vehicle Recreation Area* — Certain Bureau of Land Management land in the Conservation Area, comprising approximately 40,110 acres, as generally depicted on the map entitled “Proposed Stoddard Valley OHV Recreation Area” and dated November 7, 2018, which shall be known as the “Stoddard Valley Off-Highway Vehicle Recreation Area”.
+
+(2) **Expansion of Johnson Valley Off-Highway Vehicle Recreation Area** — The Johnson Valley Off-Highway Vehicle Recreation Area designated by section 2945 of the Military Construction Authorization Act for Fiscal Year 2014 (division B of Public Law 113–66; 127 Stat. 1038) is expanded to include approximately 20,240 acres, depicted as “Proposed OHV Recreation Area Additions” and “Proposed OHV Recreation Area Study Areas” on the map entitled “Proposed Johnson Valley OHV Recreation Area” and dated November 7, 2018.
+
+**(b) Purpose** The purpose of the off-highway vehicle recreation areas designated or expanded under subsection (a) is to preserve and enhance the recreational opportunities within the Conservation Area (including opportunities for off-highway vehicle recreation), while conserving the wildlife and other natural resource values of the Conservation Area.
+
+**(c) Maps and descriptions**
+
+(1) **Preparation and submission** — As soon as practicable after March 12, 2019, the Secretary shall file a map and legal description of each off-highway vehicle recreation area designated or expanded by subsection (a) with—
+
+  (A) the Committee on Natural Resources of the House of Representatives; and
+
+  (B) the Committee on Energy and Natural Resources of the Senate.
+
+(2) **Legal effect** — The map and legal descriptions of the off-highway vehicle recreation areas filed under paragraph (1) shall have the same force and effect as if included in this part, except that the Secretary may correct errors in the map and legal descriptions.
+
+(3) **Public availability** — Each map and legal description filed under paragraph (1) shall be filed and made available for public inspection in the appropriate offices of the Bureau of Land Management.
+
+**(d) Use of the land**
+
+(1) **Recreational activities**
+
+  (A) *In general* — The Secretary shall continue to authorize, maintain, and enhance the recreational uses of the off-highway vehicle recreation areas designated or expanded by subsection (a), as long as the recreational use is consistent with this section and any other applicable law.
+
+  (B) *Off-highway vehicle and off-highway recreation* — To the extent consistent with applicable Federal law (including regulations) and this section, any authorized recreation activities and use designations in effect on March 12, 2019, and applicable to the off-highway vehicle recreation areas designated or expanded by subsection (a) shall continue, including casual off-highway vehicular use, racing, competitive events, rock crawling, training, and other forms of off-highway recreation.
+
+(2) **Wildlife guzzlers** — Wildlife guzzlers shall be allowed in the off-highway vehicle recreation areas designated or expanded by subsection (a) in accordance with—
+
+  (A) applicable Bureau of Land Management guidelines; and
+
+  (B) State law.
+
+(3) **Prohibited uses**
+
+  (A) *In general* — Except as provided in subparagraph (B), commercial development (including development of energy facilities, but excluding energy transport facilities, rights-of-way, and related telecommunication facilities) shall be prohibited in the off-highway vehicle recreation areas designated or expanded by subsection (a) if the Secretary determines that the development is incompatible with the purpose described in subsection (b).
+
+  (B) *Exception* — The Secretary may issue a temporary permit to a commercial vendor to provide accessories and other support for off-highway vehicle use in an off-highway vehicle recreation area designated or expanded by subsection (a) for a limited period and consistent with the purposes of the off-highway vehicle recreation area and applicable laws.
+
+**(e) Administration**
+
+(1) **In general** — The Secretary shall administer the off-highway vehicle recreation areas designated or expanded by subsection (a) in accordance with—
+
+  (A) this part;
+
+  (B) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.); and
+
+  (C) any other applicable laws (including regulations).
+
+(2) **Management plan**
+
+  (A) *In general* — As soon as practicable, but not later than 3 years after March 12, 2019, the Secretary shall—
+
+    (i) amend existing resource management plans applicable to the off-highway vehicle recreation areas designated or expanded by subsection (a); or
+
+    (ii) develop new management plans for each off-highway vehicle recreation area designated or expanded under that subsection.
+
+  (B) *Requirements* — All new or amended plans under subparagraph (A) shall be designed to preserve and enhance safe off-highway vehicle and other recreational opportunities within the applicable recreation area consistent with—
+
+    (i) the purpose described in subsection (b); and
+
+    (ii) any applicable laws (including regulations).
+
+  (C) *Interim plans* — Pending completion of a new management plan under subparagraph (A), the existing resource management plans shall govern the use of the applicable off-highway vehicle recreation area.
+
+**(f) Withdrawal** Subject to valid existing rights, all Federal land within the off-highway vehicle recreation areas designated or expanded by subsection (a) is withdrawn from—
+
+(1) all forms of entry, appropriation, or disposal under the public land laws;
+
+(2) location, entry, and patent under the mining laws; and
+
+(3) right-of-way, leasing, or disposition under all laws relating to mineral leasing, geothermal leasing, or mineral materials.
+
+**(g) Southern California Edison Company utility facilities and rights-of-way**
+
+(1) **Effect of part** — Nothing in this part—
+
+  (A) affects any validly issued right-of-way for the customary operation, maintenance, upgrade, repair, relocation within an existing right-of-way, replacement, or other authorized energy transport facility activities (including the use of any mechanized vehicle, helicopter, and other aerial device) in a right-of-way acquired by or issued, granted, or permitted to Southern California Edison Company (including any successor in interest or assign) that is located on land included in—
+
+    (i) the El Mirage Off-Highway Vehicle Recreation Area;
+
+    (ii) the Spangler Hills Off-Highway Vehicle Recreation Area;
+
+    (iii) the Stoddard Valley Off-Highway Vehicle Recreation Area; or
+
+    (iv) the Johnson Valley Off-Highway Vehicle Recreation Area;
+
+  (B) affects the application, siting, route selection, right-of-way acquisition, or construction of the Coolwater-Lugo transmission project, as may be approved by the California Public Utilities Commission and the Bureau of Land Management; or
+
+  (C) prohibits the upgrading or replacement of any Southern California Edison Company—
+
+    (i) utility facility, including such a utility facility known on March 12, 2019, as—
+
+      (I) “Gale-PS 512 transmission lines or rights-of-way”;
+
+      (II) “Patio, Jack Ranch, and Kenworth distribution circuits or rights-of-way”; or
+
+      (III) “Bessemer and Peacor distribution circuits or rights-of-way”; or
+
+    (ii) energy transport facility in a right-of-way issued, granted, or permitted by the Secretary adjacent to a utility facility referred to in clause (i).
+
+(2) **Plans for access** — The Secretary, in consultation with the Southern California Edison Company, shall publish plans for regular and emergency access by the Southern California Edison Company to the rights-of-way of the Company by the date that is 1 year after the later of—
+
+  (A) March 12, 2019; and
+
+  (B) the date of issuance of a new energy transport facility right-of-way within—
+
+    (i) the El Mirage Off-Highway Vehicle Recreation Area;
+
+    (ii) the Spangler Hills Off-Highway Vehicle Recreation Area;
+
+    (iii) the Stoddard Valley Off-Highway Vehicle Recreation Area; or
+
+    (iv) the Johnson Valley Off-Highway Vehicle Recreation Area.
+
+**(h) Pacific Gas and Electric Company utility facilities and rights-of-way**
+
+(1) **Effect of part** — Nothing in this part—
+
+  (A) affects any validly issued right-of-way for the customary operation, maintenance, upgrade, repair, relocation within an existing right-of-way, replacement, or other authorized activity (including the use of any mechanized vehicle, helicopter, and other aerial device) in a right-of-way acquired by or issued, granted, or permitted to Pacific Gas and Electric Company (including any successor in interest or assign) that is located on land included in the Spangler Hills Off-Highway Vehicle Recreation Area; or
+
+  (B) prohibits the upgrading or replacement of any—
+
+    (i) utility facilities of the Pacific Gas and Electric Company, including those utility facilities known on March 12, 2019, as—
+
+      (I) “Gas Transmission Line 311 or rights-of-way”; or
+
+      (II) “Gas Transmission Line 372 or rights-of-way”; or
+
+    (ii) utility facilities of the Pacific Gas and Electric Company in rights-of-way issued, granted, or permitted by the Secretary adjacent to a utility facility referred to in clause (i).
+
+(2) **Plans for access** — Not later than 1 year after March 12, 2019, or the issuance of a new utility facility right-of-way within the Spangler Hills Off-Highway Vehicle Recreation Area, whichever is later, the Secretary, in consultation with the Pacific Gas and Electric Company, shall publish plans for regular and emergency access by the Pacific Gas and Electric Company to the rights-of-way of the Pacific Gas and Electric Company.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Land Policy and Management Act of 1976, referred to in subsecs. (a)(1) and (e)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+Section 2945 of the Military Construction Authorization Act for Fiscal Year 2014, referred to in subsec. (a)(2), is section 2945 of title XXIX of div. B of Pub. L. 113–66, Dec. 26, 2013, 127 Stat. 1038, which is set out as a note below.
+
+#### Johnson Valley Off-Highway Vehicle Recreation Area
+Pub. L. 113–66, div. B, title XXIX, § 2945, Dec. 26, 2013, 127 Stat. 1038, provided that: “(a) Designation.—There is hereby designated the ‘Johnson Valley Off-Highway Vehicle Recreation Area’, consisting of—“(1) 43,431 acres (as depicted on the map referred to in subsection (b) of section 2941 [127 Stat. 1034]) of the existing Bureau of Land Management-designated Johnson Valley Off-Highway Vehicle Area that is not withdrawn and reserved for defense-related uses by such section; and “(2) The Shared Use Area. “(b) Authorized Activities.—To the extent consistent with applicable Federal law (including regulations) and this subtitle [subtitle C (§§ 2941–2946) of title XXIX of div. B of Pub. L. 113–66, see Tables for classification] any authorized recreation activities and use designation in effect on the date of enactment of this Act [Dec. 26, 2013] and applicable to the Johnson Valley Off-Highway Vehicle Recreation Area may continue, including casual off-highway vehicular use and recreation. “(c) Administration.—The Secretary of the Interior shall administer the Johnson Valley Off-Highway Vehicle Recreation Area (other than the Shared Use Area, which is being managed in accordance with the other provisions of this subtitle) in accordance with—“(1) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.); and “(2) any other applicable law. “(d) Transit.—In coordination with the Secretary of the Interior, the Secretary of the Navy may authorize transit through the Johnson Valley Off-Highway Vehicle Recreation Area for defense-related purposes supporting military training (including military range management and management of exercise activities) conducted on the land withdrawn and reserved by section 2941.”
+
+[For definition of “Shared Use Area” as used in section 2945 of Pub. L. 113–66, set out above, see section 2941 of title XXIX of div. B of Pub. L. 113–66, Dec. 26, 2013, 127 Stat. 1034, which is not classified to the Code.]
 
 
 <a id="section-410aa-1"></a>
@@ -10464,6 +11100,96 @@ Senate Concurrent Resolution 57, referred to in subsec. (a)(1), probably means H
 
 #### Short Title
 Pub. L. 103–433, title XII, § 1201, Oct. 31, 1994, 108 Stat. 4519, provided that: “This title [enacting this subchapter] may be cited as the ‘New Orleans Jazz National Historical Park Act of 1994’.”
+
+
+<a id="section-410bbbb"></a>
+## § 410bbbb. Reconstruction Era National Historical Park and Reconstruction Era National Historic Network
+**(a) Definitions** In this section:
+
+(1) **Historical park** — The term “historical park” means the Reconstruction Era National Historical Park.
+
+(2) **Map** — The term “Map” means the maps entitled “Reconstruction Era National Monument Old Beaufort Firehouse”, numbered 550/135,755, and dated January 2017; “Reconstruction Era National Monument Darrah Hall and Brick Baptist Church”, numbered 550/135,756, and dated January 2017; and “Reconstruction Era National Monument Camp Saxton”, numbered 550/135,757, and dated January 2017, collectively.
+
+(3) **Network** — The term “Network” means the Reconstruction Era National Historic Network established pursuant to this section.
+
+**(b) Reconstruction Era National Historical Park**
+
+(1) **Redesignation of Reconstruction Era National Monument**
+
+  (A) *In general* — The Reconstruction Era National Monument is redesignated as the Reconstruction Era National Historical Park, as generally depicted on the Map.
+
+  (B) *Availability of funds* — Any funds available for the purposes of the Reconstruction Era National Monument shall be available for the purposes of the historical park.
+
+  (C) *References* — Any references in a law, regulation, document, record, map, or other paper of the United States to the Reconstruction Era National Monument shall be considered to be a reference to the historical park.
+
+(2) **Boundary expansion**
+
+  (A) *Beaufort National Historic Landmark District* — Subject to subparagraph (D), the Secretary is authorized to acquire land or interests in land within the Beaufort National Historic Landmark District that has historic connection to the Reconstruction Era. Upon finalizing an agreement to acquire land, the Secretary shall expand the boundary of the historical park to encompass the property.
+
+  (B) *St. Helena Island* — Subject to subparagraph (D), the Secretary is authorized to acquire the following and shall expand the boundary of the historical park to include acquisitions under this authority:
+
+    (i) Land and interests in land adjacent to the existing boundary on St. Helena Island, South Carolina, as reflected on the Map.
+
+    (ii) Land or interests in land on St. Helena Island, South Carolina, that has a historic connection to the Reconstruction Era.
+
+  (C) *Camp Saxton* — Subject to subparagraph (D), the Secretary is authorized to accept administrative jurisdiction of Federal land or interests in Federal land adjacent to the existing boundary at Camp Saxton, as reflected on the Map. Upon finalizing an agreement to accept administrative jurisdiction of Federal land or interests in Federal land, the Secretary shall expand the boundary of the historical park to encompass that Federal land or interests in Federal land.
+
+  (D) *Land acquisition authority* — The Secretary may only acquire land under this section by donation, exchange, or purchase with donated funds.
+
+(3) **Administration**
+
+  (A) *In general* — The Secretary shall administer the historical park in accordance with this section and with the laws generally applicable to units of the National Park System.
+
+  (B) *Management plan* — If the management plan for the Reconstruction Era National Monument—
+
+    (i) has not been completed on or before March 12, 2019, the Secretary shall incorporate all provisions of this section into the planning process and complete a management plan for the historical park within 3 years; and
+
+    (ii) has been completed on or before March 12, 2019, the Secretary shall update the plan incorporating the provisions of this section.
+
+**(c) Reconstruction Era National Historic Network**
+
+(1) **In general** — The Secretary shall—
+
+  (A) establish, within the National Park Service, a program to be known as the “Reconstruction Era National Historic Network”;
+
+  (B) not later than 1 year after March 12, 2019, solicit proposals from sites interested in being a part of the Network; and
+
+  (C) administer the Network through the historical park.
+
+(2) **Duties of Secretary** — In carrying out the Network, the Secretary shall—
+
+  (A) review studies and reports to complement and not duplicate studies of the historical importance of Reconstruction Era that may be underway or completed, such as the National Park Service Reconstruction Handbook and the National Park Service Theme Study on Reconstruction;
+
+  (B) produce and disseminate appropriate educational and promotional materials relating to the Reconstruction Era and the sites in the Network, such as handbooks, maps, interpretive guides, or electronic information;
+
+  (C) enter into appropriate cooperative agreements and memoranda of understanding to provide technical assistance;
+
+  (D)
+
+    (i) create and adopt an official, uniform symbol or device for the Network; and
+
+    (ii) issue regulations for the use of the symbol or device adopted under clause (i); and
+
+  (E) conduct research relating to Reconstruction and the Reconstruction Era.
+
+(3) **Elements** — The Network shall encompass the following elements:
+
+  (A) All units and programs of the National Park Service that are determined by the Secretary to relate to the Reconstruction Era.
+
+  (B) Other Federal, State, local, and privately owned properties that the Secretary determines—
+
+    (i) relate to the Reconstruction Era; and
+
+    (ii) are included in, or determined by the Secretary to be eligible for inclusion in, the National Register of Historic Places.
+
+  (C) Other governmental and nongovernmental sites, facilities, and programs of an educational, research, or interpretive nature that are directly related to the Reconstruction Era.
+
+(4) **Cooperative agreements and memoranda of understanding** — To achieve the purposes of this section and to ensure effective coordination of the Federal and non-Federal elements of the Network and units and programs of the National Park Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities.
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).
 
 
 <a id="section-410bbb-1"></a>
@@ -10729,6 +11455,140 @@ Pub. L. 112–182, § 1, Oct. 5, 2012, 126 Stat. 1420, provided that: “This Ac
 
 #### Short Title
 Pub. L. 103–449, title III, § 301, Nov. 2, 1994, 108 Stat. 4757, provided that: “Titles III and IV of this Act [enacting this subchapter] may be cited as the ‘Cane River Creole National Historical Park and National Heritage Area Act’.”
+
+
+<a id="section-410cccc"></a>
+## § 410cccc. Acquisition of lands
+
+The Secretary of the Interior shall acquire on behalf of the United States by gift, purchase, condemnation, or otherwise, such lands and interest in land, together with any improvements thereon, as the Secretary may deem necessary for the purpose of establishing a national historic site commemorating the completion of the first transcontinental railroad across the United States on the site described on a map entitled “Proposed Golden Spike National Historic Site, Utah”, prepared by the National Park Service, Southwest Region, dated February 1963. In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property within the area depicted on such drawing, and in exchange therefor he may convey to the grantor of such property any federally owned property in the State of Utah under his jurisdiction which he classifies as suitable for exchange or other disposal. The properties so exchanged shall be of approximately equal value, but the Secretary may accept cash from, or pay cash to, the grantor in order to equalize the values of the properties exchanged.
+
+
+<a id="section-410cccc-1"></a>
+## § 410cccc–1. Golden Spike National Historic Site
+**(a)** The property acquired under the provisions of [section 410cccc of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410cccc) shall be designated as the “Golden Spike National Historic Site” 11 See Change of Name note below. and shall be set aside as a public national memorial. The National Park Service, under the direction of the Secretary of the Interior, shall administer, protect, and develop such historic site, subject to the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 525 22 So in original. Probably should be “535”. ), as amended and supplemented, and the Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes”, approved August 21, 1935 (49 Stat. 666), as amended.
+
+**(b)** In order to provide for the proper development and maintenance of such national historic site, the Secretary of the Interior is authorized to construct and maintain therein such markers, buildings, and other improvements, and such facilities for the care and accommodation of visitors, as he may deem necessary.
+
+### Statutory Notes
+
+#### References in Text
+The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+The Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes”, approved August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+#### Change of Name
+Golden Spike National Historic Site was redesignated Golden Spike National Historical Park by Pub. L. 116–9, title II, § 2205(b), Mar. 12, 2019, 133 Stat. 738, which is classified to [section 410cccc–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cccc–3/b&num=0&edition=prelim).
+
+
+<a id="section-410cccc-2"></a>
+## § 410cccc–2. Authorization of appropriations
+
+There are hereby authorized to be appropriated such sums, but not more than $5,422,000, as may be necessary for the acquisition of land and interests in land and for the development of the Golden Spike National Historic Site 11 See Change of Name note below. pursuant to sections 410cccc to 410cccc–2 of this title.
+
+### Statutory Notes
+
+#### Amendments
+1976—Pub. L. 94–578 substituted “$5,422,000” for “$1,168,000”.
+
+#### Change of Name
+Golden Spike National Historic Site was redesignated Golden Spike National Historical Park by Pub. L. 116–9, title II, § 2205(b), Mar. 12, 2019, 133 Stat. 738, which is classified to [section 410cccc–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cccc–3/b&num=0&edition=prelim).
+
+
+<a id="section-410cccc-3"></a>
+## § 410cccc–3. Golden Spike National Historical Park
+**(a) Definitions** In this section:
+
+(1) **Park** — The term “Park” means the Golden Spike National Historical Park designated by subsection (b)(1).
+
+(2) **Program** — The term “Program” means the program to commemorate and interpret the Transcontinental Railroad authorized under subsection (c).
+
+(3) **Secretary** — The term “Secretary” means the Secretary, acting through the Director of the National Park Service.
+
+(4) **Transcontinental railroad** — The term “Transcontinental Railroad” means the approximately 1,912-mile continuous railroad constructed between 1863 and 1869 extending from Council Bluffs, Iowa, to San Francisco, California.
+
+**(b) Redesignation**
+
+(1) **Redesignation** — The Golden Spike National Historic Site designated April 2, 1957, and placed under the administration of the National Park Service under sections 410cccc to 410cccc–2 of this title, shall be known and designated as the “Golden Spike National Historical Park”.
+
+(2) **References** — Any reference in a law, map, regulation, document, paper, or other record of the United States to the Golden Spike National Historic Site shall be considered to be a reference to the “Golden Spike National Historical Park”.
+
+**(c) Transcontinental Railroad commemoration and program**
+
+(1) **In general** — Subject to paragraph (2), the Secretary shall establish within the National Park Service a program to commemorate and interpret the Transcontinental Railroad.
+
+(2) **Study** — Before establishing the Program, the Secretary shall conduct a study of alternatives for commemorating and interpreting the Transcontinental Railroad that includes—
+
+  (A) a historical assessment of the Transcontinental Railroad;
+
+  (B) the identification of—
+
+    (i) existing National Park System land and affiliated areas, land managed by other Federal agencies, and Federal programs that may be related to preserving, commemorating, and interpreting the Transcontinental Railroad;
+
+    (ii) any properties relating to the Transcontinental Railroad—
+
+      (I) that are designated as, or could meet the criteria for designation as, National Historic Landmarks; or
+
+      (II) that are included, or eligible for inclusion, on the National Register of Historic Places;
+
+    (iii) any objects relating to the Transcontinental Railroad that have educational, research, or interpretative value; and
+
+    (iv) any governmental programs and nongovernmental programs of an educational, research, or interpretive nature relating to the Transcontinental Railroad; and
+
+  (C) recommendations for—
+
+    (i) incorporating the resources identified under subparagraph (B) into the Program; and
+
+    (ii) other appropriate ways to enhance historical research, education, interpretation, and public awareness of the Transcontinental Railroad.
+
+(3) **Report** — Not later than 3 years after the date on which funds are made available to carry out the study under paragraph (2), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the findings and recommendations of the study.
+
+(4) **Freight railroad operations** — The Program shall not include any properties that are—
+
+  (A) used in active freight railroad operations (or other ancillary purposes); or
+
+  (B) reasonably anticipated to be used for freight railroad operations in the future.
+
+(5) **Elements of the program** — In carrying out the Program under this subsection, the Secretary—
+
+  (A) shall produce and disseminate appropriate education materials relating to the history, construction, and legacy of the Transcontinental Railroad, such as handbooks, maps, interpretive guides, or electronic information;
+
+  (B) may enter into appropriate cooperative agreements and memoranda of understanding and provide technical assistance to the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities to further the purposes of the Program and this section; and
+
+  (C) may—
+
+    (i) create and adopt an official, uniform symbol or device to identify the Program; and
+
+    (ii) issue guidance for the use of the symbol or device created and adopted under clause (i).
+
+**(d) Programmatic agreement**
+
+(1) **In general** — Not later than 180 days after March 12, 2019, the Secretary shall seek to enter into a programmatic agreement with the Utah State Historic Preservation Officer to add to the list of undertakings eligible for streamlined review under [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim) certain uses that would have limited physical impact to land in the Park.
+
+(2) **Development and consultation** — The programmatic agreement entered into under paragraph (1) shall be developed—
+
+  (A) in accordance with applicable laws (including regulations); and
+
+  (B) in consultation with adjacent landowners, Indian Tribes, and other interested parties.
+
+(3) **Approval** — The Secretary shall—
+
+  (A) consider any application for uses covered by the programmatic agreement; and
+
+  (B) not later than 60 days after the receipt of an application described in subparagraph (A), approve the application, if the Secretary determines the application is consistent with—
+
+    (i) the programmatic agreement entered into under paragraph (1); and
+
+    (ii) applicable laws (including regulations).
+
+**(e) Invasive species** The Secretary shall consult with, and seek to coordinate with, adjacent landowners to address the treatment of invasive species adjacent to, and within the boundaries of, the Park.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of Pub. L. 89–102 which comprises this subchapter.
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).
 
 
 <a id="section-410ccc-1"></a>
@@ -12594,7 +13454,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (8)(b)(1)(A), (3), 
 1996—Par. (8)(a). Pub. L. 104–333 substituted “approximately 6,477,168 acres” for “approximately six million four hundred and sixty thousand acres” and inserted “and the map entitled ‘Noatak National Preserve and Noatak Wilderness Addition’ dated September 1994” after “July 1980”.
 
 #### Anaktuvuk Pass Land Exchange
-Pub. L. 104–333, div. I, title III, § 302, Nov. 12, 1996, 110 Stat. 4117, provided that: “(a) Findings.—The Congress makes the following findings:“(1) The Alaska National Interest Lands Conservation Act (94 Stat. 2371 [Pub. L. 96–487, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101)]), enacted on December 2, 1980, established Gates of the Arctic National Park and Preserve and Gates of the Arctic Wilderness. The Village of Anaktuvuk Pass, located in the highlands of the central Brooks Range is virtually surrounded by these national park and wilderness lands and is the only Native village located within the boundary of a National Park System unit in Alaska. “(2) Unlike most other Alaskan Native communities, the village [sic] of Anaktuvuk Pass is not located on a major river, lake, or coastline that can be used as a means of access. The residents of Anaktuvuk pass [sic] have relied increasingly on snow machines in winter and all-terrain vehicles in summer as their primary means of access to pursue caribou and other subsistence resources. “(3) In a 1983 land exchange agreement, linear easements were reserved by the Inupiat Eskimo people for use of all-terrain vehicles across certain national park lands, mostly along stream and river banks. These linear easements proved unsatisfactory, because they provided inadequate access to subsistence resources while causing excessive environmental impact from concentrated use. “(4) The National Park Service and the Nunamiut Corporation initiated discussions in 1985 to address concerns over the use of all-terrain vehicles on park and wilderness land. These discussions resulted in an agreement, originally executed in 1992 and thereafter amended in 1993 and 1994, among the National Park Service, Nunamiut Corporation, the City of Anaktuvuk Pass, and Arctic Slope Regional Corporation. Full effectuation of this agreement, as amended, by its terms requires ratification by the Congress. “(b) Ratification of agreement.—“(1) Ratification.—“(A) In general.—The terms, conditions, procedures, covenants, reservations, and other provisions set forth in the document entitled ‘Donation, Exchange of Lands and Interests in Lands and Wilderness Redesignation Agreement Among Arctic Slope Regional Corporation, Nunamiut Corporation, City of Anaktuvuk Pass and the United States of America’ (hereinafter referred to in this section as ‘the Agreement’), executed by the parties on December 17, 1992, as amended, are hereby incorporated in this title [see Tables for classification], are ratified and confirmed, and set forth the obligations and commitments of the United States, Arctic Slope Regional Corporation, Nunamiut Corporation and the City of Anaktuvuk Pass, as a matter of Federal law. “(B) Land acquisition.—Lands acquired by the United States pursuant to the Agreement shall be administered by the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) as part of Gates of the Arctic National Park and Preserve, subject to the laws and regulations applicable thereto. “(2) Maps.—The maps set forth as Exhibits C1, C2, and D through I to the Agreement depict the lands subject to the conveyances, retention of surface access rights, access easements and all-terrain vehicle easements. These lands are depicted in greater detail on a map entitled ‘Land Exchange Actions, Proposed Anaktuvuk Pass Land Exchange and Wilderness Redesignation, Gates of the Arctic National Park and Preserve’, Map No. 185/80,039, dated April 1994, and on file at the Alaska Regional Office of the National Park Service and the offices of Gates of the Arctic National Park and Preserve in Fairbanks, Alaska. Written legal descriptions of these lands shall be prepared and made available in the above offices. In case of any discrepancies, Map No. 185/80,039 shall be controlling. “(c) National Park System Wilderness.—“(1) Gates of the artic wilderness.—[Amended provisions listed in a Table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).] “(2) Noatak national preserve.—[Amended this section.] “(3) Noatak wilderness.—[Amended provisions listed in a Table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).] “(d) Conformance With Other Law.—“(1) Alaska native claims settlement act.—All of the lands, or interests therein, conveyed to and received by Arctic Slope Regional Corporation or Nunamiut Corporation pursuant to the Agreement shall be deemed conveyed and received pursuant to exchanges under section 22(f) of the Alaska Native Claims Settlement Act, as amended ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim), 1621(f)). All of the lands or interests in lands conveyed pursuant to the Agreement shall be conveyed subject to valid existing rights. “(2) Alaska national interest lands conservation act.—Except to the extent specifically set forth in this section or the Agreement, nothing in this section or in the Agreement shall be construed to enlarge or diminish the rights, privileges, or obligations of any person, including specifically the preference for subsistence uses and access to subsistence resources provided under the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) et seq.).”
+Pub. L. 104–333, div. I, title III, § 302, Nov. 12, 1996, 110 Stat. 4117, provided that: “(a) Findings.—The Congress makes the following findings:“(1) The Alaska National Interest Lands Conservation Act (94 Stat. 2371 [Pub. L. 96–487, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101)]), enacted on December 2, 1980, established Gates of the Arctic National Park and Preserve and Gates of the Arctic Wilderness. The Village of Anaktuvuk Pass, located in the highlands of the central Brooks Range is virtually surrounded by these national park and wilderness lands and is the only Native village located within the boundary of a National Park System unit in Alaska. “(2) Unlike most other Alaskan Native communities, the village [sic] of Anaktuvuk Pass is not located on a major river, lake, or coastline that can be used as a means of access. The residents of Anaktuvuk pass [sic] have relied increasingly on snow machines in winter and all-terrain vehicles in summer as their primary means of access to pursue caribou and other subsistence resources. “(3) In a 1983 land exchange agreement, linear easements were reserved by the Inupiat Eskimo people for use of all-terrain vehicles across certain national park lands, mostly along stream and river banks. These linear easements proved unsatisfactory, because they provided inadequate access to subsistence resources while causing excessive environmental impact from concentrated use. “(4) The National Park Service and the Nunamiut Corporation initiated discussions in 1985 to address concerns over the use of all-terrain vehicles on park and wilderness land. These discussions resulted in an agreement, originally executed in 1992 and thereafter amended in 1993 and 1994, among the National Park Service, Nunamiut Corporation, the City of Anaktuvuk Pass, and Arctic Slope Regional Corporation. Full effectuation of this agreement, as amended, by its terms requires ratification by the Congress. “(b) Ratification of agreement.—“(1) Ratification.—“(A) In general.—The terms, conditions, procedures, covenants, reservations, and other provisions set forth in the document entitled ‘Donation, Exchange of Lands and Interests in Lands and Wilderness Redesignation Agreement Among Arctic Slope Regional Corporation, Nunamiut Corporation, City of Anaktuvuk Pass and the United States of America’ (hereinafter referred to in this section as ‘the Agreement’), executed by the parties on December 17, 1992, as amended, are hereby incorporated in this title [see Tables for classification], are ratified and confirmed, and set forth the obligations and commitments of the United States, Arctic Slope Regional Corporation, Nunamiut Corporation and the City of Anaktuvuk Pass, as a matter of Federal law. “(B) Land acquisition.—Lands acquired by the United States pursuant to the Agreement shall be administered by the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) as part of Gates of the Arctic National Park and Preserve, subject to the laws and regulations applicable thereto. “(2) Maps.—The maps set forth as Exhibits C1, C2, and D through I to the Agreement depict the lands subject to the conveyances, retention of surface access rights, access easements and all-terrain vehicle easements. These lands are depicted in greater detail on a map entitled ‘Land Exchange Actions, Proposed Anaktuvuk Pass Land Exchange and Wilderness Redesignation, Gates of the Arctic National Park and Preserve’, Map No. 185/80,039, dated April 1994, and on file at the Alaska Regional Office of the National Park Service and the offices of Gates of the Arctic National Park and Preserve in Fairbanks, Alaska. Written legal descriptions of these lands shall be prepared and made available in the above offices. In case of any discrepancies, Map No. 185/80,039 shall be controlling. “(c) National Park System Wilderness.—“(1) Gates of the artic wilderness.— [Amended provisions listed in a Table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).] “(2) Noatak national preserve.— [Amended this section.] “(3) Noatak wilderness.— [Amended provisions listed in a Table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).] “(d) Conformance With Other Law.—“(1) Alaska native claims settlement act.—All of the lands, or interests therein, conveyed to and received by Arctic Slope Regional Corporation or Nunamiut Corporation pursuant to the Agreement shall be deemed conveyed and received pursuant to exchanges under section 22(f) of the Alaska Native Claims Settlement Act, as amended ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim), 1621(f)). All of the lands or interests in lands conveyed pursuant to the Agreement shall be conveyed subject to valid existing rights. “(2) Alaska national interest lands conservation act.—Except to the extent specifically set forth in this section or the Agreement, nothing in this section or in the Agreement shall be construed to enlarge or diminish the rights, privileges, or obligations of any person, including specifically the preference for subsistence uses and access to subsistence resources provided under the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) et seq.).”
 
 
 <a id="section-410hhh"></a>
@@ -17144,6 +18004,158 @@ Pub. L. 102–419, § 1, Oct. 16, 1992, 106 Stat. 2141, provided that: “This A
 Pub. L. 102–419, § 2, Oct. 16, 1992, 106 Stat. 2141, provided that: “The purposes of this Act [this subchapter] are— “(1) to establish a unit of the National Park System in Dayton, Ohio, consisting of certain lands and structures associated with Wilbur and Orville Wright and the early development of aviation; and “(2) to create partnerships among Federal, State, and local governments and the private sector to preserve, enhance, and interpret for present and future generations the historic and cultural structures, districts, and artifacts in Dayton and the Miami Valley in the State of Ohio, which are associated with the Wright brothers, the invention and development of aviation, or the life and works of Paul Laurence Dunbar, and which, as a whole, represent a nationally significant resource.”
 
 
+<a id="section-410www"></a>
+## § 410www. Establishment of Martin Luther King, Jr. National Historical Park
+**(a)** In order to protect and interpret for the benefit, inspiration, and education of present and future generations the places where Martin Luther King, Junior, was born, where he lived, worked, and worshipped, and where he is buried, there is hereby established the Martin Luther King, Jr. National Historical Park in the State of Georgia. The national historical park shall consist of that real property in the city of Atlanta, Georgia, within the boundary generally depicted on the map entitled “Martin Luther King, Jr. National Historical Park Proposed Boundary Revision”, numbered 489/128,786 and dated June 2015, together with the property known as 234 Sunset Avenue, Northwest. The map referred to in this subsection shall be on file and available for public inspection in the local and Washington, District of Columbia offices of the National Park Service, Department of the Interior.
+
+**(b)** In furtherance of the purposes of this subchapter, there is hereby established the Martin Luther King, Junior, Preservation District, which shall consist of the area identified as “Preservation District” in the map referred to in subsection (a) of this section.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 460bbbb of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb).
+
+This subchapter is comprised of Pub. L. 96–428, as amended. Pub. L. 96–428 is also listed in a table of National Historic Sites set out under [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–108 substituted “Martin Luther King, Jr. National Historical Park” for “Martin Luther King, Junior, National Historic Site”, “the map entitled ‘Martin Luther King, Jr. National Historical Park Proposed Boundary Revision’, numbered 489/128,786 and dated June 2015” for “the map entitled ‘Martin Luther King, Junior, National Historic Site Boundary Map’, number 489/80,013B, and dated September 1992”, and “national historical park” for “national historic site”.
+
+1992—Subsec. (a). Pub. L. 102–575 substituted “number 489/80,013B, and dated September 1992” for “numbered NASM/SERO/20, 109–C, and dated May 1980”.
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–108, § 1, Jan. 8, 2018, 131 Stat. 2267, provided that: “This Act [amending this section and sections 410www–1, 410www–2, and 410www–4 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Martin Luther King, Jr. National Historical Park Act of 2017’.
+
+#### Short Title of 2004 Amendment
+Pub. L. 108–314, § 1, Oct. 5, 2004, 118 Stat. 1198, provided that: “This Act [amending [section 410www–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410www-1) and enacting provisions set out as a note under this section] may be cited as the ‘Martin Luther King, Junior, National Historic Site Land Exchange Act’.”
+
+#### References
+Pub. L. 115–108, § 3, Jan. 8, 2018, 131 Stat. 2267, provided that: “Any reference in a law (other than this Act [See Short Title of 2017 Amendment note above]), map, regulation, document, paper, or other record of the United States to ‘Martin Luther King, Junior, National Historic Site’ shall be deemed to be a reference to ‘Martin Luther King, Jr. National Historical Park’.”
+
+#### Findings and Purpose
+Pub. L. 108–314, § 2, Oct. 5, 2004, 118 Stat. 1198, provided that: “(a) Findings.—Congress finds the following:“(1) Public Law 96–438 [probably means 96–428, enacting this subchapter] established the Martin Luther King, Junior, National Historic Site [now Martin Luther King, Jr. National Historical Park], and allows acquisition, by donation only, of lands owned by the State. “(2) The National Park Service owns a vacant lot that has no historic significance. The City of Atlanta has expressed interest in acquiring this property to encourage commercial development along Edgewood Avenue. “(3) The National Historic Site Visitor Center and Museum is land-locked and has no emergency ingress or egress, making it virtually impossible for firefighting equipment to reach. “(4) The acquisition of city-owned property would enable the National Park Service to establish easy street access to the National Historic Site Visitor Center and Museum, and would benefit the City by exchanging a piece of property that the City could develop. “(b) Purpose.—The purpose of this Act [see Short Title of 2004 Amendment note above] is to authorize the exchange of certain lands within the Martin Luther King, Junior, National Historic Site for lands owned by the City of Atlanta, Georgia.”
+
+
+<a id="section-410www-1"></a>
+## § 410www–1. Administration
+**(a)** The Secretary of the Interior (hereinafter referred to as “the Secretary”) shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this subchapter, and the provisions of law generally applicable to national historic sites,11 So in original. Probably should be “to the National Park System,”. including the Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4) and the Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–7&num=0&edition=prelim)).
+
+**(b)**
+
+(1) Within the national historical park the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer, or exchange, lands and interests therein, except that property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation or exchange.
+
+(2) Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
+
+  (A) the Secretary may acquire such property in accordance with the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
+
+  (B) with respect to properties owned by the Center for Social Change, the Secretary shall have the first right of refusal to purchase such property for a purchase price not exceeding the fair market value of such property on the date it is offered for sale.
+
+(3) Property may be acquired pursuant to this section subject to such conditions and reservations as in the judgment of the Secretary are not inconsistent with the purposes of this subchapter and the administration of the national historical park, including, in the event that the burial site of Martin Luther King, Junior, is acquired, the condition that his widow may be interred therein.
+
+(4) Any and all legal or equitable title, interests, or encumbrances, if any, held by the Department of Housing and Urban Development in the property designated “Parcel A” on the map referenced in [section 460bbbb of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb) are hereby conveyed to the Secretary to be administered in accordance with the purposes of this subchapter.
+
+(5) Structural space requirements of the National Park Service to meet its administrative, operational, and interpretive functions for the national historical park and preservation district shall, to the maximum extent feasible without displacing residents, be met within the district through the adaptive use of existing structures.
+
+### Statutory Notes
+
+#### References in Text
+The Act of August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+The Act of August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+#### Codification
+Section was formerly classified to [section 460bbbb–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460bbbb–1&num=0&edition=prelim).
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–108, § 2(2), substituted “Martin Luther King, Jr. National Historical Park” for “Martin Luther King, Junior, National Historic Site”.
+
+Subsec. (b). Pub. L. 115–108, § 2(3), substituted “national historical park” for “national historic site” wherever appearing.
+
+2004—Subsec. (b)(1). Pub. L. 108–314 inserted “or exchange” before period at end.
+
+
+<a id="section-410www-2"></a>
+## § 410www–2. Authority of Secretary regarding property and concessions
+**(a)** Within the national historical park, the Secretary may convey a freehold or leasehold interest in any property, for such sums as he deems appropriate, and subject to such terms and conditions and reservations as will assure the use of the property in a manner which is, in the judgment of the Secretary, consistent with the purposes of this subchapter and the administration of the national historical park. The Secretary shall offer the last owner or tenant of record a reasonable opportunity to purchase or lease, as appropriate, the property proposed to be conveyed prior to any conveyance under this subsection, and in the case of a lease to such tenant of record, the initial rental charge shall not be substantially more than the last rent paid by the tenant for that property, with any future increases not to exceed the general escalation of rental rates in the surrounding area.
+
+**(b)** The Secretary may enter into cooperative agreements with the owners of properties of historical or cultural significance as determined by the Secretary, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement. The authorities in this subsection shall also be available to the Secretary with respect to properties within the Martin Luther King, Junior, Preservation District.
+
+**(c)** The Secretary may, in carrying out his authorities with respect to the interpretation of properties within the national historical park and the preservation district, accept the services and assistance, with or without reimbursement therefor, of qualified persons and entities to the extent he deems necessary and appropriate. Funds appropriated for the purposes of this subchapter may be expended for the improvement, restoration, and maintenance of properties in which the Secretary has acquired a leasehold interest.
+
+**(d)** Notwithstanding any other provision of law, the Secretary shall give first preference to the Martin Luther King, Junior, Center for Social Change with respect to any contract for a concession to sell books, postcards, tapes, or similar types of appropriate mementos related to the purposes of this subchapter, on facilities operated and maintained by the Secretary within the historical park: Provided, That agreement can be reached on terms and conditions acceptable to the Secretary.
+
+**(e)** The Secretary is authorized to take only such actions within and upon the grounds of the Ebenezer Baptist Church as will directly support appropriate public visitation to and within the church in accordance with the purposes of this subchapter, or which will assist in the maintenance or preservation of those portions of said church which are directly related to the purposes of this subchapter.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 460bbbb–2 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460bbbb–2&num=0&edition=prelim).
+
+#### Amendments
+2018—Subsecs. (a), (c). Pub. L. 115–108, § 2(3), substituted “national historical park” for “national historic site” wherever appearing.
+
+Subsec. (d). Pub. L. 115–108, § 2(4), substituted “historical park” for “historic site”.
+
+
+<a id="section-410www-3"></a>
+## § 410www–3. Omitted
+
+### Statutory Notes
+
+#### Codification
+Section, Pub. L. 96–428, § 4, Oct. 10, 1980, 94 Stat. 1841, established the Martin Luther King, Junior, National Historic Site Advisory Commission to advise the Secretary and prepare plans for administration of the site and terminated the Commission ten years after Oct. 10, 1980.
+
+
+<a id="section-410www-4"></a>
+## § 410www–4. Entrance or admission fees prohibited
+
+Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to the national historical park or the preservation district established by this subchapter.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 460bbbb–4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460bbbb–4&num=0&edition=prelim).
+
+#### Amendments
+2018—Pub. L. 115–108 substituted “national historical park” for “national historic site”.
+
+
+<a id="section-410www-5"></a>
+## § 410www–5. Authorization of appropriations; limitation on authority
+
+Effective October 1, 1980, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter. Notwithstanding any other provision of this subchapter, authority to enter into contracts, to incur obligations, or to make payments under this subchapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 460bbbb–5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460bbbb–5&num=0&edition=prelim).
+
+#### Amendments
+1992—Pub. L. 102–575 struck out “, but not to exceed $1,000,000 for development, $100,000 for local planning, and $3,500,000 for the acquisition of lands and interests therein” before period at end of first sentence.
+
+
+<a id="section-410www-6"></a>
+## § 410www–6. Minimizing adverse impacts on preservation district
+**(a)** In order to better integrate the east and west portions of the Martin Luther King, Junior, Preservation District, the Federal Highway Administration, in cooperation with the Georgia Department of Transportation, is hereby directed to insure that any design and reconstruction of the North Interstate 85 and Interstate 75 Expressway over Auburn and Edgewood Avenues in the city of Atlanta, Georgia, and the interchange at Edgewood Avenue, shall minimize the adverse impacts on the preservation district.
+
+**(b)** In carrying out the provisions of this subsection, the Federal Highway Administration shall require that, where feasible, any major change required for the Auburn Avenue overpass results in a design which permits a wider distance between overpass support structures and the disposition of understructure development rights for appropriate business or recreation uses.
+
+**(c)** Plans for the construction, exterior renovation, or demolition of any structure or change in land use within the preservation district by the National Park Service or any Federal agency must be submitted to the Atlanta Urban Design Commission in a timely fashion for its review and comment.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 460bbbb–6 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460bbbb–6&num=0&edition=prelim).
+
+
+<a id="section-410www-7"></a>
+## § 410www–7. Omitted
+
+### Statutory Notes
+
+#### Codification
+Section, Pub. L. 96–428, § 8, Oct. 10, 1980, 94 Stat. 1843, required the submission of a comprehensive general management plan for the historic site within three complete fiscal years from Oct. 10, 1980.
+
+
 <a id="section-410ww-1"></a>
 ## § 410ww–1. Protection of historic properties
 **(a) Acquisition of properties within park** Within the boundaries of the park the Secretary shall, subject to the availability of appropriated funds, acquire Hawthorn Hill, the Wright Company factory, the Wright Cycle Company Building and Hoover Block, and may acquire other properties, or interests therein, referred to in [section 410ww(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410ww/b&num=0&edition=prelim), by donation, purchase with donated or appropriated funds, exchange, or transfer.
@@ -17442,6 +18454,103 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 Section 201 of Public Law 96–287, referred to in subsec. (b), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
 
+<a id="section-410xxx"></a>
+## § 410xxx. Ste. Genevieve National Historical Park
+**(a) Definitions** In this section:
+
+(1) **Historic District** — The term “Historic District” means the Ste. Genevieve Historic District National Historic Landmark, as generally depicted on the Map.
+
+(2) **Historical Park** — The term “Historical Park” means the Ste. Genevieve National Historical Park established by subsection (b).
+
+(3) **Map** — The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary Addition”, numbered 571/149,942, and dated December 2018.
+
+(4) **Special resource study** — The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
+
+(5) **State** — The term “State” means the State of Missouri.
+
+**(b) Establishment**
+
+(1) **In general** — Subject to paragraph (2), there is established the Ste. Genevieve National Historical Park in the State as a unit of the National Park System to preserve, protect, and interpret for the benefit of present and future generations the themes of French settlement, vernacular architecture, and community form and farming on the frontier associated with Ste. Genevieve.
+
+(2) **Conditions for establishment** — The Historical Park shall not be established until the date on which the Secretary determines that—
+
+  (A) sufficient land has been acquired for the Historical Park to constitute a manageable unit; and
+
+  (B) the Secretary has entered into a written agreement providing that land owned by the State, the City of Ste. Genevieve, or other entity within the Historic District shall be managed consistent with the purposes of this section.
+
+**(c) Boundaries** The boundaries of the Historical Park shall be the boundaries generally depicted on the Map.
+
+**(d) Availability of Map** The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+**(e) Acquisition authority**
+
+(1) **In general** — The Secretary may acquire any land or interest in land located within the boundary of the Historical Park or any nationally significant property identified in the special resource study within the Historic District by—
+
+  (A) donation;
+
+  (B) purchase with donated or appropriated funds; or
+
+  (C) exchange.
+
+(2) **Boundary revision** — On the acquisition of any property within the Historic District under paragraph (1), the Secretary shall revise the boundary of the Historical Park to include the property.
+
+**(f) Administration**
+
+(1) **In general** — The Secretary shall administer the Historical Park in accordance with—
+
+  (A) this section; and
+
+  (B) the laws generally applicable to units of the National Park System, including—
+
+    (i) section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54; and
+
+    (ii) chapter 3201 of title 54.
+
+(2) **Management plan**
+
+  (A) *In general* — Not later than 3 years after the date on which funds are made available to prepare a general management plan for the Historical Park, the Secretary shall prepare the general management plan in accordance with [section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim).
+
+  (B) *Submission to Congress* — On completion of the general management plan under subparagraph (A), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the general management plan.
+
+(3) **Related sites** — The Secretary may provide interpretative tours and educational programs at related historic and cultural sites within the Historic District associated with the purposes for which the Historical Park is established.
+
+**(g) Cooperative agreements**
+
+(1) **In general** — The Secretary may provide technical assistance and enter into cooperative agreements with the owner of a nationally significant property within the Historical Park or the Historic District, to identify, mark, interpret, improve, and restore the property.
+
+(2) **Right of access** — A cooperative agreement entered into under paragraph (1) shall provide that the Secretary, acting through the Director of the National Park Service, shall have the right of access at all reasonable times to all public portions of the property covered by the agreement for the purposes of—
+
+  (A) conducting visitors through the property; and
+
+  (B) interpreting the property for the public.
+
+(3) **Cost-sharing requirement**
+
+  (A) *Federal share* — The Federal share of the total cost of any activity carried out under a cooperative agreement entered into under this subsection shall be not more than 50 percent.
+
+  (B) *Form of non-Federal share* — The non-Federal share of an activity carried out under a cooperative agreement entered into under this subsection may be in the form of donated property, goods, or services fairly valued.
+
+(4) **Changes or alterations** — No changes or alterations shall be made to any property or project covered by a cooperative agreement entered into under paragraph (1) unless the Secretary and the other party to the agreement agree to the changes or alterations.
+
+(5) **Conversion, use, or disposal** — Any payment by the Secretary under this subsection shall be subject to an agreement that the conversion, use, or disposal of a property or project for purposes contrary to the purposes of this section, as determined by the Secretary, shall entitle the United States to reimbursement in any amount equal to the greater of—
+
+  (A) the amounts made available to the property or project by the United States; or
+
+  (B) the portion of the increased value of the property or project attributable to the amounts made available under this subsection, as determined at the time of the conversion, use, or disposal.
+
+**(h) Limited role of the Secretary** Nothing in this section authorizes the Secretary to assume overall financial responsibility for the operation, maintenance, or management of the Historic District.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 460cccc of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460cccc).
+
+Section is based on section 7134 of S. 1460, One Hundred Fifteenth Congress, as placed on the calendar of the Senate on June 29, 2017, which was enacted into law by Pub. L. 115–141.
+
+#### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–9 substituted “ ‘Ste. Genevieve National Historical Park Proposed Boundary Addition’, numbered 571/149,942, and dated December 2018” for “ ‘Ste. Genevieve National Historical Park Proposed Boundary’ ”.
+
+
 <a id="section-410xx-1"></a>
 ## § 410xx–1. Administration
 **(a) In general** The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2, 3, and 4).11 See References in Text note below.
@@ -17565,6 +18674,118 @@ Pub. L. 95–11, Mar. 15, 1977, 91 Stat. 21, provided: “That the canal and tow
 (1) to preserve the nationally significant historical and cultural sites, structures, and districts of a portion of the Keweenaw Peninsula in the State of Michigan for the education, benefit, and inspiration of present and future generations; and
 
 (2) to interpret the historic synergism between the geological, aboriginal, sociological, cultural technological, and corporate forces that relate the story of copper on the Keweenaw Peninsula.
+
+
+<a id="section-410yyy"></a>
+## § 410yyy. Establishment; acquisition of property
+
+When title to lands commonly known as the “Old Ocmulgee Fields”, upon which certain Indian mounds of great historical importance are located, comprising approximately two thousand acres, in and around the city of Macon, County of Bibb, State of Georgia, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary for national-monument purposes, shall have been vested in the United States, said area shall be set aside as a national monument, by proclamation of the President, and shall be known as the “Ocmulgee National Monument”: 11 See Change of Name note below. Provided, That the United States shall not purchase by appropriation of public moneys any lands within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 447a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section447a&num=0&edition=prelim).
+
+#### Change of Name
+Ocmulgee National Monument was redesignated Ocmulgee Mounds National Historical Park by Pub. L. 116–9, title II, § 2102(b)(1), Mar. 12, 2019, 133 Stat. 724, which is classified to [section 410yyy–3(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410yyy–3/b/1&num=0&edition=prelim).
+
+#### Establishment of Monument; Boundaries
+Monument and boundaries established by Presidential Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1655; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
+
+
+<a id="section-410yyy-1"></a>
+## § 410yyy–1. Donation of property; condemnation proceedings
+
+The Secretary of the Interior is authorized to accept donations of land, interests in land, buildings, structures, and other property, within the boundaries of said national monument as determined and fixed hereunder and donations of funds for the purchase and/or maintenance thereof, the title and evidence of title to lands acquired to be satisfactory to the Secretary of the Interior: Provided, That he may acquire on behalf of the United States under any donated funds by purchase when purchasable at prices deemed by him reasonable, otherwise by condemnation under the provisions of [section 3113 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3113&num=0&edition=prelim), such tracts of land within the said national monument as may be necessary for the completion thereof.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 447b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section447b&num=0&edition=prelim).
+
+“[Section 3113 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3113&num=0&edition=prelim)” substituted in text for “the Act of August 1, 1888” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+
+<a id="section-410yyy-2"></a>
+## § 410yyy–2. Administration, protection, and development
+
+The administration, protection, and development of the Ocmulgee National Monument 11 See Change of Name note below. shall be under the supervision of the Secretary of the Interior subject to the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916,22 See References in Text note below. as amended.
+
+### Statutory Notes
+
+#### References in Text
+The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+#### Codification
+Section was formerly classified to [section 447c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section447c&num=0&edition=prelim).
+
+#### Change of Name
+Ocmulgee National Monument was renamed Ocmulgee Mounds National Historical Park by Pub. L. 116–9, title II, § 2102(b)(1), Mar. 12, 2019, 133 Stat. 724, which is classified to [section 410yyy–3(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410yyy–3/b/1&num=0&edition=prelim).
+
+
+<a id="section-410yyy-3"></a>
+## § 410yyy–3. Ocmulgee Mounds National Historical Park boundary
+**(a) Definitions** In this section:
+
+(1) **Historical park** — The term “Historical Park” means the Ocmulgee Mounds National Historical Park in the State of Georgia, as redesignated by subsection (b)(1)(A).
+
+(2) **Map** — The term “map” means the map entitled “Ocmulgee National Monument Proposed Boundary Adjustment”, numbered 363/125996, and dated January 2016.
+
+(3) **Study area** — The term “study area” means the Ocmulgee River corridor between the cities of Macon, Georgia, and Hawkinsville, Georgia.
+
+**(b) Ocmulgee Mounds National Historical Park**
+
+(1) **Redesignation**
+
+  (A) *In general* — The Ocmulgee National Monument, established pursuant to sections 410yyy to 410yyy–2 of this title, shall be known and designated as the “Ocmulgee Mounds National Historical Park”.
+
+  (B) *References* — Any reference in a law, map, regulation, document, paper, or other record of the United States to the “Ocmulgee National Monument” shall be deemed to be a reference to the “Ocmulgee Mounds National Historical Park”.
+
+(2) **Boundary adjustment**
+
+  (A) *In general* — The boundary of the Historical Park is revised to include approximately 2,100 acres of land, as generally depicted on the map.
+
+  (B) *Availability of map* — The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+(3) **Land acquisition**
+
+  (A) *In general* — The Secretary may acquire land and interests in land within the boundaries of the Historical Park by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
+
+  (B) *Limitation* — The Secretary may not acquire by condemnation any land or interest in land within the boundaries of the Historical Park.
+
+(4) **Administration** — The Secretary shall administer any land acquired under paragraph (3) as part of the Historical Park in accordance with applicable laws (including regulations).
+
+**(c) Ocmulgee River corridor special resource study**
+
+(1) **In general** — The Secretary shall conduct a special resource study of the study area.
+
+(2) **Contents** — In conducting the study under paragraph (1), the Secretary shall—
+
+  (A) evaluate the national significance of the study area;
+
+  (B) determine the suitability and feasibility of designating the study area as a unit of the National Park System;
+
+  (C) consider other alternatives for preservation, protection, and interpretation of the study area by the Federal Government, State or local government entities, or private and nonprofit organizations;
+
+  (D) consult with interested Federal agencies, State or local governmental entities, private and nonprofit organizations, or any other interested individuals; and
+
+  (E) identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives.
+
+(3) **Applicable law** — The study required under paragraph (1) shall be conducted in accordance with [section 100507 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100507&num=0&edition=prelim).
+
+(4) **Report** — Not later than 3 years after the date on which funds are first made available to carry out the study under paragraph (1), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
+
+  (A) the results of the study; and
+
+  (B) any conclusions and recommendations of the Secretary.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of act June 14, 1934, which comprises this subchapter.
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).
 
 
 <a id="section-410yy-1"></a>
@@ -17942,6 +19163,95 @@ The Congress finds that—
 
 #### Short Title
 Pub. L. 103–364, § 1, Oct. 14, 1994, 108 Stat. 3467, provided that: “This Act [enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431)] may be cited as the ‘Saguaro National Park Establishment Act of 1994’.”
+
+
+<a id="section-410zzz"></a>
+## § 410zzz. Acquisition of lands
+
+In order to preserve in public ownership historically significant properties associated with the life and cultural achievements of Augustus Saint-Gaudens, the Secretary of the Interior may acquire, by donation from the Saint-Gaudens Memorial, a corporation, the sites and structures comprising the Saint-Gaudens Memorial situated at Cornish, New Hampshire, and by donation or purchase with donated funds not to exceed three acres of adjacent lands which the Secretary of the Interior deems necessary for the purposes of this subchapter, together with any works of art, furnishings, reproductions, and other properties within the structures and on the memorial grounds.
+
+### Statutory Notes
+
+#### Codification
+This subchapter is comprised of Pub. L. 88–543, as amended. Pub. L. 88–543 is also listed in a table of National Historic Sites set out under [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs.
+
+#### Designation of Saint-Gaudens National Historical Park
+Pub. L. 116–9, title II, § 2201(a), (c), Mar. 12, 2019, 133 Stat. 733, 734, provided that: “(a) In General.—The Saint-Gaudens National Historic Site shall be known and designated as the ‘Saint-Gaudens National Historical Park’. “(c) References.—Any reference in any law, regulation, document, record, map, or other paper of the United States to the Saint-Gaudens National Historic Site shall be considered to be a reference to the ‘Saint-Gaudens National Historical Park’.”
+
+
+<a id="section-410zzz-1"></a>
+## § 410zzz–1. Acceptance of funds
+**(a)** In accordance with the Act entitled “An Act to create a National Park Trust Fund Board, and for other purposes”, approved July 10, 1935 (49 Stat. 477), as amended, the National Park Trust Fund Board may accept from the Saint-Gaudens Memorial the amount of $100,000 and such additional amounts as the corporation may tender from time to time from the endowment funds under its control, which funds, when accepted, shall be utilized only for the purposes of the Saint-Gaudens National Historical Park established pursuant to this subchapter.
+
+**(b)** Nothing in this subchapter shall limit the authority of the Secretary of the Interior under other provisions of law to accept donations of property in the name of the United States.
+
+### Statutory Notes
+
+#### References in Text
+The Act entitled “An Act to create a National Park Trust Fund Board, and for other purposes”, approved July 10, 1935, referred to in subsec. (a), is act July 10, 1935, ch. 375, 49 Stat. 477, which was repealed by Pub. L. 90–209, §2, Dec. 18, 1967, 81 Stat. 656.
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–9 substituted “Saint-Gaudens National Historical Park” for “historic site”.
+
+
+<a id="section-410zzz-2"></a>
+## § 410zzz–2. Establishment
+
+When the sites, structures, and other properties authorized for acquisition under [section 410zzz of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410zzz) and endowment funds in the amount of $100,000 have been transferred to the United States, the Secretary of the Interior shall establish the Saint-Gaudens National Historical Park by publication of notice thereof in the Federal Register. Following such establishment the Secretary may acquire by donation, purchase with donated or appropriated funds, or exchange 279 acres of lands and buildings, or interests therein which he deems necessary for addition to the Saint-Gaudens National Historical Park and which, when acquired, shall become a part of the park.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–9, § 2201(b)(3), substituted “addition to the Saint-Gaudens National Historical Park” for “addition to the national historical site” and “part of the park” for “part of the site”.
+
+Pub. L. 116–9, § 2201(b)(1), substituted “National Historical Park by publication” for “National Historic Site by publication”.
+
+2000—Subsec. Pub. L. 106–491 substituted “279 acres of lands and buildings, or interests therein” for “not to exceed sixty-four acres of lands and interests therein”.
+
+1976—Subsec. Pub. L. 94–578 inserted at end “Following such establishment the Secretary may acquire by donation, purchase with donated or appropriated funds, or exchange not to exceed sixty-four acres of lands and interests therein which he deems necessary for addition to the national historical site and which, when acquired, shall become a part of the site.”
+
+
+<a id="section-410zzz-3"></a>
+## § 410zzz–3. Administration
+**(a)** The Secretary of the Interior shall administer, protect, develop, and maintain the Saint-Gaudens National Historical Park subject to the provisions of this subchapter and in accordance with the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535), as amended and supplemented, and the provisions of the Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes”, approved August 21, 1935 (49 Stat. 666).
+
+**(b)** In order that the Saint-Gaudens National Historical Park may achieve more effectively its purpose as a living memorial, the Secretary of the Interior is authorized to cooperate with the Saint-Gaudens Memorial, the American Academy of Arts and Letters, and other organizations and groups in the presentation of art expositions and festivals and other appropriate events that are traditional to the park.
+
+### Statutory Notes
+
+#### References in Text
+The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+The Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes”, approved August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+#### Amendments
+2019—Pub. L. 116–9 substituted “National Historical Park” for “National Historic Site” in subsecs. (a) and (b) and “traditional to the park” for “traditional to the site” in subsec. (b).
+
+
+<a id="section-410zzz-4"></a>
+## § 410zzz–4. Saint-Gaudens Memorial
+
+The Saint-Gaudens Memorial having by its active interest preserved for posterity this important site, its structures, objects, and cultural values, the executive committee thereof shall, upon establishment of the Saint-Gaudens National Historical Park, serve in an advisory capacity to the Secretary of the Interior in matters relating to its preservation, development, and use.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–9 substituted “National Historical Park” for “National Historic Site”.
+
+
+<a id="section-410zzz-5"></a>
+## § 410zzz–5. Authorization of appropriations
+
+There are hereby authorized to be appropriated such sums, but not more than $10,632,000 for development, as may be necessary to carry out the purposes of this subchapter. For the acquisition of lands or interest therein, there is authorized to be appropriated not to exceed $2,000,000.
+
+### Statutory Notes
+
+#### Amendments
+2000—Pub. L. 106–491 substituted “$10,632,000” for “$2,677,000” and “$2,000,000” for “$80,000”.
+
+1976—Pub. L. 94–578, § 201(7), substituted “$2,677,000” for “$210,000”.
+
+Pub. L. 94–578, § 101(10), inserted at end “For the acquisition of lands or interest therein, there is authorized to be appropriated not to exceed $80,000.”
 
 
 <a id="section-410zz-1"></a>
@@ -19879,6 +21189,58 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 A prior section 7 of Pub. L. 106–271 was classified to [section 430f–11 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-430f-11), prior to repeal by Pub. L. 110–161.
 
 
+<a id="section-430f-13"></a>
+## § 430f–13. Shiloh National Military Park boundary adjustment
+**(a) Definitions** In this section:
+
+(1) **Affiliated area** — The term “affiliated area” means the Parker’s Crossroads Battlefield established as an affiliated area of the National Park System by subsection (c)(1).
+
+(2) **Park** — The term “Park” means Shiloh National Military Park, a unit of the National Park System.
+
+**(b) Areas to be added to Shiloh National Military Park**
+
+(1) **Additional areas** — The boundary of the Park is modified to include the areas that are generally depicted on the map entitled “Shiloh National Military Park, Proposed Boundary Adjustment”, numbered 304/80,011, and dated July 2014, and which are comprised of the following:
+
+  (A) Fallen Timbers Battlefield.
+
+  (B) Russell House Battlefield.
+
+  (C) Davis Bridge Battlefield.
+
+(2) **Acquisition authority** — The Secretary may acquire the land described in paragraph (1) by donation, purchase from willing sellers with donated or appropriated funds, or exchange.
+
+(3) **Administration** — Any land acquired under this subsection shall be administered as part of the Park.
+
+**(c) Establishment of affiliated area**
+
+(1) **In general** — Parker’s Crossroads Battlefield in the State of Tennessee is established as an affiliated area of the National Park System.
+
+(2) **Description of affiliated area** — The affiliated area shall consist of the area generally depicted within the “Proposed Boundary” on the map entitled “Parker’s Crossroads Battlefield, Proposed Boundary”, numbered 903/80,073, and dated July 2014.
+
+(3) **Administration** — The affiliated area shall be managed in accordance with—
+
+  (A) this section; and
+
+  (B) any law generally applicable to units of the National Park System.
+
+(4) **Management entity** — The City of Parkers Crossroads and the Tennessee Historical Commission shall jointly be the management entity for the affiliated area.
+
+(5) **Cooperative agreements** — The Secretary may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance for the marketing, marking, interpretation, and preservation of the affiliated area.
+
+(6) **Limited role of the Secretary** — Nothing in this section authorizes the Secretary to acquire property at the affiliated area or to assume overall financial responsibility for the operation, maintenance, or management of the affiliated area.
+
+(7) **General management plan**
+
+  (A) *In general* — The Secretary, in consultation with the management entity, shall develop a general management plan for the affiliated area in accordance with [section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim).
+
+  (B) *Transmittal* — Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the general management plan developed under subparagraph (A).
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).
+
+
 <a id="section-430f-2"></a>
 ## § 430f–2. Conveyance of right-of-way; construction and maintenance of roadways
 
@@ -20756,6 +22118,30 @@ There are authorized to be appropriated such sums, but not more than $722,000, a
 1974—Pub. L. 93–477 substituted “$722,000” for “$115,000”.
 
 
+<a id="section-430t-1"></a>
+## § 430t–1. Kennesaw Mountain National Battlefield Park boundary
+**(a) Definitions** In this section:
+
+(1) **Map** — The term “map” means the map entitled “Kennesaw Mountain National Battlefield Park, Proposed Boundary Adjustment”, numbered 325/80,020, and dated February 2010.
+
+(2) **Park** — The term “Park” means the Kennesaw Mountain National Battlefield Park.
+
+**(b) Kennesaw Mountain National Battlefield Park boundary adjustment**
+
+(1) **Boundary adjustment** — The boundary of the Park is modified to include the approximately 8 acres of land or interests in land identified as “Wallis House and Harriston Hill”, as generally depicted on the map.
+
+(2) **Map** — The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
+
+(3) **Land acquisition** — The Secretary may acquire land or interests in land described in paragraph (1) by donation, purchase from willing sellers, or exchange.
+
+(4) **Administration of acquired land** — The Secretary shall administer land and interests in land acquired under this section as part of the Park in accordance with applicable laws (including regulations).
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).
+
+
 <a id="section-430u"></a>
 ## § 430u. Donations of land; purchase and condemnation
 
@@ -21073,11 +22459,13 @@ The Perry’s Victory and International Peace Memorial National Monument, establ
 <a id="section-433g"></a>
 ## § 433g. Fort Frederica National Monument; establishment
 
-When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and such other related sites located thereon, as may be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-monument purposes, shall have been vested in the United States, said area not to exceed two hundred and fifty acres shall be, and is, set apart as a national monument for the benefit and inspiration of the people, and shall be called the “Fort Frederica National Monument.”
+When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and such other related sites located thereon, as may be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-monument purposes, shall have been vested in the United States, said area not to exceed 305 acres shall be, and is, set apart as a national monument for the benefit and inspiration of the people, and shall be called the “Fort Frederica National Monument.”
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–9 substituted “305 acres” for “two hundred and fifty acres”.
+
 1958—Pub. L. 85–401 increased maximum acreage from one hundred acres to two hundred and fifty acres.
 
 1950—Act Sept. 20, 1950, increased maximum acreage from eighty to one hundred acres.
@@ -21085,7 +22473,10 @@ When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and su
 #### Appropriations
 Act Sept. 20, 1950, ch. 957, § 2, 64 Stat. 869, provided that: “There is hereby authorized to be appropriated not to exceed $5,000 for the acquisition of land and interests in land for the said national monument. The Secretary of the Interior is authorized to use any funds so appropriated, together with any donated funds made available pursuant to the aforesaid Act of May 26, 1936 [sections 433g, 433h, 433i, and 433j of this title], for this procurement of land and interests in land for the national monument.”
 
-#### Land Exchange and Boundary Adjustment
+#### Boundary Expansion, 2019
+Pub. L. 116–9, title II, § 2104(b), Mar. 12, 2019, 133 Stat. 726, provided that: “(1) In general.—The boundary of the Fort Frederica National Monument in the State of Georgia is modified to include the land generally depicted as ‘Proposed Acquisition Areas’ on the map entitled ‘Fort Frederica National Monument Proposed Boundary Expansion’, numbered 369/132,469, and dated April 2016. “(2) Availability of map.—The map described in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service. “(3) Acquisition of land.—The Secretary [of the Interior] may acquire the land and interests in land described in paragraph (1) by donation or purchase with donated or appropriated funds from willing sellers only. “(4) No use of condemnation or eminent domain.—The Secretary may not acquire by condemnation or eminent domain any land or interests in land under this section or for the purposes of this section.”
+
+#### Land Exchange and Boundary Adjustment, 2004
 Pub. L. 108–417, Nov. 30, 2004, 118 Stat. 2339, provided that: “SECTION 1. EXCHANGE OF LANDS.“(a) In General.—Notwithstanding section 5(b) of Public Law 90–401 ([former] [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–22(b)) [see [54 U.S.C. 102901(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102901/b&num=0&edition=prelim)], the Secretary of the Interior is authorized to convey to Christ Church of St. Simons Island, Georgia, the approximately 6.0 acres of land within the boundary of Fort Frederica National Monument adjacent to Christ Church and depicted as ‘NPS Lands for Exchange’ on the map entitled ‘Fort Frederica National Monument 2003 Boundary Revision’ numbered 369/80016, and dated April 2003, in exchange for approximately 8.7 acres of land to be acquired by Christ Church, which is depicted as ‘Private Lands for Addition’ on the same map. “(b) Map Availability.—The map referred to in subsection (a) shall be on file and available for public inspection in the appropriate offices of the National Park Service. “SEC. 2. BOUNDARY ADJUSTMENT.“Upon completion of the land exchange under subsection (a) of section 1, the Secretary of the Interior shall revise the boundary of Fort Frederica National Monument to reflect the exchange and shall administer the land acquired through the exchange as part of that monument.”
 
 
@@ -21705,37 +23096,13 @@ Section, act June 13, 1933, ch. 70, 48 Stat. 139, extended mining laws of United
 Section 3 of Pub. L. 94–429 provided in part that this section was repealed in order to close area to entry and location under the Mining Law of 1872, subject to valid existing rights.
 
 
-<a id="section-447a"></a>
-## § 447a. Ocmulgee National Monument; establishment; acquisition of property
-
-When title to lands commonly known as the “Old Ocmulgee Fields”, upon which certain Indian mounds of great historical importance are located, comprising approximately two thousand acres, in and around the city of Macon, County of Bibb, State of Georgia, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary for national-monument purposes, shall have been vested in the United States, said area shall be set aside as a national monument, by proclamation of the President, and shall be known as the “Ocmulgee National Monument”: Provided, That the United States shall not purchase by appropriation of public moneys any lands within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
-
-### Statutory Notes
-
-#### Establishment of Monument; Boundaries
-Monument and boundaries established by Presidential Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1655; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
-
-
-<a id="section-447b"></a>
-## § 447b. Donation of property; condemnation proceedings
-
-The Secretary of the Interior is authorized to accept donations of land, interests in land, buildings, structures, and other property, within the boundaries of said national monument as determined and fixed hereunder and donations of funds for the purchase and/or maintenance thereof, the title and evidence of title to lands acquired to be satisfactory to the Secretary of the Interior: Provided, That he may acquire on behalf of the United States under any donated funds by purchase when purchasable at prices deemed by him reasonable, otherwise by condemnation under the provisions of [section 3113 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3113&num=0&edition=prelim), such tracts of land within the said national monument as may be necessary for the completion thereof.
+<a id="section-447a-to-447c"></a>
+## § 447a to 447c. Transferred
 
 ### Statutory Notes
 
 #### Codification
-“[Section 3113 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3113&num=0&edition=prelim)” substituted in text for “the Act of August 1, 1888” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
-
-
-<a id="section-447c"></a>
-## § 447c. Administration, protection, and development
-
-The administration, protection, and development of the Ocmulgee National Monument shall be under the supervision of the Secretary of the Interior subject to the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916,11 See References in Text note below. as amended.
-
-### Statutory Notes
-
-#### References in Text
-The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+Sections 447a to 447c, which relate to the Ocmulgee National Monument, were transferred to sections 410yyy to 410yyy–2 of this title.
 
 
 <a id="section-448"></a>
@@ -22024,19 +23391,11 @@ The Secretary of the Army is authorized and directed to transfer, without consid
 
 
 <a id="section-450ee-1"></a>
-## § 450ee–1. Administration
-
-The property acquired by the Secretary of the Interior under this joint resolution shall constitute the Fort Sumter National Monument and shall be a public national memorial commemorating historical events at or near Fort Sumter. The Director of the National Park Service under the direction of the Secretary of the Interior shall have the supervision, management, and control of such national monument, and shall maintain and preserve it for the benefit and enjoyment of the people of the United States, subject to the provisions of the Act entitled “An Act to establish a National Park Service and for other purposes”, approved August 25, 1916,11 See References in Text note below. as amended.
+## § 450ee–1. Repealed. Pub. L. 116–9, title II, § 2203(g), Mar. 12, 2019, 133 Stat. 735.
 
 ### Statutory Notes
 
-#### References in Text
-This joint resolution, referred to in text, means act Apr. 28, 1948, which is classified to sections 450ee and 450ee–1 of this title.
-
-The Act entitled “An Act to establish a National Park Service and for other purposes”, approved August 25, 1916, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
-
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act Apr. 28, 1948, ch. 239, § 2, 62 Stat. 204, related to the administration of Fort Sumter National Monument. See [section 410aaaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaaa).
 
 
 <a id="section-450e-1"></a>
@@ -25597,176 +26956,166 @@ Pub. L. 101–612, § 1, Nov. 16, 1990, 104 Stat. 3209, provided that: “Sectio
 
 
 <a id="section-460bbbb"></a>
-## § 460bbbb. Establishment of Martin Luther King, Jr. National Historical Park
-**(a)** In order to protect and interpret for the benefit, inspiration, and education of present and future generations the places where Martin Luther King, Junior, was born, where he lived, worked, and worshipped, and where he is buried, there is hereby established the Martin Luther King, Jr. National Historical Park in the State of Georgia. The national historical park shall consist of that real property in the city of Atlanta, Georgia, within the boundary generally depicted on the map entitled “Martin Luther King, Jr. National Historical Park Proposed Boundary Revision”, numbered 489/128,786 and dated June 2015, together with the property known as 234 Sunset Avenue, Northwest. The map referred to in this subsection shall be on file and available for public inspection in the local and Washington, District of Columbia offices of the National Park Service, Department of the Interior.
+## § 460bbbb. Ashley Karst National Recreation and Geologic Area
+**(a) Definitions** In this section:
 
-**(b)** In furtherance of the purposes of this subchapter, there is hereby established the Martin Luther King, Junior, Preservation District, which shall consist of the area identified as “Preservation District” in the map referred to in subsection (a) of this section.
+(1) **Management Plan** — The term “Management Plan” means the management plan for the Recreation Area prepared under subsection (e)(2)(A).
 
-### Statutory Notes
+(2) **Map** — The term “Map” means the map entitled “Northern Utah Lands Management Act-Overview” and dated February 4, 2019.
 
-#### Codification
-This subchapter is comprised of Pub. L. 96–428, as amended. Pub. L. 96–428 is also listed in a table of National Historic Sites set out under [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs.
+(3) **Recreation Area** — The term “Recreation Area” means the Ashley Karst National Recreation and Geologic Area established by subsection (b)(1).
 
-#### Amendments
-2018—Subsec. (a). Pub. L. 115–108 substituted “Martin Luther King, Jr. National Historical Park” for “Martin Luther King, Junior, National Historic Site”, “the map entitled ‘Martin Luther King, Jr. National Historical Park Proposed Boundary Revision’, numbered 489/128,786 and dated June 2015” for “the map entitled ‘Martin Luther King, Junior, National Historic Site Boundary Map’, number 489/80,013B, and dated September 1992”, and “national historical park” for “national historic site”.
+(4) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
 
-1992—Subsec. (a). Pub. L. 102–575 substituted “number 489/80,013B, and dated September 1992” for “numbered NASM/SERO/20, 109–C, and dated May 1980”.
+(5) **State** — The term “State” means the State of Utah.
 
-#### Short Title of 2017 Amendment
-Pub. L. 115–108, § 1, Jan. 8, 2018, 131 Stat. 2267, provided that: “This Act [amending this section and sections 460bbbb–1, 460bbbb–2, and 460bbbb–4 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Martin Luther King, Jr. National Historical Park Act of 2017’.
+**(b) Establishment**
 
-#### Short Title of 2004 Amendment
-Pub. L. 108–314, § 1, Oct. 5, 2004, 118 Stat. 1198, provided that: “This Act [amending [section 460bbbb–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb-1) and enacting provisions set out as a note under this section] may be cited as the ‘Martin Luther King, Junior, National Historic Site Land Exchange Act’.”
+(1) **In general** — Subject to valid existing rights, there is established the Ashley Karst National Recreation and Geologic Area in the State.
 
-#### References
-Pub. L. 115–108, § 3, Jan. 8, 2018, 131 Stat. 2267, provided that: “Any reference in a law (other than this Act [See Short Title of 2017 Amendment note above]), map, regulation, document, paper, or other record of the United States to ‘Martin Luther King, Junior, National Historic Site’ shall be deemed to be a reference to ‘Martin Luther King, Jr. National Historical Park’.”
+(2) **Area included** — The Recreation Area shall consist of approximately 173,475 acres of land in the Ashley National Forest, as generally depicted on the Map.
 
-#### Findings and Purpose
-Pub. L. 108–314, § 2, Oct. 5, 2004, 118 Stat. 1198, provided that: “(a) Findings.—Congress finds the following:“(1) Public Law 96–438 [probably means 96–428, enacting this subchapter] established the Martin Luther King, Junior, National Historic Site [now Martin Luther King, Jr. National Historical Park], and allows acquisition, by donation only, of lands owned by the State. “(2) The National Park Service owns a vacant lot that has no historic significance. The City of Atlanta has expressed interest in acquiring this property to encourage commercial development along Edgewood Avenue. “(3) The National Historic Site Visitor Center and Museum is land-locked and has no emergency ingress or egress, making it virtually impossible for firefighting equipment to reach. “(4) The acquisition of city-owned property would enable the National Park Service to establish easy street access to the National Historic Site Visitor Center and Museum, and would benefit the City by exchanging a piece of property that the City could develop. “(b) Purpose.—The purpose of this Act [see Short Title of 2004 Amendment note above] is to authorize the exchange of certain lands within the Martin Luther King, Junior, National Historic Site for lands owned by the City of Atlanta, Georgia.”
+**(c) Purposes** The purposes of the Recreation Area are to conserve and protect the watershed, geological, recreational, wildlife, scenic, natural, cultural, and historic resources of the Recreation Area.
 
+**(d) Map and legal description**
 
-<a id="section-460bbbb-1"></a>
-## § 460bbbb–1. Administration
-**(a)** The Secretary of the Interior (hereinafter referred to as “the Secretary”) shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this Act, and the provisions of law generally applicable to national historic sites,11 So in original. Probably should be “to the National Park System,”. including the Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4) and the Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–7&num=0&edition=prelim)).
+(1) **In general** — As soon as practicable after March 12, 2019, the Secretary shall prepare and submit to the Committee on Natural Resources and the Committee on Agriculture of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a map and legal description of the Recreation Area.
 
-**(b)**
+(2) **Effect** — The map and legal description prepared under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct minor errors in the map or legal description.
 
-(1) Within the national historical park the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer, or exchange, lands and interests therein, except that property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation or exchange.
+(3) **Availability** — A copy of the map and legal description prepared under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service.
 
-(2) Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
+**(e) Administration**
 
-  (A) the Secretary may acquire such property in accordance with the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
+(1) **In general** — The Secretary shall administer the Recreation Area in accordance with—
 
-  (B) with respect to properties owned by the Center for Social Change, the Secretary shall have the first right of refusal to purchase such property for a purchase price not exceeding the fair market value of such property on the date it is offered for sale.
+  (A) the laws generally applicable to the National Forest System, including the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.);
 
-(3) Property may be acquired pursuant to this section subject to such conditions and reservations as in the judgment of the Secretary are not inconsistent with the purposes of this subchapter and the administration of the national historical park, including, in the event that the burial site of Martin Luther King, Junior, is acquired, the condition that his widow may be interred therein.
+  (B) this section; and
 
-(4) Any and all legal or equitable title, interests, or encumbrances, if any, held by the Department of Housing and Urban Development in the property designated “Parcel A” on the map referenced in [section 460bbbb of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb) are hereby conveyed to the Secretary to be administered in accordance with the purposes of this subchapter.
+  (C) any other applicable law.
 
-(5) Structural space requirements of the National Park Service to meet its administrative, operational, and interpretive functions for the national historical park and preservation district shall, to the maximum extent feasible without displacing residents, be met within the district through the adaptive use of existing structures.
+(2) **Management plan**
 
-### Statutory Notes
+  (A) *In general* — Not later than 2 years after March 12, 2019, the Secretary shall prepare a management plan for the Recreation Area.
 
-#### References in Text
-The Act of August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+  (B) *Consultation* — The Secretary shall—
 
-The Act of August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+    (i) prepare the management plan in consultation and coordination with Uintah County, Utah, and affected Indian Tribes; and
 
-#### Amendments
-2018—Subsec. (a). Pub. L. 115–108, § 2(2), substituted “Martin Luther King, Jr. National Historical Park” for “Martin Luther King, Junior, National Historic Site”.
+    (ii) provide for public input in the preparation of the management plan.
 
-Subsec. (b). Pub. L. 115–108, § 2(3), substituted “national historical park” for “national historic site” wherever appearing.
+**(f) Uses** The Secretary shall only allow such uses of the Recreation Area that would—
 
-2004—Subsec. (b)(1). Pub. L. 108–314 inserted “or exchange” before period at end.
+(1) further the purposes for which the Recreation Area is established; and
 
+(2) promote the long-term protection and management of the watershed and underground karst system of the Recreation Area.
 
-<a id="section-460bbbb-2"></a>
-## § 460bbbb–2. Authority of Secretary regarding property and concessions
-**(a)** Within the national historical park, the Secretary may convey a freehold or leasehold interest in any property, for such sums as he deems appropriate, and subject to such terms and conditions and reservations as will assure the use of the property in a manner which is, in the judgment of the Secretary, consistent with the purposes of this subchapter and the administration of the national historical park. The Secretary shall offer the last owner or tenant of record a reasonable opportunity to purchase or lease, as appropriate, the property proposed to be conveyed prior to any conveyance under this subsection, and in the case of a lease to such tenant of record, the initial rental charge shall not be substantially more than the last rent paid by the tenant for that property, with any future increases not to exceed the general escalation of rental rates in the surrounding area.
+**(g) Motorized vehicles**
 
-**(b)** The Secretary may enter into cooperative agreements with the owners of properties of historical or cultural significance as determined by the Secretary, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement. The authorities in this subsection shall also be available to the Secretary with respect to properties within the Martin Luther King, Junior, Preservation District.
+(1) **In general** — Except as needed for emergency response or administrative purposes, the use of motorized vehicles in the Recreation Area shall be permitted only on roads and motorized routes designated in the Management Plan for the use of motorized vehicles.
 
-**(c)** The Secretary may, in carrying out his authorities with respect to the interpretation of properties within the national historical park and the preservation district, accept the services and assistance, with or without reimbursement therefor, of qualified persons and entities to the extent he deems necessary and appropriate. Funds appropriated for the purposes of this subchapter may be expended for the improvement, restoration, and maintenance of properties in which the Secretary has acquired a leasehold interest.
+(2) **New roads** — No new permanent or temporary roads or other motorized vehicle routes shall be constructed within the Recreation Area after March 12, 2019.
 
-**(d)** Notwithstanding any other provision of law, the Secretary shall give first preference to the Martin Luther King, Junior, Center for Social Change with respect to any contract for a concession to sell books, postcards, tapes, or similar types of appropriate mementos related to the purposes of this subchapter, on facilities operated and maintained by the Secretary within the historical park: Provided, That agreement can be reached on terms and conditions acceptable to the Secretary.
+(3) **Existing roads**
 
-**(e)** The Secretary is authorized to take only such actions within and upon the grounds of the Ebenezer Baptist Church as will directly support appropriate public visitation to and within the church in accordance with the purposes of this subchapter, or which will assist in the maintenance or preservation of those portions of said church which are directly related to the purposes of this subchapter.
+  (A) *In general* — Necessary maintenance or repairs to existing roads designated in the Management Plan for the use of motorized vehicles, including necessary repairs to keep existing roads free of debris or other safety hazards, shall be permitted after March 12, 2019, consistent with the requirements of this section.
 
-### Statutory Notes
+  (B) *Rerouting* — Nothing in this subsection prevents the Secretary from rerouting an existing road or trail to protect Recreation Area resources from degradation, or to protect public safety, as determined to be appropriate by the Secretary.
 
-#### Amendments
-2018—Subsecs. (a), (c). Pub. L. 115–108, § 2(3), substituted “national historical park” for “national historic site” wherever appearing.
+(4) **Over snow vehicles**
 
-Subsec. (d). Pub. L. 115–108, § 2(4), substituted “historical park” for “historic site”.
+  (A) *In general* — Nothing in this section prohibits the use of snowmobiles and other over snow vehicles within the Recreation Area.
 
+  (B) *Winter recreation use plan* — Not later than 2 years after March 12, 2019, the Secretary shall undertake a winter recreation use planning process, which shall include opportunities for use by snowmobiles or other over snow vehicles in appropriate areas of the Recreation Area.
 
-<a id="section-460bbbb-3"></a>
-## § 460bbbb–3. Establishment of Advisory Commission
-**(a)** There is hereby established the Martin Luther King, Junior, National Historic Site Advisory Commission (hereinafter referred to in this section as the “Commission”). The Commission shall consist of thirteen members, eleven of whom shall be appointed by the Secretary as follows:
+(5) **Applicable law** — Activities authorized under this subsection shall be consistent with the applicable forest plan and travel management plan for, and any law (including regulations) applicable to, the Ashley National Forest.
 
-(1) three members appointed for terms of three years from recommendations submitted by the governing body of the Martin Luther King, Junior, Center for Social Change;
+**(h) Water infrastructure**
 
-(2) two members appointed for terms of four years from recommendations submitted by the Governor of the State of Georgia, one of whom shall have professional expertise in historic preservation matters;
+(1) **Existing access** — The designation of the Recreation Area shall not affect the ability of authorized users to access, operate, and maintain water infrastructure facilities within the Recreation Area in accordance with applicable authorizations and permits.
 
-(3) two members appointed for terms of five years from recommendations submitted by the mayor of the city of Atlanta, Georgia, one of whom shall represent the economic and cultural interests of the Sweet Auburn Historic District;
+(2) **Cooperative agreements**
 
-(4) one member appointed for a term of five years from recommendations submitted by the governing body of the Ebenezer Baptist Church;
+  (A) *In general* — The Secretary shall offer to enter into a cooperative agreement with authorized users and local governmental entities to provide, in accordance with any applicable law (including regulations)—
 
-(5) the Chairman of the Atlanta Urban Design Commission and one additional member from the Commission to be chosen by the Commission; and
+    (i) access, including motorized access, for repair and maintenance to water infrastructure facilities within the Recreation Area, including Whiterocks Reservoir, subject to such terms and conditions as the Secretary determines to be necessary; and
 
-(6) one member, appointed for a term of five years by the Secretary, who shall chair the Commission. In addition to the foregoing members, Mrs. Coretta Scott King, or such other appropriate family member as may be designated by the immediate family of Martin Luther King, Junior, and the Director of the National Park Service shall be ex officio members of the Commission.
+    (ii) access and maintenance by authorized users and local governmental entities for the continued delivery of water to the Ashley Valley if water flows cease or become diminished due to impairment of the karst system, subject to such terms and conditions as the Secretary determines to be necessary.
 
-**(b)** Any vacancy in the membership of the Commission shall be filled in the same manner in which the original appointment was made. Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses of Commission members reasonably incurred by them in carrying out their responsibilities under this section upon presentation of vouchers signed by the chair of the Commission. Necessary administrative services and expenses shall be provided to the Commission by the Department of the Interior.
+**(i) Grazing** The grazing of livestock in the Recreation Area, where established before March 12, 2019, shall be allowed to continue, subject to such reasonable regulations, policies, and practices as the Secretary considers to be necessary in accordance with—
 
-**(c)** The function of the Commission shall be to:
+(1) applicable law (including regulations);
 
-(1) advise the Secretary with respect to the formulation and execution of plans for and the overall administration of the national historic site and the preservation district, including advice with respect to the consummation of cooperative agreements, and interpretation of properties, and the use and appreciation of the national historic site and the preservation district by the public;
+(2) the purposes of the Recreation Area; and
 
-(2) prepare a generalized impact area plan for a one-mile radius outside the District which shall examine overall community development goals, plans, and efforts within that area, including historic preservation, transportation, parking, housing, urban revitalization, and parks and recreation functions, in order to maximize beneficial relationships between these goals, plans, and efforts and the district herein established; and
+(3) the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
 
-(3) prepare, on the basis of the findings and recommendations of the impact area plan required by the preceding paragraph, a detailed development plan for the neighborhoods and outlying commercial areas immediately outside the district for such development, conservation, preservation, rehabilitation activities and transportation, parking, and land use planning as would complement and enhance the District and the purposes for which the District is established.
+**(j) Fish and wildlife** Nothing in this section affects the jurisdiction of the State with respect to the management of fish and wildlife on Federal land in the State.
 
-**(d)** The Secretary is directed to provide the appropriate planning agency of the city of Atlanta an amount of the local planning funds authorized by [section 460bbbb–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb-5) sufficient for that agency to provide such staff and technical assistance to the Advisory Commission as are required for it to develop the plans required by subsection (c) of this section. Such plans, prepared in full coordination with and opportunities for participation by, all relevant public agencies and private groups, shall be delivered to the Secretary in a timely fashion for use in preparing the general management plan for the district.
+**(k) Wildlife water projects** The Secretary, in consultation with the State, may authorize wildlife water projects (including guzzlers) within the Recreation Area.
 
-**(e)** The Commission shall terminate ten years from the effective date of this Act.
+**(l) Water rights** Nothing in this section—
 
-### Statutory Notes
+(1) constitutes an express or implied reservation by the United States of any water rights with respect to the Recreation Area;
 
-#### References in Text
-The effective date of this Act, referred to in subsec. (e), probably means the date of enactment of Pub. L. 96–428, which was approved Oct. 10, 1980.
+(2) affects any water rights in the State;
 
-#### Codification
-Pub. L. 115–108, which amended this subchapter by substituting references to the Martin Luther King, Jr. National Historical Park for references to the Martin Luther King, Junior, National Historic Site, effective Jan. 8, 2018, was not executed to this section in view of the termination of the Martin Luther King, Junior, National Historic Site Advisory Commission ten years after Oct. 10, 1980, pursuant to subsec. (e) of this section.
+(3) affects the use or allocation, in existence on March 12, 2019, of any water, water right, or interest in water;
 
+(4) affects any vested absolute or decreed conditional water right in existence on March 12, 2019, including any water right held by the United States;
 
-<a id="section-460bbbb-4"></a>
-## § 460bbbb–4. Entrance or admission fees prohibited
+(5) affects any interstate water compact in existence on March 12, 2019; or
 
-Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to the national historical park or the preservation district established by this subchapter.
+(6) shall be considered to be a relinquishment or reduction of any water rights reserved or appropriated by the United States in the State on or before March 12, 2019.
 
-### Statutory Notes
+**(m) Withdrawal** Subject to valid existing rights, all Federal land in the Recreation Area is withdrawn from—
 
-#### Amendments
-2018—Pub. L. 115–108 substituted “national historical park” for “national historic site”.
+(1) all forms of entry, appropriation, and disposal under the public land laws;
 
+(2) location, entry, and patent under the mining laws; and
 
-<a id="section-460bbbb-5"></a>
-## § 460bbbb–5. Authorization of appropriations; limitation on authority
+(3) operation of the mineral leasing, mineral materials, and geothermal leasing laws.
 
-Effective October 1, 1980, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter. Notwithstanding any other provision of this subchapter, authority to enter into contracts, to incur obligations, or to make payments under this subchapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
+**(n) Vegetation management** Nothing in this section prevents the Secretary from conducting vegetation management projects, including fuels reduction activities, within the Recreation Area for the purposes of improving water quality and reducing risks from wildfire.
 
-### Statutory Notes
+**(o) Wildland fire operations** Nothing in this section prohibits the Secretary, in consultation with other Federal, State, local, and Tribal agencies, as appropriate, from conducting wildland fire treatment operations or restoration operations in the Recreation Area, consistent with the purposes of this section.
 
-#### Amendments
-1992—Pub. L. 102–575 struck out “, but not to exceed $1,000,000 for development, $100,000 for local planning, and $3,500,000 for the acquisition of lands and interests therein” before period at end of first sentence.
+**(p) Recreation fees** Except for fees for improved campgrounds, the Secretary is prohibited from collecting recreation entrance or recreation use fees within the Recreation Area.
 
+**(q) Communication infrastructure** Nothing in this section affects the continued use of, and access to, communication infrastructure (including necessary upgrades) within the Recreation Area, in accordance with applicable authorizations and permits.
 
-<a id="section-460bbbb-6"></a>
-## § 460bbbb–6. Minimizing adverse impacts on preservation district
-**(a)** In order to better integrate the east and west portions of the Martin Luther King, Junior, Preservation District, the Federal Highway Administration, in cooperation with the Georgia Department of Transportation, is hereby directed to insure that any design and reconstruction of the North Interstate 85 and Interstate 75 Expressway over Auburn and Edgewood Avenues in the city of Atlanta, Georgia, and the interchange at Edgewood Avenue, shall minimize the adverse impacts on the preservation district.
+**(r) Non-Federal land**
 
-**(b)** In carrying out the provisions of this subsection, the Federal Highway Administration shall require that, where feasible, any major change required for the Auburn Avenue overpass results in a design which permits a wider distance between overpass support structures and the disposition of understructure development rights for appropriate business or recreation uses.
+(1) **In general** — Nothing in this section affects non-Federal land or interests in non-Federal land within the Recreation Area.
 
-**(c)** Plans for the construction, exterior renovation, or demolition of any structure or change in land use within the preservation district by the National Park Service or any Federal agency must be submitted to the Atlanta Urban Design Commission in a timely fashion for its review and comment.
+(2) **Access** — The Secretary shall provide reasonable access to non-Federal land or interests in non-Federal land within the Recreation Area.
 
-
-<a id="section-460bbbb-7"></a>
-## § 460bbbb–7. Submission of comprehensive general management plan
-
-Within three complete fiscal years from the effective date of this Act, the Secretary shall submit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive general management plan for the historic site and the preservation district consistent with the provisions of this subchapter and pursuant to the provisions of section 12(b) 11 See References in Text note below. of the Act of August 18, 1970 (84 Stat. 825), as amended (16 U.S.C. la–1 et seq.).
+**(s) Outfitting and guide activities** Outfitting and guide services within the Recreation Area, including commercial outfitting and guide services, are authorized in accordance with this section and other applicable law (including regulations).
 
 ### Statutory Notes
 
 #### References in Text
-The effective date of this Act, referred to in text, probably means the date of enactment of Pub. L. 96–428, which was approved Oct. 10, 1980.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (e)(1)(A), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
-Section 12(b) of the Act of August 18, 1970, referred to in text, is section 12(b) of Pub. L. 91–383, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1943, which was formerly classified to [section 1a–7(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim) and was repealed and restated in [section 100502 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3098, 3272.
+#### Prior Provisions
+Prior sections 460bbbb to 460bbbb–7 were transferred to sections 410www to 410www–7 of this title.
 
-#### Codification
-Pub. L. 115–108, which amended this subchapter by substituting references to the “historical park” for references to the “historic site”, effective Jan. 8, 2018, was not executed to this section in view of the requirement to submit the management plan for the historic site within three complete fiscal years from Oct. 10, 1980.
+Section 460bbbb, Pub. L. 96–428, § 1, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, § 4024(a), Oct. 30, 1992, 106 Stat. 4768; Pub. L. 115–108, § 2(1)–(3), Jan. 8, 2018, 131 Stat. 2267, related to establishment of Martin Luther King, Jr. National Historical Park.
 
-#### Change of Name
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+Section 460bbbb–1, Pub. L. 96–428, § 2, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 108–314, § 3, Oct. 5, 2004, 118 Stat. 1199; Pub. L. 115–108, § 2(2), (3), Jan. 8, 2018, 131 Stat. 2267, related to administration of the Park.
+
+Section 460bbbb–2, Pub. L. 96–428, § 3, Oct. 10, 1980, 94 Stat. 1840; Pub. L. 115–108, § 2(3), (4), Jan. 8, 2018, 131 Stat. 2267, related to authority of Secretary regarding property and concessions.
+
+Section 460bbbb–3, Pub. L. 96–428, § 4, Oct. 10, 1980, 94 Stat. 1841, related to establishment of the Martin Luther King, Junior, National Historic Site Advisory Commission.
+
+Section 460bbbb–4, Pub. L. 96–428, § 5, Oct. 10, 1980, 94 Stat. 1842; Pub. L. 115–108, § 2(3), Jan. 8, 2018, 131 Stat. 2267, related to prohibition of entrance or admission fees.
+
+Section 460bbbb–5, Pub. L. 96–428, § 6, Oct. 10, 1980, 94 Stat. 1842; Pub. L. 102–575, title XL, § 4024(b), Oct. 30, 1992, 106 Stat. 4768, related to authorization of appropriations and limitation on authority to enter into contracts, incur obligations, or make payments.
+
+Section 460bbbb–6, Pub. L. 96–428, § 7, Oct. 10, 1980, 94 Stat. 1842, related to minimization of adverse impacts on preservation district.
+
+Section 460bbbb–7, Pub. L. 96–428, § 8, Oct. 10, 1980, 94 Stat. 1843, related to submission of comprehensive general management plan.
 
 
 <a id="section-460bbb-1"></a>
@@ -26355,95 +27704,139 @@ Pub. L. 101–621, § 1, Nov. 16, 1990, 104 Stat. 3342, provided that: “This A
 
 
 <a id="section-460cccc"></a>
-## § 460cccc. Ste. Genevieve National Historical Park
+## § 460cccc. John Wesley Powell National Conservation Area
 **(a) Definitions** In this section:
 
-(1) **Historic District** — The term “Historic District” means the Ste. Genevieve Historic District National Historic Landmark, as generally depicted on the Map.
+(1) **Map** — The term “Map” means the Bureau of Land Management map entitled “Proposed John Wesley Powell National Conservation Area” and dated December 10, 2018.
 
-(2) **Historical Park** — The term “Historical Park” means the Ste. Genevieve National Historical Park established by subsection (b).
-
-(3) **Map** — The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary”, numbered 571/132,626, and dated May 2016.
-
-(4) **Special resource study** — The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
-
-(5) **State** — The term “State” means the State of Missouri.
+(2) **National Conservation Area** — The term “National Conservation Area” means the John Wesley Powell National Conservation Area established by subsection (b)(1).
 
 **(b) Establishment**
 
-(1) **In general** — Subject to paragraph (2), there is established the Ste. Genevieve National Historical Park in the State as a unit of the National Park System to preserve, protect, and interpret for the benefit of present and future generations the themes of French settlement, vernacular architecture, and community form and farming on the frontier associated with Ste. Genevieve.
+(1) **In general** — Subject to valid existing rights, there is established the John Wesley Powell National Conservation Area in the State of Utah.
 
-(2) **Conditions for establishment** — The Historical Park shall not be established until the date on which the Secretary determines that—
+(2) **Area included** — The National Conservation Area shall consist of approximately 29,868 acres of public land administered by the Bureau of Land Management as generally depicted on the Map.
 
-  (A) sufficient land has been acquired for the Historical Park to constitute a manageable unit; and
+**(c) Purposes** The purposes of the National Conservation Area are to conserve, protect, and enhance for the benefit of present and future generations the nationally significant historic, cultural, natural, scientific, scenic, recreational, archaeological, educational, and wildlife resources of the National Conservation Area.
 
-  (B) the Secretary has entered into a written agreement providing that land owned by the State, the City of Ste. Genevieve, or other entity within the Historic District shall be managed consistent with the purposes of this section.
+**(d) Map and legal description**
 
-**(c) Boundaries** The boundaries of the Historical Park shall be the boundaries generally depicted on the Map.
+(1) **In general** — As soon as practicable after March 12, 2019, the Secretary shall prepare and file a map and legal description of the National Conservation Area with the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
 
-**(d) Availability of Map** The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+(2) **Effect** — The map and legal description prepared under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct minor errors in the map or legal description.
 
-**(e) Acquisition authority**
+(3) **Availability** — A copy of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 
-(1) **In general** — The Secretary may acquire any land or interest in land located within the boundary of the Historical Park or any nationally significant property identified in the special resource study within the Historic District by—
+**(e) Management** The Secretary shall manage the National Conservation Area—
 
-  (A) donation;
+(1) in a manner that conserves, protects, and enhances the resources of the National Conservation Area;
 
-  (B) purchase with donated or appropriated funds; or
+(2) in accordance with—
 
-  (C) exchange.
+  (A) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.);
 
-(2) **Boundary revision** — On the acquisition of any property within the Historic District under paragraph (1), the Secretary shall revise the boundary of the Historical Park to include the property.
+  (B) this section; and
 
-**(f) Administration**
+  (C) any other applicable law; and
 
-(1) **In general** — The Secretary shall administer the Historical Park in accordance with—
+(3) as a component of the National Landscape Conservation System.
 
-  (A) this section; and
+(4) **Management plan**
 
-  (B) the laws generally applicable to units of the National Park System, including—
+  (A) *In general.—* — Not later than 2 years after March 12, 2019, the Secretary shall develop a management plan for the National Conservation Area.
 
-    (i) section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54; and
+  (B) *Consultation.—* — The Secretary shall prepare the management plan—
 
-    (ii) chapter 3201 of title 54.
+    (i) in consultation and coordination with the State of Utah, Uintah County, and affected Indian Tribes; and
 
-(2) **Management plan**
+    (ii) after providing for public input.
 
-  (A) *In general* — Not later than 3 years after the date on which funds are made available to prepare a general management plan for the Historical Park, the Secretary shall prepare the general management plan in accordance with [section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim).
+**(f) Uses** The Secretary shall only allow such uses of the National Conservation Area as the Secretary determines would further the purposes for which the National Conservation is established.
 
-  (B) *Submission to Congress* — On completion of the general management plan under subparagraph (A), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the general management plan.
+**(g) Acquisition**
 
-(3) **Related sites** — The Secretary may provide interpretative tours and educational programs at related historic and cultural sites within the Historic District associated with the purposes for which the Historical Park is established.
+(1) **In general** — The Secretary may acquire land or interests in land within the boundaries of the National Conservation Area by purchase from a willing seller, donation, or exchange.
 
-**(g) Cooperative agreements**
+(2) **Incorporation in National Conservation Area** — Any land or interest in land located inside the boundary of the National Conservation Area that is acquired by the United States after March 12, 2019, shall be added to and administered as part of the National Conservation Area.
 
-(1) **In general** — The Secretary may provide technical assistance and enter into cooperative agreements with the owner of a nationally significant property within the Historical Park or the Historic District, to identify, mark, interpret, improve, and restore the property.
+(3) **State land** — On request of the Utah School and Institutional Trust Lands Administration and, if practicable, not later than 5 years after March 12, 2019, the Secretary shall seek to acquire all State-owned land within the boundaries of the National Conservation Area by exchange or purchase, subject to the appropriation of necessary funds.
 
-(2) **Right of access** — A cooperative agreement entered into under paragraph (1) shall provide that the Secretary, acting through the Director of the National Park Service, shall have the right of access at all reasonable times to all public portions of the property covered by the agreement for the purposes of—
+**(h) Motorized vehicles**
 
-  (A) conducting visitors through the property; and
+(1) **In general** — Subject to paragraph (2), except in cases in which motorized vehicles are needed for administrative purposes or to respond to an emergency, the use of motorized vehicles in the National Conservation Area shall be permitted only on roads designated in the management plan.
 
-  (B) interpreting the property for the public.
+(2) **Use of motorized vehicles prior to completion of management plan** — Prior to completion of the management plan, the use of motorized vehicles within the National Conservation Area shall be permitted in accordance with the applicable Bureau of Land Management resource management plan.
 
-(3) **Cost-sharing requirement**
+**(i) Grazing** The grazing of livestock in the National Conservation Area, where established before March 12, 2019, shall be allowed to continue, subject to such reasonable regulations, policies, and practices as the Secretary considers to be necessary in accordance with—
 
-  (A) *Federal share* — The Federal share of the total cost of any activity carried out under a cooperative agreement entered into under this subsection shall be not more than 50 percent.
+(1) applicable law (including regulations);
 
-  (B) *Form of non-Federal share* — The non-Federal share of an activity carried out under a cooperative agreement entered into under this subsection may be in the form of donated property, goods, or services fairly valued.
+(2) the purposes of the National Conservation Area; and
 
-(4) **Changes or alterations** — No changes or alterations shall be made to any property or project covered by a cooperative agreement entered into under paragraph (1) unless the Secretary and the other party to the agreement agree to the changes or alterations.
+(3) the guidelines set forth in Appendix A of the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 2570 of the 101st Congress (House Report 101–405).
 
-(5) **Conversion, use, or disposal** — Any payment by the Secretary under this subsection shall be subject to an agreement that the conversion, use, or disposal of a property or project for purposes contrary to the purposes of this section, as determined by the Secretary, shall entitle the United States to reimbursement in any amount equal to the greater of—
+**(j) Fish and wildlife** Nothing in this section affects the jurisdiction of the State of Utah with respect to the management of fish and wildlife on Federal land in the State.
 
-  (A) the amounts made available to the property or project by the United States; or
+**(k) Wildlife water projects** The Secretary, in consultation with the State of Utah, may authorize wildlife water projects (including guzzlers) within the National Conservation Area.
 
-  (B) the portion of the increased value of the property or project attributable to the amounts made available under this subsection, as determined at the time of the conversion, use, or disposal.
+**(l) Greater sage-grouse conservation projects** Nothing in this section affects the authority of the Secretary to undertake Greater sage-grouse (Centrocercus urophasianus) conservation projects to maintain and improve Greater sage-grouse habitat, including the management of vegetation through mechanical means, to further the purposes of the National Conservation Area.
 
-**(h) Limited role of the Secretary** Nothing in this section authorizes the Secretary to assume overall financial responsibility for the operation, maintenance, or management of the Historic District.
+**(m) Water rights** Nothing in this section—
+
+(1) constitutes an express or implied reservation by the United States of any water rights with respect to the National Conservation Area;
+
+(2) affects any water rights in the State;
+
+(3) affects the use or allocation, in existence on March 12, 2019, of any water, water right, or interest in water;
+
+(4) affects any vested absolute or decreed conditional water right in existence on March 12, 2019, including any water right held by the United States;
+
+(5) affects any interstate water compact in existence on March 12, 2019; or
+
+(6) shall be considered to be a relinquishment or reduction of any water rights reserved or appropriated by the United States in the State on or before March 12, 2019.
+
+**(n) No buffer zones**
+
+(1) **In general** — Nothing in this section creates a protective perimeter or buffer zone around the National Conservation Area.
+
+(2) **Activities outside National Conservation Area** — The fact that an authorized activity or use on land outside the National Conservation Area can be seen or heard within the National Conservation Area shall not preclude the activity or use outside the boundary of the Area.
+
+**(o) Withdrawal**
+
+(1) **In general** — Subject to valid existing rights, all Federal land in the National Conservation Area (including any land acquired after March 12, 2019) is withdrawn from—
+
+  (A) all forms of entry, appropriation, and disposal under the public land laws;
+
+  (B) location, entry, and patent under the mining laws; and
+
+  (C) operation of the mineral leasing, mineral materials, and geothermal leasing laws.
+
+**(p) Vegetation management** Nothing in this section prevents the Secretary from conducting vegetation management projects, including fuels reduction activities, within the National Conservation Area that are consistent with this section and that further the purposes of the National Conservation Area.
+
+**(q) Wildland fire operations** Nothing in this section prohibits the Secretary, in consultation with other Federal, State, local, and Tribal agencies, as appropriate, from conducting wildland fire prevention and restoration operations in the National Conservation Area, consistent with the purposes of this section.
+
+**(r) Recreation fees** Except for improved campgrounds, the Secretary is prohibited from collecting recreation entrance or use fees within the National Conservation Area.
+
+**(s) Outfitting and guide activities** Outfitting and guide services within the National Conservation Area, including commercial outfitting and guide services, are authorized in accordance with this section and other applicable law (including regulations).
+
+**(t) Non-Federal land**
+
+(1) **In general** — Nothing in this section affects non-Federal land or interests in non-Federal land within the National Conservation Area.
+
+(2) **Reasonable access** — The Secretary shall provide reasonable access to non-Federal land or interests in non-Federal land within the National Conservation Area.
+
+**(u) Research and interpretive management** The Secretary may establish programs and projects for the conduct of scientific, historical, cultural, archeological, and natural studies through the use of public and private partnerships that further the purposes of the National Conservation Area.
 
 ### Statutory Notes
 
-#### Codification
-Section is based on section 7134 of S. 1460, One Hundred Fifteenth Congress, as placed on the calendar of the Senate on June 29, 2017, which was enacted into law by Pub. L. 115–141.
+#### References in Text
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (e)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+#### Prior Provisions
+A prior section 460cccc, Pub. L. 115–141, div. G, title I, § 121(a)(2), Mar. 23, 2018, 132 Stat. 661, which related to Ste. Genevieve National Historical Park, was transferred to [section 410xxx of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410xxx).
+
+#### Definition of “Secretary”
+“Secretary” as meaning the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1).
 
 
 <a id="section-460ccc-1"></a>
@@ -26569,7 +27962,7 @@ Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insula
 Pub. L. 113–291, div. B, title XXX, § 3092(b), (l), Dec. 19, 2014, 128 Stat. 3867, 3879, provided that: “(b) Addition of Land to Red Rock Canyon National Conservation Area.—“(1) Definitions.—In this subsection:“(A) Conservation area.—The term ‘Conservation Area’ means the Red Rock Canyon National Conservation Area established by the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.). “(B) Map.—The term ‘Map’ means the map entitled ‘North Las Vegas Valley Overview’ and dated November 5, 2013. “(C) Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Bureau of Land Management. “(2) Addition of land to conservation area.—“(A) In general.—The Conservation Area is expanded to include the land depicted on the Map as ‘Additions to Red Rock NCA’. “(B) Management plan.—Not later than 2 years after the date on which the land is acquired, the Secretary shall update the management plan for the Conservation Area to reflect the management requirements of the acquired land. “(C) Map and legal description.—“(i) In general.—As soon as practicable after the date of enactment of this section [Dec. 19, 2014], the Secretary shall finalize the legal description of the parcel to be conveyed under this subsection. “(ii) Minor errors.—The Secretary may correct any minor error in— “(I) the Map; or “(II) the legal description. “(iii) Availability.—The Map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management. “(l) Military Overflights.—“(1) Findings.—Congress finds that military aircraft testing and training activities in the State of Nevada—“(A) are an important part of the national defense system of the United States; and “(B) are essential in order to secure an enduring and viable national defense system for the current and future generations of people of the United States. “(2) Overflights.—Nothing in this section [enacting [section 460aaaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460aaaa), amending [section 460hhh–6 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460hhh-6), and enacting provisions listed in a table of Miscellaneous National Monuments set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related programs] restricts or precludes any military overflight, including—“(A) low-level overflights of military aircraft over the Federal land; “(B) flight testing and evaluation; and “(C) the designation or creation of new units of special airspace, or the use or establishment of military flight training routes, over—“(i) the Tule Springs Fossil Beds National Monument established by subsection (a)(2)(A) [enacting provisions listed in a table of Miscellaneous National Monuments set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim)]; or “(ii) the Red Rock Canyon National Conservation Area established by the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.) (as modified by subsection (b)).”
 
 #### Red Rock Canyon National Conservation Area Protection and Enhancement
-Pub. L. 107–282, title I, Nov. 6, 2002, 116 Stat. 1995, provided that: “SEC. 101. SHORT TITLE.“This title [amending [section 460ccc–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc-1) and enacting this note] may be cited as the ‘Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002’. “SEC. 102. DEFINITIONS.“As used in this title:“(1) Corporation.—The term ‘Corporation’ means the Howard Hughes Corporation, an affiliate of the Rouse Company, with its principal place of business at 10000 West Charleston Boulevard, Las Vegas, Nevada. “(2) Red rock canyon.—The term ‘Red Rock Canyon’ means the Red Rock Canyon National Conservation Area, consisting of approximately 195,780 acres of public lands in Clark County, Nevada, specially designated for protection in the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.), as depicted on the Red Rock Canyon Map. “(3) Red rock canyon map.—The term ‘Red Rock Canyon Map’ means the map entitled ‘Southern Nevada Public Land Management Act’, dated October 1, 2002. “SEC. 103. FINDINGS AND PURPOSES.“(a) Findings.—The Congress makes the following findings:“(1) Red Rock Canyon is a natural resource of major significance to the people of Nevada and the United States. It must be protected in its natural state for the enjoyment of future generations of Nevadans and Americans, and enhanced wherever possible. “(2) In 1998, the Congress enacted the Southern Nevada Public Lands [Land] Management Act of 1998 (Public Law 105–263) [see Short Title of 1998 Amendment note set out under [section 6901 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6901&num=0&edition=prelim), Money and Finance], which provided among other things for the protection and enhancement of Red Rock Canyon. “(3) The Corporation owns much of the private land on Red Rock Canyon’s eastern boundary, and is engaged in developing a large-scale master-planned community. “(4) Included in the Corporation’s land holdings are 1,071 acres of high-ground lands at the eastern edge of Red Rock Canyon. These lands were intended to be included in Red Rock, but to date have not been acquired by the United States. The protection of this high-ground acreage would preserve an important element of the western Las Vegas Valley viewshed. “(5) The Corporation has volunteered to forgo development of the high-ground lands, and proposes that the United States acquire title to the lands so that they can be preserved in perpetuity to protect and expand Red Rock Canyon. “(b) Purposes.—The purposes of this title are:“(1) To accomplish an exchange of lands between the United States and the Corporation that would transfer certain high-ground lands to the United States in exchange for the transfer of other lands of approximately equal value to the Corporation. “(2) To protect Red Rock Canyon and to expand its boundaries as contemplated by the Bureau of Land Management, as depicted on the Red Rock Canyon Map. “(3) To further fulfill the purposes of the Southern Nevada Public Lands [Land] Management Act of 1998 and the Red Rock Canyon National Conservation Area Establishment Act of 1990. “SEC. 104. RED ROCK CANYON LAND EXCHANGE.“(a) Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title, and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:“(1) To the Corporation, the approximately 998 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Public land selected for exchange’. “(2) To Clark County, Nevada, the approximately 1,221 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Proposed BLM transfer for county park’. “(b) Simultaneous Conveyances.—Title to the private property and the Federal property to be conveyed pursuant to this section shall be conveyed at the same time. “(c) Map.—The Secretary shall keep the Red Rock Canyon Map on file and available for public inspection in the Las Vegas District Office of the Bureau of Land Management in Nevada, and the State Office of the Bureau of Land Management, Reno, Nevada. “(d) Conditions.—“(1) Hazardous materials.—As a condition of the conveyance under ––subsection [sic] (a)(1), the Secretary shall require that the Corporation be responsible for removal of and remediation related to any hazardous materials that are present on the property conveyed to the United States under subsection (a). “(2) Survey.—As a condition of the conveyance under subsection (a)(1), the Secretary shall require that not later than 90 days after the date of the offer referred to in subsection (a), the Corporation shall provide a metes and bounds survey, that is acceptable to the Corporation, Clark County, and the Secretary, of the common boundary between the parcels of land to be conveyed under subsection (a). “(3) Lands conveyed to clark county.—As a condition of the conveyance under subsection (a)(2), the Secretary shall require that—“(A) the lands transferred to Clark County by the United States must be held in perpetuity by the County for use only as a public park or as part of a public regional trail system; and “(B) if the County attempts to transfer the lands or to undertake a use on the lands that is inconsistent with their preservation and use as described in subparagraph (A), such lands shall, at the discretion of the Secretary, revert to the United States. “(e) Valuation.—“(1) Equal value exchange.—The values of the Federal parcel and the non-Federal parcel, as determined under paragraph (2)—“(A) shall be equal; or “(B) if the values are not equal, shall be equalized in accordance with paragraph (3). “(2) Appraisal.—The values of the Federal parcel and the non-Federal parcel shall be determined by an appraisal, to be approved by the Secretary, that complies with the Uniform Standards for Federal Land Acquisitions. “(3) Equalization.—“(A) In general.—If the value of the non-Federal parcel is less than the value of the Federal parcel—“(i) the Corporation shall make a cash equalization payment to the Secretary; or “(ii) the Secretary shall, as determined to be appropriate by the Secretary and the Corporation, reduce the acreage of the Federal parcel. “(B) Disposition of proceeds.—The Secretary shall deposit any cash equalization payments received under subparagraph (A)(i) in accordance with section 4(e)(1)(C) of the Southern Nevada Public Land Management Act of 1998 (112 Stat. 2345). “SEC. 105. STATUS AND MANAGEMENT OF LANDS.“(a) Inclusion and Management of Lands.—Upon the date of the enactment of this Act [Nov. 6, 2002], the Secretary shall administer the lands depicted on the Red Rock Map as ‘Public Lands-proposed addition to the Red Rock Canyon NCA’, exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.) and all other applicable laws. “(b) Inclusion of Acquired Lands.—Upon acquisition by the United States of lands under this Act [Pub. L. 107–282, see Short Title note set out under [section 460qqq of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460qqq)], the Secretary shall—“(1) administer the lands as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.), the Southern Nevada Public Lands [Land] Management Act of 1998 (Public Law 105–263), and all other applicable laws; and “(2) create new maps showing the boundaries of Red Rock as modified or pursuant to this Act, and make such maps available for review at the Las Vegas District Office of the Bureau of Land Management and the State Office of the Bureau of Land Management, Reno, Nevada. “(c) Conforming Amendment.—[Amended [section 460ccc–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc-1).] “SEC. 106. GENERAL PROVISIONS.“(a) Review of Appraisal.—Not later than 90 days after the date of the enactment of this Act [Nov. 6, 2002], the Secretary shall complete a review of the appraisal entitled, ‘Complete Self-Contained Appraisal Red Rock Exchange, Las Vegas, Nevada’, completed on or about June 3, 2002. The difference in appraisal values shall be reimbursed to the Secretary by the Corporation in accordance with the Southern Nevada Public Lands [Land] Management Act of 1998. “(b) Valid Existing Rights.—The land exchange under this Act shall be subject to valid existing rights. Each party to which property is conveyed under this Act shall succeed to the rights and obligations of the conveying party with respect to any lease, right-of-way, permit, or other valid existing right to which the property is subject. “(c) Technical Corrections.—Nothing in this Act prohibits the parties to the conveyances under this Act from agreeing to the correction of technical errors or omissions in the Red Rock Map. “(d) Withdrawal of Affected Lands.—To the extent not already accomplished under law or administrative action, the Secretary shall withdraw from operation of the public land and mining laws, subject to valid existing rights—“(1) those Federal lands acquired by the United States under this Act; and “(2) those Federal lands already owned by the United States on the date of enactment of this Act but included within the Red Rock National Conservation Area boundaries by this Act.”
+Pub. L. 107–282, title I, Nov. 6, 2002, 116 Stat. 1995, provided that: “SEC. 101. SHORT TITLE.“This title [amending [section 460ccc–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc-1) and enacting this note] may be cited as the ‘Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002’. “SEC. 102. DEFINITIONS.“As used in this title:“(1) Corporation.—The term ‘Corporation’ means the Howard Hughes Corporation, an affiliate of the Rouse Company, with its principal place of business at 10000 West Charleston Boulevard, Las Vegas, Nevada. “(2) Red rock canyon.—The term ‘Red Rock Canyon’ means the Red Rock Canyon National Conservation Area, consisting of approximately 195,780 acres of public lands in Clark County, Nevada, specially designated for protection in the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.), as depicted on the Red Rock Canyon Map. “(3) Red rock canyon map.—The term ‘Red Rock Canyon Map’ means the map entitled ‘Southern Nevada Public Land Management Act’, dated October 1, 2002. “SEC. 103. FINDINGS AND PURPOSES.“(a) Findings.—The Congress makes the following findings:“(1) Red Rock Canyon is a natural resource of major significance to the people of Nevada and the United States. It must be protected in its natural state for the enjoyment of future generations of Nevadans and Americans, and enhanced wherever possible. “(2) In 1998, the Congress enacted the Southern Nevada Public Lands [Land] Management Act of 1998 (Public Law 105–263) [see Short Title of 1998 Amendment note set out under [section 6901 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6901&num=0&edition=prelim), Money and Finance], which provided among other things for the protection and enhancement of Red Rock Canyon. “(3) The Corporation owns much of the private land on Red Rock Canyon’s eastern boundary, and is engaged in developing a large-scale master-planned community. “(4) Included in the Corporation’s land holdings are 1,071 acres of high-ground lands at the eastern edge of Red Rock Canyon. These lands were intended to be included in Red Rock, but to date have not been acquired by the United States. The protection of this high-ground acreage would preserve an important element of the western Las Vegas Valley viewshed. “(5) The Corporation has volunteered to forgo development of the high-ground lands, and proposes that the United States acquire title to the lands so that they can be preserved in perpetuity to protect and expand Red Rock Canyon. “(b) Purposes.—The purposes of this title are:“(1) To accomplish an exchange of lands between the United States and the Corporation that would transfer certain high-ground lands to the United States in exchange for the transfer of other lands of approximately equal value to the Corporation. “(2) To protect Red Rock Canyon and to expand its boundaries as contemplated by the Bureau of Land Management, as depicted on the Red Rock Canyon Map. “(3) To further fulfill the purposes of the Southern Nevada Public Lands [Land] Management Act of 1998 and the Red Rock Canyon National Conservation Area Establishment Act of 1990. “SEC. 104. RED ROCK CANYON LAND EXCHANGE.“(a) Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title, and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:“(1) To the Corporation, the approximately 998 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Public land selected for exchange’. “(2) To Clark County, Nevada, the approximately 1,221 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Proposed BLM transfer for county park’. “(b) Simultaneous Conveyances.—Title to the private property and the Federal property to be conveyed pursuant to this section shall be conveyed at the same time. “(c) Map.—The Secretary shall keep the Red Rock Canyon Map on file and available for public inspection in the Las Vegas District Office of the Bureau of Land Management in Nevada, and the State Office of the Bureau of Land Management, Reno, Nevada. “(d) Conditions.—“(1) Hazardous materials.—As a condition of the conveyance under ––subsection [sic] (a)(1), the Secretary shall require that the Corporation be responsible for removal of and remediation related to any hazardous materials that are present on the property conveyed to the United States under subsection (a). “(2) Survey.—As a condition of the conveyance under subsection (a)(1), the Secretary shall require that not later than 90 days after the date of the offer referred to in subsection (a), the Corporation shall provide a metes and bounds survey, that is acceptable to the Corporation, Clark County, and the Secretary, of the common boundary between the parcels of land to be conveyed under subsection (a). “(3) Lands conveyed to clark county.—As a condition of the conveyance under subsection (a)(2), the Secretary shall require that—“(A) the lands transferred to Clark County by the United States must be held in perpetuity by the County for use only as a public park or as part of a public regional trail system; and “(B) if the County attempts to transfer the lands or to undertake a use on the lands that is inconsistent with their preservation and use as described in subparagraph (A), such lands shall, at the discretion of the Secretary, revert to the United States. “(e) Valuation.—“(1) Equal value exchange.—The values of the Federal parcel and the non-Federal parcel, as determined under paragraph (2)—“(A) shall be equal; or “(B) if the values are not equal, shall be equalized in accordance with paragraph (3). “(2) Appraisal.—The values of the Federal parcel and the non-Federal parcel shall be determined by an appraisal, to be approved by the Secretary, that complies with the Uniform Standards for Federal Land Acquisitions. “(3) Equalization.—“(A) In general.—If the value of the non-Federal parcel is less than the value of the Federal parcel—“(i) the Corporation shall make a cash equalization payment to the Secretary; or “(ii) the Secretary shall, as determined to be appropriate by the Secretary and the Corporation, reduce the acreage of the Federal parcel. “(B) Disposition of proceeds.—The Secretary shall deposit any cash equalization payments received under subparagraph (A)(i) in accordance with section 4(e)(1)(C) of the Southern Nevada Public Land Management Act of 1998 (112 Stat. 2345). “SEC. 105. STATUS AND MANAGEMENT OF LANDS.“(a) Inclusion and Management of Lands.—Upon the date of the enactment of this Act [Nov. 6, 2002], the Secretary shall administer the lands depicted on the Red Rock Map as ‘Public Lands-proposed addition to the Red Rock Canyon NCA’, exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.) and all other applicable laws. “(b) Inclusion of Acquired Lands.—Upon acquisition by the United States of lands under this Act [Pub. L. 107–282, see Short Title note set out under [section 460qqq of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460qqq)], the Secretary shall—“(1) administer the lands as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc) et seq.), the Southern Nevada Public Lands [Land] Management Act of 1998 (Public Law 105–263), and all other applicable laws; and “(2) create new maps showing the boundaries of Red Rock as modified or pursuant to this Act, and make such maps available for review at the Las Vegas District Office of the Bureau of Land Management and the State Office of the Bureau of Land Management, Reno, Nevada. “(c) Conforming Amendment.— [Amended [section 460ccc–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ccc-1).] “SEC. 106. GENERAL PROVISIONS.“(a) Review of Appraisal.—Not later than 90 days after the date of the enactment of this Act [Nov. 6, 2002], the Secretary shall complete a review of the appraisal entitled, ‘Complete Self-Contained Appraisal Red Rock Exchange, Las Vegas, Nevada’, completed on or about June 3, 2002. The difference in appraisal values shall be reimbursed to the Secretary by the Corporation in accordance with the Southern Nevada Public Lands [Land] Management Act of 1998. “(b) Valid Existing Rights.—The land exchange under this Act shall be subject to valid existing rights. Each party to which property is conveyed under this Act shall succeed to the rights and obligations of the conveying party with respect to any lease, right-of-way, permit, or other valid existing right to which the property is subject. “(c) Technical Corrections.—Nothing in this Act prohibits the parties to the conveyances under this Act from agreeing to the correction of technical errors or omissions in the Red Rock Map. “(d) Withdrawal of Affected Lands.—To the extent not already accomplished under law or administrative action, the Secretary shall withdraw from operation of the public land and mining laws, subject to valid existing rights—“(1) those Federal lands acquired by the United States under this Act; and “(2) those Federal lands already owned by the United States on the date of enactment of this Act but included within the Red Rock National Conservation Area boundaries by this Act.”
 
 [For definitions of terms used in title I of Pub. L. 107–282, set out above, see section 3 of Pub. L. 107–282, set out as a note under [section 460qqq–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460qqq-1).]
 
@@ -26667,12 +28060,20 @@ The Congress does not intend for the establishment of the conservation area to l
 
 **(i) Rights to solid waste byproducts of Fountain Avenue Landfill; conveyance from United States to city of New York; rights-of-way and permits; conditions; payments to United States for development and improvement of Gateway National Recreation Area** Notwithstanding the provisions of subsection (a) of this section, the United States hereby conveys to the city of New York all rights to the methane gas and associated byproducts resulting from solid waste decomposition on the area within the Jamaica Bay Unit known as the Fountain Avenue Landfill site, subject to payments to the United States of 50 per centum of the revenue received by the city of New York, if any, from the development of such rights. The Secretary shall grant to the City, its lessee or assignee, all rights-of-way and other permits necessary from the Department of the Interior to extract and transport the gas from the site: Provided, That the rights-of-way and other permits shall provide for reasonable restoration of the site, including removal of any processing or storage facilities used in the disposal, development, or extraction of the gas, access by the Secretary to the site for safety and other recreation area purposes, and such other reasonable conditions as the Secretary deems necessary to further purposes of the recreation area. All such payments to the United States shall be credited to the appropriations of the National Park Service for the development and improvement of Gateway National Recreation Area.
 
+**(j) Authority to grant easements and rights-of-way**
+
+(1) **In general** — The Secretary of the Interior may grant, to any State or local government, an easement or right-of-way over Federal lands within Gateway National Recreation Area for construction, operation, and maintenance of projects for control and prevention of flooding and shoreline erosion.
+
+(2) **Charges and reimbursement of costs** — The Secretary may grant such an easement or right-of-way without charge for the value of the right so conveyed, except for reimbursement of costs incurred by the United States for processing the application therefore and managing such right. Amounts received as such reimbursement shall be credited to the relevant appropriation account.
+
 ### Statutory Notes
 
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 #### Amendments
+2019—Subsec. (j). Pub. L. 116–9 added subsec. (j).
+
 1999—Subsec. (b). Pub. L. 106–132 designated existing provisions as par. (1) and added par. (2).
 
 1982—Subsec. (i). Pub. L. 97–232 added subsec. (i).
@@ -26852,6 +28253,144 @@ Pub. L. 101–628, § 1, Nov. 28, 1990, 104 Stat. 4469, provided that: “Titles
 
 #### Termination of Advisory Committees
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-460dddd"></a>
+## § 460dddd. Establishment of Recreation Area
+**(a) Establishment**
+
+(1) **In general** — Subject to valid existing rights, there is established the San Rafael Swell Recreation Area in the State.
+
+(2) **Area included** — The Recreation Area shall consist of approximately 216,995 acres of Federal land managed by the Bureau of Land Management, as generally depicted on the Map.
+
+**(b) Purposes** The purposes of the Recreation Area are to provide for the protection, conservation, and enhancement of the recreational, cultural, natural, scenic, wildlife, ecological, historical, and educational resources of the Recreation Area.
+
+**(c) Map and legal description**
+
+(1) **In general** — As soon as practicable after March 12, 2019, the Secretary shall file a map and legal description of the Recreation Area with the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+(2) **Effect** — The map and legal description filed under paragraph (1) shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in the map and legal description.
+
+(3) **Public availability** — A copy of the map and legal description filed under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+
+### Statutory Notes
+
+#### Emery County Public Land Management
+Pub. L. 116–9, title I, §§ 1211–1214, Mar. 12, 2019, 133 Stat. 667, provided that: “SEC. 1211. DEFINITIONS.“In this part [part II (§§ 1211–1255) of subtitle C of title I of Pub. L. 116–9, enacting this subchapter, amending [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274), enacting provisions set out as a note under [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274), and enacting provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132) and in a table of National Monuments set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Parks Service and Related Programs]:“(1) Council.—The term ‘Council’ means the San Rafael Swell Recreation Area Advisory Council established under section 1223(a) [[16 U.S.C. 460dddd–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460dddd–2/a&num=0&edition=prelim)]. “(2) County.—The term ‘County’ means Emery County in the State. “(3) Management plan.—The term ‘Management Plan’ means the management plan for the Recreation Area developed under section 1222(c) [[16 U.S.C. 460dddd–1(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460dddd–1/c&num=0&edition=prelim)]. “(4) Map.—The term ‘Map’ means the map entitled ‘Emery County Public Land Management Act of 2018 Overview Map’ and dated February 5, 2019. “(5) Recreation area.—The term ‘Recreation Area’ means the San Rafael Swell Recreation Area established by section 1221(a)(1) [[16 U.S.C. 460dddd(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460dddd/a/1&num=0&edition=prelim)]. “(6) Secretary.—The term ‘Secretary’ means—“(A) the Secretary [of the Interior], with respect to public land administered by the Bureau of Land Management; and “(B) the Secretary of Agriculture, with respect to National Forest System land. “(7) State.—The term ‘State’ means the State of Utah. “(8) Wilderness area.—The term ‘wilderness area’ means a wilderness area designated by section 1231(a) [enacting provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)]. “SEC. 1212. ADMINISTRATION.“Nothing in this part affects or modifies—“(1) any right of any federally recognized Indian Tribe; or “(2) any obligation of the United States to any federally recognized Indian Tribe. “SEC. 1213. EFFECT ON WATER RIGHTS.“Nothing in this part—“(1) affects the use or allocation, in existence on the date of enactment of this Act [Mar. 12, 2019], of any water, water right, or interest in water; “(2) affects any water right (as defined by applicable State law) in existence on the date of enactment of this Act, including any water right held by the United States; “(3) affects any interstate water compact in existence on the date of enactment of this Act; “(4) shall be considered to be a relinquishment or reduction of any water rights reserved or appropriated by the United States in the State on or before the date of enactment of this Act; or “(5) affects the management and operation of Flaming Gorge Dam and Reservoir, including the storage, management, and release of water. “SEC. 1214. SAVINGS CLAUSE.“Nothing in this part diminishes the authority of the Secretary under Public Law 92–195 (commonly known as the ‘Wild Free-Roaming Horses and Burros Act’) ([16 U.S.C. 1331](./chapter-030-wild-horses-and-burros-protection-management-and-control.md#section-1331) et seq.).”
+
+
+<a id="section-460dddd-1"></a>
+## § 460dddd–1. Management of Recreation Area
+**(a) In general** The Secretary shall administer the Recreation Area—
+
+(1) in a manner that conserves, protects, and enhances the purposes for which the Recreation Area is established; and
+
+(2) in accordance with—
+
+  (A) this section;
+
+  (B) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.); and
+
+  (C) other applicable laws.
+
+**(b) Uses** The Secretary shall allow only uses of the Recreation Area that are consistent with the purposes for which the Recreation Area is established.
+
+**(c) Management Plan**
+
+(1) **In general** — Not later than 5 years after March 12, 2019, the Secretary shall develop a comprehensive management plan for the long-term protection and management of the Recreation Area.
+
+(2) **Requirements** — The Management Plan shall—
+
+  (A) describe the appropriate uses and management of the Recreation Area;
+
+  (B) be developed with extensive public input;
+
+  (C) take into consideration any information developed in studies of the land within the Recreation Area; and
+
+  (D) be developed fully consistent with the settlement agreement entered into on January 13, 2017, in the case in the United States District Court for the District of Utah styled “Southern Utah Wilderness Alliance, et al. v. U.S. Department of the Interior, et al.” and numbered 2:12–cv–257 DAK.
+
+**(d) Motorized vehicles; new roads**
+
+(1) **Motorized vehicles** — Except as needed for emergency response or administrative purposes, the use of motorized vehicles in the Recreation Area shall be permitted only on roads and motorized routes designated in the Management Plan for the use of motorized vehicles.
+
+(2) **New roads** — No new permanent or temporary roads or other motorized vehicle routes shall be constructed within the Recreation Area after March 12, 2019.
+
+(3) **Existing roads**
+
+  (A) *In general* — Necessary maintenance or repairs to existing roads designated in the Management Plan for the use of motorized vehicles, including necessary repairs to keep existing roads free of debris or other safety hazards, shall be permitted after March 12, 2019, consistent with the requirements of this section.
+
+  (B) *Effect* — Nothing in this subsection prevents the Secretary from rerouting an existing road or trail to protect Recreation Area resources from degradation or to protect public safety, as determined to be appropriate by the Secretary.
+
+**(e) Grazing**
+
+(1) **In general** — The grazing of livestock in the Recreation Area, if established before March 12, 2019, shall be allowed to continue, subject to such reasonable regulations, policies, and practices as the Secretary considers to be necessary in accordance with—
+
+  (A) applicable law (including regulations); and
+
+  (B) the purposes of the Recreation Area.
+
+(2) **Inventory** — Not later than 5 years after March 12, 2019, the Secretary, in collaboration with any affected grazing permittee, shall carry out an inventory of facilities and improvements associated with grazing activities in the Recreation Area.
+
+**(f) Cold War sites** The Secretary shall manage the Recreation Area in a manner that educates the public about Cold War and historic uranium mine sites in the Recreation Area, subject to such terms and conditions as the Secretary considers necessary to protect public health and safety.
+
+**(g) Incorporation of acquired land and interests** Any land or interest in land located within the boundary of the Recreation Area that is acquired by the United States after March 12, 2019, shall—
+
+(1) become part of the Recreation Area; and
+
+(2) be managed in accordance with applicable laws, including as provided in this section.
+
+**(h) Withdrawal** Subject to valid existing rights, all Federal land within the Recreation Area, including any land or interest in land that is acquired by the United States within the Recreation Area after March 12, 2019, is withdrawn from—
+
+(1) entry, appropriation, or disposal under the public land laws;
+
+(2) location, entry, and patent under the mining laws; and
+
+(3) operation of the mineral leasing, mineral materials, and geothermal leasing laws.
+
+**(i) Study of nonmotorized recreation opportunities** Not later than 2 years after March 12, 2019, the Secretary, in consultation with interested parties, shall conduct a study of nonmotorized recreation trail opportunities, including bicycle trails, within the Recreation Area, consistent with the purposes of the Recreation Area.
+
+**(j) Cooperative agreement** The Secretary may enter into a cooperative agreement with the State in accordance with section 307(b) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1737(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1737/b&num=0&edition=prelim)) and other applicable laws to provide for the protection, management, and maintenance of the Recreation Area.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+
+<a id="section-460dddd-2"></a>
+## § 460dddd–2. San Rafael Swell Recreation Area Advisory Council
+**(a) Establishment** Not later than 180 days after March 12, 2019, the Secretary shall establish an advisory council, to be known as the “San Rafael Swell Recreation Area Advisory Council”.
+
+**(b) Duties** The Council shall advise the Secretary with respect to the preparation and implementation of the Management Plan for the Recreation Area.
+
+**(c) Applicable law** The Council shall be subject to—
+
+(1) the Federal Advisory Committee Act (5 U.S.C. App.); and
+
+(2) [section 1739 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1739&num=0&edition=prelim).
+
+**(d) Members** The Council shall include 7 members, to be appointed by the Secretary, of whom, to the maximum extent practicable—
+
+(1) 1 member shall represent the Emery County Commission;
+
+(2) 1 member shall represent motorized recreational users;
+
+(3) 1 member shall represent nonmotorized recreational users;
+
+(4) 1 member shall represent permittees holding grazing allotments within the Recreation Area or wilderness areas designated in this part;
+
+(5) 1 member shall represent conservation organizations;
+
+(6) 1 member shall have expertise in the historical uses of the Recreation Area; and
+
+(7) 1 member shall be appointed from the elected leadership of a Federally recognized Indian Tribe that has significant cultural or historical connections to, and expertise in, the landscape, archeological sites, or cultural sites within the County.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+This part, referred to in subsec. (d)(4), is part II (§§ 1211–1255) of subtitle C of title I of Pub. L. 116–9, Mar. 12, 2019, 133 Stat. 667, which enacted this subchapter, amended [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274), enacted provisions set out as notes under [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274), and enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132) and in a table of National Monuments set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Parks Service and Related Programs.
 
 
 <a id="section-460dd-1"></a>
@@ -27123,6 +28662,139 @@ Federal Power Commission terminated and functions with regard to licenses and pe
 This Act, referred to in subsecs. (a) and (b), is Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4469, which enacted this subchapter, subchapters CXV (§ 460ddd) and CXVII (§ 460fff et seq.) of this chapter, chapter 65 (§ 4601 et seq.) of this title, and former sections 1a–9 to 1a–13 of this title, amended section 410ee, former section 463, and sections 1274 and 1276 of this title, enacted provisions set out as notes under sections 1132 and 1271 of this title and [section 1522 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1522&num=0&edition=prelim), Public Lands, and formerly set out as notes under [section 1a–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-5), and enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132). For complete classification of this Act to the Code, see Tables.
 
 
+<a id="section-460eeee"></a>
+## § 460eeee. Vinagre Wash Special Management Area
+**(a) Definitions** In this section:
+
+(1) **Management area** — The term “Management Area” means the Vinagre Wash Special Management Area established by subsection (b).
+
+(2) **Map** — The term “map” means the map entitled “Proposed Vinagre Wash Special Management Area and Proposed Wilderness” and dated December 4, 2018.
+
+(3) **Public land** — The term “public land” has the meaning given the term “public lands” in section 103 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702&num=0&edition=prelim)).
+
+(4) **State** — The term “State” means the State of California.
+
+**(b) Establishment** There is established the Vinagre Wash Special Management Area in the State, to be managed by the Secretary.
+
+**(c) Purpose** The purpose of the Management Area is to conserve, protect, and enhance—
+
+(1) the plant and wildlife values of the Management Area; and
+
+(2) the outstanding and nationally significant ecological, geological, scenic, recreational, archaeological, cultural, historic, and other resources of the Management Area.
+
+**(d) Boundaries** The Management Area shall consist of the public land in Imperial County, California, comprising approximately 81,880 acres, as generally depicted on the map as “Proposed Special Management Area”.
+
+**(e) Map; legal description**
+
+(1) **In general** — As soon as practicable, but not later than 3 years, after March 12, 2019, the Secretary shall submit a map and legal description of the Management Area to—
+
+  (A) the Committee on Natural Resources of the House of Representatives; and
+
+  (B) the Committee on Energy and Natural Resources of the Senate.
+
+(2) **Effect** — The map and legal description submitted under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct any errors in the map and legal description.
+
+(3) **Availability** — Copies of the map submitted under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+
+**(f) Management**
+
+(1) **In general** — The Secretary shall manage the Management Area—
+
+  (A) in a manner that conserves, protects, and enhances the purposes for which the Management Area is established; and
+
+  (B) in accordance with—
+
+    (i) this section;
+
+    (ii) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.); and
+
+    (iii) other applicable laws.
+
+(2) **Uses** — The Secretary shall allow only those uses that are consistent with the purposes of the Management Area, including hiking, camping, hunting, and sightseeing and the use of motorized vehicles, mountain bikes, and horses on designated routes in the Management Area in a manner that—
+
+  (A) is consistent with the purpose of the Management Area described in subsection (c);
+
+  (B) ensures public health and safety; and
+
+  (C) is consistent with all applicable laws (including regulations), including the Desert Renewable Energy Conservation Plan.
+
+(3) **Off-highway vehicle use**
+
+  (A) *In general* — Subject to subparagraphs (B) and (C) and all other applicable laws, the use of off-highway vehicles shall be permitted on routes in the Management Area as generally depicted on the map.
+
+  (B) *Closure* — The Secretary may close or permanently reroute a portion of a route described in subparagraph (A)—
+
+    (i) to prevent, or allow for restoration of, resource damage;
+
+    (ii) to protect Tribal cultural resources, including the resources identified in the Tribal cultural resources management plan developed under [section 410aaa–75(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410aaa–75/d&num=0&edition=prelim);
+
+    (iii) to address public safety concerns; or
+
+    (iv) as otherwise required by law.
+
+  (C) *Designation of additional routes* — During the 3-year period beginning on March 12, 2019, the Secretary—
+
+    (i) shall accept petitions from the public regarding additional routes for off-highway vehicles; and
+
+    (ii) may designate additional routes that the Secretary determines—
+
+      (I) would provide significant or unique recreational opportunities; and
+
+      (II) are consistent with the purposes of the Management Area.
+
+(4) **Withdrawal** — Subject to valid existing rights, all Federal land within the Management Area is withdrawn from—
+
+  (A) all forms of entry, appropriation, or disposal under the public land laws;
+
+  (B) location, entry, and patent under the mining laws; and
+
+  (C) right-of-way, leasing, or disposition under all laws relating to—
+
+    (i) minerals and mineral materials; or
+
+    (ii) solar, wind, and geothermal energy.
+
+(5) **No buffer zone** — The establishment of the Management Area shall not—
+
+  (A) create a protective perimeter or buffer zone around the Management Area; or
+
+  (B) preclude uses or activities outside the Management Area that are permitted under other applicable laws, even if the uses or activities are prohibited within the Management Area.
+
+(6) **Notice of available routes** — The Secretary shall ensure that visitors to the Management Area have access to adequate notice relating to the availability of designated routes in the Management Area through—
+
+  (A) the placement of appropriate signage along the designated routes;
+
+  (B) the distribution of maps, safety education materials, and other information that the Secretary determines to be appropriate; and
+
+  (C) restoration of areas that are not designated as open routes, including vertical mulching.
+
+(7) **Stewardship** — The Secretary, in consultation with Indian Tribes and other interests, shall develop a program to provide opportunities for monitoring and stewardship of the Management Area to minimize environmental impacts and prevent resource damage from recreational use, including volunteer assistance with—
+
+  (A) route signage;
+
+  (B) restoration of closed routes;
+
+  (C) protection of Management Area resources; and
+
+  (D) recreation education.
+
+(8) **Protection of tribal cultural resources** — Not later than 2 years after March 12, 2019, the Secretary, in accordance with chapter 2003 of title 54 and any other applicable law, shall—
+
+  (A) prepare and complete a Tribal cultural resources survey of the Management Area; and
+
+  (B) consult with the Quechan Indian Nation and other Indian Tribes demonstrating ancestral, cultural, or other ties to the resources within the Management Area on the development and implementation of the Tribal cultural resources survey under subparagraph (A).
+
+(9) **Military use** — The Secretary may authorize use of the non-wilderness portion of the Management Area by the Secretary of the Navy for Naval Special Warfare Tactical Training, including long-range small unit training and navigation, vehicle concealment, and vehicle sustainment training, consistent with this section and other applicable laws.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(1)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+#### “Secretary” Defined
+Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Secretary” means the Secretary of the Interior.
+
+
 <a id="section-460eee-1"></a>
 ## § 460eee–1. Administration
 **(a) In general** The Secretary shall administer the recreation area in accordance with this Act and the provisions of law generally applicable to units of the national park system, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4),11 See References in Text note below. and the Act of August 7, 1946 (60 Stat. 885).1 In the administration of such recreation area, the Secretary may utilize such statutory authority as may be available to him for the protection of natural and cultural resources as he deems necessary to carry out the purposes of this Act.
@@ -27202,6 +28874,207 @@ there is hereby established the Amistad National Recreation Area (hereafter in t
 
 #### References in Text
 This Act, referred to in subsec. (b), is Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4469, which enacted this subchapter, subchapters CXV (§ 460ddd) and CXVI (§ 460eee et seq.) of this chapter, chapter 65 (§ 4601 et seq.) of this title, and former sections 1a–9 to 1a–13 of this title, amended section 410ee, former section 463, and sections 1274 and 1276 of this title, enacted provisions set out as notes under sections 1132 and 1271 of this title and [section 1522 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1522&num=0&edition=prelim), Public Lands, and formerly set out as notes under [section 1a–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-5), and enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132). For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-460ffff"></a>
+## § 460ffff. Definitions
+
+In this subchapter:
+
+(1) **Management plan** — The term “management plan” means the management plan for the Scenic Area developed under [section 460ffff–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460ffff–2/a&num=0&edition=prelim).
+
+(2) **Map** — The term “Map” means the map entitled “Proposed Alabama Hills National Scenic Area” and dated November 7, 2018.
+
+(3) **Motorized vehicle** — The term “motorized vehicle” means a motorized or mechanized vehicle and includes, when used by a utility, mechanized equipment, a helicopter, and any other aerial device necessary to maintain electrical or communications infrastructure.
+
+(4) **Scenic area** — The term “Scenic Area” means the Alabama Hills National Scenic Area established by [section 460ffff–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460ffff–1/a&num=0&edition=prelim).
+
+(5) **State** — The term “State” means the State of California.
+
+(6) **Tribe** — The term “Tribe” means the Lone Pine Paiute-Shoshone Tribe.
+
+
+<a id="section-460ffff-1"></a>
+## § 460ffff–1. Alabama Hills National Scenic Area, California
+**(a) Establishment** Subject to valid existing rights, there is established in Inyo County, California, the Alabama Hills National Scenic Area, to be comprised of the approximately 18,610 acres generally depicted on the Map as “National Scenic Area”.
+
+**(b) Purpose** The purpose of the Scenic Area is to conserve, protect, and enhance for the benefit, use, and enjoyment of present and future generations the nationally significant scenic, cultural, geological, educational, biological, historical, recreational, cinematographic, and scientific resources of the Scenic Area managed consistent with section 302(a) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1732(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1732/a&num=0&edition=prelim)).
+
+**(c) Map; legal descriptions**
+
+(1) **In general** — As soon as practicable after March 12, 2019, the Secretary shall file a map and a legal description of the Scenic Area with—
+
+  (A) the Committee on Energy and Natural Resources of the Senate; and
+
+  (B) the Committee on Natural Resources of the House of Representatives.
+
+(2) **Force of law** — The map and legal descriptions filed under paragraph (1) shall have the same force and effect as if included in this subchapter, except that the Secretary may correct any clerical and typographical errors in the map and legal descriptions.
+
+(3) **Public availability** — Each map and legal description filed under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service and the Bureau of Land Management.
+
+**(d) Administration** The Secretary shall manage the Scenic Area—
+
+(1) as a component of the National Landscape Conservation System;
+
+(2) so as not to impact the future continuing operation and maintenance of any activities associated with valid, existing rights, including water rights;
+
+(3) in a manner that conserves, protects, and enhances the resources and values of the Scenic Area described in subsection (b); and
+
+(4) in accordance with—
+
+  (A) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.);
+
+  (B) this subchapter; and
+
+  (C) any other applicable laws.
+
+**(e) Management**
+
+(1) **In general** — The Secretary shall allow only such uses of the Scenic Area as the Secretary determines would further the purposes of the Scenic Area as described in subsection (b).
+
+(2) **Recreational activities** — Except as otherwise provided in this subchapter or other applicable law, or as the Secretary determines to be necessary for public health and safety, the Secretary shall allow existing recreational uses of the Scenic Area to continue, including hiking, mountain biking, rock climbing, sightseeing, horseback riding, hunting, fishing, and appropriate authorized motorized vehicle use in accordance with paragraph (3).
+
+(3) **Motorized vehicles** — Except as otherwise specified in this subchapter, or as necessary for administrative purposes or to respond to an emergency, the use of motorized vehicles in the Scenic Area shall be permitted only on—
+
+  (A) roads and trails designated by the Secretary for use of motorized vehicles as part of a management plan sustaining a semiprimitive motorized experience; or
+
+  (B) county-maintained roads in accordance with applicable State and county laws.
+
+**(f) No buffer zones**
+
+(1) **In general** — Nothing in this subchapter creates a protective perimeter or buffer zone around the Scenic Area.
+
+(2) **Activities outside Scenic Area** — The fact that an activity or use on land outside the Scenic Area can be seen or heard within the Scenic Area shall not preclude the activity or use outside the boundaries of the Scenic Area.
+
+**(g) Access** The Secretary shall provide private landowners adequate access to inholdings in the Scenic Area.
+
+**(h) Filming** Nothing in this subchapter prohibits filming (including commercial film production, student filming, and still photography) within the Scenic Area—
+
+(1) subject to—
+
+  (A) such reasonable regulations, policies, and practices as the Secretary considers to be necessary; and
+
+  (B) applicable law; and
+
+(2) in a manner consistent with the purposes described in subsection (b).
+
+**(i) Fish and wildlife** Nothing in this subchapter affects the jurisdiction or responsibilities of the State with respect to fish and wildlife.
+
+**(j) Livestock** The grazing of livestock in the Scenic Area, including grazing under the Alabama Hills allotment and the George Creek allotment, as established before March 12, 2019, shall be permitted to continue—
+
+(1) subject to—
+
+  (A) such reasonable regulations, policies, and practices as the Secretary considers to be necessary; and
+
+  (B) applicable law; and
+
+(2) in a manner consistent with the purposes described in subsection (b).
+
+**(k) Withdrawal** Subject to the provisions of this subchapter and valid rights in existence on March 12, 2019, including rights established by prior withdrawals, the Federal land within the Scenic Area is withdrawn from all forms of—
+
+(1) entry, appropriation, or disposal under the public land laws;
+
+(2) location, entry, and patent under the mining laws; and
+
+(3) disposition under all laws pertaining to mineral and geothermal leasing or mineral materials.
+
+**(l) Wildland fire operations** Nothing in this subchapter prohibits the Secretary, in cooperation with other Federal, State, and local agencies, as appropriate, from conducting wildland fire operations in the Scenic Area, consistent with the purposes described in subsection (b).
+
+**(m) Cooperative agreements** The Secretary may enter into cooperative agreements with, State, Tribal, and local governmental entities and private entities to conduct research, interpretation, or public education or to carry out any other initiative relating to the restoration, conservation, or management of the Scenic Area.
+
+**(n) Utility facilities and rights-of-way**
+
+(1) **Effect of subchapter** — Nothing in this subchapter—
+
+  (A) affects the existence, use, operation, maintenance (including vegetation control), repair, construction, reconfiguration, expansion, inspection, renewal, reconstruction, alteration, addition, relocation, improvement, funding, removal, or replacement of any utility facility or appurtenant right-of-way within or adjacent to the Scenic Area;
+
+  (B) subject to subsection (e), affects necessary or efficient access to utility facilities or rights-of-way within or adjacent to the Scenic Area; and
+
+  (C) precludes the Secretary from authorizing the establishment of new utility facility rights-of-way (including instream sites, routes, and areas) within the Scenic Area in a manner that minimizes harm to the purpose of the Scenic Area as described in subsection (b)—
+
+    (i) in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and any other applicable law;
+
+    (ii) subject to such terms and conditions as the Secretary determines to be appropriate; and
+
+    (iii) that are determined by the Secretary to be the only technical or feasible location, following consideration of alternatives within existing rights-of-way or outside of the Scenic Area.
+
+(2) **Management plan** — Consistent with this subchapter, the Management Plan shall establish provisions for maintenance of public utility and other rights-of-way within the Scenic Area.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(4)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (n)(1)(C)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 3 of Pub. L. 103–433, set out as a note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
+
+
+<a id="section-460ffff-2"></a>
+## § 460ffff–2. Management plan
+**(a) In general** Not later than 3 years after March 12, 2019, in accordance with subsections (b) and (c), the Secretary shall develop a comprehensive plan for the long-term management of the Scenic Area.
+
+**(b) Consultation** In developing the management plan, the Secretary shall consult with—
+
+(1) appropriate State, Tribal, and local governmental entities, including Inyo County and the Tribe;
+
+(2) utilities, including Southern California Edison Company and the Los Angeles Department of Water and Power;
+
+(3) the Alabama Hills Stewardship Group; and
+
+(4) members of the public.
+
+**(c) Requirement** In accordance with this subchapter, the management plan shall include provisions for maintenance of existing public utility and other rights-of-way within the Scenic Area.
+
+**(d) Incorporation** In developing the management plan, in accordance with this section, the Secretary may allow casual use mining limited to the use of hand tools, metal detectors, hand-fed dry washers, vacuum cleaners, gold pans, small sluices, and similar items.
+
+**(e) Interim management** Pending completion of the management plan, the Secretary shall manage the Scenic Area in accordance with [section 460ffff–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460ffff–1/b&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 3 of Pub. L. 103–433, set out as a note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
+
+
+<a id="section-460ffff-3"></a>
+## § 460ffff–3. Land taken into trust for Lone Pine Paiute-Shoshone Reservation
+**(a) Trust land**
+
+(1) **In general** — On completion of the survey described in subsection (b), all right, title, and interest of the United States in and to the approximately 132 acres of Federal land depicted on the Map as “Lone Pine Paiute-Shoshone Reservation Addition” shall be held in trust for the benefit of the Tribe, subject to paragraphs (2) and (3).
+
+(2) **Conditions** — The land described in paragraph (1) shall be subject to all easements, covenants, conditions, restrictions, withdrawals, and other matters of record in existence on March 12, 2019.
+
+(3) **Exclusion** — The Federal land over which the right-of-way for the Los Angeles Aqueduct is located, generally described as the 250-foot-wide right-of-way granted to the City of Los Angeles pursuant to the Act of June 30, 1906 (34 Stat. 801, chapter 3926), shall not be taken into trust for the Tribe.
+
+**(b) Survey** Not later than 180 days after March 12, 2019, the Secretary shall complete a survey of the boundary lines to establish the boundaries of the land to be held in trust under subsection (a)(1).
+
+**(c) Reservation land** The land held in trust pursuant to subsection (a)(1) shall be considered to be a part of the reservation of the Tribe.
+
+**(d) Gaming prohibition** Land held in trust under subsection (a)(1) shall not be eligible, or considered to have been taken into trust, for gaming (within the meaning of the Indian Gaming Regulatory Act ([25 U.S.C. 2701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2701&num=0&edition=prelim) et seq.)).
+
+### Statutory Notes
+
+#### References in Text
+The Act of June 30, 1906, referred to in subsec. (a)(3), is act June 30, 1906, ch. 3926, 34 Stat. 801, which is not classified to the Code.
+
+The Indian Gaming Regulatory Act, referred to in subsec. (d), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section2701&num=0&edition=prelim), Money and Finance, and Tables.
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 3 of Pub. L. 103–433, set out as a note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
+
+
+<a id="section-460ffff-4"></a>
+## § 460ffff–4. Transfer of administrative jurisdiction
+
+Administrative jurisdiction over the approximately 56 acres of Federal land depicted on the Map as “USFS Transfer to BLM” is transferred from the Forest Service to the Bureau of Land Management.
+
+
+<a id="section-460ffff-5"></a>
+## § 460ffff–5. Protection of services and recreational opportunities
+**(a) Effect of subchapter** Nothing in this subchapter limits commercial services for existing or historic recreation uses, as authorized by the permit process of the Bureau of Land Management.
+
+**(b) Guided recreational opportunities** Commercial permits to exercise guided recreational opportunities for the public that are authorized as of March 12, 2019, may continue to be authorized.
 
 
 <a id="section-460fff-1"></a>
@@ -34076,11 +35949,13 @@ There is hereby authorized to be appropriated not more than $780,000 for the acq
 <a id="section-460u"></a>
 ## § 460u. Establishment; description of area
 
-In order to preserve for the educational, inspirational, and recreational use of the public certain portions of the Indiana dunes and other areas of scenic, scientific, and historic interest and recreational value in the State of Indiana, the Secretary of the Interior is authorized to establish and administer the Indiana Dunes National Lakeshore (hereinafter referred to as the “lakeshore”) in accordance with the provisions of this subchapter. The lakeshore shall comprise the area within the boundaries delineated on a map identified as “Boundary Map, Indiana Dunes National Lakeshore”, dated October 1992, and numbered 626–80,039–C, which map is on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
+In order to preserve for the educational, inspirational, and recreational use of the public certain portions of the Indiana dunes and other areas of scenic, scientific, and historic interest and recreational value in the State of Indiana, the Secretary of the Interior is authorized to establish and administer the Indiana Dunes National Park (hereinafter referred to as the “Park”) in accordance with the provisions of this subchapter. The Park shall comprise the area within the boundaries delineated on a map identified as “Boundary Map, Indiana Dunes National Lakeshore”, dated October 1992, and numbered 626–80,039–C, which map is on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–6 substituted “National Park” for “National Lakeshore” after “the Indiana Dunes” and “Park” for “lakeshore” in two places.
+
 1992—Pub. L. 102–430, which directed amendment of section by substituting “October 1992, and numbered 626–80,039–C” for “October 1986, and numbered 62680033–B”, was executed by making the substitution for “October 1986, and numbered 626–80,033–B” to reflect the probable intent of Congress.
 
 1986—Pub. L. 99–583 substituted “October 1986, and numbered 626–80,033–B” for “December 1980, and bearing the number 626–91014”.
@@ -34522,13 +36397,15 @@ There is authorized to be appropriated $16,500,000 for the purposes of this subc
 
 <a id="section-460u-1"></a>
 ## § 460u–1. Acquisition of property
-**(a) Authority of Secretary; negotiation for Indiana Dunes State Park; exchange of property; acquisition of land owned for educational purposes** Within the boundaries of the lakeshore the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to acquire lands, waters, and other property, or any interest therein, by donation, purchase with donated or appropriated funds, exchange, or otherwise. The Indiana Dunes State Park may be acquired only by donation of the State of Indiana, and the Secretary is hereby directed to negotiate with the State for the acquisition of said park. In exercising his authority to acquire property by exchange for the purposes of this subchapter, the Secretary may accept title to non-Federal property located within the area described in [section 460u of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u) and convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which he classifies as suitable for exchange or other disposal within the State of Indiana or Illinois. Properties so exchanged shall be approximately equal in fair market value, as determined by the Secretary who may, in his discretion, base his determination on an independent appraisal obtained by him: Provided, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged. The Secretary is expressly authorized to acquire by donation, purchase with donated or appropriated funds, or exchange, lands or interests therein which are owned for school or educational purposes by a State or a political subdivision thereof.
+**(a) Authority of Secretary; negotiation for Indiana Dunes State Park; exchange of property; acquisition of land owned for educational purposes** Within the boundaries of the Park the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to acquire lands, waters, and other property, or any interest therein, by donation, purchase with donated or appropriated funds, exchange, or otherwise. The Indiana Dunes State Park may be acquired only by donation of the State of Indiana, and the Secretary is hereby directed to negotiate with the State for the acquisition of said park. In exercising his authority to acquire property by exchange for the purposes of this subchapter, the Secretary may accept title to non-Federal property located within the area described in [section 460u of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u) and convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which he classifies as suitable for exchange or other disposal within the State of Indiana or Illinois. Properties so exchanged shall be approximately equal in fair market value, as determined by the Secretary who may, in his discretion, base his determination on an independent appraisal obtained by him: Provided, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged. The Secretary is expressly authorized to acquire by donation, purchase with donated or appropriated funds, or exchange, lands or interests therein which are owned for school or educational purposes by a State or a political subdivision thereof.
 
 **(b) Liability of United States under contracts contingent on appropriations** In exercising his authority to acquire property under subsection (a) of this section, the Secretary may enter into contracts requiring the expenditure, when appropriated, of funds authorized to be appropriated by [section 460u–9 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-9), but the liability of the United States under any such contract shall be contingent on the appropriation of funds sufficient to fulfill the obligations thereby incurred.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–6 substituted “Park” for “lakeshore”.
+
 1980—Subsec. (a). Pub. L. 96–612, § 1(3), inserted provision authorizing the Secretary to acquire or exchange lands or interests therein owned for school or educational purposes by a State or political subdivision thereof.
 
 Subsec. (b). Pub. L. 96–612, § 1(4), made technical amendment to reference in original act which appears in text as reference to [section 460u–9 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-9).
@@ -34542,9 +36419,9 @@ Pub. L. 97–356, Oct. 19, 1982, 96 Stat. 1703, provided: “That (a) notwithsta
 
 Nothing in this subchapter shall diminish any existing (as of March 1, 1975) rights-of-way or easements which are necessary for high voltage electrical transmission, pipelines, water mains, or line haul railroad operations and maintenance. Nothing in this subchapter shall be construed to diminish the existing property rights of Northern Indiana Public Service Company (as of October 1, 1986) with respect to—
 
-(1) a parcel of land owned in fee by the Northern Indiana Public Service Company and used for high voltage electrical transmission lines, pipelines, and utility purposes, beginning at said Company’s Dune Acres substation and extending east to said Company’s Michigan City Generating Station, which parcel by this subchapter is included within the boundaries of the Indiana Dunes National Lakeshore and herein designated as area II–I on National Park Service Boundary Map No. 626–80,033–B, dated October 1986, excluding that certain parcel of approximately 6.0 acres adjacent Mineral Springs Road in areas II–I, and
+(1) a parcel of land owned in fee by the Northern Indiana Public Service Company and used for high voltage electrical transmission lines, pipelines, and utility purposes, beginning at said Company’s Dune Acres substation and extending east to said Company’s Michigan City Generating Station, which parcel by this subchapter is included within the boundaries of the Indiana Dunes National Park and herein designated as area II–I on National Park Service Boundary Map No. 626–80,033–B, dated October 1986, excluding that certain parcel of approximately 6.0 acres adjacent Mineral Springs Road in areas II–I, and
 
-(2) land owned in fee by the Northern Indiana Public Service Company and used for high voltage electrical transmission lines, pipelines, and utility purposes as has by this subchapter been included within the boundaries of the Indiana Dunes National Lakeshore and herein designated as area II–H on said National Park Service Boundary Map No. 626–80,033–B.
+(2) land owned in fee by the Northern Indiana Public Service Company and used for high voltage electrical transmission lines, pipelines, and utility purposes as has by this subchapter been included within the boundaries of the Indiana Dunes National Park and herein designated as area II–H on said National Park Service Boundary Map No. 626–80,033–B.
 
 ### Statutory Notes
 
@@ -34552,14 +36429,21 @@ Nothing in this subchapter shall diminish any existing (as of March 1, 1975) rig
 A prior section 10 of Pub. L. 89–761 was renumbered section 9 and is classified to [section 460u–9 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-9).
 
 #### Amendments
+2019—Pars. (1), (2). Pub. L. 116–6 substituted “National Park” for “National Lakeshore”.
+
 1986—Pub. L. 99–583 inserted provisions relating to the existing property rights of the Northern Indiana Public Service Company on Oct. 1, 1986.
 
 
 <a id="section-460u-11"></a>
 ## § 460u–11. Legal cooling, process, or surface drainage into Little Calumet River; Federal, State or local air and water pollution standards not affected
-**(a)** Nothing in this subchapter shall be construed as prohibiting any otherwise legal cooling, process, or surface drainage into the part of the Little Calumet River located within the lakeshore: Provided, That this subsection shall not affect nor in any way limit the Secretary’s authority and responsibility to protect park resources.
+**(a)** Nothing in this subchapter shall be construed as prohibiting any otherwise legal cooling, process, or surface drainage into the part of the Little Calumet River located within the Park: Provided, That this subsection shall not affect nor in any way limit the Secretary’s authority and responsibility to protect park resources.
 
-**(b)** The authorization of lands to be added to the lakeshore by the Ninety-fourth Congress and the administration of such lands as part of the lakeshore shall in and of itself in no way operate to render more restrictive the application of Federal, State, or local air and water pollution standards to the uses of property outside the boundaries of the lakeshore, nor shall it be construed to augment the control of water and air pollution sources in the State of Indiana beyond that required pursuant to applicable Federal, State, or local law.
+**(b)** The authorization of lands to be added to the Park by the Ninety-fourth Congress and the administration of such lands as part of the Park shall in and of itself in no way operate to render more restrictive the application of Federal, State, or local air and water pollution standards to the uses of property outside the boundaries of the Park, nor shall it be construed to augment the control of water and air pollution sources in the State of Indiana beyond that required pursuant to applicable Federal, State, or local law.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–6 substituted “Park” for “lakeshore” wherever appearing.
 
 
 <a id="section-460u-12"></a>
@@ -34587,11 +36471,14 @@ Section, Pub. L. 89–761, § 12, formerly § 13, as added and renumbered Pub. L
 
 Within one year after October 18, 1976, the Secretary shall submit, in writing, to the Committees on Interior and Insular Affairs and to the Committees on Appropriations of the United States Congress a detailed plan which shall indicate—
 
-(1) the lands which he has previously acquired by purchase, donation, exchange, or transfer for administration for the purpose of the lakeshore; and
+(1) the lands which he has previously acquired by purchase, donation, exchange, or transfer for administration for the purpose of the Park; and
 
 (2) the annual acquisition program (including the level of funding) which he recommends for the ensuing five fiscal years.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Par. (1). Pub. L. 116–6 substituted “Park” for “lakeshore”.
 
 #### Change of Name
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
@@ -34630,7 +36517,7 @@ The Secretary shall enter into a cooperative agreement with the landowner of tho
 
 <a id="section-460u-18"></a>
 ## § 460u–18. Study of areas III–A, III–C, and II–A; report to Congressional committees
-**(a)** By July 1, 1977, the Secretary shall prepare and transmit to the Committees on Interior and Insular Affairs of the United States Congress a study of areas III–A, III–C, and II–A, as designated on map numbered 626–91007. The Secretary shall make reasonable provision for the timely participation of the State of Indiana, local public officials, affected property owners, and the general public in the formulation of said study, including, but not limited to, the opportunity to testify at a public hearing. The record of such hearing shall accompany said study. With respect to areas III–A and III–C, the study shall (a) address the desirability of acquisition of any or all of the area from the standpoint of resource management, protection, and public access; (b) develop alternatives for the control of beach erosion if desirable, including recommendations, if control is necessary, of assessing the costs of such control against those agencies responsible for such erosion; (c) consider and propose options to guarantee public access to and use of the beach area, including the location of necessary facilities for transportation, health, and safety; (d) detail the recreational potential of the area and all available alternatives for achieving such potential; (e) review the environmental impact upon the lakeshore resulting from the potential development and improvement of said areas; and (f) assess the cost to the United States from both the acquisition of said areas together with the potential savings from the retention of rights of use and occupancy and from the retention of the boundaries of the lakeshore, as designated on map numbered 626–91007, including the costs of additional administrative responsibilities necessary for the management of the lakeshore, including the maintenance of public services in the town of Beverly Shores, Indiana. With respect to area II–A, the Secretary shall study and report concerning the following objectives: (a) preservation of the remaining dunes, wetlands, native vegetation, and animal life within the area; (b) preservation and restoration of the watersheds of Cowles Bog and its associated wetlands; (c) appropriate public access to and use of lands within the area; (d) protection of the area and the adjacent lakeshore from degradation caused by all forms of construction, pollution, or other adverse impacts including, but not limited to, the discharge of wastes and any excessive subsurface migration of water; and (e) the economic consequences to the utility and its customers of acquisition of such area.
+**(a)** By July 1, 1977, the Secretary shall prepare and transmit to the Committees on Interior and Insular Affairs of the United States Congress a study of areas III–A, III–C, and II–A, as designated on map numbered 626–91007. The Secretary shall make reasonable provision for the timely participation of the State of Indiana, local public officials, affected property owners, and the general public in the formulation of said study, including, but not limited to, the opportunity to testify at a public hearing. The record of such hearing shall accompany said study. With respect to areas III–A and III–C, the study shall (a) address the desirability of acquisition of any or all of the area from the standpoint of resource management, protection, and public access; (b) develop alternatives for the control of beach erosion if desirable, including recommendations, if control is necessary, of assessing the costs of such control against those agencies responsible for such erosion; (c) consider and propose options to guarantee public access to and use of the beach area, including the location of necessary facilities for transportation, health, and safety; (d) detail the recreational potential of the area and all available alternatives for achieving such potential; (e) review the environmental impact upon the Park resulting from the potential development and improvement of said areas; and (f) assess the cost to the United States from both the acquisition of said areas together with the potential savings from the retention of rights of use and occupancy and from the retention of the boundaries of the Park, as designated on map numbered 626–91007, including the costs of additional administrative responsibilities necessary for the management of the Park, including the maintenance of public services in the town of Beverly Shores, Indiana. With respect to area II–A, the Secretary shall study and report concerning the following objectives: (a) preservation of the remaining dunes, wetlands, native vegetation, and animal life within the area; (b) preservation and restoration of the watersheds of Cowles Bog and its associated wetlands; (c) appropriate public access to and use of lands within the area; (d) protection of the area and the adjacent Park from degradation caused by all forms of construction, pollution, or other adverse impacts including, but not limited to, the discharge of wastes and any excessive subsurface migration of water; and (e) the economic consequences to the utility and its customers of acquisition of such area.
 
 **(b)**
 
@@ -34649,6 +36536,8 @@ The Secretary shall enter into a cooperative agreement with the landowner of tho
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–6 substituted “Park” for “lakeshore” wherever appearing.
+
 1992—Pub. L. 102–430 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
@@ -34660,9 +36549,12 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 <a id="section-460u-19"></a>
 ## § 460u–19. Acquisition of land outside present boundaries; notice to Congressional committees; publication in Federal Register
 
-After notifying the Committees on Interior and Insular Affairs of the United States Congress, in writing, of his intentions to do so and of the reasons therefor, the Secretary may, if he finds that such lands would make a significant contribution to the purposes for which the lakeshore was established, accept title to any lands, or interests in lands, located outside the present boundaries of the lakeshore but contiguous thereto or to lands acquired under this section, such lands the State of Indiana or its political subdivisions may acquire and offer to donate to the United States or which any private person, organization, or public or private corporation may offer to donate to the United States and he shall administer such lands as a part of the lakeshore after publishing notice to that effect in the Federal Register.
+After notifying the Committees on Interior and Insular Affairs of the United States Congress, in writing, of his intentions to do so and of the reasons therefor, the Secretary may, if he finds that such lands would make a significant contribution to the purposes for which the Park was established, accept title to any lands, or interests in lands, located outside the present boundaries of the Park but contiguous thereto or to lands acquired under this section, such lands the State of Indiana or its political subdivisions may acquire and offer to donate to the United States or which any private person, organization, or public or private corporation may offer to donate to the United States and he shall administer such lands as a part of the Park after publishing notice to that effect in the Federal Register.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–6 substituted “Park” for “lakeshore” wherever appearing.
 
 #### Change of Name
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
@@ -34673,34 +36565,43 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 <a id="section-460u-2"></a>
 ## § 460u–2. Direction for establishment; publication in Federal Register; continuing acquisition of lands
 
-As soon as practicable after November 5, 1966, and following the acquisition by the Secretary of an acreage within the boundaries of the area described in [section 460u of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u) which in his opinion is efficiently administrable for the purposes of this subchapter, he shall establish the Indiana Dunes National Lakeshore by publication of notice thereof in the Federal Register. By no later than October 1, 1977, the Secretary shall publish in the Federal Register a detailed description of the boundaries of the lakeshore and shall from time to time so publish any additional boundary changes as may occur. Following such establishment and subject to the limitations and conditions prescribed in [section 460u of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u), the Secretary may continue to acquire lands and interests in lands for the lakeshore.
+As soon as practicable after November 5, 1966, and following the acquisition by the Secretary of an acreage within the boundaries of the area described in [section 460u of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u) which in his opinion is efficiently administrable for the purposes of this subchapter, he shall establish the Indiana Dunes National Park by publication of notice thereof in the Federal Register. By no later than October 1, 1977, the Secretary shall publish in the Federal Register a detailed description of the boundaries of the Park and shall from time to time so publish any additional boundary changes as may occur. Following such establishment and subject to the limitations and conditions prescribed in [section 460u of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u), the Secretary may continue to acquire lands and interests in lands for the Park.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–6 substituted “National Park” for “National Lakeshore” and “Park” for “lakeshore” in two places.
+
 1976—Pub. L. 94–549 inserted provision requiring the Secretary to publish in the Federal Register, no later than October 1, 1977, the boundaries of the lakeshore and from time to time publish any additional changes in the boundaries as they occur.
 
 
 <a id="section-460u-20"></a>
 ## § 460u–20. Paul H. Douglas Ecological and Recreational Unit and Center for Environmental Education
-**(a) Dedication of lakeshore** The Indiana Dunes National Lakeshore is hereby dedicated to the memory of Paul H. Douglas in grateful recognition of his leadership in the effort to protect, preserve, and enhance the natural, scientific, historic, and recreational value of the lakeshore for the use, enjoyment, and edification of present and future generations.
+**(a) Dedication of Park** The Indiana Dunes National Park is hereby dedicated to the memory of Paul H. Douglas in grateful recognition of his leadership in the effort to protect, preserve, and enhance the natural, scientific, historic, and recreational value of the Park for the use, enjoyment, and edification of present and future generations.
 
-**(b) Establishment** To further accomplish the purposes of subsection (a) of this section, the Secretary of the Interior shall designate the west unit of the lakeshore as the “Paul H. Douglas Ecological and Recreational Unit” and shall, subject to appropriations being granted, design and construct a suitable structure or designate an existing structure within the lakeshore to be known as the “Paul H. Douglas Center for Environmental Education” which shall provide facilities designed primarily to familiarize students and other visitors with, among other things: (1) the natural history of the lakeshore and its association with the natural history of the Great Lakes region; (2) the evolution of human activities in the area; and (3) the historical features which led to the establishment of the lakeshore by the Congress of the United States.
+**(b) Establishment** To further accomplish the purposes of subsection (a) of this section, the Secretary of the Interior shall designate the west unit of the Park as the “Paul H. Douglas Ecological and Recreational Unit” and shall, subject to appropriations being granted, design and construct a suitable structure or designate an existing structure within the Park to be known as the “Paul H. Douglas Center for Environmental Education” which shall provide facilities designed primarily to familiarize students and other visitors with, among other things: (1) the natural history of the Park and its association with the natural history of the Great Lakes region; (2) the evolution of human activities in the area; and (3) the historical features which led to the establishment of the Park by the Congress of the United States.
 
-**(c) Preparation of informative materials** To inform the public of the contributions of Paul H. Douglas to the creation of the lakeshore, the Secretary of the Interior shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate.
+**(c) Preparation of informative materials** To inform the public of the contributions of Paul H. Douglas to the creation of the Park, the Secretary of the Interior shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–6 substituted “National Park” for “National Lakeshore” and “Park” for “lakeshore”.
+
+Subsecs. (b), (c). Pub. L. 116–6, § 115(a)(1)(B), substituted “Park” for “lakeshore” wherever appearing.
 
 
 <a id="section-460u-21"></a>
 ## § 460u–21. Public access study
-**(a) Preservation of lakeshore and conservation of energy** The Secretary in consultation with the Secretary of Transportation, shall conduct a study of various modes of public access into and within the lakeshore which are consistent with the preservation of the lakeshore and conservation of energy by encouraging the use of transportation modes other than personal motor vehicles.
+**(a) Preservation of Park and conservation of energy** The Secretary in consultation with the Secretary of Transportation, shall conduct a study of various modes of public access into and within the lakeshore which are consistent with the preservation of the Park and conservation of energy by encouraging the use of transportation modes other than personal motor vehicles.
 
-**(b) Utilization of clearinghouse resources and facilities** In carrying out the study, the Secretary shall utilize to the greatest extent practicable the resources and facilities of the organizations designated as clearinghouses under [section 6506 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6506&num=0&edition=prelim) as implemented by Office of Management and Budget Circular A–95, and which have comprehensive planning responsibilities in the regions where the lakeshore is located, as well as any other agencies or organizations which the Secretary may designate. The Secretary shall make provision for timely and substantive consultations with the appropriate agencies of the States of Indiana and Illinois, local elected officials, and the general public in the formulation and implementation of the study.
+**(b) Utilization of clearinghouse resources and facilities** In carrying out the study, the Secretary shall utilize to the greatest extent practicable the resources and facilities of the organizations designated as clearinghouses under [section 6506 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6506&num=0&edition=prelim) as implemented by Office of Management and Budget Circular A–95, and which have comprehensive planning responsibilities in the regions where the Park is located, as well as any other agencies or organizations which the Secretary may designate. The Secretary shall make provision for timely and substantive consultations with the appropriate agencies of the States of Indiana and Illinois, local elected officials, and the general public in the formulation and implementation of the study.
 
-**(c) Adequacy of access facilities** The study shall address the adequacy of access facilities for members of the public who desire to visit and enjoy the lakeshore. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the lakeshore.
+**(c) Adequacy of access facilities** The study shall address the adequacy of access facilities for members of the public who desire to visit and enjoy the Park. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the Park.
 
-**(d) Access proposals; retention of lakeshore values** The study shall include proposals deemed necessary to assure equitable visitor access and public enjoyment by all segments of the population, including those who are physically or economically disadvantaged. It shall provide for retention of the natural, scenic, and historic values for which the lakeshore was established, and shall propose plans and alternatives for the protection and maintenance of these values as they relate to transportation improvements.
+**(d) Access proposals; retention of Park values** The study shall include proposals deemed necessary to assure equitable visitor access and public enjoyment by all segments of the population, including those who are physically or economically disadvantaged. It shall provide for retention of the natural, scenic, and historic values for which the Park was established, and shall propose plans and alternatives for the protection and maintenance of these values as they relate to transportation improvements.
 
-**(e) Renovation and preservation of South Shore Railroad** The study shall examine proposals for the renovation and preservation of a portion of the existing South Shore Railroad passenger car fleet. The study shall consider the historic value of the existing rolling stock and its role in transporting visitors into and within the lakeshore.
+**(e) Renovation and preservation of South Shore Railroad** The study shall examine proposals for the renovation and preservation of a portion of the existing South Shore Railroad passenger car fleet. The study shall consider the historic value of the existing rolling stock and its role in transporting visitors into and within the Park.
 
 **(f) Alternative improvement plans; cost estimates; sources of funding** The study shall present alternative plans to improve, construct, and extend access roads, public transportation, and bicycle and pedestrian trails. It shall include cost estimates of all plans considered in this study, and shall discuss existing and proposed sources of funding for the implementation of the recommended plan alternatives.
 
@@ -34716,11 +36617,19 @@ The effective date of this provision, referred to in subsec. (g), probably means
 #### Codification
 In subsec. (b), “[section 6506 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6506&num=0&edition=prelim)” substituted for “title IV of the Intergovernmental Cooperation Act of 1968 [[42 U.S.C. 4231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4231&num=0&edition=prelim) et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
+#### Amendments
+2019—Subsecs. (a) to (e). Pub. L. 116–6 substituted “Park” for “lakeshore” wherever appearing.
+
 
 <a id="section-460u-22"></a>
 ## § 460u–22. Consideration of property owner’s hardship in property acquisition
 
-In exercising his authority to acquire property under this subchapter, the Secretary shall give prompt and careful consideration to any offer made by an individual owning property within the lakeshore to sell such property, if such individual notifies the Secretary in writing that the continued ownership of such property is causing, or would result in, undue hardship.
+In exercising his authority to acquire property under this subchapter, the Secretary shall give prompt and careful consideration to any offer made by an individual owning property within the Park to sell such property, if such individual notifies the Secretary in writing that the continued ownership of such property is causing, or would result in, undue hardship.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–6 substituted “Park” for “lakeshore”.
 
 
 <a id="section-460u-23"></a>
@@ -34744,11 +36653,16 @@ In exercising his authority to acquire property under this subchapter, the Secre
 
 <a id="section-460u-24"></a>
 ## § 460u–24. Little Calumet River and Burns/Portage Waterway
-**(a) Cooperative agreement** The Secretary may enter into a cooperative agreement with the Little Calumet River Basin Development Commission, the State of Indiana or any political subdivision thereof for the planning, management, and interpretation of recreational facilities on the tract within the boundaries of Indiana Dunes National Lakeshore identified as tract numbered 09–177 11 So in original. Probably should be “09–117”. or on lands under the jurisdiction of the State of Indiana or political subdivision thereof along the Little Calumet River and Burns Waterway. The cooperative agreement may include provision for the planning of public facilities for boating, canoeing, fishing, hiking, bicycling, and other compatible recreational activities. Any recreational developments on lands under the jurisdiction of the National Park Service planned pursuant to this cooperative agreement shall be in a manner consistent with the purposes of this subchapter, including [section 460u–6(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460u–6/b&num=0&edition=prelim).
+**(a) Cooperative agreement** The Secretary may enter into a cooperative agreement with the Little Calumet River Basin Development Commission, the State of Indiana or any political subdivision thereof for the planning, management, and interpretation of recreational facilities on the tract within the boundaries of Indiana Dunes National Park identified as tract numbered 09–177 11 So in original. Probably should be “09–117”. or on lands under the jurisdiction of the State of Indiana or political subdivision thereof along the Little Calumet River and Burns Waterway. The cooperative agreement may include provision for the planning of public facilities for boating, canoeing, fishing, hiking, bicycling, and other compatible recreational activities. Any recreational developments on lands under the jurisdiction of the National Park Service planned pursuant to this cooperative agreement shall be in a manner consistent with the purposes of this subchapter, including [section 460u–6(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460u–6/b&num=0&edition=prelim).
 
-**(b) Study** The Secretary shall conduct a study regarding the options available for linking the portions of the lakeshore which are divided by the Little Calumet River and Burns/Portage Waterway so as to coordinate the management and recreational use of the lakeshore. The Secretary shall submit the results of the study to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1, 1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the study.
+**(b) Study** The Secretary shall conduct a study regarding the options available for linking the portions of the Park which are divided by the Little Calumet River and Burns/Portage Waterway so as to coordinate the management and recreational use of the Park. The Secretary shall submit the results of the study to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1, 1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the study.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–6, § 115(a)(1)(A), substituted “National Park” for “National Lakeshore”.
+
+Subsec. (b). Pub. L. 116–6, § 115(a)(1)(B), substituted “Park” for “lakeshore” in two places.
 
 #### Change of Name
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
@@ -34820,7 +36734,7 @@ Section, Pub. L. 89–761, § 5, Nov. 5, 1966, 80 Stat. 1310, authorized Secreta
 
 (2)
 
-  (A) In the case of property included within the boundaries of the lakeshore after 1980, any owner or owners of record of improved property may retain a right of use and occupancy for noncommercial residential purposes for a term ending at either of the following:
+  (A) In the case of property included within the boundaries of the Park after 1980, any owner or owners of record of improved property may retain a right of use and occupancy for noncommercial residential purposes for a term ending at either of the following:
 
     (i) A fixed term not to extend beyond September 30, 2010, or such lesser fixed term as the owner or owners may elect at the time of acquisition.
 
@@ -34831,7 +36745,7 @@ Section, Pub. L. 89–761, § 5, Nov. 5, 1966, 80 Stat. 1310, authorized Secreta
 
 (3)
 
-  (A) In the case of improved property included within the boundaries of the lakeshore after October 1, 1991, that was not included within such boundaries on or before that date, an individual who is an owner of record of such property may retain a right of use and occupancy of such improved property for noncommercial residential purposes for a term ending, subject to subparagraph (B), at either of the following:
+  (A) In the case of improved property included within the boundaries of the Park after October 1, 1991, that was not included within such boundaries on or before that date, an individual who is an owner of record of such property may retain a right of use and occupancy of such improved property for noncommercial residential purposes for a term ending, subject to subparagraph (B), at either of the following:
 
     (i) A fixed term not to extend beyond October 1, 2020, or such lesser fixed term as the owner may elect at the time of acquisition.
 
@@ -34847,7 +36761,7 @@ Section, Pub. L. 89–761, § 5, Nov. 5, 1966, 80 Stat. 1310, authorized Secreta
 
 **(b) Termination of use and occupancy; pre-October 18, 1976, standards of use and occupancy to remain in effect** Upon his determination that the property, or any portion thereof, has ceased to be used in accordance with the applicable terms and conditions, the Secretary may terminate a right of use and occupancy. Nonpayment of property taxes, validly assessed, on any retained right of use and occupancy shall also be grounds for termination of such right by the Secretary. In the event the Secretary terminates a right of use and occupancy under this subsection he shall pay to the owners of the retained right so terminated an amount equal to the fair market value of the portion of said right which remained unexpired on the date of termination. With respect to any right of use and occupancy in existence on the effective date of this sentence, standards for retention of such rights in effect at the time such rights were reserved shall constitute the terms and conditions referred to in [section 460u–3 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-3).
 
-**(c) Extension of use and occupancy rights** With respect to improved properties acquired prior to December 28, 1980, and upon which a valid existing right of use and occupancy has been reserved for a term of not more than twenty years, the Secretary may, in his discretion, extend the term of such retained right for a period of not more than nine years upon receipt of payment prior to September 30, 1983, from the holder of the retained right. The amount of such payment shall be equivalent to the amount discounted from the purchase price paid by the Secretary for the identical period of time under the terms of the original sale adjusted by a general index adopted by the Secretary reflecting overall value trends within Indiana Dunes National Lakeshore between the time of the original sale and the time of the retained right of extension offered by this subsection.
+**(c) Extension of use and occupancy rights** With respect to improved properties acquired prior to December 28, 1980, and upon which a valid existing right of use and occupancy has been reserved for a term of not more than twenty years, the Secretary may, in his discretion, extend the term of such retained right for a period of not more than nine years upon receipt of payment prior to September 30, 1983, from the holder of the retained right. The amount of such payment shall be equivalent to the amount discounted from the purchase price paid by the Secretary for the identical period of time under the terms of the original sale adjusted by a general index adopted by the Secretary reflecting overall value trends within Indiana Dunes National Park between the time of the original sale and the time of the retained right of extension offered by this subsection.
 
 ### Statutory Notes
 
@@ -34858,6 +36772,10 @@ The effective date of this sentence, referred to in subsec. (b), probably refers
 A prior section 5 of Pub. L. 89–761 was classified to [section 460u–4 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-4), prior to repeal by Pub. L. 94–549, § 1(9).
 
 #### Amendments
+2019—Subsec. (a)(2)(A), (3)(A). Pub. L. 116–6, § 115(a)(1)(B), substituted “Park” for “lakeshore” in introductory provisions.
+
+Subsec. (c). Pub. L. 116–6, § 115(a)(1)(A), substituted “National Park” for “National Lakeshore”.
+
 1998—Subsec. (a)(3)(A). Pub. L. 105–277, § 101(e) [title I, § 141(1)], in introductory provisions, struck out “as of that date” after “record of such property” and inserted “, subject to subparagraph (B),” after “term ending”.
 
 Subsec. (a)(3)(B). Pub. L. 105–277, § 101(e) [title I, § 141(2)], substituted “Subparagraph (A)(ii)” for “Subparagraph (A)” in introductory provisions.
@@ -34879,29 +36797,32 @@ Subsec. (b). Pub. L. 94–549, § 1(4)(b), substituted provision requiring failu
 
 <a id="section-460u-6"></a>
 ## § 460u–6. Administration
-**(a) Utilization of authorities for conservation and management of natural resources** In the administration of the lakeshore the Secretary may utilize such statutory authorities relating to areas of the national park system and such statutory authority otherwise available to him for the conservation and management of natural resources as he deems appropriate to carry out the purposes of this subchapter.
+**(a) Utilization of authorities for conservation and management of natural resources** In the administration of the Park the Secretary may utilize such statutory authorities relating to areas of the national park system and such statutory authority otherwise available to him for the conservation and management of natural resources as he deems appropriate to carry out the purposes of this subchapter.
 
-**(b) Preservation of lakeshore; incompatible visitor conveniences restricted; provisions for public enjoyment and understanding; developments for public uses** In order that the lakeshore shall be permanently preserved in its present state, no development or plan for the convenience of visitors shall be undertaken therein which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions now prevailing or with the preservation of such historic sites and structures as the Secretary may designate: Provided, That the Secretary may provide for the public enjoyment and understanding of the unique natural, historic, and scientific features within the lakeshore by establishing such trails, observation points, and exhibits and providing such services as he may deem desirable for such public enjoyment and understanding: Provided further, That the Secretary may develop for appropriate public uses such portions of the lakeshore as he deems especially adaptable for such uses.
+**(b) Preservation of Park; incompatible visitor conveniences restricted; provisions for public enjoyment and understanding; developments for public uses** In order that the Park shall be permanently preserved in its present state, no development or plan for the convenience of visitors shall be undertaken therein which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions now prevailing or with the preservation of such historic sites and structures as the Secretary may designate: Provided, That the Secretary may provide for the public enjoyment and understanding of the unique natural, historic, and scientific features within the Park by establishing such trails, observation points, and exhibits and providing such services as he may deem desirable for such public enjoyment and understanding: Provided further, That the Secretary may develop for appropriate public uses such portions of the Park as he deems especially adaptable for such uses.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 6 of Pub. L. 89–761 was renumbered section 5 and is classified to [section 460u–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-5).
 
+#### Amendments
+2019—Pub. L. 116–6 substituted “Park” for “lakeshore” wherever appearing.
+
 
 <a id="section-460u-7"></a>
-## § 460u–7. Indiana Dunes National Lakeshore Advisory Commission
-**(a) Establishment; termination** There is hereby established an Indiana Dunes National Lakeshore Advisory Commission. Said Commission shall terminate on September 30, 1985.
+## § 460u–7. Indiana Dunes National Park Advisory Commission
+**(a) Establishment; termination** There is hereby established an Indiana Dunes National Park Advisory Commission. Said Commission shall terminate on September 30, 1985.
 
-**(b) Membership; appointment; term of office; recommendation or designation of appointees** The Commission shall be composed of thirteen members, each appointed for a term of two years by the Secretary, as follows: (1) one member who is a year-round resident of Porter County to be appointed from recommendations made by the commissioners of such county; (2) one member who is a year-round resident of the town of Beverly Shores to be appointed from the recommendations made by the board of trustees of such town; (3) one member who is a year-round resident of the towns of Porter, Dune Acres, Pines, Chesterton, Ogden Dunes, or the village of Tremont, such member to be appointed from recommendations made by the boards of trustees or the trustee of the affected town or township; (4) two members who are year-round residents of the city of Michigan City to be appointed from recommendations made by such city; (5) two members to be appointed from recommendations made by the Governor of the State of Indiana; (6) one member to be designated by the Secretary; (7) two members who are year-round residents of the city of Gary to be appointed from recommendations made by the mayor of such city; (8) one member to be appointed from recommendations made by a regional planning agency established under the authority of the laws of the State of Indiana and composed of representatives of local and county governments in northwestern Indiana; (9) one member who is a year-round resident of the city of Portage to be appointed from recommendations made by the mayor of such city; and (10) one member who holds a reservation of use and occupancy and is a year-round resident within the lakeshore to be designated by the Secretary.
+**(b) Membership; appointment; term of office; recommendation or designation of appointees** The Commission shall be composed of thirteen members, each appointed for a term of two years by the Secretary, as follows: (1) one member who is a year-round resident of Porter County to be appointed from recommendations made by the commissioners of such county; (2) one member who is a year-round resident of the town of Beverly Shores to be appointed from the recommendations made by the board of trustees of such town; (3) one member who is a year-round resident of the towns of Porter, Dune Acres, Pines, Chesterton, Ogden Dunes, or the village of Tremont, such member to be appointed from recommendations made by the boards of trustees or the trustee of the affected town or township; (4) two members who are year-round residents of the city of Michigan City to be appointed from recommendations made by such city; (5) two members to be appointed from recommendations made by the Governor of the State of Indiana; (6) one member to be designated by the Secretary; (7) two members who are year-round residents of the city of Gary to be appointed from recommendations made by the mayor of such city; (8) one member to be appointed from recommendations made by a regional planning agency established under the authority of the laws of the State of Indiana and composed of representatives of local and county governments in northwestern Indiana; (9) one member who is a year-round resident of the city of Portage to be appointed from recommendations made by the mayor of such city; and (10) one member who holds a reservation of use and occupancy and is a year-round resident within the Park to be designated by the Secretary.
 
 **(c) Chairman; vacancies** The Secretary shall designate one member to be Chairman. Any vacancy in the Commission shall be filled in the same manner in which the original appointment was made.
 
 **(d) Compensation and expenses; vouchers** A member of the Commission shall serve without compensation as such. The Secretary is authorized to pay the expense reasonably incurred by the Commission in carrying out its responsibilities under this subchapter on vouchers signed by the Chairman.
 
-**(e) Consultation of Secretary with Commission** The Secretary or his designee shall, from time to time, consult with the Commission with respect to matters relating to the development of the Indiana Dunes National Lakeshore and with respect to the provisions of sections 460u–3, 460u–4,11 See References in Text note below. and 460u–5 of this title.
+**(e) Consultation of Secretary with Commission** The Secretary or his designee shall, from time to time, consult with the Commission with respect to matters relating to the development of the Indiana Dunes National Park and with respect to the provisions of sections 460u–3, 460u–4,11 See References in Text note below. and 460u–5 of this title.
 
-**(f) Disposal of industrial solid wastes; identification of acceptable areas** The Advisory Commission is authorized to assist with the identification of economically and environmentally acceptable areas, outside of the boundaries of the lakeshore, for the handling and disposal of industrial solid wastes produced by the coal-fired powerplant in Porter County, Indiana, section 21, township 37 north, range 6 west.
+**(f) Disposal of industrial solid wastes; identification of acceptable areas** The Advisory Commission is authorized to assist with the identification of economically and environmentally acceptable areas, outside of the boundaries of the Park, for the handling and disposal of industrial solid wastes produced by the coal-fired powerplant in Porter County, Indiana, section 21, township 37 north, range 6 west.
 
 ### Statutory Notes
 
@@ -34912,6 +36833,14 @@ A prior section 6 of Pub. L. 89–761 was renumbered section 5 and is classified
 A prior section 7 of Pub. L. 89–761 was renumbered section 6 and is classified to [section 460u–6 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-6).
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–6, § 115(a)(1)(A), substituted “National Park” for “National Lakeshore”.
+
+Subsec. (b). Pub. L. 116–6, § 115(a)(1)(B), substituted “Park” for “lakeshore”.
+
+Subsec. (e). Pub. L. 116–6, § 115(a)(1)(A), substituted “National Park” for “National Lakeshore”.
+
+Subsec. (f). Pub. L. 116–6, § 115(a)(1)(B), substituted “Park” for “lakeshore”.
+
 1980—Subsec. (a). Pub. L. 96–612, § 1(8), substituted “on September 30, 1985” for “ten years after the date of establishment of the national lakeshore pursuant to this subchapter”.
 
 Subsec. (b). Pub. L. 96–612, § 1(9), substituted “thirteen members” for “eleven members” in provisions preceding cl. (1) and “two members who are year-round residents” for “one member who is a year-round resident” in cls. (4) and (7).
@@ -34924,24 +36853,27 @@ Subsec. (f). Pub. L. 94–549, § 1(6), added subsec. (f).
 <a id="section-460u-8"></a>
 ## § 460u–8. State jurisdiction
 
-Nothing in this subchapter shall deprive the State of Indiana or any political subdivision thereof of its civil and criminal jurisdiction over persons found, acts performed, and offenses committed within the boundaries of the Indiana Dunes National Lakeshore or of its right to tax persons, corporations, franchises, or other non-Federal property on lands included therein.
+Nothing in this subchapter shall deprive the State of Indiana or any political subdivision thereof of its civil and criminal jurisdiction over persons found, acts performed, and offenses committed within the boundaries of the Indiana Dunes National Park or of its right to tax persons, corporations, franchises, or other non-Federal property on lands included therein.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 8 of Pub. L. 89–761 was renumbered section 7 and is classified to [section 460u–7 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-7).
 
+#### Amendments
+2019—Pub. L. 116–6 substituted “National Park” for “National Lakeshore”.
+
 
 <a id="section-460u-9"></a>
 ## § 460u–9. Authorization of appropriations; general management plan; submittal to Congressional committees; feasibility study
 
-The Secretary may expend such sums as may be necessary from the Land and Water Conservation Fund for acquisition of lands and interests in lands, and not to exceed $27,500,000 for development: Provided, That not more than $500,000 of said amount may be appropriated for the development of the Paul H. Douglas Environmental Education Center authorized pursuant to [section 460u–20 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-20). By October 1, 1979, the Secretary shall develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a general management plan detailing the development of the national lakeshore consistent with the preservation objectives of this subchapter, indicating:
+The Secretary may expend such sums as may be necessary from the Land and Water Conservation Fund for acquisition of lands and interests in lands, and not to exceed $27,500,000 for development: Provided, That not more than $500,000 of said amount may be appropriated for the development of the Paul H. Douglas Environmental Education Center authorized pursuant to [section 460u–20 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-20). By October 1, 1979, the Secretary shall develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a general management plan detailing the development of the National Park consistent with the preservation objectives of this subchapter, indicating:
 
 (1) the facilities needed to accommodate the health, safety, and recreation needs of the visiting public;
 
 (2) the location and estimated costs of all facilities, together with a review of the consistency of the master plan with State, areawide, and local governmental development plans;
 
-(3) the projected need for any additional facilities within the national lakeshore; and
+(3) the projected need for any additional facilities within the National Park; and
 
 (4) specific opportunities for citizen participation in the planning and development of proposed facilities and in the implementation of the general management plan generally.
 The Secretary shall conduct a feasibility study of establishing United States Highway 12 as the “Indiana Dunes Parkway” under the jurisdiction of the National Park Service. The Secretary shall submit the results of such study to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1, 1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the feasibility study.
@@ -34955,6 +36887,8 @@ Amendment by section 101(16) of Pub. L. 95–625 was, in the original, to sectio
 A prior section 9 of Pub. L. 89–761 was renumbered section 8 and is classified to [section 460u–8 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460u-8).
 
 #### Amendments
+2019—Pub. L. 116–6 substituted “National Park” for “national lakeshore” in introductory provisions and par. (3).
+
 1992—Pub. L. 102–430 substituted “The Secretary may expend such sums as may be necessary from the Land and Water Conservation Fund for acquisition of lands and interests in lands, and not to exceed $27,500,000 for development:” for “The Secretary may not expend more than $60,812,100 from the Land and Water Conservation Fund for the acquisition of lands and interests in lands nor more than $20,000,000 for development:”; struck out second par. which read as follows: “In addition to any sums heretofore authorized for the acquisitions of lands and interests in lands pursuant to the provisions of this subchapter, there are further authorized to be appropriated an additional $3,120,000.”; and struck out first sentence of last par. which read as follows: “In addition to any other sums authorized for the acquisition of lands and interests in lands pursuant to the provisions of this subchapter there are authorized to be appropriated an additional $3,500,000 to be used for such purposes.”
 
 1986—Pub. L. 99–583 substituted “$20,000,000” for “$11,000,000” and inserted provisions authorizing an additional $3,500,000 for acquisition of property and directing the Secretary to conduct a feasibility study of establishing Indiana Dunes Parkway.

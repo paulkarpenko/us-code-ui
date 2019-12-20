@@ -306,6 +306,9 @@ All of that portion of the West Fork of the South Branch of the Chicago River in
 
 ### Statutory Notes
 
+#### References in Text
+Section 7 of the Act of September 19, 1890, referred to in text, is section 7 of act Sept. 19, 1890, ch. 907, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 110, which prohibited construction of certain structures in the navigable waters of the United States, with certain conditions and exceptions, and is not classified to the Code. Provisions similar to those in section 7 of act Sept. 19, 1890, were subsequently enacted by sections 9 and 10 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which are classified, respectively, to sections 401 and 403 of this title.
+
 #### Codification
 The two sentences comprising the first paragraph of this section are, respectively, sections 1 and 2 of act Jan. 24, 1923.
 
@@ -561,6 +564,11 @@ The Park River, a minor tributary of the Connecticut River, located in Hartford 
 ## § 53. Benton Harbor Canal, Michigan
 
 The Benton Harbor Canal at and above the west line of Ninth Street, in the city of Benton Harbor and State of Michigan, is declared to be not a navigable water of the United States within the meaning of the Constitution and laws of the United States.
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in text, was in the original “this Act”, meaning act June 2, 1937, ch. 288, 50 Stat. 243, sections 1 and 3 of which are classified to this section. Section 2 of the Act, which relates to abandonment of a portion of the Benton Harbor Canal project, is not classified to the Code.
 
 
 <a id="section-53a"></a>

@@ -178,12 +178,14 @@ For purposes of this chapter—
   (iii) Any transportation, transfer, or storage of oil, natural gas, or coal (including, but not limited to, by means of any deepwater port, as defined in section 1502(10) 22 See References in Text note below. of title 33).
   For purposes of this paragraph, the siting, construction, expansion, or operation of any equipment or facility shall be “in close proximity to” the coastal zone of any coastal state if such siting, construction, expansion, or operation has, or is likely to have, a significant effect on such coastal zone.
 
-(6) The term “energy facilities” means any equipment or facility which is or will be used primarily— (6a) The term “enforceable policy” means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
+(6) The term “energy facilities” means any equipment or facility which is or will be used primarily—
 
   (A) in the exploration for, or the development, production, conversion, storage, transfer, processing, or transportation of, any energy resource; or
 
   (B) for the manufacture, production, or assembly of equipment, machinery, products, or devices which are involved in any activity described in subparagraph (A).
   The term includes, but is not limited to (i) electric generating plants; (ii) petroleum refineries and associated facilities; (iii) gasification plants; (iv) facilities used for the transportation, conversion, treatment, transfer, or storage of liquefied natural gas; (v) uranium enrichment or nuclear fuel processing facilities; (vi) oil and gas facilities, including platforms, assembly plants, storage depots, tank farms, crew and supply bases, and refining complexes; (vii) facilities including deepwater ports, for the transfer of petroleum; (viii) pipelines and transmission facilities; and (ix) terminals which are associated with any of the foregoing.
+
+(6a) The term “enforceable policy” means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
 
 (7) The term “estuary” means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
 

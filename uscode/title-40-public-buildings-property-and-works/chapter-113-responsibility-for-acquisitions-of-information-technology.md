@@ -123,6 +123,9 @@ Pub. L. 115–91, div. A, title X, subtitle G, Dec. 12, 2017, 131 Stat. 1586, pr
 
 Subsec. (c)(1). Pub. L. 108–458, § 8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Management of Software Licenses
 Pub. L. 114–210, July 29, 2016, 130 Stat. 824, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2016’ or the ‘MEGABYTE Act of 2016’. “SEC. 2. OMB DIRECTIVE ON MANAGEMENT OF SOFTWARE LICENSES.“(a) Definition.—In this section—“(1) the term ‘Director’ means the Director of the Office of Management and Budget; and “(2) the term ‘executive agency’ has the meaning given that term in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code. “(b) OMB Directive.—The Director shall issue a directive to require the Chief Information Officer of each executive agency to develop a comprehensive software licensing policy, which shall—“(1) identify clear roles, responsibilities, and central oversight authority within the executive agency for managing enterprise software license agreements and commercial software licenses; and “(2) require the Chief Information Officer of each executive agency to—“(A) establish a comprehensive inventory, including 80 percent of software license spending and enterprise licenses in the executive agency, by identifying and collecting information about software license agreements using automated discovery and inventory tools; “(B) regularly track and maintain software licenses to assist the executive agency in implementing decisions throughout the software license management life cycle; “(C) analyze software usage and other data to make cost-effective decisions; “(D) provide training relevant to software license management; “(E) establish goals and objectives of the software license management program of the executive agency; and “(F) consider the software license management life cycle phases, including the requisition, reception, deployment and maintenance, retirement, and disposal phases, to implement effective decisionmaking and incorporate existing standards, processes, and metrics. “(c) Report on Software License Management.—“(1) In general.—Beginning in the first fiscal year beginning after the date of enactment of this Act [July 29, 2016], and in each of the following 5 fiscal years, the Chief Information Officer of each executive agency shall submit to the Director a report on the financial savings or avoidance of spending that resulted from improved software license management. “(2) Availability.—The Director shall make each report submitted under paragraph (1) publically available.”
 
@@ -266,15 +269,15 @@ In fulfilling the responsibilities under [section 3506(h) of title 44](https://u
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(3)
+Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(B), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(3) of this section is amended by striking “items” each place it appears and inserting “products”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 11314 | 40:1424. | Pub. L. 104–106, div. E, title LI, § 5124, Feb. 10, 1996, 110 Stat. 684. |
 
 In subsection (b), the words “Notwithstanding any other provision of this or any other law” are omitted as unnecessary.
-
-#### Amendment of Subsection (a)(3)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(B), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(3) of this section is amended by striking “items” each place it appears and inserting “products”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (a)(3). Pub. L. 115–232 substituted “products” for “items” wherever appearing.
@@ -554,6 +557,9 @@ The head of an executive agency may use amounts available to the agency for over
 Subsec. (d)(6). Pub. L. 115–88, § 3(2), and Pub. L. 115–91, § 819(b)(2), amended subsec. (d) identically, striking out par. (6). Text read as follows: “This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015.”
 
 2014—Subsec. (c). Pub. L. 113–291, § 833, added subsec. (c) relating to information technology portfolio, program, and resource reviews.
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-11331"></a>

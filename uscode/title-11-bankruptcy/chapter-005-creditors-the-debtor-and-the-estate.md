@@ -1006,7 +1006,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(4), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(5)(B)(i), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(6)(B), dollar amount “6,150” was adjusted to “6,325”; and, in subsec. (a)(7), dollar amount “2,775” was adjusted to “2,850”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(4), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(5)(B)(i), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(6)(B), dollar amount “6,325” was adjusted to “6,725”; and, in subsec. (a)(7), dollar amount “2,850” was adjusted to “3,025”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(4), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(5)(B)(i), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(6)(B), dollar amount “6,150” was adjusted to “6,325”; and, in subsec. (a)(7), dollar amount “2,775” was adjusted to “2,850”.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(4), dollar amount “11,725” was adjusted to “12,475”; in subsec. (a)(5), dollar amount “11,725” was adjusted to “12,475”; in subsec. (a)(6), dollar amount “5,775” was adjusted to “6,150”; and, in subsec. (a)(7), dollar amount “2,600” was adjusted to “2,775”.
 
@@ -1896,7 +1898,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d)(1), dollar amount “22,975” was adjusted to “23,675”; in subsec. (d)(2), dollar amount “3,675” was adjusted to “3,775”; in subsec. (d)(3), dollar amounts “575” and “12,250” were adjusted to “600” and “12,625”, respectively; in subsec. (d)(4), dollar amount “1,550” was adjusted to “1,600”; in subsec. (d)(5), dollar amounts “1,225” and “11,500” were adjusted to “1,250” and “11,850”, respectively; in subsec. (d)(6), dollar amount “2,300” was adjusted to “2,375”; in subsec. (d)(8), dollar amount “12,250” was adjusted to “12,625”; in subsec. (d)(11)(D), dollar amount “22,975” was adjusted to “23,675”; in subsec. (f)(3), dollar amount “6,225” was adjusted to “6,425”; in subsec. (f)(4), dollar amount “650” was adjusted to “675” each time it appeared; in subsec. (n), dollar amount “1,245,475” was adjusted to “1,283,025”; in subsec. (p), dollar amount “155,675” was adjusted to “160,375”; and, in subsec. (q), dollar amount “155,675” was adjusted to “160,375”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d)(1), dollar amount “23,675” was adjusted to “25,150”; in subsec. (d)(2), dollar amount “3,775” was adjusted to “4,000”; in subsec. (d)(3), dollar amounts “600” and “12,625” were adjusted to “625” and “13,400”, respectively; in subsec. (d)(4), dollar amount “1,600” was adjusted to “1,700”; in subsec. (d)(5), dollar amounts “1,250” and “11,850” were adjusted to “1,325” and “12,575”, respectively; in subsec. (d)(6), dollar amount “2,375” was adjusted to “2,525”; in subsec. (d)(8), dollar amount “12,625” was adjusted to “13,400”; in subsec. (d)(11)(D), dollar amount “23,675” was adjusted to “25,150”; in subsec. (f)(3), dollar amount “6,425” was adjusted to “6,825”; in subsec. (f)(4), dollar amount “675” was adjusted to “725” each time it appeared; in subsec. (n), dollar amount “1,283,025” was adjusted to “1,362,800”; in subsec. (p), dollar amount “160,375” was adjusted to “170,350”; and, in subsec. (q), dollar amount “160,375” was adjusted to “170,350”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d)(1), dollar amount “22,975” was adjusted to “23,675”; in subsec. (d)(2), dollar amount “3,675” was adjusted to “3,775”; in subsec. (d)(3), dollar amounts “575” and “12,250” were adjusted to “600” and “12,625”, respectively; in subsec. (d)(4), dollar amount “1,550” was adjusted to “1,600”; in subsec. (d)(5), dollar amounts “1,225” and “11,500” were adjusted to “1,250” and “11,850”, respectively; in subsec. (d)(6), dollar amount “2,300” was adjusted to “2,375”; in subsec. (d)(8), dollar amount “12,250” was adjusted to “12,625”; in subsec. (d)(11)(D), dollar amount “22,975” was adjusted to “23,675”; in subsec. (f)(3), dollar amount “6,225” was adjusted to “6,425”; in subsec. (f)(4), dollar amount “650” was adjusted to “675” each time it appeared; in subsec. (n), dollar amount “1,245,475” was adjusted to “1,283,025”; in subsec. (p), dollar amount “155,675” was adjusted to “160,375”; and, in subsec. (q), dollar amount “155,675” was adjusted to “160,375”.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d)(1), dollar amount “21,625” was adjusted to “22,975”; in subsec. (d)(2), dollar amount “3,450” was adjusted to “3,675”; in subsec. (d)(3), dollar amounts “550” and “11,525” were adjusted to “575” and “12,250”, respectively; in subsec. (d)(4), dollar amount “1,450” was adjusted to “1,550”; in subsec. (d)(5), dollar amounts “1,150” and “10,825” were adjusted to “1,225” and “11,500”, respectively; in subsec. (d)(6), dollar amount “2,175” was adjusted to “2,300”; in subsec. (d)(8), dollar amount “11,525” was adjusted to “12,250”; in subsec. (d)(11)(D), dollar amount “21,625” was adjusted to “22,975”; in subsec. (f)(3), dollar amount “5,850” was adjusted to “6,225”; in subsec. (f)(4), dollar amount “600” was adjusted to “650” each time it appeared; in subsec. (n), dollar amount “1,171,650” was adjusted to “1,245,475”; in subsec. (p), dollar amount “146,450” was adjusted to “155,675”; and, in subsec. (q), dollar amount “146,450” was adjusted to “155,675”.
 
@@ -1913,7 +1917,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 <a id="section-523"></a>
 ## § 523. Exceptions to discharge
-**(a)** A discharge under section 727, 1141, 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt—
+**(a)** A discharge under section 727, 1141, 1192 11 So in original. Probably should be followed by a comma. 1228(a), 1228(b), or 1328(b) of this title does not discharge an individual debtor from any debt—
 
 (1) for a tax or a customs duty—
 
@@ -1945,9 +1949,9 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
     (i) for purposes of subparagraph (A)—
 
-      (I) consumer debts owed to a single creditor and aggregating more than $500 11 See Adjustment of Dollar Amounts notes below. for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
+      (I) consumer debts owed to a single creditor and aggregating more than $500 22 See Adjustment of Dollar Amounts notes below. for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
 
-      (II) cash advances aggregating more than $750 1 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
+      (II) cash advances aggregating more than $750 2 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
 
     (ii) for purposes of this subparagraph—
 
@@ -1993,7 +1997,11 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 (13) for any payment of an order of restitution issued under title 18, United States Code;
 
-(14) incurred to pay a tax to the United States that would be nondischargeable pursuant to paragraph (1);(14A) incurred to pay a tax to a governmental unit, other than the United States, that would be nondischargeable under paragraph (1); (14B) incurred to pay fines or penalties imposed under Federal election law;
+(14) incurred to pay a tax to the United States that would be nondischargeable pursuant to paragraph (1);
+
+(14A) incurred to pay a tax to a governmental unit, other than the United States, that would be nondischargeable under paragraph (1);
+
+(14B) incurred to pay fines or penalties imposed under Federal election law;
 
 (15) to a spouse, former spouse, or child of the debtor and not of the kind described in paragraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree or other order of a court of record, or a determination made in accordance with State or territorial law by a governmental unit;
 
@@ -2025,7 +2033,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
     (iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
 For purposes of this subsection, the term “return” means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
 
-**(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 22 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 2 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+**(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 33 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 3 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 
 **(c)**
 
@@ -2142,6 +2150,8 @@ Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), wa
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, § 327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, § 2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See [section 292f(g) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section292f/g&num=0&edition=prelim).
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–54 inserted “1192” after “1141,” in introductory provisions.
+
 2010—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, § 2(a)(18)(A), substituted semicolon for period at end.
 
 Subsec. (a)(3). Pub. L. 111–327, § 2(a)(18)(B), substituted “521(a)(1)” for “521(1)” in introductory provisions.
@@ -2284,6 +2294,9 @@ Subsec. (d). Pub. L. 98–353, § 307(b), substituted “the court shall grant j
 
 1979—Subsec. (a)(8). Pub. L. 96–56 substituted “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education” for “to a governmental unit, or a nonprofit institution of higher education, for an educational loan” in the provisions preceding subpar. (A) and inserted “(exclusive of any applicable suspension of the repayment period)” after “before five years” in subpar. (A).
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 #### Effective Date of 2005 Amendment
 Pub. L. 109–8, title XIV, § 1404(b), Apr. 20, 2005, 119 Stat. 215, provided that: “The amendment made by subsection (a) [amending this section] is effective beginning July 30, 2002.”
 
@@ -2321,7 +2334,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(2)(C)(i)(I), dollar amount “650” was adjusted to “675” and, in subsec. (a)(2)(C)(i)(II), dollar amount “925” was adjusted to “950”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(2)(C)(i)(I), dollar amount “675” was adjusted to “725” and, in subsec. (a)(2)(C)(i)(II), dollar amount “950” was adjusted to “1,000”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(2)(C)(i)(I), dollar amount “650” was adjusted to “675” and, in subsec. (a)(2)(C)(i)(II), dollar amount “925” was adjusted to “950”.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(2)(C)(i)(I), dollar amount “600” was adjusted to “650” and, in subsec. (a)(2)(C)(i)(II), dollar amount “875” was adjusted to “925”.
 
@@ -2342,11 +2357,11 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 ## § 524. Effect of discharge
 **(a)** A discharge in a case under this title—
 
-(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged under section 727, 944, 1141, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
+(1) voids any judgment at any time obtained, to the extent that such judgment is a determination of the personal liability of the debtor with respect to any debt discharged under section 727, 944, 1141, 1192, 1228, or 1328 of this title, whether or not discharge of such debt is waived;
 
 (2) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor, whether or not discharge of such debt is waived; and
 
-(3) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect or recover from, or offset against, property of the debtor of the kind specified in [section 541(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section541/a/2&num=0&edition=prelim) that is acquired after the commencement of the case, on account of any allowable community claim, except a community claim that is excepted from discharge under section 523, 1228(a)(1), or 1328(a)(1), or that would be so excepted, determined in accordance with the provisions of sections 523(c) and 523(d) of this title, in a case concerning the debtor’s spouse commenced on the date of the filing of the petition in the case concerning the debtor, whether or not discharge of the debt based on such community claim is waived.
+(3) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect or recover from, or offset against, property of the debtor of the kind specified in [section 541(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section541/a/2&num=0&edition=prelim) that is acquired after the commencement of the case, on account of any allowable community claim, except a community claim that is excepted from discharge under section 523, 1192, 1228(a)(1), or 1328(a)(1), or that would be so excepted, determined in accordance with the provisions of sections 523(c) and 523(d) of this title, in a case concerning the debtor’s spouse commenced on the date of the filing of the petition in the case concerning the debtor, whether or not discharge of the debt based on such community claim is waived.
 
 **(b)** Subsection (a)(3) of this section does not apply if—
 
@@ -2364,7 +2379,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
 **(c)** An agreement between a holder of a claim and the debtor, the consideration for which, in whole or in part, is based on a debt that is dischargeable in a case under this title is enforceable only to any extent enforceable under applicable nonbankruptcy law, whether or not discharge of such debt is waived, only if—
 
-(1) such agreement was made before the granting of the discharge under section 727, 1141, 1228, or 1328 of this title;
+(1) such agreement was made before the granting of the discharge under section 727, 1141, 1192, 1228, or 1328 of this title;
 
 (2) the debtor received the disclosures described in subsection (k) at or before the time at which the debtor signed the agreement;
 
@@ -2394,7 +2409,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
   (B) Subparagraph (A) shall not apply to the extent that such debt is a consumer debt secured by real property.
 
-**(d)** In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
+**(d)** In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1192, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
 
 (1) inform the debtor—
 
@@ -2680,6 +2695,14 @@ The Truth in Lending Act, referred to in subsec. (k), is title I of Pub. L. 90�
 Section 19(b)(1)(A)(iv) of the Federal Reserve Act, referred to in subsecs. (k)(6)(B) and (m)(2), is classified to [section 461(b)(1)(A)(iv) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/1/A/iv&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–54, § 4(a)(9)(A)(i), inserted “1192,” after “1141,”.
+
+Subsec. (a)(3). Pub. L. 116–54, § 4(a)(9)(A)(ii), inserted “1192,” after “523,”.
+
+Subsec. (c)(1). Pub. L. 116–54, § 4(a)(9)(B), inserted “1192,” after “1141,”.
+
+Subsec. (d). Pub. L. 116–54, § 4(a)(9)(C), inserted “1192,” after “1141,”.
+
 2010—Subsec. (k)(3)(J)(i). Pub. L. 111–327, § 2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
 
 Subsec. (k)(5)(B). Pub. L. 111–327, § 2(a)(19)(B), substituted “that,” for “that”.
@@ -2737,6 +2760,9 @@ Subsec. (c)(6). Pub. L. 98–353, § 308(b)(2), (4), redesignated former par. (4
 Subsec. (d)(2). Pub. L. 98–353, § 308(c), substituted “subsection (c)(6)” for “subsection (c)(4)”.
 
 Subsec. (f). Pub. L. 98–353, § 308(d), added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -3085,7 +3111,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
     (ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
 
-  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
+  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.2
 Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
 **(c)**
@@ -3224,7 +3250,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(5)(C), (6)(C), dollar amount “6,225” was adjusted to “6,425”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(5)(C), (6)(C), (10)(C), dollar amount “6,425” was adjusted to “6,825”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(5)(C), (6)(C), dollar amount “6,225” was adjusted to “6,425”.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(5)(C), (6)(C), dollar amount “5,850” was adjusted to “6,225”.
 
@@ -3610,7 +3638,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
-**(b)** Except as provided in subsections (c) and (i) of this section, the trustee may avoid any transfer of an interest of the debtor in property—
+**(b)** Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
 
 (1) to or for the benefit of a creditor;
 
@@ -3771,6 +3799,8 @@ Subsection (e) is designed to reach the different results under the 1962 version
 Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–54 inserted “, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c),” after “may” in introductory provisions.
+
 2005—Subsec. (b). Pub. L. 109–8, § 1213(a)(1), substituted “subsections (c) and (i)” for “subsection (c)” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 109–8, § 409(1), added par. (2) and struck out former par. (2) which read as follows: “to the extent that such transfer was—
@@ -3837,6 +3867,9 @@ Subsec. (e)(2)(C)(i). Pub. L. 98–353, § 462(f), substituted “or” for “a
 
 Subsec. (g). Pub. L. 98–353, § 462(g), added subsec. (g).
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 #### Effective Date of 2005 Amendment
 Pub. L. 109–8, title XII, § 1213(b), Apr. 20, 2005, 119 Stat. 195, provided that: “The amendments made by this section [amending this section] shall apply to any case that is pending or commenced on or after the date of enactment of this Act [Apr. 20, 2005].”
 
@@ -3854,7 +3887,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (c)(9), dollar amount “6,225” was adjusted to “6,425”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (c)(9), dollar amount “6,425” was adjusted to “6,825”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (c)(9), dollar amount “6,225” was adjusted to “6,425”.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (c)(9), dollar amount “5,850” was adjusted to “6,225”.
 
@@ -4474,7 +4509,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
   (D) such other method as is equitable in the case;
 
-(3) subject to sections 701, 702, 703, 1104, 1202, and 1302 of this title, the appointment of a trustee or examiner and the retention and compensation of any professional person required to assist with respect to matters relevant to the determination of interests in or disposition of such grain or the proceeds of grain; and
+(3) subject to sections 701, 702, 703, 1104, 1183, 1202, and 1302 of this title, the appointment of a trustee or examiner and the retention and compensation of any professional person required to assist with respect to matters relevant to the determination of interests in or disposition of such grain or the proceeds of grain; and
 
 (4) the determination of any dispute concerning a matter specified in paragraph (1), (2), or (3) of this subsection.
 
@@ -4509,6 +4544,8 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d)(3). Pub. L. 116–54 inserted “1183,” after “1104,”.
+
 1986—Subsec. (d)(3). Pub. L. 99–554 inserted reference to [section 1202 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1202).
 
 #### Effective Date of 1986 Amendment

@@ -45,8 +45,8 @@ Provisions similar to those in this section were contained in [section 2540 of t
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
-<a id="section-18505-1"></a>
-## § 18505.1. Reserves traveling for inactive-duty training: space-required travel on military aircraft
+<a id="section-18505"></a>
+## § 18505. Reserves traveling for inactive-duty training: space-required travel on military aircraft
 **(a)** A member of a reserve component traveling for inactive-duty training (including a place other than the place of the member’s unit training assembly if the member is performing inactive-duty training in another location) may travel in a space-required status on aircraft of the armed forces between the member’s home and the place of the inactive-duty training.
 
 **(b)** A member traveling in a space-required status on any such aircraft under subsection (a) is not authorized to receive travel, transportation, or per diem allowances in connection with that travel.

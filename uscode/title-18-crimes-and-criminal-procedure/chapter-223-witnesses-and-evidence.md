@@ -30,13 +30,37 @@ Pub. L. 105–6, § 1, Mar. 19, 1997, 111 Stat. 12, provided that: “This Act [
 #### References in Text
 Rule 26 of the Federal Rules of Criminal Procedure, referred to in text, was amended in 1972. The subject matter is covered by the Federal Rules of Evidence, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+### Notes
+
+Competency and privileges of witnesses and admissibility of evidence governed by principles of common law, Rule 26.
+
 
 <a id="section-3483"></a>
 ## § 3483. Indigent defendants, process to produce evidence—(Rule)
 
+### Notes
+
+Subpoena for indigent defendants, motion, affidavit, costs, Rule 17(b).
+
 
 <a id="section-3484"></a>
 ## § 3484. Subpoenas—(Rule)
+
+### Notes
+
+Form, contents and issuance of subpoena, Rule 17(a).
+
+Service in United States, Rule 17(d), (e,1).
+
+Service in foreign country, Rule 17(d), (e,2).
+
+Indigent defendants, Rule 17(b).
+
+On taking depositions, Rule 17(f).
+
+Papers and documents, Rule 17(c).
+
+Disobedience of subpoena as contempt of court, Rule 17(g).
 
 
 <a id="section-3485"></a>
@@ -46,6 +70,10 @@ Rule 26 of the Federal Rules of Criminal Procedure, referred to in text, was ame
 
 #### References in Text
 Rule 28 of the Federal Rules of Criminal Procedure, referred to in text, was amended in 1972. The subject matter of this reference is covered by Federal Rules of Evidence, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Notes
+
+Selection and appointment of expert witnesses by court or parties; compensation, Rule 28.
 
 
 <a id="section-3486"></a>
@@ -214,9 +242,17 @@ The only change made was the insertion of the word “Indian” before “countr
 <a id="section-3489"></a>
 ## § 3489. Discovery and inspection—(Rule)
 
+### Notes
+
+Inspection of documents and papers taken from defendant, Rule 16.
+
 
 <a id="section-3490"></a>
 ## § 3490. Official record or entry—(Rule)
+
+### Notes
+
+Proof of official record or entry as in civil actions, Rule 27.
 
 
 <a id="section-3491"></a>
@@ -356,9 +392,19 @@ Words in second sentence of said [section 355 of title 18](https://uscode.house.
 <a id="section-3498"></a>
 ## § 3498. Depositions—(Rule)
 
+### Notes
+
+Time, manner and conditions of taking depositions; costs; notice; use; objections; written interrogatories, Rule 15.
+
+Subpoenas on taking depositions, Rule 17(f).
+
 
 <a id="section-3499"></a>
 ## § 3499. Contempt of court by witness—(Rule)
+
+### Notes
+
+Disobedience of subpoena without excuse as contempt, Rule 17(g).
 
 
 <a id="section-3500"></a>
@@ -858,7 +904,7 @@ Section 802(a) of the National Security Act of 1947, referred to in subsecs. (a)
 2015—Subsec. (b). Pub. L. 114–23 added subsec. (b) and struck out former subsec. (b) which related to petitions for court orders modifying or setting aside a nondisclosure requirement imposed in connection with a request for records, reports, or other information.
 
 #### Reports on National Security Letters
-Pub. L. 109–177, title I, § 118, Mar. 9, 2006, 120 Stat. 217, as amended by Pub. L. 114–23, title VI, § 602(c), June 2, 2015, 129 Stat. 294, provided that: “(a) Existing Reports.—Any report made to a committee of Congress regarding national security letters under [section 2709(c)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2709/c/1&num=0&edition=prelim), United States Code, section 626(d) or 627(c) of the Fair Credit Reporting Act ([15 U.S.C. 1681u(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681u/d&num=0&edition=prelim) or 1681v(c)), section 1114(a)(3) or 1114(a)(5)(D) of the Right to Financial Privacy Act [of 1978] ([12 U.S.C. 3414(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3414/a/3&num=0&edition=prelim) or 3414(a)(5)(D)), or section 802(b) of the National Security Act of 1947 ([50 U.S.C. 436(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section436/b&num=0&edition=prelim) [now [50 U.S.C. 3162(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162/b&num=0&edition=prelim)]) shall also be made to the Committees on the Judiciary of the House of Representatives and the Senate. “(b) Enhanced Oversight of Fair Credit Reporting Act Counterterrorism National Security Letter.—[Amended [section 1681v of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681v&num=0&edition=prelim), Commerce and Trade.] “(c) Report on Requests for National Security Letters.—“(1) In general.—In April of each year, the Attorney General shall submit to Congress an aggregate report setting forth with respect to the preceding year the total number of requests made by the Department of Justice for information concerning different persons under—“(A) [section 2709 of title 18](./chapter-121-stored-wire-and-electronic-communications-and-transactional-records-access.md#section-2709), United States Code (to access certain communication service provider records); “(B) section 1114 of the Right to Financial Privacy Act [of 1978] ([12 U.S.C. 3414](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3414&num=0&edition=prelim)) (to obtain financial institution customer records); “(C) section 802 of the National Security Act of 1947 ([50 U.S.C. 436](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section436&num=0&edition=prelim)) [now [50 U.S.C. 3162](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162&num=0&edition=prelim)] (to obtain financial information, records, and consumer reports); “(D) section 626 of the Fair Credit Reporting Act ([15 U.S.C. 1681u](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681u&num=0&edition=prelim)) (to obtain certain financial information and consumer reports); and “(E) section 627 of the Fair Credit Reporting Act ([15 U.S.C. 1681v](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681v&num=0&edition=prelim)) (to obtain credit agency consumer records for counterterrorism investigations). “(2) Content.—“(A) In general.—Except as provided in subparagraph (B), each report required under this subsection shall include a good faith estimate of the total number of requests described in paragraph (1) requiring disclosure of information concerning—“(i) United States persons; and “(ii) persons who are not United States persons. “(B) Exception.—With respect to the number of requests for subscriber information under [section 2709 of title 18](./chapter-121-stored-wire-and-electronic-communications-and-transactional-records-access.md#section-2709), United States Code, a report required under this subsection need not separate the number of requests into each of the categories described in subparagraph (A). “(3) Unclassified form.—The report under this section shall be submitted in unclassified form. “(d) National Security Letter Defined.—In this section, the term ‘national security letter’ means a request for information under one of the following provisions of law:“(1) [Section 2709(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2709/a&num=0&edition=prelim), United States Code (to access certain communication service provider records). “(2) Section 1114(a)(5)(A) of the Right to Financial Privacy Act [of 1978] ([12 U.S.C. 3414(a)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3414/a/5/A&num=0&edition=prelim)) (to obtain financial institution customer records). “(3) Section 802 of the National Security Act of 1947 ([50 U.S.C. 436](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section436&num=0&edition=prelim)) [now [50 U.S.C. 3162](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162&num=0&edition=prelim)] (to obtain financial information, records, and consumer reports). “(4) Section 626 of the Fair Credit Reporting Act ([15 U.S.C. 1681u](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681u&num=0&edition=prelim)) (to obtain certain financial information and consumer reports). “(5) Section 627 of the Fair Credit Reporting Act ([15 U.S.C. 1681v](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681v&num=0&edition=prelim)) (to obtain credit agency consumer records for counterterrorism investigations).”
+Pub. L. 109–177, title I, § 118, Mar. 9, 2006, 120 Stat. 217, as amended by Pub. L. 114–23, title VI, § 602(c), June 2, 2015, 129 Stat. 294, provided that: “(a) Existing Reports.—Any report made to a committee of Congress regarding national security letters under [section 2709(c)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2709/c/1&num=0&edition=prelim), United States Code, section 626(d) or 627(c) of the Fair Credit Reporting Act ([15 U.S.C. 1681u(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681u/d&num=0&edition=prelim) or 1681v(c)), section 1114(a)(3) or 1114(a)(5)(D) of the Right to Financial Privacy Act [of 1978] ([12 U.S.C. 3414(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3414/a/3&num=0&edition=prelim) or 3414(a)(5)(D)), or section 802(b) of the National Security Act of 1947 ([50 U.S.C. 436(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section436/b&num=0&edition=prelim) [now [50 U.S.C. 3162(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162/b&num=0&edition=prelim)]) shall also be made to the Committees on the Judiciary of the House of Representatives and the Senate. “(b) Enhanced Oversight of Fair Credit Reporting Act Counterterrorism National Security Letter.— [Amended [section 1681v of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681v&num=0&edition=prelim), Commerce and Trade.] “(c) Report on Requests for National Security Letters.—“(1) In general.—In April of each year, the Attorney General shall submit to Congress an aggregate report setting forth with respect to the preceding year the total number of requests made by the Department of Justice for information concerning different persons under—“(A) [section 2709 of title 18](./chapter-121-stored-wire-and-electronic-communications-and-transactional-records-access.md#section-2709), United States Code (to access certain communication service provider records); “(B) section 1114 of the Right to Financial Privacy Act [of 1978] ([12 U.S.C. 3414](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3414&num=0&edition=prelim)) (to obtain financial institution customer records); “(C) section 802 of the National Security Act of 1947 ([50 U.S.C. 436](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section436&num=0&edition=prelim)) [now [50 U.S.C. 3162](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162&num=0&edition=prelim)] (to obtain financial information, records, and consumer reports); “(D) section 626 of the Fair Credit Reporting Act ([15 U.S.C. 1681u](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681u&num=0&edition=prelim)) (to obtain certain financial information and consumer reports); and “(E) section 627 of the Fair Credit Reporting Act ([15 U.S.C. 1681v](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681v&num=0&edition=prelim)) (to obtain credit agency consumer records for counterterrorism investigations). “(2) Content.—“(A) In general.—Except as provided in subparagraph (B), each report required under this subsection shall include a good faith estimate of the total number of requests described in paragraph (1) requiring disclosure of information concerning—“(i) United States persons; and “(ii) persons who are not United States persons. “(B) Exception.—With respect to the number of requests for subscriber information under [section 2709 of title 18](./chapter-121-stored-wire-and-electronic-communications-and-transactional-records-access.md#section-2709), United States Code, a report required under this subsection need not separate the number of requests into each of the categories described in subparagraph (A). “(3) Unclassified form.—The report under this section shall be submitted in unclassified form. “(d) National Security Letter Defined.—In this section, the term ‘national security letter’ means a request for information under one of the following provisions of law:“(1) [Section 2709(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2709/a&num=0&edition=prelim), United States Code (to access certain communication service provider records). “(2) Section 1114(a)(5)(A) of the Right to Financial Privacy Act [of 1978] ([12 U.S.C. 3414(a)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3414/a/5/A&num=0&edition=prelim)) (to obtain financial institution customer records). “(3) Section 802 of the National Security Act of 1947 ([50 U.S.C. 436](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section436&num=0&edition=prelim)) [now [50 U.S.C. 3162](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162&num=0&edition=prelim)] (to obtain financial information, records, and consumer reports). “(4) Section 626 of the Fair Credit Reporting Act ([15 U.S.C. 1681u](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681u&num=0&edition=prelim)) (to obtain certain financial information and consumer reports). “(5) Section 627 of the Fair Credit Reporting Act ([15 U.S.C. 1681v](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681v&num=0&edition=prelim)) (to obtain credit agency consumer records for counterterrorism investigations).”
 
 
 <a id="section-3512"></a>

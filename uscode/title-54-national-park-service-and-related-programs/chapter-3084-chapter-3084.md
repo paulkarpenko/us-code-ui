@@ -18,8 +18,8 @@ Pub. L. 115–104, § 2, Jan. 8, 2018, 131 Stat. 2260, provided that: “The pur
 
 
 <a id="section-308402"></a>
-## § 308402. U.S. Civil Rights Network
-**(a) In General.—** The Secretary shall establish, within the Service, a program to be known as the “U.S. Civil Rights Network”.
+## § 308402. African American Civil Rights Network
+**(a) In General.—** The Secretary shall establish, within the Service, a program to be known as the “African American Civil Rights Network”.
 
 **(b) Duties of Secretary.—** In carrying out the Network, the Secretary shall—
 
@@ -48,6 +48,14 @@ Pub. L. 115–104, § 2, Jan. 8, 2018, 131 Stat. 2260, provided that: “The pur
   (C) are included in, or determined by the Secretary to be eligible for inclusion in, the National Register of Historic Places.
 
 (3) Other governmental and nongovernmental facilities and programs of an educational, research, or interpretive nature that are directly related to the African American civil rights movement.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–9 substituted “African American Civil Rights Network” for “U.S. Civil Rights Network” in section catchline and subsec. (a).
+
+#### References
+Pub. L. 116–9, title II, § 2407(c), Mar. 12, 2019, 133 Stat. 750, provided that: “Any reference in any law (other than in this section [amending this section and analyses preceding section 100101 and preceding [section 308401 of this title](./chapter-3084-chapter-3084.md#section-308401)]), regulation, document, record, map, or other paper of the United States to the ‘U.S. Civil Rights Network’ shall be considered to be a reference to the ‘African American Civil Rights Network’.”
 
 
 <a id="section-308403"></a>

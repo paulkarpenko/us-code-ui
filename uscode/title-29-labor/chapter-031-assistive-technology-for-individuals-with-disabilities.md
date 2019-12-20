@@ -931,6 +931,9 @@ Subsec. (a)(3). Pub. L. 113–128, § 491(o)(3)(A)(iii), substituted “the Admi
 
 Subsec. (c)(5). Pub. L. 113–128, § 491(o)(3)(B), substituted “Health and Human Services” for “Education”.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-3007"></a>
 ## § 3007. Authorization of appropriations

@@ -42,7 +42,7 @@ In this chapter:
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 115–246, Sept. 28, 2018, 132 Stat. 3130, known as the Department of Energy Research and Innovation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
-Pub. L. 115–246, § 1(a), Sept. 28, 2018, 132 Stat. 3130, provided that: “This Act [see Tables for classification] may be cited as the ‘Department of Energy Research and Innovation Act’.”
+Pub. L. 115–246, § 1(a), Sept. 28, 2018, 132 Stat. 3130, provided that: “This Act [see Short Title notes below and Tables for classification] may be cited as the ‘Department of Energy Research and Innovation Act’.”
 
 Pub. L. 115–246, title I, § 101, Sept. 28, 2018, 132 Stat. 3131, provided that: “This title [enacting subchapter I of this chapter and amending sections 16352 and 16391 of this title] may be cited as the ‘Laboratory Modernization and Technology Transfer Act’.”
 

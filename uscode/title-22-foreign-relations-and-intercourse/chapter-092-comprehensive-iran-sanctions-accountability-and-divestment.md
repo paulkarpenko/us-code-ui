@@ -12,7 +12,7 @@ source: >-
 
 (1) the Government of Iran has ceased providing support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism (as defined in section 301 [[22 U.S.C. 8541](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8541)]) under—
 
-  (A) [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or any successor thereto); 11 See References in Text note below.
+  (A) section 4605(j)(1)(A) 11 See References in Text note below. of title 50 (or any successor thereto);
 
   (B) [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim); or
 
@@ -639,6 +639,8 @@ Barack Obama.
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
 
+Determination of President of the United States, No. 2019–12, Apr. 29, 2019, 84 F.R. 22327.
+
 Determination of President of the United States, No. 2019–04, Oct. 31, 2018, 83 F.R. 57673.
 
 Determination of President of the United States, No. 2018–08, May 14, 2018, 83 F.R. 26345.
@@ -1166,7 +1168,7 @@ In this subchapter:
 
 (13) **State sponsor of terrorism** — The term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to—
 
-  (A) [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or any successor thereto); 11 See References in Text note below.
+  (A) section 4605(j)(1)(A) 11 See References in Text note below. of title 50 (or any successor thereto);
 
   (B) [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim); or
 

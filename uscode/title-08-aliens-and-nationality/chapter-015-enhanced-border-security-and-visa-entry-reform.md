@@ -251,6 +251,11 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In
 #### Codification
 Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim), Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim).
 
+Section appears under the heading “Consular and Border Security Programs” in title VII of div. J of Pub. L. 115–31. It was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
+
+#### Transfer of Balances
+Pub. L. 116–6, div. F, title VII, § 7034(m)(9), Feb. 15, 2019, 133 Stat. 327, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [[8 U.S.C. 1715(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1715/h&num=0&edition=prelim)] shall continue in effect during fiscal year 2019.”
+
 
 <a id="section-1722"></a>
 ## § 1722. Interim measures for access to and coordination of law enforcement and other information

@@ -271,9 +271,11 @@ Pub. L. 103–397, §5(b)(3), Oct. 22, 1994, 108 Stat. 4159, provided for the am
 Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1998.
 
 #### Proportional Payments to Local Governments
-Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 651, provided in part: “That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter [meaning chapter 69 of Title 31, [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally”.
+Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 222, provided in part: “That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter [meaning chapter 69 of Title 31, [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally”.
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 651.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 452.
 
@@ -362,7 +364,7 @@ The provisions of Act of December 23, 1980 (Public Law 96–586, 94 Stat. 3383) 
 <a id="section-6906"></a>
 ## § 6906. Funding
 
-For fiscal year 2018—
+For fiscal year 2019—
 
 (1) each county or other eligible unit of local government shall be entitled to payment under this chapter; and
 
@@ -378,6 +380,8 @@ For fiscal year 2018—
 The words “to the Secretary of the Interior” are added for clarity. The words “Provided, That, notwithstanding any other provision of this chapter” and “in advance” are omitted as unnecessary.
 
 #### Amendments
+2019—Pub. L. 116–6 substituted “fiscal year 2019” for “fiscal year 2018” in introductory provisions.
+
 2018—Pub. L. 115–141 substituted “fiscal year 2018” for “each of fiscal years 2008 through 2014” in introductory provisions.
 
 2014—Pub. L. 113–79 substituted “2014” for “2013” in introductory provisions.

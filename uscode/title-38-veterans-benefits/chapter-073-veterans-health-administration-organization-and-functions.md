@@ -1886,13 +1886,13 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92
 
   (A) The Secretary shall use the market area assessments established under paragraph (1) to—
 
-    (i) determine the capacity of the health care provider networks established under section 1703(h) 11 See References in Text note below. of this title;
+    (i) determine the capacity of the health care provider networks established under [section 1703(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1703/h&num=0&edition=prelim);
 
     (ii) inform the Department budget, in accordance with subparagraph (B); and
 
     (iii) inform and assess the appropriateness of the access standards established under [section 1703B of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703b) and standards for quality under [section 1703C of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703c) and to make recommendations for any changes to such standards.
 
-  (B) The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in section 1703(b) 1 of this title.
+  (B) The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in [section 1703(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1703/b&num=0&edition=prelim).
 
 **(b) Strategic Plan To Meet Health Care Demand.—**
 
@@ -1944,8 +1944,6 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92
 
 #### References in Text
 The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsecs. (a)(3)(B) and (b), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
-
-[Section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), referred to in subsec. (a)(4)(A)(i), (B), probably means [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703) as amended by Pub. L. 115–182, title I, § 101(a)(1), June 6, 2018, 132 Stat. 1395, which takes effect on the date specified in section 101(b) of Pub. L. 115–182. See Amendment of Section and Effective Date of 2018 Amendment notes set out under [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703).
 
 #### Amendments
 2018—Subsec. (a)(1). Pub. L. 115–251, § 211(a)(11)(A)(i), substituted “Secretary shall” for “Secretary of Veterans Affairs shall”.
@@ -2029,7 +2027,7 @@ Subchapter effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out
 
     (ii) An entity to which a record is disclosed under this subparagraph may not disclose or use such record for a purpose other than that for which the disclosure was made or as permitted by law.
 
-      (I) To a third party in order to recover or collect reasonable charges for care furnished to, or paid on behalf of, a patient in connection with a non-service connected disability as permitted by [section 1729 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1729) or for a condition for which recovery is authorized or with respect to which the United States is deemed to be a third party beneficiary under the Act entitled “An Act to provide for the recovery from tortiously liable third persons of the cost of hospital and medical care and treatment furnished by the United States” (Public Law 87–693; [42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.; commonly known as the “Federal Medical Care Recovery Act”).
+  (I) To a third party in order to recover or collect reasonable charges for care furnished to, or paid on behalf of, a patient in connection with a non-service connected disability as permitted by [section 1729 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1729) or for a condition for which recovery is authorized or with respect to which the United States is deemed to be a third party beneficiary under the Act entitled “An Act to provide for the recovery from tortiously liable third persons of the cost of hospital and medical care and treatment furnished by the United States” (Public Law 87–693; [42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.; commonly known as the “Federal Medical Care Recovery Act”).
 
 (3) In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the next of kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to [section 7334 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7334).
 

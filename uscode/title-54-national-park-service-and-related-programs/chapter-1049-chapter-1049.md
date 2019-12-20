@@ -2,7 +2,7 @@
 title: 54
 chapter: '1049'
 heading: Chapter 1049
-section_count: 7
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&num=0&edition=prelim
 ---
@@ -139,3 +139,33 @@ No extension or establishment of national parks in Wyoming may be undertaken exc
 | 104907 | [16 U.S.C. 451a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section451a&num=0&edition=prelim). | Sept. 14, 1950, ch. 950, § 1 (proviso relating to national parks), 64 Stat. 849. |
 
 The word “further” is omitted as obsolete.
+
+
+<a id="section-104908"></a>
+## § 104908. Bows in parks
+**(a) Definition of Not Ready for Immediate Use.—** The term “not ready for immediate use” means—
+
+(1) a bow or crossbow, the arrows of which are secured or stowed in a quiver or other arrow transport case; and
+
+(2) with respect to a crossbow, uncocked.
+
+**(b) Vehicular Transportation Authorized.—** The Director shall not promulgate or enforce any regulation that prohibits an individual from transporting bows and crossbows that are not ready for immediate use across any System unit in the vehicle of the individual if—
+
+(1) the individual is not otherwise prohibited by law from possessing the bows and crossbows;
+
+(2) the bows or crossbows that are not ready for immediate use remain inside the vehicle of the individual throughout the period during which the bows or crossbows are transported across System land; and
+
+(3) the possession of the bows and crossbows is in compliance with the law of the State in which the System unit is located.
+
+
+<a id="section-104909"></a>
+## § 104909. Wildlife management in parks
+**(a) Use of Qualified Volunteers.—** If the Secretary determines it is necessary to reduce the size of a wildlife population on System land in accordance with applicable law (including regulations), the Secretary may use qualified volunteers to assist in carrying out wildlife management on System land.
+
+**(b) Requirements for Qualified Volunteers.—** Qualified volunteers providing assistance under subsection (a) shall be subject to—
+
+(1) any training requirements or qualifications established by the Secretary; and
+
+(2) any other terms and conditions that the Secretary may require.
+
+**(c) Donations.—** The Secretary may authorize the donation and distribution of meat from wildlife management activities carried out under this section, including the donation and distribution to Indian Tribes, qualified volunteers, food banks, and other organizations that work to address hunger, in accordance with applicable health guidelines and such terms and conditions as the Secretary may require.

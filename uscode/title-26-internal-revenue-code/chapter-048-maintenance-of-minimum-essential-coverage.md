@@ -22,7 +22,7 @@ source: >-
 
   (B) files a joint return for the taxable year including such month, such individual and the spouse of such individual shall be jointly liable for such penalty.
 
-**(c) 11 See Amendment of Subsection (c) note below. Amount of penalty**
+**(c) Amount of penalty**
 
 (1) **In general** — The amount of the penalty imposed by this section on any taxpayer for any taxable year with respect to failures described in subsection (b)(1) shall be equal to the lesser of—
 
@@ -44,22 +44,15 @@ source: >-
 
     (ii) 2.0 percent for taxable years beginning in 2015.
 
-    (iii) 2.5 percent for taxable years beginning after 2015.
+    (iii) Zero percent for taxable years beginning after 2015.
 
 (3) **Applicable dollar amount** — For purposes of paragraph (1)—
 
-  (A) *In general* — Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $695.
+  (A) *In general* — Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.
 
   (B) *Phase in* — The applicable dollar amount is $95 for 2014 and $325 for 2015.
 
   (C) *Special rule for individuals under age 18* — If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
-
-  (D) *Indexing of amount* — In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
-
-    (i) $695, multiplied by
-
-    (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-    If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
 (4) **Terms relating to income and families** — For purposes of this section—
 
@@ -133,7 +126,7 @@ source: >-
 
     (ii) in the case of an individual eligible only to purchase minimum essential coverage described in subsection (f)(1)(C), the annual premium for the lowest cost bronze plan available in the individual market through the Exchange in the State in the rating area in which the individual resides (without regard to whether the individual purchased a qualified health plan through the Exchange), reduced by the amount of the credit allowable under section 36B for the taxable year (determined as if the individual was covered by a qualified health plan offered through the Exchange for the entire taxable year).
 
-  (C) *Special rules for individuals related to employees* — For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to 22 So in original. Probably should be followed by “the”. required contribution of the employee.
+  (C) *Special rules for individuals related to employees* — For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to 11 So in original. Probably should be followed by “the”. required contribution of the employee.
 
   (D) *Indexing* — In the case of plan years beginning in any calendar year after 2014, subparagraph (A) shall be applied by substituting for “8 percent” the percentage the Secretary of Health and Human Services determines reflects the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.
 
@@ -168,11 +161,11 @@ source: >-
 
     (iii) the CHIP program under title XXI of the Social Security Act or under a qualified CHIP look-alike program (as defined in section 2107(g) of the Social Security Act),
 
-    (iv) medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 33 So in original. The semicolon probably should be a comma.
+    (iv) medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; 22 So in original. The semicolon probably should be a comma.
 
     (v) a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary,
 
-    (vi) a health plan under [section 2504(e) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/e&num=0&edition=prelim), United States Code (relating to Peace Corps volunteers); 3 or
+    (vi) a health plan under [section 2504(e) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/e&num=0&edition=prelim), United States Code (relating to Peace Corps volunteers); 2 or
 
     (vii) the Nonappropriated Fund Health Benefits Program of the Department of Defense, established under section 349 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; [10 U.S.C. 1587](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1587&num=0&edition=prelim) note).
 
@@ -221,87 +214,6 @@ source: >-
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)
-Pub. L. 115–97, title I, § 11081, Dec. 22, 2017, 131 Stat. 2092, amended subsection (c) of this section, applicable to months beginning after Dec. 31, 2018. After amendment, subsection (c) reads as follows:
-
-(c) Amount of penalty
-
-(1) In general
-
-The amount of the penalty imposed by this section on any taxpayer for any taxable year with respect to failures described in subsection (b)(1) shall be equal to the lesser of—
-
-(A) the sum of the monthly penalty amounts determined under paragraph (2) for months in the taxable year during which 1 or more such failures occurred, or
-
-(B) an amount equal to the national average premium for qualified health plans which have a bronze level of coverage, provide coverage for the applicable family size involved, and are offered through Exchanges for plan years beginning in the calendar year with or within which the taxable year ends.
-
-(2) Monthly penalty amounts
-
-For purposes of paragraph (1)(A), the monthly penalty amount with respect to any taxpayer for any month during which any failure described in subsection (b)(1) occurred is an amount equal to 1⁄12 of the greater of the following amounts:
-
-(A) Flat dollar amount
-
-An amount equal to the lesser of—
-
-(i) the sum of the applicable dollar amounts for all individuals with respect to whom such failure occurred during such month, or
-
-(ii) 300 percent of the applicable dollar amount (determined without regard to paragraph (3)(C)) for the calendar year with or within which the taxable year ends.
-
-(B) Percentage of income
-
-An amount equal to the following percentage of the excess of the taxpayer’s household income for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer for the taxable year:
-
-(i) 1.0 percent for taxable years beginning in 2014.
-
-(ii) 2.0 percent for taxable years beginning in 2015.
-
-(iii) Zero percent for taxable years beginning after 2015.
-
-(3) Applicable dollar amount
-
-For purposes of paragraph (1)—
-
-(A) In general
-
-Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.
-
-(B) Phase in
-
-The applicable dollar amount is $95 for 2014 and $325 for 2015.
-
-(C) Special rule for individuals under age 18
-
-If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
-
-(4) Terms relating to income and families
-
-For purposes of this section—
-
-(A) Family size
-
-The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
-
-(B) Household income
-
-The term “household income” means, with respect to any taxpayer for any taxable year, an amount equal to the sum of—
-
-(i) the modified adjusted gross income of the taxpayer, plus
-
-(ii) the aggregate modified adjusted gross incomes of all other individuals who—
-
-(I) were taken into account in determining the taxpayer’s family size under paragraph (1), and
-
-(II) were required to file a return of tax imposed by section 1 for the taxable year.
-
-(C) Modified adjusted gross income
-
-The term “modified adjusted gross income” means adjusted gross income increased by—
-
-(i) any amount excluded from gross income under section 911, and
-
-(ii) any amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
-
-See 2017 Amendment notes below.
-
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -313,7 +225,7 @@ The Social Security Act, referred to in subsec. (f)(1)(A)(i) to (iii), is act Au
 Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A), (3), is classified to [section 300gg–91 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
-2018—Subsec. (d)(2)(A). Pub. L. 115–271 amended subpar. (A) generally. Prior to amedment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
+2018—Subsec. (d)(2)(A). Pub. L. 115–271 amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
 
 “(i) a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and
 

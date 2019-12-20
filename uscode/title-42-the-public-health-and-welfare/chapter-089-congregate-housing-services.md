@@ -475,7 +475,7 @@ The Secretary shall act on each application within 60 days of its submission.
 
 (2) **Effect of services** — Except for wages paid under paragraph (1) of this subsection, services provided to a resident of an eligible housing project under a congregate services program under this section may not be considered as income for the purpose of determining eligibility for or the amount of assistance or aid furnished under any Federal, federally assisted, or State program based on need.
 
-(3) **Eligibility and priority for 1978 Act recipients** — Notwithstanding any other provision of this section, any public housing agency, housing assisted under [section 1701q of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 [[42 U.S.C. 8001](./chapter-089-congregate-housing-services.md#section-8001) et seq.] on November 5, 1990,88 See Codification note below. shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
+(3) **Eligibility and priority for 1978 Act recipients** — Notwithstanding any other provision of this section, any public housing agency, housing assisted under [section 1701q of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 [[42 U.S.C. 8001](./chapter-089-congregate-housing-services.md#section-8001) et seq.] on November 5, 1990,6 shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
 
 (4) **Administrative cost limitation** — A recipient of assistance under this section may not use more than 10 percent of the sum of such assistance and the contribution amounts required under subsection (i)(1)(A)(i) for administrative costs and shall ensure that any entity to which the recipient distributes amounts from such sum may not expend more than a reasonable amount from such distributed amounts for administrative costs. Administrative costs may not include any capital expenses.
 
@@ -493,9 +493,9 @@ The Secretary shall act on each application within 60 days of its submission.
 
 (6) The term “eligible housing project” means—
 
-  (A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 [[42 U.S.C. 1437a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b&num=0&edition=prelim)]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II 99 See References in Text note below. of the United States Housing Act of 1937;
+  (A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 [[42 U.S.C. 1437a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b&num=0&edition=prelim)]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II 88 See References in Text note below. of the United States Housing Act of 1937;
 
-  (B) housing assisted under section 8 of the United States Housing Act of 1937 [[42 U.S.C. 1437f](./chapter-008-low-income-housing.md#section-1437f)] with a contract that is attached to the structure under subsection (d)(2) of such section or with a contract entered into in connection with the new construction or moderate rehabilitation of the structure under section 8(b)(2) of the United States Housing Act,9 as such section existed before October 1, 1983;
+  (B) housing assisted under section 8 of the United States Housing Act of 1937 [[42 U.S.C. 1437f](./chapter-008-low-income-housing.md#section-1437f)] with a contract that is attached to the structure under subsection (d)(2) of such section or with a contract entered into in connection with the new construction or moderate rehabilitation of the structure under section 8(b)(2) of the United States Housing Act,8 as such section existed before October 1, 1983;
 
   (C) housing assisted under [section 1701q of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim);
 
@@ -513,7 +513,7 @@ The Secretary shall act on each application within 60 days of its submission.
 
 (10) The term “instrumental activity of daily living” means a regularly necessary home management activity and includes preparing meals, shopping for personal items, managing money, using the telephone, and performing light or heavy housework.
 
-(11) The term “local nonprofit housing sponsor” includes public housing agencies (as such term is defined in section 3(b)(6) of the United States Housing Act of 1937 [[42 U.S.C. 1437a(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b/6&num=0&edition=prelim)].1010 So in original. Probably should be preceded by a closing parenthesis.
+(11) The term “local nonprofit housing sponsor” includes public housing agencies (as such term is defined in section 3(b)(6) of the United States Housing Act of 1937 [[42 U.S.C. 1437a(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b/6&num=0&edition=prelim)].99 So in original. Probably should be preceded by a closing parenthesis.
 
 (12) The term “nonprofit”, as applied to an organization, means no part of the net earnings of the organization inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
@@ -543,7 +543,7 @@ The Secretary shall act on each application within 60 days of its submission.
 
   (A) means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
 
-  (B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B).1111 So in original. Probably should be subsection “(h)(1)(B).”
+  (B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B).1010 So in original. Probably should be subsection “(h)(1)(B).”
 
 **(l) Reports to Congress**
 
@@ -555,7 +555,7 @@ The Secretary shall act on each application within 60 days of its submission.
 
   (C) containing any other information that the Secretary concerned considers helpful to the Congress in evaluating the effectiveness of this section.
 
-(2) **Submission of data to Secretary concerned** — The Secretary of Housing and Urban Development and the Secretary of Agriculture shall provide, by regulation under subsection (m), for the submission of data by recipients of assistance under this section to be used in the repeat 1212 So in original. Probably should be “report”. required by paragraph (1).
+(2) **Submission of data to Secretary concerned** — The Secretary of Housing and Urban Development and the Secretary of Agriculture shall provide, by regulation under subsection (m), for the submission of data by recipients of assistance under this section to be used in the repeat 1111 So in original. Probably should be “report”. required by paragraph (1).
 
 **(m) Regulations** The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than the expiration of the 180-day period beginning on November 28, 1990, jointly issue any regulations necessary to carry out this section.
 
@@ -563,7 +563,7 @@ The Secretary shall act on each application within 60 days of its submission.
 
 (1) **Authorization and use** — There are authorized to be appropriated to carry out this section $21,000,000 for fiscal year 1993, and $21,882,000 for fiscal year 1994, of which not more than—
 
-  (A) the amount of such sums appropriated that, with respect to the total amount appropriated, represents the ratio of the total number of units of eligible federally assisted housing for elderly individuals assisted by programs administered by the Secretary of Housing and Urban Development to the total number of units assisted by programs administered by such Secretary and the Secretary of Agriculture, shall be used for assistance for congregate services programs in eligible federally assisted housing administered by the Secretary of Housing and Urban Development: 1313 So in original. The colon probably should be a semicolon. and
+  (A) the amount of such sums appropriated that, with respect to the total amount appropriated, represents the ratio of the total number of units of eligible federally assisted housing for elderly individuals assisted by programs administered by the Secretary of Housing and Urban Development to the total number of units assisted by programs administered by such Secretary and the Secretary of Agriculture, shall be used for assistance for congregate services programs in eligible federally assisted housing administered by the Secretary of Housing and Urban Development: 1212 So in original. The colon probably should be a semicolon. and
 
   (B) the amount of such sums appropriated that, with respect to the total amount appropriated, represents the ratio of the total number of units of eligible federally assisted housing for elderly individuals assisted by programs administered by the Secretary of Agriculture to the total number of units assisted by programs administered by such Secretary and the Secretary of Housing and Urban Development, shall be used for assistance for congregate services programs in eligible federally assisted housing administered by the Secretary of Agriculture (through the Administrator of the Farmers Home Administration).
 

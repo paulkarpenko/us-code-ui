@@ -28,16 +28,6 @@ source: >-
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 3501(a) | 41:254b(h). | June 30, 1949, ch. 288, title III, § 304A(h), formerly § 304A(i), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3284; redesignated as § 304A(h), Pub. L. 104–106, title XLII, § 4201(b)(2)(B), Feb. 10, 1996, 110 Stat. 652. |
-| 3501(b) | 41:254b note. | Pub. L. 110–417, [div. A], title VIII, § 868, Oct. 14, 2008, 122 Stat. 4552. |
-
-Subsection (a) of Pub. L. 110–417, § 868 is omitted as unnecessary.
-
-In subsection (b)(1), the words “The Federal Acquisition Regulation” are substituted for “The regulations modified pursuant to subsection (a)” for clarity and conformity with the revised title.
-
 #### Amendment of Section
 Pub. L. 115–232, div. A, title VIII, § 836(b)(11), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
 
@@ -56,6 +46,16 @@ Pub. L. 115–232, div. A, title VIII, § 836(b)(11), (h), Aug. 13, 2018, 132 St
 (B) in paragraphs (1) and (2)(A), by striking “commercial items” and inserting “commercial services”.
 
 See 2018 Amendment notes below.
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 3501(a) | 41:254b(h). | June 30, 1949, ch. 288, title III, § 304A(h), formerly § 304A(i), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3284; redesignated as § 304A(h), Pub. L. 104–106, title XLII, § 4201(b)(2)(B), Feb. 10, 1996, 110 Stat. 652. |
+| 3501(b) | 41:254b note. | Pub. L. 110–417, [div. A], title VIII, § 868, Oct. 14, 2008, 122 Stat. 4552. |
+
+Subsection (a) of Pub. L. 110–417, § 868 is omitted as unnecessary.
+
+In subsection (b)(1), the words “The Federal Acquisition Regulation” are substituted for “The regulations modified pursuant to subsection (a)” for clarity and conformity with the revised title.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–232, § 836(b)(11)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “commercial products or commercial services” for “commercial items” in par. (2), as redesignated, and struck out former par. (1), which defined “commercial item”.
@@ -159,13 +159,6 @@ Subsec. (g). Pub. L. 115–91, § 811(a)(2)(C), substituted “in accordance wit
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 3503 | 41:254b(b). | June 30, 1949, ch. 288, title III, § 304A(b), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3279; Pub. L. 104–106, title XLII, § 4201(b)(1), Feb. 10, 1996, 110 Stat. 651. |
-
-In subsection (b)(2), the words “as the case may be” are omitted as unnecessary.
-
 #### Amendment of Section
 Pub. L. 115–232, div. A, title VIII, § 836(b)(12), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
 
@@ -178,6 +171,13 @@ Pub. L. 115–232, div. A, title VIII, § 836(b)(12), (h), Aug. 13, 2018, 132 St
 (B) by striking “a commercial item” each place it appears and inserting “a commercial product or a commercial service”.
 
 See 2018 Amendment notes below.
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 3503 | 41:254b(b). | June 30, 1949, ch. 288, title III, § 304A(b), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3279; Pub. L. 104–106, title XLII, § 4201(b)(1), Feb. 10, 1996, 110 Stat. 651. |
+
+In subsection (b)(2), the words “as the case may be” are omitted as unnecessary.
 
 #### Amendments
 2018—Subsec. (a)(2). Pub. L. 115–232, § 836(b)(12)(A), substituted “a commercial product or a commercial service” for “a commercial item”.
@@ -218,13 +218,13 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(13), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” each place it appears and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3505 | 41:254b(d). | June 30, 1949, ch. 288, title III, § 304A(d), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3281; Pub. L. 104–106, title XLII, §§ 4201(b)(1), 4321(e)(4), Feb. 10, 1996, 110 Stat. 652, 675; Pub. L. 105–261, div. A, title VIII, § 808(b), Oct. 17, 1998, 112 Stat. 2085. |
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(13), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” each place it appears and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items” wherever appearing.
@@ -322,15 +322,15 @@ For the purpose of evaluating the accuracy, completeness, and currency of cost o
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(14), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3509 | 41:251 note. | Pub. L. 110–252, title VI, §§ 6102, 6103, June 30, 2008, 122 Stat. 2386, 2387. |
 
 In subsection (b), the words “shall include” are substituted for “shall be amended” and “to include” to reflect the permanence of the provision. The words “within 180 days after the date of the enactment of this Act” are omitted as obsolete.
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(14), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.

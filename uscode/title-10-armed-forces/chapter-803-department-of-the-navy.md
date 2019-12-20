@@ -174,7 +174,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
 <a id="section-8013a"></a>
 ## § 8013a. Secretary of the Navy: powers with respect to Coast Guard
-**(a)** Whenever the Coast Guard operates as a service in the Navy under section 3 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, the Secretary of the Navy has the same powers and duties with respect to the Coast Guard as the Secretary of Homeland Security has when the Coast Guard is not so operating.
+**(a)** Whenever the Coast Guard operates as a service in the Navy under section 3 11 See References in Text note below. of title 14, the Secretary of the Navy has the same powers and duties with respect to the Coast Guard as the Secretary of Homeland Security has when the Coast Guard is not so operating.
 
 **(b)** While operating as a service in the Navy, the Coast Guard is subject to the orders of the Secretary of the Navy, who may order changes in Coast Guard operations to make them uniform, to the extent he considers advisable, with Navy operations.
 
@@ -182,6 +182,9 @@ For order of succession in event of death, permanent disability, or resignation 
 
 #### Historical and Revision Notes
 Subsection (a) is derived from [14 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section5&num=0&edition=prelim), and subsection (b) from the second sentence of [14 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). These provisions are duplicated in this title for the purpose of producing a statement of the general powers of the Secretary of the Navy in this important area.
+
+#### References in Text
+[Section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), referred to in subsec. (a), was redesignated [section 103 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section103&num=0&edition=prelim) by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to [section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 5013a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5013a&num=0&edition=prelim) as this section.
@@ -191,9 +194,6 @@ Subsection (a) is derived from [14 U.S.C. 5](https://uscode.house.gov/view.xhtml
 1986—Pub. L. 99–433 renumbered [section 5032 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5032&num=0&edition=prelim) as this section.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim) redesignated [section 103 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section103&num=0&edition=prelim) by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to [section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -604,7 +604,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 104–201, div. A, title V, § 501(b), Sept. 23, 1996, 110 Stat. 2510, provided that: “Paragraph (2) of section 5022(a) [now 8022(a)] of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act [Sept. 23, 1996].”
 
 #### Demonstration Project To Increase Small Business and University Participation in Office of Naval Research Efforts To Extend Benefits of Science and Technology Research to Fleet
-Pub. L. 107–107, div. A, title II, § 262, Dec. 28, 2001, 115 Stat. 1044, provided that: “(a) Project Required.—The Secretary of the Navy, acting through the Chief of Naval Research, shall carry out a demonstration project to increase access to Navy facilities of small businesses and universities that are engaged in science and technology research beneficial to the fleet. “(b) Project Elements.—In carrying out the demonstration project, the Secretary shall—“(1) establish and operate a Navy Technology Extension Center at a location to be selected by the Secretary; “(2) permit participants in the Small Business Innovation Research Program (SBIR) and Small Business Technology Transfer Program (STTR) that are awarded contracts by the Office of Naval Research to access and use Navy Major Range Test Facilities Base (MRTFB) facilities selected by the Secretary for purposes of carrying out such contracts, and charge such participants for such access and use at the same established rates that Department of Defense customers are charged; and “(3) permit universities, institutions of higher learning, and federally funded research and development centers collaborating with participants referred to in paragraph (2) to access and use such facilities for such purposes, and charge such entities for such access and use at such rates. “(c) Period of Project.—The demonstration project shall be carried out during the three-year period beginning on the date of the enactment of this Act [Dec. 28, 2001]. “(d) Report.—Not later than February 1, 2004, the Secretary shall submit to Congress a report on the demonstration project. The report shall include a description of the activities carried out under the demonstration project and any recommendations for the improvement or expansion of the demonstration project that the Secretary considers appropriate.”
+Pub. L. 107–107, div. A, title II, § 262, Dec. 28, 2001, 115 Stat. 1044, directed the Secretary of the Navy to carry out a demonstration project, during the three-year period beginning on Dec. 28, 2001, to increase access to Navy facilities of small businesses and universities that are engaged in science and technology research beneficial to the fleet and provided that Secretary would submit a report on the demonstration project to Congress by Feb. 1, 2004.
 
 
 <a id="section-8023"></a>

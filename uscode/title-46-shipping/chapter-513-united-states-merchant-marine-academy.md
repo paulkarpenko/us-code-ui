@@ -138,7 +138,7 @@ In subsection (b)(6)(A), the words “residents, or sons or daughters of residen
 Subsec. (b)(5), (6). Pub. L. 111–383, § 3503(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The Governor of the Northern Mariana Islands may nominate residents of the Northern Mariana Islands.”
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 4342 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4342&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 7442 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7442&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-51303"></a>

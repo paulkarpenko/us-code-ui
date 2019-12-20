@@ -2,7 +2,7 @@
 title: 34
 chapter: '101'
 heading: JUSTICE SYSTEM IMPROVEMENT
-section_count: 227
+section_count: 228
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -28,6 +28,10 @@ Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 10281, 10282, 10284, and 10285 of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] shall take effect on October 1, 1984.”
 
 #### Short Title of 2019 Amendment
+Pub. L. 116–69, div. B, title VII, § 1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: “This section [amending [section 20144 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20144) and enacting provisions set out as notes under [section 20144 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20144)] may be cited as the ‘United States Victims of State Sponsored Terrorism Fund Clarification Act’.”
+
+Pub. L. 116–32, § 1, July 25, 2019, 133 Stat. 1036, provided that: “This Act [amending sections 10261 and 10491 to 10493 of this title] may be cited as the ‘Supporting and Treating Officers In Crisis Act of 2019’.”
+
 Pub. L. 115–424, § 1, Jan. 7, 2019, 132 Stat. 5465, provided that: “This Act [enacting [section 20342 of this title](./chapter-203-victims-of-child-abuse.md#section-20342) and amending sections 20301 to 20307, 20323, and 20333 of this title and [section 5106a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2018’.”
 
 #### Short Title of 2018 Amendment
@@ -51,7 +55,7 @@ Pub. L. 115–185, § 1, June 18, 2018, 132 Stat. 1485, provided that: “This A
 
 Pub. L. 115–166, § 1, Apr. 13, 2018, 132 Stat. 1274, provided that: “This Act [amending [section 20504 of this title](./chapter-205-amber-alert.md#section-20504)] may be cited as the ‘Ashlynne Mike AMBER Alert in Indian Country Act’.”
 
-Pub. L. 115–141, div. Q, § 1, Mar. 23, 2018, 132 Stat. 1115, provided that: “This division [enacting sections 12622 and 12623 of this title, amending sections 11293 and 12621 of this title, and enacting provisions set out as a note under this section and [section 12623 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12623)] may be cited as the ‘Kevin and Avonte’s Law of 2018’.”
+Pub. L. 115–141, div. Q, § 1, Mar. 23, 2018, 132 Stat. 1115, provided that: “This division [enacting sections 12622 and 12623 of this title, amending sections 11293 and 12621 of this title, and enacting provisions set out as notes under this section and [section 12623 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12623)] may be cited as the ‘Kevin and Avonte’s Law of 2018’.”
 
 Pub. L. 115–141, div. Q, title I, § 101, Mar. 23, 2018, 132 Stat. 1116, provided that: “This title [enacting [section 12622 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12622) and amending [section 12621 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12621)] may be cited as the ‘Missing Americans Alert Program Act of 2018’.”
 
@@ -2721,11 +2725,11 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 (20) There are authorized to be appropriated to carry out part V,1 $10,000,000 for each of fiscal years 2001 through 2004.
 
-(21) There are authorized to be appropriated to carry out subchapter XXII— (1) 77 Numbering so in original. $2,500,000 for fiscal year 1996; (2) 7 $4,000,000 for fiscal year 1997; (3) 7 $5,000,000 for fiscal year 1998; (4) 7 $6,000,000 for fiscal year 1999; and (5) 7 $7,500,000 for fiscal year 2000.
+(21) There are authorized to be appropriated to carry out subchapter XXII, $7,500,000 for each of fiscal years 2020 through 2024.
 
-(22) There are authorized to be appropriated to carry out subchapter XXIII— (1) 7 $1,000,000 for fiscal year 1996; (2) 7 $3,000,000 for fiscal year 1997; (3) 7 $5,000,000 for fiscal year 1998; (4) 7 $13,500,000 for fiscal year 1999; and (5) 7 $17,500,000 for fiscal year 2000.
+(22) There are authorized to be appropriated to carry out subchapter XXIII— (1) 77 Numbering so in original. $1,000,000 for fiscal year 1996; (2) 7 $3,000,000 for fiscal year 1997; (3) 7 $5,000,000 for fiscal year 1998; (4) 7 $13,500,000 for fiscal year 1999; and (5) 7 $17,500,000 for fiscal year 2000.
 
-(23) There is authorized to be appropriated to carry out subchapter XXIV, $25,000,000 for each of fiscal years 2016 through 2020.
+(23) There is authorized to be appropriated to carry out subchapter XXIV, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.
 
 (24) There are authorized to be appropriated to carry out subchapter XXVII, to remain available until expended—
 
@@ -2792,6 +2796,10 @@ Section was formerly classified to [section 3793 of Title 42](https://uscode.hou
 Another section 1001 of Pub. L. 90–351 enacted [section 7313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2019—Subsec. (a)(21). Pub. L. 116–32 amended par. (21) generally. Prior to amendment, par. (21) authorized appropriations for fiscal years 1996 to 2000 to carry out subchapter XXII.
+
+Subsec. (a)(23). Pub. L. 116–18 substituted “subchapter XXIV, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.” for “subchapter XXIV, $25,000,000 for each of fiscal years 2016 through 2020.”
+
 2018—Subsec. (a)(25)(A). Pub. L. 115–271, § 8206, substituted “Except as provided in subparagraph (C), there is authorized to be appropriated to carry out subchapter XXX $75,000,000 for each of fiscal years 2018 through 2023.” for “Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XXX—
 
 “(i) $50,000,000 for fiscal year 2002;
@@ -3467,11 +3475,20 @@ As used in this subchapter—
 
     (i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.); and
 
-    (ii) are determined by the head of the agency to be hazardous duties; or
+    (ii) are determined by the head of the agency to be hazardous duties;
 
-  (D) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services.
+  (D) a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services; or
+
+  (E) an individual appointed to the National Disaster Medical System under [section 300hh–11 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim) who is performing official duties of the Department of Health and Human Services, if those official duties are—
+
+    (i) related to responding to a public health emergency or potential public health emergency, or other activities for which the Secretary of Health and Human Services has activated such National Disaster Medical System; and
+
+    (ii) determined by the Secretary of Health and Human Services to be hazardous.
 
 ### Statutory Notes
+
+#### Amendment of Section
+For termination of amendment by section 301(d)(2) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
 
 #### References in Text
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (9), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
@@ -3485,6 +3502,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to [section 10285 of this title](./chapter-101-justice-system-improvement.md#section-10285).
 
 #### Amendments
+2019—Par. (9)(E). Pub. L. 116–22, § 301(d)(2), (3), temporarily added subpar. (E). See Termination Date of 2019 Amendment note below.
+
 2013—Par. (1). Pub. L. 112–239, § 1086(b)(1)(E)(i), substituted “an injury, the direct and proximate consequences of which” for “consequences of an injury that”.
 
 Par. (3). Pub. L. 112–239, § 1086(b)(1)(E)(ii), inserted “or permanently and totally disabled” after “deceased” and substituted “fatal or catastrophic injury” for “death” in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
@@ -3527,6 +3546,9 @@ Pars. (3) to (7). Pub. L. 101–647, § 1301(c)(1), redesignated pars. (2) to (6
 
 #### Change of Name
 “Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par. (9)(B)(ii) on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
+
+#### Termination Date of 2019 Amendment
+Pub. L. 116–22, title III, § 301(d)(3), June 24, 2019, 133 Stat. 933, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and [section 300hh–11 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim), The Public Health and Welfare] shall cease to have force or effect on October 1, 2021.”
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under [section 10251 of this title](./chapter-101-justice-system-improvement.md#section-10251).
@@ -5900,7 +5922,7 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 #### References in Text
 This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f), was in the original “this subtitle”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
 
-The date of enactment of this Act, referred to in subsec. (c)(5), probably means the date of enactment of Pub. L. 113–4, which was approved Mar. 7, 2013.
+The date of enactment of this Act, referred to in subsec. (c)(5), probably means the date of enactment of Pub. L. 113–4, which added subsec. (c)(5) and which was approved Mar. 7, 2013.
 
 This subchapter, referred to in subsec. (c)(5), was in the original “this subchapter”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
 
@@ -6964,11 +6986,11 @@ The Attorney General shall—
 
 (1) establish guidelines and oversee the implementation of family-friendly policies within law enforcement-related offices and divisions in the Department of Justice;
 
-(2) study the effects of stress on law enforcement personnel and family well-being and disseminate the findings of such studies to Federal, State, and local law enforcement agencies, related organizations, and other interested parties;
+(2) study the effects of stress on law enforcement personnel and family well-being and disseminate the findings of such studies to Federal, State, and local law enforcement agencies, related organizations, and other interested parties, including any research and reports developed under the Law Enforcement Mental Health and Wellness Act of 2017 (Public Law 115–113; 131 Stat. 2276);
 
 (3) identify and evaluate model programs that provide support services to law enforcement personnel and families;
 
-(4) provide technical assistance and training programs to develop stress reduction and family support to State and local law enforcement agencies;
+(4) provide technical assistance and training programs to develop stress reduction, psychological services, suicide prevention, and family support to State and local law enforcement agencies;
 
 (5) collect and disseminate information regarding family support, stress reduction, and psychological services to Federal, State, and local law enforcement agencies, law enforcement-related organizations, and other interested entities; and
 
@@ -6976,22 +6998,33 @@ The Attorney General shall—
 
 ### Statutory Notes
 
+#### References in Text
+The Law Enforcement Mental Health and Wellness Act of 2017, referred to in par. (2), is Pub. L. 115–113, Jan. 10, 2018, 131 Stat. 2276, which amended [section 10381 of this title](./chapter-101-justice-system-improvement.md#section-10381) and enacted provisions set out as notes preceding [section 50101 of this title](./chapter-501-emergency-federal-law-enforcement-assistance.md#section-50101). For complete classification of this Act to the Code, see section 1 of Pub. L. 115–113, set out as a Short Title of 2018 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
 #### Codification
 Section was formerly classified to [section 3796jj of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796jj&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
 A prior section 2301 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 10541 of this title](./chapter-101-justice-system-improvement.md#section-10541).
 
+#### Amendments
+2019—Par. (2). Pub. L. 116–32, § 2(2)(A), inserted “, including any research and reports developed under the Law Enforcement Mental Health and Wellness Act of 2017 (Public Law 115–113; 131 Stat. 2276)” after “interested parties”.
+
+Par. (4). Pub. L. 116–32, § 2(2)(B), inserted “, psychological services, suicide prevention,” after “stress reduction”.
+
 
 <a id="section-10492"></a>
 ## § 10492. General authorization
 
-The Attorney General may make grants to States and local law enforcement agencies and to organizations representing State or local law enforcement personnel to provide family support services to law enforcement personnel.
+The Attorney General may make grants to States and local law enforcement agencies and to organizations representing State or local law enforcement personnel to provide family support services and mental health services to law enforcement personnel.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 3796jj–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796jj–1&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2019—Pub. L. 116–32 inserted “and mental health services” after “family support services”.
 
 
 <a id="section-10493"></a>
@@ -7000,13 +7033,13 @@ Section was formerly classified to [section 3796jj–1 of Title 42](https://usco
 
 **(b) Required activities** A law enforcement agency or organization that receives funds under this subchapter shall provide at least one of the following services:
 
-(1) Counseling for law enforcement family members.
+(1) Counseling for law enforcement officers and family members.
 
 (2) Child care on a 24-hour basis.
 
 (3) Marital and adolescent support groups.
 
-(4) Stress reduction programs.
+(4) Evidence-based programs to reduce stress, prevent suicide, and promote mental health.
 
 (5) Stress education for law enforcement recruits and families.
 
@@ -7022,17 +7055,19 @@ Section was formerly classified to [section 3796jj–1 of Title 42](https://usco
 
 (4) Critical incident response on a 24-hour basis.
 
-(5) Law enforcement family crisis telephone services on a 24-hour basis.
+(5) Law enforcement family crisis, mental health crisis, and suicide prevention telephone services on a 24-hour basis.
 
-(6) Counseling for law enforcement personnel exposed to the human immunodeficiency virus.
+(6) Counseling for law enforcement personnel exposed to infectious disease.
 
 (7) Counseling for peers.
 
-(8) Counseling for families of personnel killed in the line of duty.
+(8) Counseling for families of personnel killed, injured, or permanently disabled in the line of duty.
 
 (9) Seminars regarding alcohol, drug use, gambling, and overeating.
 
-(10) Technical assistance and training to support any or all of the services described in paragraphs (1), (2), (3), (4), (5), (6), (7), (8), and (9).
+(10) Specialized training for identifying, reporting, and responding to officer mental health crises and suicide.
+
+(11) Technical assistance and training to support any or all of the services described in paragraphs (1) through (10).
 
 ### Statutory Notes
 
@@ -7041,6 +7076,19 @@ This subchapter, referred to in subsec. (a), was in the original “this Act”,
 
 #### Codification
 Section was formerly classified to [section 3796jj–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796jj–2&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2019—Subsec. (b)(1). Pub. L. 116–32, § 2(4)(A)(i), inserted “officers and” after “law enforcement”.
+
+Subsec. (b)(4). Pub. L. 116–32, § 2(4)(A)(ii), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Stress reduction programs.”
+
+Subsec. (c)(5). Pub. L. 116–32, § 2(4)(B)(i), inserted “, mental health crisis, and suicide prevention” after “family crisis”.
+
+Subsec. (c)(6). Pub. L. 116–32, § 2(4)(B)(ii), substituted “infectious disease” for “the human immunodeficiency virus”.
+
+Subsec. (c)(8). Pub. L. 116–32, § 2(4)(B)(iii), inserted “, injured, or permanently disabled” after “killed”.
+
+Subsec. (c)(10), (11). Pub. L. 116–32, § 2(4)(B)(iv), added pars. (10) and (11) and struck out former par. (10) which read as follows: “Technical assistance and training to support any or all of the services described in paragraphs (1), (2), (3), (4), (5), (6), (7), (8), and (9).”
 
 
 <a id="section-10494"></a>
@@ -7229,6 +7277,12 @@ Section was formerly classified to [section 3796kk–5 of Title 42](https://usco
 
 #### Codification
 Section was formerly classified to [section 3796kk–6 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796kk–6&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-10530"></a>
+## § 10530. Patrick Leahy Bulletproof Vest Partnership Grant Program
+
+The program under this subchapter shall be known as the “Patrick Leahy Bulletproof Vest Partnership Grant Program”.
 
 
 <a id="section-10531"></a>
@@ -7601,7 +7655,7 @@ The operations of the Law Enforcement Assistance Administration were closed out 
 Section was formerly classified to [section 3797a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–141, § 502(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.”
+2018—Subsec. (a). Pub. L. 115–141, § 502(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.”
 
 Subsec. (b). Pub. L. 115–141, § 502(1)(B), inserted “evidence-based school safety programs that may include” after “through” in introductory provisions, added pars. (1) to (9), and struck out former pars. (1) to (6) which read as follows:
 
@@ -7619,7 +7673,7 @@ Subsec. (b). Pub. L. 115–141, § 502(1)(B), inserted “evidence-based school 
 
 Subsecs. (c), (d). Pub. L. 115–141, § 502(1)(D), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-Subsec. (e). Pub. L. 115–141, § 502(1)(C), (E), redesignated subsec. (c) as (e), substituted “COPS Director and the BJA Director” for “Director” and “has evidenced” for “and has evidenced” and inserted before period at end “, and will use evidence-based strategies and programs, such as those identified by the Comprehensive School Safety Initiative of the Department of Justice”. Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 115–141, § 502(1)(C), (E), redesignated subsec. (c) as (e), substituted “COPS Director and the BJA Director” for “Director” and “has evidenced” for “and has evidenced”, and inserted before period at end “, and will use evidence-based strategies and programs, such as those identified by the Comprehensive School Safety Initiative of the Department of Justice”. Former subsec. (e) redesignated (g).
 
 Subsec. (f). Pub. L. 115–141, § 502(1)(C), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 
@@ -7699,7 +7753,7 @@ Section was formerly classified to [section 3797c of Title 42](https://uscode.ho
 #### Amendments
 2018—Pub. L. 115–141, § 502(3)(A), inserted “; grant accountability” after “Congress” in section catchline.
 
-Pub. L. 115–141, § 502(3)(B)–(D), designated existing provisions as subsec. (a), inserted heading, and substituted “COPS Director and the BJA Director shall each” for “Director shall”, and added subsec. (b).
+Pub. L. 115–141, § 502(3)(B)–(D), designated existing provisions as subsec. (a), inserted heading, substituted “COPS Director and the BJA Director shall each” for “Director shall”, and added subsec. (b).
 
 2006—Pub. L. 109–271 substituted “Director” for “Attorney General”.
 
@@ -7709,7 +7763,7 @@ Pub. L. 115–141, § 502(3)(B)–(D), designated existing provisions as subsec.
 
 For purposes of this subchapter—
 
-(1) the term “school” means an elementary or secondary school, including a Bureau-funded school (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim);
+(1) the term “school” means an elementary or secondary school, including a Bureau-funded school (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim));
 
 (2) the term “unit of local government” means a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level;
 
@@ -7745,7 +7799,7 @@ For purposes of this subchapter—
 Section was formerly classified to [section 3797d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797d&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-2018—Par. (1). Pub. L. 115–141, § 502(4)(A), substituted “an” for “a public” and inserted “, including a Bureau-funded school (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim)” after “secondary school”.
+2018—Par. (1). Pub. L. 115–141, § 502(4)(A), substituted “an” for “a public” and inserted “, including a Bureau-funded school (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim))” after “secondary school”.
 
 Pars. (4), (5). Pub. L. 115–141, § 502(4)(B)–(D), added pars. (4) and (5).
 
@@ -8762,7 +8816,7 @@ Subsec. (b)(8). Pub. L. 115–391, § 502(a)(2)(B)–(D), added par. (8).
 
 Subsecs. (d) to (f). Pub. L. 115–391, § 502(a)(3), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to applications, requirements, and priority considerations for grants, respectively.
 
-Subsec. (h)(1), (2). Pub. L. 115–391, § 502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text read as follows: “As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.” Former par. (2) redesignated (3).
+Subsec. (h)(1), (2). Pub. L. 115–391, § 502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: “As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.” Former par. (2) redesignated (3).
 
 Subsec. (h)(3), (4). Pub. L. 115–391, § 502(a)(4)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
 

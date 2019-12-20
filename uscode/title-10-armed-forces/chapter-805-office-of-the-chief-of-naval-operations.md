@@ -172,7 +172,7 @@ Provisions similar to those in this section were contained in [section 5085 of t
 
 A prior section 8035 was renumbered [section 9035 of this title](./chapter-905-the-air-staff.md#section-9035).
 
-Another prior section 8035 was renumbered [section 8034 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8034&num=0&edition=prelim).
+Another prior section 8035 was renumbered [section 9034 of this title](./chapter-905-the-air-staff.md#section-9034).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 5035 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5035&num=0&edition=prelim) as this section.

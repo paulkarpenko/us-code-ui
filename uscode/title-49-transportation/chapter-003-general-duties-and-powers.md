@@ -1067,7 +1067,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 (4) **Authorization to purchase services.—** — The Secretary may not purchase timing system services from the entity for use by the Department of Transportation or for provision to other Federal and non-Federal governmental agencies until the system achieves operational status, and then only if the necessary funds for such purchases are provided for in subsequent yearly appropriations acts made available to the Secretary for each and every year in which such purchases are made.
 
-(5) **Determination requirement.—** — The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on 11 So in original. Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
+(5) **Determination requirement.—** — The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on Committee on 11 So in original. Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
 
 (6) **Definition.—** — In this subsection the term “entity” means a non-Federal entity with the demonstrated technical expertise and requisite administrative and financial resources to meet any terms and conditions established by the Secretary for purposes of this subsection.
 
@@ -1079,7 +1079,10 @@ The date of enactment of the National Timing Resilience and Security Act of 2018
 Section 1618 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (b)(1), is section 1618 of Pub. L. 114–328, div. A, title XVI, Dec. 23, 2016, 130 Stat. 2595, which is not classified to the Code.
 
 #### Codification
-Pub. L. 115–282, title V, § 514(b), Dec. 4, 2018, 132 Stat. 4276, which directed the addition of section 312 at end of chapter 30 of this title, was executed by adding this section at the end of subchapter I of this chapter to reflect the probable intent of Congress and because no chapter 30 has been enacted in this title.
+Section 514(b) of Pub. L. 115–282, which directed the addition of section 312 at the end of chapter 30 of this title, was executed by adding this section at the end of subchapter I of this chapter to reflect the probable intent of Congress and because no chapter 30 has been enacted in this title.
+
+#### Short Title
+For short title of section 514 of Pub. L. 115–282, which enacted this section, as the “National Timing Resilience and Security Act of 2018”, see section 514(a) of Pub. L. 115–282, set out as a Short Title of 2018 Amendment note under [section 101 of this title](./chapter-001-organization.md#section-101).
 
 
 <a id="section-321"></a>

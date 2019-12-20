@@ -1148,7 +1148,7 @@ Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
 
   (B) a provision stating that the head of the executive or 22 So in original. Probably should be “, judicial, or”. legislative agency which refers a claim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
 
-  (C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or 1 legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
+  (C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or 2 legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
 
 (6) Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act ([15 U.S.C. 1692a(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1692a/6&num=0&edition=prelim)), a private counsel performing legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
 

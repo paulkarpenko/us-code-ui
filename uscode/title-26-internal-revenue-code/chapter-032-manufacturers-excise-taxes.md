@@ -262,7 +262,7 @@ Pub. L. 86–440, § 1(b), Apr. 22, 1960, 74 Stat. 81, provided that: “The ame
 Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act June 29, 1956, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Allowance of Credit or Refund of Overpayment of Tax Imposed
-Pub. L. 96–596, § 4(b), Dec. 24, 1980, 94 Stat. 3475, provided that: “(b) Determination of Overpayment.—“(1) In general.—The determination of the extent to which any overpayment of tax imposed by section 4071(a)(1) or (2) or section 4071(b) has arisen by reason of an adjustment of a tire after the original sale pursuant to a warranty or guarantee, and the allowance of a credit or refund of any such overpayment, shall be determined in accordance with the principles set forth in regulations and rulings relating thereto to the extent in effect on March 31, 1978. “(2) Effective date.—This subsection shall apply to the adjustment of any tire after March 31, 1978, and prior to January 1, 1983.”
+Pub. L. 96–596, § 4(b), Dec. 24, 1980, 94 Stat. 3475, provided that, applicable to any tire adjustment between Mar. 31, 1978, and Jan. 1, 1983, the determination of any overpayment of tax imposed by former subsec. (a)(1) and (2) or subsec. (b) of this section arising by reason of an adjustment of a tire after the original sale pursuant to a warranty or guarantee, and the allowance of a credit or refund of any such overpayment, would be determined with the principles set forth in regulations and rulings in effect on Mar. 31, 1978.
 
 
 <a id="section-4072"></a>
@@ -910,7 +910,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act June 29, 1956, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### List of Airports With Secured Terminals
-Pub. L. 108–357, title VIII, § 853(a)(3)(B), Oct. 22, 2004, 118 Stat. 1610, provided that: “Not later than December 15, 2004, the Secretary of the Treasury shall publish and maintain a list of airports which include a secured area in which a terminal is located (within the meaning of section 4081(a)(3)(A)(i) of the Internal Revenue Code of 1986, as added by this paragraph).”
+Pub. L. 108–357, title VIII, § 853(a)(3)(B), Oct. 22, 2004, 118 Stat. 1610, required the Secretary of the Treasury, no later than Dec. 15, 2004, to publish and maintain a list of airports with a secured area in which a terminal is located within the meaning of this section.
 
 #### Delayed Deposits of Highway Motor Fuel Tax Revenues
 Due date for deposit of taxes imposed by this section which would be required to be made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 901(e) of Pub. L. 105–34, set out as a note under [section 6302 of this title](./chapter-064-collection.md#section-6302).

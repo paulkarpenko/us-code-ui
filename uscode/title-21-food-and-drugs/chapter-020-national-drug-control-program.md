@@ -85,18 +85,21 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 
 <a id="section-1506-to-1508"></a>
-## § 1506 to 1508. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111
+## § 1506 to 1508. Repealed. Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(i)(III), Nov. 27, 2019, 133 Stat. 1157
 
 ### Statutory Notes
 
-Section 1506, Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188; Pub. L. 103–322, title IX, § 90208(a), Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111, repealed this subchapter, and the amendments made by this subchapter, except for section 1007, effective Sept. 30, 1997. Amendment by Pub. L. 115–271 added another exception for sections 1021 to 1035 of Pub. L. 100–690 [[21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) to 1535], which was not given effect because those sections had not been treated as repealed in light of Pub. L. 105–20, § 2(b).
+Section 1506, Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188; Pub. L. 103–322, title IX, § 90208(a), Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234; Pub. L. 115–271, title VIII, § 8203(a)(3), Oct. 24, 2018, 132 Stat. 4111; Pub. L. 116–74, § 2(c)(1)(A)(i)(III), Nov. 27, 2019, 133 Stat. 1157, repealed this subchapter, and the amendments made by this subchapter, except for section 1007, effective Sept. 30, 1997. Amendment by Pub. L. 115–271, which added another exception for sections 1021 to 1035 of Pub. L. 100–690 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) to 1535), which was not given effect because those sections had not been treated as repealed in light of Pub. L. 105–20, § 2(b), and was subsequently repealed by Pub. L. 116–74.
 
 Section 1507, Pub. L. 100–690, title I, § 1010, Nov. 18, 1988, 102 Stat. 4188; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, defined terms for purposes of this subchapter. See [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701).
 
 Section 1508, Pub. L. 100–690, title I, § 1011, Nov. 18, 1988, 102 Stat. 4189; Pub. L. 103–322, title IX, § 90206, Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, § 2(b), June 27, 1997, 111 Stat. 234, authorized appropriations to carry out this subchapter. See [section 1711 of this title](./chapter-022-national-drug-control-policy.md#section-1711).
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
+
 #### Effective Date of Repeal
-Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, as amended, which was formerly classified to [section 1506 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1506&num=0&edition=prelim).
+Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, which was formerly classified to [section 1506 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1506&num=0&edition=prelim).
 
 
 <a id="section-1509"></a>
@@ -177,7 +180,12 @@ Section, Pub. L. 100–690, title VI, § 6073, Nov. 18, 1988, 102 Stat. 4323; Pu
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–271, which directed substitution of “substance use and misuse” for “substance abuse” wherever appearing in subchapter I of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed throughout part A of this subchapter, which is subchapter I of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
+
+2018—Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
 
 
 <a id="section-1523"></a>
@@ -252,7 +260,7 @@ Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2
 
 
 <a id="section-1524"></a>
-## § 1524. Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112
+## § 1524. Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112; Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), Nov. 27, 2019, 133 Stat. 1157
 
 ### Statutory Notes
 
@@ -272,8 +280,8 @@ Section 1547, Pub. L. 100–690, title I, § 1047, as added Pub. L. 105–20, §
 
 Section 1548, Pub. L. 100–690, title I, § 1048, as added Pub. L. 105–20, § 2(a)(2), June 27, 1997, 111 Stat. 234; amended Pub. L. 107–82, § 3, Dec. 14, 2001, 115 Stat. 820, terminated the Commission at the end of fiscal year 2007.
 
-#### Codification
-Pub. L. 115–271, § 8203(b)(5), which directed the repeal of subchapter II ([21 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1541&num=0&edition=prelim) et seq.) of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed by repealing part B of this subchapter, which was subchapter II of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
 
 
 <a id="section-1531"></a>
@@ -307,14 +315,14 @@ Congress finds the following:
 
 ### Statutory Notes
 
-#### Reauthorization of the Drug-Free Communities Program and Revival of National Narcotics Leadership Act of 1988
-Pub. L. 115–271, title VIII, § 8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, provided that: “(1) In general.—Chapter 2 of the National Narcotics Leadership Act of 1988 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) et seq.), except for subchapter II ([21 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1541&num=0&edition=prelim) et seq.), as in effect on September 29, 1997, and as amended by the laws described in paragraph (2), is revived and restored. “(2) Laws described.—The laws described in this paragraph are:“(A) Public Law 107–82 (115 Stat. 814) [amending sections 1524, 1532, 1533, and 1535 of this title and enacting provisions set out as notes below]. “(B) The Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469: 120 Stat. 3502) [amending sections 1524 and 1532 of this title and provisions set out as notes under this section and [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532)], as amended by paragraph (4) [amending sections 1524 and 1532 of this title and provisions set out as a note under [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532)].”
+#### Reauthorization of the Drug-Free Communities Program and Revival of Anti-Drug Abuse Act of 1988
+Pub. L. 115–271, title VIII, § 8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, as amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(II), Nov. 27, 2019, 133 Stat. 1157, provided that: “(1) In general.—Chapter 2 of subtitle A of title I of the Anti-Drug Abuse Act of 1988 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) et seq.), except for subchapter II ([21 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1541&num=0&edition=prelim) et seq.), as in effect on September 29, 1997, and as amended by the laws described in paragraph (2), is revived and restored. “(2) Laws described.—The laws described in this paragraph are:“(A) Public Law 107–82 (115 Stat. 814) [amending sections 1524, 1532, 1533, and 1535 of this title and enacting provisions set out as notes below]. “(B) The Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469: 120 Stat. 3502) [amending sections 1524 and 1532 of this title and provisions set out as notes under this section and [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532)], as amended by paragraph (4) [amending sections 1524 and 1532 of this title and provisions set out as a note under [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532)].”
 
 #### Five-Year Extension of Drug-Free Communities Support Program
 Pub. L. 107–82, § 1(a), Dec. 14, 2001, 115 Stat. 814, provided that: “Congress makes the following findings: “(1) In the next 15 years, the youth population in the United States will grow by 21 percent, adding 6,500,000 youth to the population of the United States. Even if drug use rates remain constant, there will be a huge surge in drug-related problems, such as academic failure, drug-related violence, and HIV incidence, simply due to this population increase. “(2) According to the 1994–1996 National Household Survey, 60 percent of students age 12 to 17 who frequently cut classes and who reported delinquent behavior in the past 6 months used marijuana 52 days or more in the previous year. “(3) The 2000 Washington Kids Count survey conducted by the University of Washington reported that students whose peers have little or no involvement with drinking and drugs have higher math and reading scores than students whose peers had low level drinking or drug use. “(4) Substance abuse prevention works. In 1999, only 10 percent of teens saw marijuana users as popular, compared to 17 percent in 1998 and 19 percent in 1997. The rate of past-month use of any drug among 12- to 17-year-olds declined 26 percent between 1997 and 1999. Marijuana use for sixth through eighth graders is at the lowest point in 5 years, as is use of cocaine, inhalants, and hallucinogens. “(5) Community Anti-Drug Coalitions throughout the United States are successfully developing and implementing comprehensive, long-term strategies to reduce substance abuse among youth on a sustained basis. For example:“(A) The Boston Coalition brought college and university presidents together to create the Cooperative Agreement on Underage Drinking. This agreement represents the first coordinated effort of Boston’s many institutions of higher education to address issues such as binge drinking, underage drinking, and changing the norms surrounding alcohol abuse that exist on college and university campuses. “(B) In 2000, the Coalition for a Drug-Free Greater Cincinnati surveyed more than 47,000 local students in grades 7 through 12. The results provided evidence that the Coalition’s initiatives are working. For the first time in a decade, teen drug use in Greater Cincinnati appears to be leveling off. The data collected from the survey has served as a tool to strengthen relationships between schools and communities, as well as facilitate the growth of anti-drug coalitions in communities where such coalitions had not existed. “(C) The Miami Coalition used a three-part strategy to decrease the percentage of high school seniors who reported using marijuana at least once during the most recent 30-day period. The development of a media strategy, the creation of a network of prevention agencies, and discussions with high school students about the dangers of marijuana all contributed to a decrease in the percentage of seniors who reported using marijuana from over 22 percent in 1995 to 9 percent in 1997. The Miami Coalition was able to achieve these results while national rates of marijuana use were increasing. “(D) The Nashville Prevention Partnership worked with elementary and middle school children in an attempt to influence them toward positive life goals and discourage them from using substances. The Partnership targeted an area in East Nashville and created after school programs, mentoring opportunities, attendance initiatives, and safe passages to and from school. Attendance and test scores increased as a result of the program. “(E) At a youth-led town meeting sponsored by the Bering Strait Community Partnership in Nome, Alaska, youth identified a need for a safe, substance-free space. With help from a variety of community partners, the Partnership staff and youth members created the Java Hut, a substance-free coffeehouse designed for youth. The Java Hut is helping to change norms in the community by providing a fun, youth-friendly atmosphere and activities that are not centered around alcohol or marijuana. “(F) Portland’s Regional Drug Initiative (RDI) has promoted the establishment of drug-free workplaces among the city’s large and small employers. Over 3,000 employers have attended an RDI training session, and of those, 92 percent have instituted drug-free workplace policies. As a result, there has been a 5.5 percent decrease in positive workplace drug tests. “(G) San Antonio Fighting Back worked to increase the age at which youth first used illegal substances. Research suggests that the later the age of first use, the lower the risk that a young person will become a regular substance abuser. As a result, the age of first illegal drug use increased from 9.4 years in 1992 to 13.5 years in 1997. “(H) In 1990, multiple data sources confirmed a trend of increased alcohol use by teenagers in the Troy community. Using its ‘multiple strategies over multiple sectors’ approach, the Troy Coalition worked with parents, physicians, students, coaches, and others to address this problem from several angles. As a result, the rate of twelfth grade students who had consumed alcohol in the past month decreased from 62.1 percent to 53.3 percent between 1991 and 1998, and the rate of eighth grade students decreased from 26.3 percent to 17.4 percent. The Troy Coalition believes that this decline represents not only a change in behavior on the part of students, but also a change in the norms of the community. “(6) Despite these successes, drug use continues to be a serious problem facing communities across the United States. For example:“(A) According to the Pulse Check: Trends in Drug Abuse Mid-Year 2000 report—“(i) crack and powder cocaine remains the most serious drug problem; “(ii) marijuana remains the most widely available illicit drug, and its potency is on the rise; “(iii) treatment sources report an increase in admissions with marijuana as the primary drug of abuse—and adolescents outnumber other age groups entering treatment for marijuana; “(iv) 80 percent of Pulse Check sources reported increased availability of club drugs, with ecstasy (MDMA) and ketamine the most widely cited club drugs and seven sources reporting that powder cocaine is being used as a club drug by young adults; “(v) ecstasy abuse and trafficking is expanding, no longer confined to the ‘rave’ scene; “(vi) the sale and use of club drugs has grown from nightclubs and raves to high schools, the streets, neighborhoods, open venues, and younger ages; “(vii) ecstasy users often are unknowingly purchasing adulterated tablets or some other substance sold as MDMA; and “(viii) along with reports of increased heroin snorting as a route of administration for initiates, there is also an increase in injecting initiates and the negative health consequences associated with injection (for example, increases in HIV/AIDS and Hepatitis C) suggesting that there is a generational forgetting of the dangers of injection of the drug. “(B) The 2000 Parent’s Resource Institute for Drug Education study reported that 23.6 percent of children in the sixth through twelfth grades used illicit drugs in the past year. The same study found that monthly usage among this group was 15.3 percent. “(C) According to the 2000 Monitoring the Future study, the use of ecstasy among eighth graders increased from 1.7 percent in 1999 to 3.1 percent in 2000, among tenth graders from 4.4 percent to 5.4 percent, and from 5.6 percent to 8.2 percent among twelfth graders. “(D) A 1999 Mellman Group study found that—“(i) 56 percent of the population in the United States believed that drug use was increasing in 1999; “(ii) 92 percent of the population viewed illegal drug use as a serious problem in the United States; and “(iii) 73 percent of the population viewed illegal drug use as a serious problem in their communities. “(7) According to the 2001 report of the National Center on Addiction and Substance Abuse at Columbia University entitled ‘Shoveling Up: The Impact of Substance Abuse on State Budgets’, using the most conservative assumption, in 1998 States spent $77,900,000,000 to shovel up the wreckage of substance abuse, only $3,000,000,000 to prevent and treat the problem and $433,000,000 for alcohol and tobacco regulation and compliance. This $77,900,000,000 burden was distributed as follows:“(A) $30,700,000,000 in the justice system (77 percent of justice spending). “(B) $16,500,000,000 in education costs (10 percent of education spending). “(C) $15,200,000,000 in health costs (25 percent of health spending). “(D) $7,700,000,000 in child and family assistance (32 percent of child and family assistance spending). “(E) $5,900,000,000 in mental health and developmental disabilities (31 percent of mental health spending). “(F) $1,500,000,000 in public safety (26 percent of public safety spending) and $400,000,000 for the state workforce. “(8) Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate the reduction of substance abuse among youth in communities across the United States. “(9) Substance abuse is perceived as a much greater problem nationally than at the community level. According to a 2001 study sponsored by The Pew Charitable Trusts, between 1994 and 2000—“(A) there was a 43 percent increase in the percentage of Americans who felt progress was being made in the war on drugs at the community level; “(B) only 9 percent of Americans say drug abuse is a ‘crisis’ in their neighborhood, compared to 27 percent who say this about the nation; and “(C) the percentage of those who felt we lost ground in the war on drugs on a community level fell by more than a quarter, from 51 percent in 1994 to 37 percent in 2000.”
 
 #### Authorization for National Community Antidrug Coalition Institute
-Pub. L. 107–82, § 4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 109–469, title VIII, § 805, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8204, Oct. 24, 2018, 132 Stat. 4112, provided that: “(a) In General.—The Director shall, using amounts authorized to be appropriated by subsection (d), make a competitive grant to provide for the continuation of the National Community Anti-drug [sic] Coalition Institute. “(b) Eligible Organizations.—An organization eligible for the grant under subsection (a) is any national nonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under this subchapter [sic, probably means chapter 2 of the National Narcotics Leadership Act of 1988 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) et seq.)]. “(c) Use of Grant Amount.—The organization that receives the grant under subsection (a) shall continue a National Community Anti-Drug [sic] Coalition Institute to—“(1) provide education, training, and technical assistance for coalition leaders and community teams, with emphasis on the development of coalitions serving economically disadvantaged areas; “(2) develop and disseminate evaluation tools, mechanisms, and measures to better assess and document coalition performance measures and outcomes; and “(3) bridge the gap between research and practice by translating knowledge from research into practical information. “(d) Authorization of Appropriations.—The Director shall, using amounts authorized to be appropriated by section 1032 of the National Narcotics Leadership Act of 1988 ([15 U.S.C. 1532](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1532&num=0&edition=prelim)), make a grant of $2 million under subsection (a), for each of the fiscal years 2018 through 2023.”
+Pub. L. 107–82, § 4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 109–469, title VIII, § 805, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, § 8204, Oct. 24, 2018, 132 Stat. 4112; Pub. L. 116–74, § 2(e), Nov. 27, 2019, 133 Stat. 1159, provided that: “(a) In General.—Beginning in fiscal year 2020, the Director shall make a competitive grant to provide for the continuation of the National Community Anti-drug [sic] Coalition Institute. “(b) Eligible Organizations.—An organization eligible for the grant under subsection (a) is any national nonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under this subchapter [sic, probably means chapter 2 of the National Narcotics Leadership Act of 1988 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) et seq.)]. “(c) Use of Grant Amount.—The organization that receives the grant under subsection (a) shall continue a National Community Anti-Drug [sic] Coalition Institute to—“(1) provide education, training, and technical assistance for coalition leaders and community teams, with emphasis on the development of coalitions serving economically disadvantaged areas; “(2) develop and disseminate evaluation tools, mechanisms, and measures to better assess and document coalition performance measures and outcomes; and “(3) bridge the gap between research and practice by translating knowledge from research into practical information. “(1) Duration.—With respect to a grant made under subsection (a) in fiscal year 2020, the term of the grant shall be 4 years. “(2) Disbursement.—To the extent amounts are provided in appropriation Acts for such grant, the Director shall disburse the amount of the grant made under subsection (a) on an annual basis.”
 
 #### Prohibition Against Duplication of Effort
 Pub. L. 107–82, § 5, Dec. 14, 2001, 115 Stat. 821, provided that: “The Director of the Office of National Drug Control Policy shall ensure that the same or similar activities are not carried out, through the use of funds for administrative costs provided under subchapter II [probably means chapter 2] of the National Narcotics Leadership Act of 1988 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) et seq.) or funds provided under section 4 of this Act [set out as a note above], by more than one recipient of such funds.”
@@ -344,7 +352,12 @@ The purposes of this subchapter are—
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–271, which directed substitution of “substance use and misuse” for “substance abuse” wherever appearing in section 1022 of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed to this section, which is section 1022 of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(1). See 2018 Amendment note below.
+
+2018—Pub. L. 115–271, § 8203(b)(1), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–74, § 2(c)(2), Nov. 27, 2019, 133 Stat. 1158, provided that: “The amendments made by this subsection [amending this section, sections 1506, 1523, 1524, 1531 to 1533, 1535, 1541 to 1548, and 1705 of this title, and provisions set out as notes under sections 1521, 1524, and 1532 of this title] shall take effect as if included in the enactment of the Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271) [see Tables for classification].
 
 
 <a id="section-1533"></a>
@@ -370,7 +383,7 @@ In this subchapter:
 
 (9) **Substance use and misuse** — The term “substance use and misuse” means—
 
-  (A) the illegal use or misuse of drugs, including substances for which a listing is effect under any of schedules I through V under [section 812 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-812);
+  (A) the illegal use or misuse of drugs, including substances for which a listing is effect 22 So in original. under any of schedules I through V under [section 812 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-812);
 
   (B) the misuse of inhalants or over-the-counter drugs; or
 
@@ -384,7 +397,12 @@ In this subchapter:
 [Section 1541 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1541&num=0&edition=prelim), referred to in par. (2), was repealed by Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112.
 
 #### Amendments
-2018—Par. (9). Pub. L. 115–271, which directed adding par. (9) and striking out former par. (9), which defined “substance abuse”, in section 1023 of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed to this section, which is section 1023 of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+2019—Par. (9). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(2). See 2018 Amendment note below.
+
+2018—Par. (9). Pub. L. 115–271, § 8203(b)(2), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), added par. (9) and struck out former par. (9) which defined “substance abuse”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
 
 
 <a id="section-1534"></a>
@@ -396,13 +414,17 @@ In this subchapter:
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–271, § 8203(b)(3), which directed adding subsecs. (a) and (b) and striking out former subsecs. (a) and (b), which related to authorization of appropriations and administrative costs, respectively, in section 1024 of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed to this section, which is section 1024 of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(3). See 2018 Amendment note below.
 
-2018—Pub. L. 115–271, § 8203(a)(4)(A), amended directory language of Pub. L. 109–469, § 801. See 2006 Amendment notes below.
+Pub. L. 116–74, § 2(c)(1)(A)(i)(V), made technical amendment to directory language of Pub. L. 115–271, § 8203(a)(3)(A). See 2018 Amendment note below.
 
-2006—Subsec. (a)(11) to (15). Pub. L. 109–469, § 801(a), as amended by Pub. L. 115–271, § 8203(a)(4)(A), added pars. (11) to (15).
+2018—Pub. L. 115–271, § 8203(b)(3), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to authorization of appropriations and administrative costs, respectively.
 
-Subsec. (b). Pub. L. 109–469, § 801(b), as amended by Pub. L. 115–271, § 8203(a)(4)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+Pub. L. 115–271, § 8203(a)(3)(A), as renumbered and amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), (V), amended directory language of Pub. L. 109–469, § 801. See 2006 Amendment notes below.
+
+2006—Subsec. (a)(11) to (15). Pub. L. 109–469, § 801(a), as amended by Pub. L. 115–271, § 8203(a)(3)(A), added pars. (11) to (15).
+
+Subsec. (b). Pub. L. 109–469, § 801(b), as amended by Pub. L. 115–271, § 8203(a)(3)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
 
 “(1) 10 percent for fiscal year 1998.
 
@@ -418,8 +440,11 @@ Subsec. (b). Pub. L. 109–469, § 801(b), as amended by Pub. L. 115–271, § 8
 
 Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former par. (5) which read as follows: “3 percent for fiscal year 2002.”
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
+
 #### Effective Date of 2018 Amendment
-Pub. L. 115–271, title VIII, § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, provided that: “The amendments made by subparagraph (A) [amending this section, [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532), and provisions set out as a note under [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532)] shall take effect as though enacted as part of the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 120 Stat. 3502).”
+Pub. L. 115–271, title VIII, § 8203(a)(3)(B), formerly § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157, provided that: “The amendments made by subparagraph (A) [amending this section, [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532), and provisions set out as a note under [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532)] shall take effect as though enacted as part of the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 120 Stat. 3502).”
 
 
 <a id="section-1535"></a>
@@ -444,7 +469,12 @@ Pub. L. 115–271, title VIII, § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, 
 [Section 1542(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1542/a/1&num=0&edition=prelim), referred to in subsec. (c), was repealed by Pub. L. 115–271, title VIII, § 8203(b)(5), Oct. 24, 2018, 132 Stat. 4112.
 
 #### Amendments
-2018—Subsecs. (a), (b)(2). Pub. L. 115–271, which directed substitution of “substance use and misuse” for “substance abuse” wherever appearing in subchapter I of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed throughout part A of this subchapter, which is subchapter I of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+2019—Subsecs. (a), (b)(2). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
+
+2018—Subsecs. (a), (b)(2). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74§ 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
 
 
 <a id="section-1536"></a>
@@ -559,11 +589,7 @@ Pub. L. 115–271, title VIII, § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, 
 
     (ii) *Suspension of grants* — If such grant recipient fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
-    (iii) *Renewal grants* — Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year of the 4-fiscal-year period following the first fiscal year for which the initial additional grant is awarded in an amount not to exceed the following:
-
-      (I) For the first and second fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 125 percent of the amount awarded.
-
-      (II) For the third and fourth fiscal tears of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 150 percent of the amount awarded.
+    (iii) *Renewal grants* — Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year, during the 4-year period following the period of the initial grant.
 
     (iv) *Limitation* — The amount of a grant award under this subparagraph may not exceed $125,000 for a fiscal year.
 
@@ -603,11 +629,11 @@ Pub. L. 115–271, title VIII, § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, 
 
   (C) *No priority for applications* — The Administrator may not afford a higher priority in the award of an additional grant under this paragraph than the Administrator would afford the applicant for the grant if the applicant were submitting an application for an initial grant under paragraph (1) or (2) rather than an application for a grant under this paragraph.
 
-  (D) *Renewal grants* — Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
+  (D) *Renewal grants* — Subject to clause (iv),11 So in original. Probably should be “subparagraph (F),”. the Administrator may award a renewal grant to a grant recipient under this subparagraph 22 So in original. Probably should be “this paragraph”. for each fiscal year of the 4-fiscal-year period following the first fiscal year for which the initial additional grant is awarded in an amount not to exceed the following:
 
-    (i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+    (i) For the first and second fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 125 percent of the amount awarded.
 
-    (ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+    (ii) For the third and fourth fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 150 percent of the amount awarded.
 
   (E) *Suspension* — If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
@@ -621,21 +647,32 @@ Pub. L. 115–271, title VIII, § 8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, 
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 115–271, § 8203(b)(4), which directed amendment of subchapter I of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed to part A of this subchapter, which is subchapter I of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690. See 2018 Amendment notes below.
-
 #### Amendments
-2018—Pub. L. 115–271, § 8203(b)(4)(A), substituted “substance use and misuse” for “substance abuse” wherever appearing. See Codification note above.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4). See 2018 Amendment notes below.
 
-Pub. L. 115–271, § 8203(a)(4)(A), amended directory language of Pub. L. 109–469, §§ 802(a), 803, 804. See 2006 Amendment notes below.
+Pub. L. 116–74, § 2(c)(1)(A)(i)(V), made technical amendment to directory language of Pub. L. 115–271, § 8203(a)(3)(A). See 2018 Amendment note below.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 115–271, § 8203(b)(4)(B), added cl. (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year, during the 4-year period following the period of the initial grant.” See Codification note above.
+Subsec. (b)(1)(A)(iii). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (3), amended directory language of Pub. L. 115–271, § 8203(b)(4)(B). See 2018 Amendment note below.
 
-2006—Subsec. (a)(7). Pub. L. 109–469, § 804, as amended by Pub. L. 115–271, § 8203(a)(4)(A), added par. (7).
+Subsec. (b)(3)(D). Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (iii), amended directory language of Pub. L. 115–271, § 8203(b)(4)(B). See 2018 Amendment note below.
 
-Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, § 803, as amended by Pub. L. 115–271, § 8203(a)(4)(A), substituted “$125,000” for “$100,000”.
+2018—Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse” wherever appearing.
 
-Subsec. (b)(4). Pub. L. 109–469, § 802(a), as amended by Pub. L. 115–271, § 8203(a)(4)(A), added par. (4).
+Pub. L. 115–271, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), as renumbered and amended by Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), (V), amended directory language of Pub. L. 109–469, §§ 802(a), 803, 804. See 2006 Amendment notes below.
+
+Subsec. (b)(1)(A)(iii). Pub. L. 115–271, § 8203(b)(4)(B), which originally directed striking cl. (iii) and inserting a new cl. (iii), was subsequently amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), so that it no longer amended cl. (iii) but amended subsec. (b)(3)(D) instead. In addition, Pub. L. 116–74, § 2(c)(3), restored the prior cl. (iii) as if the amendment made by Pub. L. 115–271, § 8203(b)(4), had never been enacted. See subsec. (b)(3)(D) Amendment note below.
+
+Subsec. (b)(3)(D). Pub. L. 115–271, § 8203(b)(4)(B), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), (III), (iii), amended subpar. (D) generally. Prior to amendment, text read as follows: “Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
+
+“(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+
+“(ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.”
+
+2006—Subsec. (a)(7). Pub. L. 109–469, § 804, as amended by Pub. L. 115–271, § 8203(a)(3)(A), added par. (7).
+
+Subsec. (b)(1)(A)(iv), (2)(C)(i), (3)(F). Pub. L. 109–469, § 803, as amended by Pub. L. 115–271, § 8203(a)(3)(A), substituted “$125,000” for “$100,000”.
+
+Subsec. (b)(4). Pub. L. 109–469, § 802(a), as amended by Pub. L. 115–271, § 8203(a)(3)(A), added par. (4).
 
 2001—Subsec. (b)(3). Pub. L. 107–82, § 1(d), added par. (3).
 
@@ -643,11 +680,14 @@ Subsec. (c). Pub. L. 107–82, § 1(g), added subsec. (c).
 
 Subsec. (d). Pub. L. 107–82, § 1(h), added subsec. (d).
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
+
 #### Effective Date of 2018 Amendment
-Amendment by section 8203(a)(4)(A) of Pub. L. 115–271 effective as if enacted as part of Pub. L. 109–469, see section 8203(a)(4)(B) of Pub. L. 115–271, set out as a note under [section 1524 of this title](./chapter-020-national-drug-control-program.md#section-1524).”
+Amendment by section 8203(a)(3)(A) of Pub. L. 115–271 effective as if enacted as part of Pub. L. 109–469, see section 8203(a)(3)(B) of Pub. L. 115–271, set out as a note under [section 1524 of this title](./chapter-020-national-drug-control-program.md#section-1524).
 
 #### Report to Congress
-Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, § 8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, provided that: “Not later than 60 days after the date of enactment of this Act [Dec. 29, 2006], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the National Narcotics Leadership Act of 1988 [[21 U.S.C. 1532(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1532/b/4&num=0&edition=prelim)], as added by subsection (a).”
+Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, as amended by Pub. L. 115–271, title VIII, § 8203(a)(3)(A), formerly § 8203(a)(4)(A), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, § 2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, § 2(c)(1)(A)(i)(V), Nov. 27, 2019, 133 Stat. 1157, provided that: “Not later than 60 days after the date of enactment of this Act [Dec. 29, 2006], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Anti-Drug Abuse Act of 1988 [[21 U.S.C. 1532(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1532/b/4&num=0&edition=prelim)], as added by subsection (a).”
 
 
 <a id="section-1541-to-1548"></a>
@@ -691,8 +731,13 @@ Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, as amen
 ### Statutory Notes
 
 #### Amendments
-2018—Subsecs. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, which directed substitution of “substance use and misuse” for “substance abuse” wherever appearing in subchapter I of “chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988”, was executed throughout part A of this subchapter, which is subchapter I of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+2019—Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), made technical amendment to directory language of Pub. L. 115–271, § 8203(b)(4)(A). See 2018 Amendment note below.
+
+2018—Subsecs. (b)(1)(A), (2)(C)(i). Pub. L. 115–271, § 8203(b)(4)(A), as amended by Pub. L. 116–74, § 2(c)(1)(A)(ii)(II), substituted “substance use and misuse” for “substance abuse”.
 
 2001—Subsec. (b)(3). Pub. L. 107–82, § 1(e), added par. (3).
 
 Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).

@@ -391,21 +391,23 @@ Ex. Ord. No. 9747, July 3, 1946, 11 F.R. 7518, provided:
 The terms and provisions of Executive Order 9095 of March 11, 1942, as amended [formerly set out as a note under section 6 of the Appendix to Title 50, War and National Defense], and Executive Order No. 8389 of April 10, 1940, as amended [set out above], shall continue in force in the Philippines after July 4, 1946, and all powers and authority delegated by the said Executive Orders to the Alien Property Custodian and to the Secretary of the Treasury, respectively, shall after July 4, 1946, continue to be exercised in the Philippines by the said officers, respectively, as therein provided.
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
-Determination of President of the United States, No. 2018–11, Sept. 10, 2018, 83 F.R. 46347, provided:
+Determination of President of the United States, No. 2019–23, Sept. 13, 2019, 84 F.R. 49189, provided:
 
 Memorandum for the Secretary of State [and] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; [50 U.S.C. 4305](./chapter-053-trading-with-the-enemy.md#section-4305) note), and a previous determination on September 8, 2017 (82 FR 42927, September 13, 2017), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2018.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; [50 U.S.C. 4305](./chapter-053-trading-with-the-enemy.md#section-4305) note), and a previous determination on September 10, 2018 (83 FR 46347, September 12, 2018), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2019.
 
 I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2019, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2020, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 Donald J. Trump.
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2018–11, Sept. 10, 2018, 83 F.R. 46347.
 
 Determination of President of the United States, No. 2017–11, Sept. 8, 2017, 82 F.R. 42927.
 
@@ -639,7 +641,11 @@ Functions vested by law in Alien Property Custodian and Office of Alien Property
 
 (2) A woman who, at the time of her marriage, was a subject or citizen of a nation which has remained neutral in the war, or of a nation which was associated with the United States in the prosecution of said war, and who, prior to April 6, 1917, intermarried with a subject or citizen of Germany or Austria-Hungary and that the money or other property concerned was not acquired by such woman, either directly or indirectly from any subject or citizen of Germany or Austria-Hungary subsequent to January 1, 1917; or
 
-(3) A woman who at the time of her marriage was a citizen of the United States, and who prior to April 6, 1917, intermarried with a subject or citizen of Germany or Austria-Hungary, and that the money or other property concerned, was not acquired by such woman, either directly or indirectly, from any subject or citizen of Germany or Austria-Hungary subsequent to January 1, 1917; or who was a daughter of a resident citizen of the United States and herself a resident or former resident thereof, or the minor daughter or daughters of such woman, she being deceased; or(3A) An individual who was at such time a citizen or subject of Germany, Austria, Hungary, or Austria-Hungary, or not a citizen or subject of any nation, state or free city, and that the money or other property concerned was acquired by such individual while a bona fide resident of the United States, and that such individual, on January 1, 1926, and at the time of the return of the money or other property, shall be a bona fide resident of the United States; or (3B) Any individual who at such time was not a subject or citizen of Germany, Austria, Hungary, or Austria-Hungary, and who is now a citizen or subject of a neutral or allied country: Provided, however, That nothing contained herein shall be construed as limiting or abrogating any existing rights of an individual under the provisions of this chapter; or
+(3) A woman who at the time of her marriage was a citizen of the United States, and who prior to April 6, 1917, intermarried with a subject or citizen of Germany or Austria-Hungary, and that the money or other property concerned, was not acquired by such woman, either directly or indirectly, from any subject or citizen of Germany or Austria-Hungary subsequent to January 1, 1917; or who was a daughter of a resident citizen of the United States and herself a resident or former resident thereof, or the minor daughter or daughters of such woman, she being deceased; or
+
+(3A) An individual who was at such time a citizen or subject of Germany, Austria, Hungary, or Austria-Hungary, or not a citizen or subject of any nation, state or free city, and that the money or other property concerned was acquired by such individual while a bona fide resident of the United States, and that such individual, on January 1, 1926, and at the time of the return of the money or other property, shall be a bona fide resident of the United States; or
+
+(3B) Any individual who at such time was not a subject or citizen of Germany, Austria, Hungary, or Austria-Hungary, and who is now a citizen or subject of a neutral or allied country: Provided, however, That nothing contained herein shall be construed as limiting or abrogating any existing rights of an individual under the provisions of this chapter; or
 
 (4) A citizen or subject of Germany or Austria or Hungary or Austria-Hungary and was at the time of the severance of diplomatic relations between the United States and such nations, respectively, accredited to the United States as a diplomatic or consular officer of any such nation, or the wife or minor child of such officer, and that the money or other property concerned was within the territory of the United States by reason of the service of such officer in such capacity; or
 

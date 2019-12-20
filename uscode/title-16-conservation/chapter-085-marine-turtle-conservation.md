@@ -32,12 +32,21 @@ source: >-
 
   (B) persons with expertise in the conservation of marine turtles.
 
-**(b) Purpose** The purpose of this chapter is to assist in the conservation of marine turtles and the nesting habitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.
+**(b) Purpose** The purpose of this chapter is to assist in the conservation of marine turtles, freshwater turtles, and tortoises and the habitats of marine turtles, freshwater turtles, and tortoises in foreign countries and territories of the United States by supporting and providing financial resources for projects—
+
+(1) to conserve marine turtle, freshwater turtle, and tortoise habitats under the jurisdiction of United States Fish and Wildlife Service programs;
+
+(2) to conserve marine turtles, freshwater turtles, and tortoises in those habitats; and
+
+(3) to address other threats to the survival of marine turtles, freshwater turtles, and tortoises, including habitat loss, poaching of turtles or their eggs, and wildlife trafficking.
 
 ### Statutory Notes
 
 #### References in Text
 The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+#### Amendments
+2019—Subsec. (b). Pub. L. 116–9 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The purpose of this chapter is to assist in the conservation of marine turtles and the nesting habitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.”
 
 #### Short Title
 Pub. L. 108–266, § 1, July 2, 2004, 118 Stat. 791, provided that: “This Act [enacting this chapter] may be cited as the ‘Marine Turtle Conservation Act of 2004’.”
@@ -50,35 +59,47 @@ In this chapter:
 
 (1) **CITES** — The term “CITES” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora (27 UST 1087; TIAS 8249).
 
-(2) **Conservation** — The term “conservation” means the use of all methods and procedures necessary to protect nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats, including—
+(2) **Conservation** — The term “conservation” means the use of all methods and procedures necessary to protect marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs, including—
 
-  (A) protection, restoration, and management of nesting habitats;
+  (A) protection, restoration, and management of habitats;
 
-  (B) onsite research and monitoring of nesting populations, nesting habitats, annual reproduction, and species population trends;
+  (B) onsite research and monitoring of populations, habitats, annual reproduction, and species population trends;
 
-  (C) assistance in the development, implementation, and improvement of national and regional management plans for nesting habitat ranges;
+  (C) assistance in the development, implementation, and improvement of national and regional management plans for habitat ranges;
 
-  (D) enforcement and implementation of CITES and laws of foreign countries to—
+  (D) enforcement and implementation of CITES and laws of foreign countries—
 
-    (i) protect and manage nesting populations and nesting habitats; and
+    (i) to protect and manage populations and habitats; and
 
-    (ii) prevent illegal trade of marine turtles;
+    (ii) to prevent illegal trade of marine turtles;
 
   (E) training of local law enforcement officials in the interdiction and prevention of—
 
-    (i) the illegal killing of marine turtles on nesting habitat; and
+    (i) the illegal killing of marine turtles, freshwater turtles, and tortoises; and
 
     (ii) illegal trade in marine turtles;
 
-  (F) initiatives to resolve conflicts between humans and marine turtles over habitat used by marine turtles for nesting;
+  (F) initiatives to resolve conflicts between humans and marine turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises;
 
   (G) community outreach and education; and
 
-  (H) strengthening of the ability of local communities to implement nesting population and nesting habitat conservation programs.
+  (H) strengthening of the ability of local communities to implement population and habitat conservation programs.
 
-(3) **Fund** — The term “Fund” means the Marine Turtle Conservation Fund established by [section 6604 of this title](./chapter-085-marine-turtle-conservation.md#section-6604).
+(3) **Freshwater turtle**
 
-(4) **Marine turtle**
+  (A) *In general* — The term “freshwater turtle” means any member of the family Carettochelyidae, Chelidae, Chelydridae, Dermatemydidae, Emydidae, Geoemydidae, Kinosternidae, Pelomedusidae, Platysternidae, Podocnemididae, or Trionychidae.
+
+  (B) *Inclusions* — The term “freshwater turtle” includes—
+
+    (i) any part, product, egg, or offspring of a turtle described in subparagraph (A); and
+
+    (ii) a carcass of such a turtle.
+
+(4) **Fund** — The term “Fund” means the Marine Turtle Conservation Fund established by [section 6604 of this title](./chapter-085-marine-turtle-conservation.md#section-6604).
+
+(5) **Habitat** — The term “habitat” means any marine turtle, freshwater turtle, or tortoise habitat (including a nesting habitat) that is under the jurisdiction of United States Fish and Wildlife Service programs.
+
+(6) **Marine turtle**
 
   (A) *In general* — The term “marine turtle” means any member of the family Cheloniidae or Dermochelyidae.
 
@@ -88,27 +109,70 @@ In this chapter:
 
     (ii) a carcass of such a turtle.
 
-(5) **Multinational Species Conservation Fund** — The term “Multinational Species Conservation Fund” means the fund established under the heading “multinational species conservation fund” in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 4246](./chapter-062-african-elephant-conservation.md#section-4246)).
+(7) **Multinational Species Conservation Fund** — The term “Multinational Species Conservation Fund” means the fund established under the heading “multinational species conservation fund” in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 4246](./chapter-062-african-elephant-conservation.md#section-4246)).
 
-(6) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+(8) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(9) **Territory of the United States** — The term “territory of the United States” means—
+
+  (A) American Samoa;
+
+  (B) the Commonwealth of the Northern Mariana Islands;
+
+  (C) the Commonwealth of Puerto Rico;
+
+  (D) Guam;
+
+  (E) the United States Virgin Islands; and
+
+  (F) any other territory or possession of the United States.
+
+(10) **Tortoise**
+
+  (A) *In general* — The term “tortoise” means any member of the family Testudinidae.
+
+  (B) *Inclusions* — The term “tortoise” includes—
+
+    (i) any part, product, egg, or offspring of a tortoise described in subparagraph (A); and
+
+    (ii) a carcass of such a tortoise.
 
 ### Statutory Notes
 
 #### References in Text
-Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237 and are classified in part to [section 4246 of this title](./chapter-062-african-elephant-conservation.md#section-4246).
+Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (7), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237 and are classified in part to [section 4246 of this title](./chapter-062-african-elephant-conservation.md#section-4246).
+
+#### Amendments
+2019—Par. (2). Pub. L. 116–9, § 7001(c)(3)(B)(i)(I), substituted “marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs” for “nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats” in introductory provisions.
+
+Par. (2)(A) to (C). Pub. L. 116–9, § 7001(c)(3)(B)(i)(II), struck out “nesting” wherever appearing before “habitats”, “populations”, and “habitat”.
+
+Par. (2)(D). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(aa), substituted “countries—” for “countries to—” in introductory provisions.
+
+Par. (2)(D)(i). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(bb), inserted “to” before “protect” and struck out “nesting” before “populations” and before “habitats”.
+
+Par. (2)(D)(ii). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(cc), inserted “to” before “prevent”.
+
+Par. (2)(E)(i). Pub. L. 116–9, § 7001(c)(3)(B)(i)(IV), substituted “turtles, freshwater turtles, and tortoises” for “turtles on nesting habitat”.
+
+Par. (2)(F). Pub. L. 116–9, § 7001(c)(3)(B)(i)(V), substituted “turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises” for “turtles over habitat used by marine turtles for nesting”.
+
+Par. (2)(H). Pub. L. 116–9, § 7001(c)(3)(B)(i)(VI), struck out “nesting” before “population” and before “habitat”.
+
+Pars. (3) to (10). Pub. L. 116–9, § 7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7) and (8), respectively.
 
 
 <a id="section-6603"></a>
-## § 6603. Marine turtle conservation assistance
-**(a) In general** Subject to the availability of funds and in consultation with other Federal officials, the Secretary shall use amounts in the Fund to provide financial assistance for projects for the conservation of marine turtles for which project proposals are approved by the Secretary in accordance with this section.
+## § 6603. Conservation assistance
+**(a) In general** Subject to the availability of funds and in consultation with other Federal officials, the Secretary shall use amounts in the Fund to provide financial assistance for projects for the conservation of marine turtles, freshwater turtles, or tortoises for which project proposals are approved by the Secretary in accordance with this section.
 
 **(b) Project proposals**
 
-(1) **Eligible applicants** — A proposal for a project for the conservation of marine turtles may be submitted to the Secretary by—
+(1) **Eligible applicants** — A proposal for a project for the conservation of marine turtles, freshwater turtles, or tortoises may be submitted to the Secretary by—
 
-  (A) any wildlife management authority of a foreign country that has within its boundaries marine turtle nesting habitat if the activities of the authority directly or indirectly affect marine turtle conservation; or
+  (A) any wildlife management authority of a foreign country or territory of the United States that has within its boundaries marine turtle, freshwater turtle, or tortoise habitat, if the activities of the authority directly or indirectly affect marine turtle, freshwater turtle, or tortoise conservation; or
 
-  (B) any other person or group with the demonstrated expertise required for the conservation of marine turtles.
+  (B) any other person or group with the demonstrated expertise required for the conservation of marine turtles, freshwater turtles, or tortoises.
 
 (2) **Required elements** — A project proposal shall include—
 
@@ -144,15 +208,15 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 (2) **Consultation; approval or disapproval** — Not later than 180 days after receiving a project proposal, and subject to the availability of funds, the Secretary, after consulting with other Federal officials, as appropriate, shall—
 
-  (A) consult on the proposal with the government of each country in which the project is to be conducted;
+  (A) consult on the proposal with the government of each country and territory of the United States in which the project is to be conducted;
 
   (B) after taking into consideration any comments resulting from the consultation, approve or disapprove the project proposal; and
 
-  (C) provide written notification of the approval or disapproval to the person that submitted the project proposal, other Federal officials, and each country described in subparagraph (A).
+  (C) provide written notification of the approval or disapproval to the person that submitted the project proposal, other Federal officials, and each country and territory of the United States described in subparagraph (A).
 
-**(d) Criteria for approval** The Secretary may approve a project proposal under this section if the project will help recover and sustain viable populations of marine turtles in the wild by assisting efforts in foreign countries to implement marine turtle conservation programs.
+**(d) Criteria for approval** The Secretary may approve a project proposal under this section if the Secretary determines that the project will help to restore, recover, and sustain a viable population of marine turtles, freshwater turtles, or tortoises in the wild by assisting efforts in a foreign country or territory of the United States to implement a marine turtle, freshwater turtle, or tortoise conservation program.
 
-**(e) Project sustainability** To the maximum extent practicable, in determining whether to approve project proposals under this section, the Secretary shall give preference to conservation projects that are designed to ensure effective, long-term conservation of marine turtles and their nesting habitats.
+**(e) Project sustainability** To the maximum extent practicable, in determining whether to approve project proposals under this section, the Secretary shall give preference to conservation projects that are designed to ensure effective, long-term conservation of marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises.
 
 **(f) Matching funds** In determining whether to approve project proposals under this section, the Secretary shall give preference to projects for which matching funds are available.
 
@@ -162,6 +226,25 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 (2) **Availability to the public** — Reports under paragraph (1), and any other documents relating to projects for which financial assistance is provided under this chapter, shall be made available to the public.
 
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–9, § 7001(c)(3)(C)(i), struck out “Marine turtle” before “Conservation” in section catchline.
+
+Subsec. (a). Pub. L. 116–9, § 7001(c)(3)(C)(ii), inserted “, freshwater turtles, or tortoises” after “marine turtles”.
+
+Subsec. (b)(1). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(I), inserted “, freshwater turtles, or tortoises” after “marine turtles” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(II), added subpar. (A) and struck out former subpar. (A) which read as follows: “any wildlife management authority of a foreign country that has within its boundaries marine turtle nesting habitat if the activities of the authority directly or indirectly affect marine turtle conservation; or”.
+
+Subsec. (b)(1)(B). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(III), inserted “, freshwater turtles, or tortoises” after “marine turtles”.
+
+Subsec. (c)(2)(A), (C). Pub. L. 116–9, § 7001(c)(3)(C)(iv), inserted “and territory of the United States” after “each country”.
+
+Subsec. (d). Pub. L. 116–9, § 7001(c)(3)(C)(v), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may approve a project proposal under this section if the project will help recover and sustain viable populations of marine turtles in the wild by assisting efforts in foreign countries to implement marine turtle conservation programs.”
+
+Subsec. (e). Pub. L. 116–9, § 7001(c)(3)(C)(vi), substituted “marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises” for “marine turtles and their nesting habitats”.
+
 
 <a id="section-6604"></a>
 ## § 6604. Marine Turtle Conservation Fund
@@ -169,7 +252,7 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 (1) amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e);
 
-(2) amounts appropriated to the Fund under [section 6605 of this title](./chapter-085-marine-turtle-conservation.md#section-6605); and
+(2) amounts appropriated to the Fund under [section 6606(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6606/a&num=0&edition=prelim); and
 
 (3) any interest earned on investment of amounts in the Fund under subsection (c).
 
@@ -177,7 +260,7 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 (1) **In general** — Subject to paragraph (2), on request by the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary, without further appropriation, such amounts as the Secretary determines are necessary to carry out [section 6603 of this title](./chapter-085-marine-turtle-conservation.md#section-6603).
 
-(2) **Administrative expenses** — Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $80,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
+(2) **Administrative expenses** — Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 5 percent, or up to $150,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 **(c) Investment of amounts**
 
@@ -201,10 +284,17 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 **(e) Acceptance and use of donations** The Secretary may accept and use donations to provide assistance under [section 6603 of this title](./chapter-085-marine-turtle-conservation.md#section-6603). Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit in the Fund.
 
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a)(2). Pub. L. 116–9, § 7001(c)(3)(D)(i), substituted “section 6606(a)” for “section 6605”.
+
+Subsec. (b)(2). Pub. L. 116–9, § 7001(c)(3)(D)(ii), substituted “5 percent, or up to $150,000” for “3 percent, or up to $80,000”.
+
 
 <a id="section-6605"></a>
 ## § 6605. Advisory group
-**(a) In general** To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of marine turtles.
+**(a) In general** To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of marine turtles, freshwater turtles, or tortoises.
 
 **(b) Public participation**
 
@@ -225,11 +315,24 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Amendments
+2019—Subsec. (a). Pub. L. 116–9 inserted “, freshwater turtles, or tortoises” after “marine turtles”.
+
 
 <a id="section-6606"></a>
 ## § 6606. Authorization of appropriations
+**(a) In general** There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2019 through 2023.
 
-There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2005 through 2009.
+**(b) Allocation** Of the amounts made available for each fiscal year pursuant to subsection (a)—
+
+(1) not less than $1,510,000 shall be used by the Secretary for marine turtle conservation purposes in accordance with this chapter; and
+
+(2) of the amounts in excess of the amount described in paragraph (1), not less than 40 percent shall be used by the Secretary for freshwater turtle and tortoise conservation purposes in accordance with this chapter.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 116–9 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2005 through 2009.”
 
 
 <a id="section-6607"></a>

@@ -20,7 +20,7 @@ Whenever there is an insurrection in any State against its government, the Presi
 
 The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “governor” is substituted for the word “executive”. The word “may” is substituted for the words “it shall be lawful * * * to”. The words “into Federal service” are substituted for the word “forth” for uniformity and clarity.
 
-#### Prior Provisions
+#### Codification
 Another section 251 was renumbered [section 240a of this title](./chapter-9a-audit.md#section-240a).
 
 #### Amendments
@@ -44,7 +44,7 @@ Whenever the President considers that unlawful obstructions, combinations, or as
 #### Derivation
 Act July 29, 1861, ch. 25, § 1, 12 Stat. 281.
 
-#### Prior Provisions
+#### Codification
 Another section 252 was renumbered [section 240b of this title](./chapter-9a-audit.md#section-240b).
 
 #### Amendments
@@ -87,7 +87,7 @@ The words “armed forces” are substituted for the words “land or naval forc
 #### Derivation
 Act Apr. 20, 1871, ch. 22, § 3, 17 Stat. 14.
 
-#### Prior Provisions
+#### Codification
 Another section 253 was renumbered [section 240c of this title](./chapter-9a-audit.md#section-240c).
 
 #### Amendments
@@ -118,7 +118,7 @@ The words “militia or the armed forces” are substituted for the words “mil
 #### Derivation
 Act July 29, 1861, ch. 25, § 2, 12 Stat. 282.
 
-#### Prior Provisions
+#### Codification
 Another section 254 was renumbered [section 240d of this title](./chapter-9a-audit.md#section-240d).
 
 #### Amendments

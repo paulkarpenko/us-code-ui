@@ -96,7 +96,7 @@ source: >-
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
-2018—Subsec. (b)(2) to (5). Pub. L. 115–141, § 401(b)(47), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which related to dates prescribed for installment payments.
+2018—Subsec. (b)(2) to (5). Pub. L. 115–141 redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which related to dates prescribed for installment payments.
 
 2017—Subsec. (j)(3)(B). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
@@ -398,7 +398,7 @@ Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts 
 
     (ii) reasonably believes that the Secretary also has a reasonable basis for disallowing the taxpayer’s treatment of such item.
 
-  (B) *30-day letter* — The term “30-day letter” means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
+  (B) *30-day letter* — The term “30-day letter” means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals.
 
 (4) **Rate of interest** — The rate of interest under this subsection shall be the Federal short-term rate determined under section 6621(b), compounded daily.
 
@@ -409,6 +409,9 @@ Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts 
 (2) **Returns of deposits** — Deposits shall be treated as returned to the taxpayer on a last-in, first-out basis.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (d)(3)(B). Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
 
 #### Effective Date
 Pub. L. 108–357, title VIII, § 842(c), Oct. 22, 2004, 118 Stat. 1599, provided that: “(1) In general.—The amendments made by this section [enacting this section] shall apply to deposits made after the date of the enactment of this Act [Oct. 22, 2004]. “(2) Coordination with deposits made under revenue procedure 84–58.—In the case of an amount held by the Secretary of the Treasury or his delegate on the date of the enactment of this Act as a deposit in the nature of a cash bond deposit pursuant to Revenue Procedure 84–58, the date that the taxpayer identifies such amount as a deposit made pursuant to section 6603 of the Internal Revenue Code (as added by this Act) shall be treated as the date such amount is deposited for purposes of such section 6603.”
@@ -718,7 +721,7 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
   (A) *In general* — The applicable date is the 30th day after the earlier of—
 
-    (i) the date on which the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent, or
+    (i) the date on which the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent, or
 
     (ii) the date on which the deficiency notice under section 6212 is sent.
     The preceding sentence shall be applied without regard to any such letter or notice which is withdrawn by the Secretary.
@@ -746,6 +749,8 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(2)(A)(i). Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
+
 1998—Subsec. (a)(1)(B). Pub. L. 105–206, § 3302(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “2 percentage points.”
 
 Subsec. (d). Pub. L. 105–206, § 3301(a), added subsec. (d).

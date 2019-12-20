@@ -41,3 +41,7 @@ Former [section 111 of Title 29](https://uscode.house.gov/view.xhtml?req=granule
 
 <a id="section-3693"></a>
 ## § 3693. Summary disposition or jury trial; notice—(Rule)
+
+### Notes
+
+Summary punishment; certificate of judge; order; notice; jury trial; bail; disqualification of judge, Rule 42.

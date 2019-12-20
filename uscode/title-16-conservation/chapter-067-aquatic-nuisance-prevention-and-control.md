@@ -764,9 +764,12 @@ Pub. L. 104–332, § 2(e)(5)(B)–(F), designated existing provisions as subsec
 
 (5) **In-kind contributions** — In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
 
-**(c) Enforcement assistance** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+**(c) Enforcement assistance** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 22 See References in Text note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim), referred to in subsec. (c), was redesignated [section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) by Pub. L. 115–282, title I, § 106(b), Dec. 4, 2018, 132 Stat. 4203, and references to [section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1204, which enacted this section.
@@ -794,9 +797,6 @@ Subsec. (a)(4). Pub. L. 104–332, § 2(e)(6)(A)(v), inserted “or the intersta
 Subsec. (b)(1). Pub. L. 104–332, § 2(e)(6)(B), struck out “or the Assistant Secretary, as appropriate under subsection (a),” after “The Director” and substituted “management plans approved under subsection (a)” for “approved management plans”.
 
 Subsec. (c). Pub. L. 104–332, § 2(e)(6)(C), added subsec. (c).
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) redesignated [section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) by Pub. L. 115–282, title I, § 106(b), Dec. 4, 2018, 132 Stat. 4203, and references to [section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-4725"></a>
@@ -864,7 +864,7 @@ The Task Force shall, within the program developed under subsection (a),11 So in
 
 <a id="section-4729"></a>
 ## § 4729. Coastal Aquatic Invasive Species Mitigation Grant Program and Mitigation Fund
-(1) **Definitions** — In this subsection:
+(1) **Definitions** — In this section:
 
   (A) *Coastal zone* — The term “coastal zone” has the meaning given the term in [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
@@ -910,15 +910,15 @@ The Task Force shall, within the program developed under subsection (a),11 So in
 
     (i) *In general* — A grant awarded under the Program shall be used for an activity to carry out the purposes of the Program, including an activity—
 
-      (I) *to develop and implement procedures and programs, including permissible State ballast water inspection programs, to prevent, detect, control, mitigate, and rapidly or progressively eradicate aquatic invasive species in the coastal zone or the Exclusive Economic Zone, particularly in areas with high numbers of established aquatic invasive species;*
+      (I) to develop and implement procedures and programs, including permissible State ballast water inspection programs, to prevent, detect, control, mitigate, and rapidly or progressively eradicate aquatic invasive species in the coastal zone or the Exclusive Economic Zone, particularly in areas with high numbers of established aquatic invasive species;
 
-      (II) *to restore habitat impacted by an aquatic invasive species;*
+      (II) to restore habitat impacted by an aquatic invasive species;
 
-      (III) *to develop new shipboard and land-based ballast water treatment system technologies and performance standards to prevent the introduction of aquatic invasive species;*
+      (III) to develop new shipboard and land-based ballast water treatment system technologies and performance standards to prevent the introduction of aquatic invasive species;
 
-      (IV) *to develop mitigation measures to protect natural and cultural living resources, including shellfish, from the impacts of aquatic invasive species; or*
+      (IV) to develop mitigation measures to protect natural and cultural living resources, including shellfish, from the impacts of aquatic invasive species; or
 
-      (V) *to develop mitigation measures to protect infrastructure, such as hydroelectric infrastructure, from aquatic invasive species.*
+      (V) to develop mitigation measures to protect infrastructure, such as hydroelectric infrastructure, from aquatic invasive species.
 
     (ii) *Prohibition on funding litigation* — A grant awarded under the Program may not be used to fund litigation in any matter.
 
@@ -955,8 +955,6 @@ The Task Force shall, within the program developed under subsection (a),11 So in
 ### Statutory Notes
 
 #### References in Text
-This subsection, referred to in introductory provisions of par. (1), is subsec. (f) of section 903 of Pub. L. 115–282. See Codification note below.
-
 Presidential Proclamation 5030, referred to in par. (1)(C), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
 #### Codification
@@ -967,7 +965,7 @@ Section is comprised of subsec. (f) of section 903 of Pub. L. 115–282. For cla
 
 <a id="section-4730"></a>
 ## § 4730. Great Lakes and Lake Champlain Invasive Species Program
-(1) **Definitions** — In this subsection:
+(1) **Definitions** — In this section:
 
   (A) *Administrator* — The term “Administrator” means the Administrator of the Environmental Protection Agency.
 
@@ -1023,7 +1021,7 @@ Section is comprised of subsec. (f) of section 903 of Pub. L. 115–282. For cla
 
     (vii) to develop, achieve type approval for, and pilot shipboard or land-based ballast water management systems installed on, or available for use by, commercial vessels operating solely within the Great Lakes and Lake Champlain Systems to prevent the spread of aquatic nuisance species populations within the Great Lakes and Lake Champlain Systems; and
 
-    (viii) to facilitate meaningful Federal and State implementation of the regulatory framework in this subsection, including monitoring, shipboard education, inspection, and compliance conducted by States.
+    (viii) to facilitate meaningful Federal and State implementation of the regulatory framework in this section, including monitoring, shipboard education, inspection, and compliance conducted by States.
 
 (3) **Methodology** — The Program shall seek—
 
@@ -1082,9 +1080,6 @@ Section is comprised of subsec. (f) of section 903 of Pub. L. 115–282. For cla
 (7) **Authorization of appropriations** — There is authorized to be appropriated to carry out the Program $50,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
-
-#### References in Text
-This subsection, referred to in introductory provisions of par. (1) and par. (2)(B)(viii), is subsec. (g) of section 903 of Pub. L. 115–282. See Codification note below.
 
 #### Codification
 Section was enacted as part of the Vessel Incidental Discharge Act of 2018 and also as part of the Frank LoBiondo Coast Guard Authorization Act of 2018, and not as part of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 which comprises this chapter.

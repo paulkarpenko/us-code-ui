@@ -27,6 +27,10 @@ The text of this section was changed by Senate amendment. See Senate Report No. 
 <a id="section-3232"></a>
 ## § 3232. District of offense—(Rule)
 
+### Notes
+
+Proceedings to be in district and division in which offense committed, Rule 18.
+
 
 <a id="section-3233"></a>
 ## § 3233. Transfer within district—(Rule)
@@ -36,9 +40,17 @@ The text of this section was changed by Senate amendment. See Senate Report No. 
 #### References in Text
 Rule 19 of the Federal Rules of Criminal Procedure, referred to in text, was rescinded Feb. 28, 1966, eff. July 1, 1966.
 
+### Notes
+
+Arraignment, plea, trial, sentence in district of more than one division, Rule 19.
+
 
 <a id="section-3234"></a>
 ## § 3234. Change of venue to another district—(Rule)
+
+### Notes
+
+Plea or disposal of case in district other than that in which defendant was arrested, Rule 20.
 
 
 <a id="section-3235"></a>

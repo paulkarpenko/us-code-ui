@@ -260,7 +260,7 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of this subsection, referred to in subsec. (f)(1), is the date of the enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
+The date of the enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Amendments
 2018—Subsecs. (f), (g). Pub. L. 115–123 added subsec. (f) and redesignated former subsec. (f) as (g).

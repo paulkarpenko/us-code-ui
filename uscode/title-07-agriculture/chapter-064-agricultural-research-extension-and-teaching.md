@@ -361,7 +361,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 2018—Par. (14)(A). Pub. L. 115–334, § 7102(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The terms ‘NLGCA Institution’ and ‘non-land-grant college of agriculture’ mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences.”
 
-Par. (14)(C). Pub. L. 115–334, § 7102(a)(2), inserted “any institution designated under” after “include” in introductory provisions, redesignated subcls. (I) to (III) of cl. (ii) as cls. (i) to (iii), respectively, and struck out former cl. (i), which read “Hispanic-serving agricultural colleges and universities; or”, introductory provisions of former cl. (ii) which read “(ii) any institution designated under—”, and subcl. (IV) of former cl. (ii) which read “Public Law 87–788 (commonly known as the ‘McIntire-Stennis Cooperative Forestry Act’) ([16 U.S.C. 582a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section582a&num=0&edition=prelim) et seq.).”
+Par. (14)(C). Pub. L. 115–334, § 7102(a)(2), inserted “any institution designated under” after “include” in introductory provisions, redesignated subcls. (I) to (III) of cl. (ii) as cls. (i) to (iii), respectively, and struck out former cl. (i), which read “Hispanic-serving agricultural colleges and universities; or”, introductory provisions of former cl. (ii) which read “any institution designated under—”, and subcl. (IV) of former cl. (ii) which read “Public Law 87–788 (commonly known as the ‘McIntire-Stennis Cooperative Forestry Act’) ([16 U.S.C. 582a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section582a&num=0&edition=prelim) et seq.).”
 
 2014—Par. (5). Pub. L. 113–79, § 7101(1), added par. (5) and struck out former par. (5) which read as follows: “The term ‘cooperating forestry schools’ means those institutions eligible to receive funds under the Act of October 10, 1962 ([16 U.S.C. 582a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section582a&num=0&edition=prelim) et seq.), commonly known as the McIntire-Stennis Act of 1962.”
 
@@ -2420,7 +2420,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) a cooperative extension service (as defined in such section); and
 
-  (C) a land-grant college or university (as defined in such section) .
+  (C) a land-grant college or university (as defined in such section).
 
 (4) **Requirement** — The Secretary shall award grants under paragraph (2) to not fewer than 2 and not more than 5 eligible entities described in paragraph (3) that represent a diversity of regions, commodities, and agricultural or food production issues.
 
@@ -2515,11 +2515,11 @@ Subsec. (b)(2)(F)(viii). Pub. L. 115–334, § 7504(1)(C), added cl. (viii).
 
 Subsec. (b)(6)(F). Pub. L. 115–334, § 7504(2), added subpar. (F).
 
-Subsec. (b)(9)(A)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(i), struck out cl. (iii). Prior to amendment, text read as follows: “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply in the case of a grant made under paragraph (6)(A).”
+Subsec. (b)(9)(A)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(i), struck out cl. (iii). Text read as follows: “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply in the case of a grant made under paragraph (6)(A).”
 
 Subsec. (b)(9)(B)(i). Pub. L. 115–334, § 7614(b)(4)(B)(ii)(I), substituted “clause (ii),” for “clauses (ii) and (iii),”.
 
-Subsec. (b)(9)(B)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(ii)(II), struck out cl. (iii). Prior to amendment, text read as follows: “The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371).”
+Subsec. (b)(9)(B)(iii). Pub. L. 115–334, § 7614(b)(4)(B)(ii)(II), struck out cl. (iii). Text read as follows: “The contribution requirement under clause (i) shall be in addition to any matching funds requirement for grant recipients required by [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371).”
 
 Subsec. (b)(9)(C). Pub. L. 115–334, § 7614(b)(4)(B)(iii), added subpar. (C).
 
@@ -2690,7 +2690,7 @@ Subsec. (d). Pub. L. 97–98, § 1415(c), in provision preceding par. (1) substi
 1977—Pub. L. 95–113 designated existing provisions as subsec. (e) and a part of subsec. (b) and added the remainder of subsec. (b) and subsecs. (a), (c), (d), (f), (g), and (h).
 
 #### Effective Date of 2018 Amendment
-Amendment by section 7614(b)(4)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by section 7614(b)(4)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -3667,7 +3667,7 @@ Act of May 8, 1914, 38 Stat. 372, as amended, referred to in subsec. (a)(2), is 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Subsec. (a)(4). Pub. L. 115–334, § 7114, struck out par. (4). Prior to amendment, text read as follows: “No more than 20 per centum of the funds received by an institution in any fiscal year may be carried forward to the succeeding fiscal year.”
+2018—Subsec. (a)(4). Pub. L. 115–334, § 7114, struck out par. (4). Text read as follows: “No more than 20 per centum of the funds received by an institution in any fiscal year may be carried forward to the succeeding fiscal year.”
 
 Subsec. (b). Pub. L. 115–334, § 7115(a)(4), inserted heading and struck out introductory provisions which read as follows: “Beginning with the fiscal year ending September 30, 1979—”.
 
@@ -3679,9 +3679,9 @@ Subsec. (b)(2). Pub. L. 115–334, § 7115(a)(4), redesignated par. (1) as (2), 
 
 Subsec. (b)(2)(B). Pub. L. 115–334, § 7115(a)(2)(A), substituted “Except as provided in paragraph (4), of the remainder” for “Of the remainder”.
 
-Subsec. (b)(2)(C). Pub. L. 115–334, § 7115(a)(1), redesignated concluding provisions as subpar. (C) of par. (2) and substituted “this paragraph” for “paragraph (2) of this subsection”.
+Subsec. (b)(2)(C). Pub. L. 115–334, § 7115(a)(1), redesignated concluding provisions of subsec. (b) as subpar. (C) of par. (2) and substituted “this paragraph” for “paragraph (2) of this subsection”.
 
-Subsec. (b)(3). Pub. L. 115–334, § 7115(a)(2)(B), redesignated par. (2) as (3), inserted heading, and substituted “Any funds” for “any funds”.
+Subsec. (b)(3). Pub. L. 115–334, § 7115(a)(2)(B), redesignated par. (2) as (3), inserted heading, and substituted “Any funds” for “any funds” in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 115–334, § 7115(a)(5), added par. (4).
 
@@ -3858,7 +3858,7 @@ Subsec. (b)(2). Pub. L. 115–334, § 7115(b)(2), redesignated par. (1) as (2), 
 
 Subsec. (b)(2)(A). Pub. L. 115–334, § 7115(b)(1)(C)(i), (ii), substituted “were allocated” for “are allocated” and inserted “, as so designated as of that date” before period at end.
 
-Subsec. (b)(2)(B). Pub. L. 115–334, § 7115(b)(1)(C)(iii), redesignated subpar. (A) as (B) and inserted heading.
+Subsec. (b)(2)(B). Pub. L. 115–334, § 7115(b)(1)(C)(iii), redesignated subpar. (A) as (B) and inserted heading. Former subpar. (B) redesignated (C).
 
 Subsec. (b)(2)(C). Pub. L. 115–334, § 7115(b)(1)(B), redesignated subpar. (B) as (C), inserted heading, and substituted “Except as provided in subparagraph (D), of funds” for “Of funds”.
 
@@ -5947,7 +5947,7 @@ Subsec. (d). Pub. L. 99–198, § 1429(a)(3), (4), substituted in first sentence
 Subsec. (e). Pub. L. 99–198, § 1429(a)(5), inserted “the House Committee on Merchant Marine and Fisheries,”.
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
@@ -6051,7 +6051,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 2002—Pub. L. 107–171 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary may make grants to land-grant colleges and universities, State agricultural experiment stations, and to colleges, universities, and Federal laboratories having a demonstrable capacity in rangeland research, as determined by the Secretary, to carry out rangeland research. Except in the case of Federal laboratories, this grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum non-Federal funding.”
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
@@ -6353,4 +6353,4 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Section, Pub. L. 95–113, title XIV, § 1492, as added Pub. L. 113–79, title VII, § 7128(a), Feb. 7, 2014, 128 Stat. 877, related to matching funds requirement.
 
 #### Effective Date of Repeal
-Repeal of section by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards described in Pub. L. 115–334, § 7614(b) (amending sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title) that are made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as an Effective Date of 2018 Amendment note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Repeal of section by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards described in Pub. L. 115–334, § 7614(b) (amending sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title) that are made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as an Effective Date of 2018 Amendment note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).

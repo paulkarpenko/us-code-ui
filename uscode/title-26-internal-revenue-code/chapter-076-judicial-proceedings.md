@@ -936,7 +936,7 @@ Section applicable with respect to action taken under section 6851, 6861, or 686
   (A) any administrative fees or similar charges imposed by the Internal Revenue Service, and
 
   (B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of the awarding of reasonable administrative costs is made by the Internal Revenue Service.
-  Such term shall only include costs incurred on or after whichever of the following is the earliest: (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals; (ii) the date of the notice of deficiency; or (iii) the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent.
+  Such term shall only include costs incurred on or after whichever of the following is the earliest: (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Independent Office of Appeals; (ii) the date of the notice of deficiency; or (iii) the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent.
 
 (3) **Attorneys’ fees**
 
@@ -1014,7 +1014,7 @@ Section applicable with respect to action taken under section 6851, 6861, or 686
 
   (B) the position taken in an administrative proceeding to which subsection (a) applies as of the earlier of—
 
-    (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or
+    (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Independent Office of Appeals, or
 
     (ii) the date of the notice of deficiency.
 
@@ -1053,7 +1053,7 @@ such actions or cases shall be treated as 1 court proceeding regardless of wheth
 
 (2) **Qualified offer period** — For purposes of this subsection, the term “qualified offer period” means the period—
 
-  (A) beginning on the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent, and
+  (A) beginning on the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent, and
 
   (B) ending on the date which is 30 days before the date the case is first set for trial.
 
@@ -1066,6 +1066,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 7430 was renumbered [section 7437 of this title](./chapter-076-judicial-proceedings.md#section-7437).
 
 #### Amendments
+2019—Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals” wherever appearing.
+
 2018—Subsec. (c)(6). Pub. L. 115–141 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 2017—Subsec. (c)(1). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)” in concluding provisions.
@@ -1224,7 +1226,7 @@ Pub. L. 97–248, title II, § 292(e), Sept. 3, 1982, 96 Stat. 574, as amended b
 (2) section 7213A(a), or
 
 (3) subparagraph (B) of [section 1030(a)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1030/a/2&num=0&edition=prelim), United States Code,
-the Secretary shall notify such taxpayer as soon as practicable of such inspection or disclosure.
+the Secretary shall notify such taxpayer as soon as practicable of such inspection or disclosure. The Secretary shall also notify such taxpayer if the Internal Revenue Service or a Federal or State agency (upon notice to the Secretary by such Federal or State agency) proposes an administrative determination as to disciplinary or adverse action against an employee arising from the employee’s unauthorized inspection or disclosure of the taxpayer’s return or return information. The notice described in this subsection shall include the date of the unauthorized inspection or disclosure and the rights of the taxpayer under such administrative determination.
 
 **(f) Definitions** For purposes of this section, the terms “inspect”, “inspection”, “return”, and “return information” have the respective meanings given such terms by section 6103(b).
 
@@ -1243,6 +1245,8 @@ For purposes of subsection (b), the reference to section 6103 shall be treated a
 A prior section 7431 was renumbered [section 7437 of this title](./chapter-076-judicial-proceedings.md#section-7437).
 
 #### Amendments
+2019—Subsec. (e). Pub. L. 116–25 inserted at end of concluding provisions “The Secretary shall also notify such taxpayer if the Internal Revenue Service or a Federal or State agency (upon notice to the Secretary by such Federal or State agency) proposes an administrative determination as to disciplinary or adverse action against an employee arising from the employee’s unauthorized inspection or disclosure of the taxpayer’s return or return information. The notice described in this subsection shall include the date of the unauthorized inspection or disclosure and the rights of the taxpayer under such administrative determination.”
+
 2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or in violation of section 6104(c)” after “6103” in subsec. (a)(2) of section 7431, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7431 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 1998—Subsec. (c)(2). Pub. L. 105–206, § 3101(f), substituted “, plus” for the period at end.
@@ -1274,6 +1278,9 @@ Subsec. (g). Pub. L. 105–35, § 3(b), (d)(6), redesignated subsec. (f) as (g) 
 Pub. L. 105–34, § 1205(c)(2), added subsec. (g) relating to special rule for information obtained under section 6103(k)(8).
 
 1983—Subsec. (f). Pub. L. 98–67 added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title III, § 3002(b), July 1, 2019, 133 Stat. 1015, provided that: “The amendment made by this section [amending this section] shall apply to determinations proposed after the date which is 180 days after the date of the enactment of this Act [July 1, 2019].”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 effective Aug. 17, 2006, but not applicable to requests made before such date, see section 1224(c) of Pub. L. 109–280, set out as a note under [section 6103 of this title](./chapter-061-information-and-returns.md#section-6103).

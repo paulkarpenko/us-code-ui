@@ -39,29 +39,7 @@ In subsection (c), the text of 36:181 (1st sentence) is omitted as executed. The
 
 (2) as the symbol of the Nation’s commitment to achieving the fullest possible accounting for Americans who in the future may become prisoners of war, missing in action, or otherwise unaccounted for as a result of hostile action.
 
-**(c) Days for Flag Display.—**
-
-(1) For purposes of this section, POW/MIA flag display days are the following:
-
-  (A) Armed Forces Day, the third Saturday in May.
-
-  (B) Memorial Day, the last Monday in May.
-
-  (C) Flag Day, June 14.
-
-  (D) Independence Day, July 4.
-
-  (E) National POW/MIA Recognition Day.
-
-  (F) Veterans Day, November 11.
-
-(2) In addition to the days specified in paragraph (1) of this subsection, POW/MIA flag display days include—
-
-  (A) in the case of display at the World War II Memorial, Korean War Veterans Memorial, and Vietnam Veterans Memorial (required by subsection (d)(3) of this section), any day on which the United States flag is displayed;
-
-  (B) in the case of display at medical centers of the Department of Veterans Affairs (required by subsection (d)(7) of this section), any day on which the flag of the United States is displayed; and
-
-  (C) in the case of display at United States Postal Service post offices (required by subsection (d)(8) of this section), the last business day before a day specified in paragraph (1) that in any year is not itself a business day.
+**(c) Days for Flag Display.—** For the purposes of this section, POW/MIA flag display days are all days on which the flag of the United States is displayed.
 
 **(d) Locations for Flag Display.—** The locations for the display of the POW/MIA flag under subsection (b) of this section are the following:
 
@@ -119,6 +97,8 @@ Section 1082(i), which required that the Administrator of GSA procure and distri
 Section 1082(j), which repealed section 1084 of Public Law 102–190 (previously restated as subsections (b) and (c) of [section 902 of title 36](./chapter-009-miscellaneous.md#section-902)), is repealed as executed.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–67 added subsec. (c) and struck out former subsec. (c) which set out specific days for POW/MIA flag display.
+
 2002—Subsec. (c)(2). Pub. L. 107–323, § 2(b), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 Subsec. (d)(3). Pub. L. 107–323, § 2(a), substituted “The World War II Memorial, the Korean War Veterans Memorial, and the Vietnam Veterans Memorial” for “The Korean War Veterans Memorial and the Vietnam Veterans Memorial”.
@@ -141,18 +121,18 @@ Pub. L. 107–323, § 2(c), Dec. 4, 2002, 116 Stat. 2788, provided that: “No e
 ## § 903. Designation of Medal of Honor Flag
 **(a) Designation.—** The Secretary of Defense shall design and designate a flag as the Medal of Honor Flag. In selecting the design for the flag, the Secretary shall consider designs submitted by the general public.
 
-**(b) Presentation.—** The Medal of Honor Flag shall be presented as specified in sections 7285, 8307, and 9285 of title 10 and section 505 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+**(b) Presentation.—** The Medal of Honor Flag shall be presented as specified in sections 7285, 8307, and 9285 of title 10 and section 505 11 See References in Text note below. of title 14.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 505 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section505&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 2734 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2734&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to [section 505 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section505&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–232 substituted “sections 7285, 8307, and 9285 of title 10” for “sections 3755, 6257, and 8755 of title 10”.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 505 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section505&num=0&edition=prelim) redesignated [section 2734 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2734&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to [section 505 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section505&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Findings
 Pub. L. 107–248, title VIII, § 8143(a), Oct. 23, 2002, 116 Stat. 1570, provided that: “Congress finds that— “(1) the Medal of Honor is the highest award for valor in action against an enemy force which can be bestowed upon an individual serving in the Armed Forces of the United States; “(2) the Medal of Honor was established by Congress during the Civil War to recognize soldiers who had distinguished themselves by gallantry in action; “(3) the Medal of Honor was conceived by Senator James Grimes of the State of Iowa in 1861; and “(4) the Medal of Honor is the Nation’s highest military honor, awarded for acts of personal bravery or self-sacrifice above and beyond the call of duty.”

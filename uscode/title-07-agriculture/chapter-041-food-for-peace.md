@@ -3650,7 +3650,7 @@ Subsec. (f)(3). Pub. L. 115–334, § 3302(3), substituted “2023” for “201
 
 Subsec. (g). Pub. L. 115–334, § 3302(4), substituted “2023” for “2018”.
 
-Subsec. (j)(3). Pub. L. 115–334, § 3302(5), substituted “April 1” for “December 1”, inserted dash after “the Senate” and subpar. (A) designation before“a list”, substituted “approved during the prior fiscal year” for “approved to date for the fiscal year”, and added subpars. (B) and (C).
+Subsec. (j)(3). Pub. L. 115–334, § 3302(5), substituted “April 1” for “December 1”, inserted dash after “the Senate” and subpar. (A) designation before “a list”, substituted “approved during the prior fiscal year” for “approved to date for the fiscal year”, and added subpars. (B) and (C).
 
 Subsec. (k). Pub. L. 115–334, § 3302(6), substituted “2023” for “2018”.
 
@@ -4350,7 +4350,7 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–334, § 3116(1)(A), inserted “[section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim) or” after “Notwithstanding” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–334, § 3116(1)(B), inserted “technical” before “assistance”.
+Subsec. (b)(1). Pub. L. 115–334, § 3116(1)(B), inserted “technical” before “assistance” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 115–334, § 3116(1)(C)(i), in introductory provisions, inserted “employees or staff of a State cooperative institution (as such term is defined in paragraph 18 of [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103), except that subparagraphs (E), (F), and (G) of such paragraph shall not apply),” after “private corporations,”.
 

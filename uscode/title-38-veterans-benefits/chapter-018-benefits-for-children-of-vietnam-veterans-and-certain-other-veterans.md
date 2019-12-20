@@ -2,7 +2,7 @@
 title: 38
 chapter: '18'
 heading: BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -361,8 +361,8 @@ A prior section 1819 was renumbered [section 3712 of this title](./chapter-037-h
 A prior section 1820 was renumbered [section 3720 of this title](./chapter-037-housing-and-small-business-loans.md#section-3720).
 
 
-<a id="section-1831"></a>
-## § 1831. Benefits for children of certain Korea service veterans born with spina bifida
+<a id="section-1822"></a>
+## § 1822. Benefits for children of certain Korea service veterans born with spina bifida
 **(a) Benefits Authorized.—** The Secretary may provide to any child of a veteran of covered service in Korea who is suffering from spina bifida the health care, vocational training and rehabilitation, and monetary allowance required to be paid to a child of a Vietnam veteran who is suffering from spina bifida under subchapter I of this chapter as if such child of a veteran of covered service in Korea were a child of a Vietnam veteran who is suffering from spina bifida under such subchapter.
 
 **(b) Spina Bifida Conditions Covered.—** This section applies with respect to all forms and manifestations of spina bifida, except spina bifida occulta.
@@ -382,6 +382,24 @@ A prior section 1821 was renumbered [section 1831 of this title](./chapter-018-b
 
 Another prior section 1821 was renumbered [section 3721 of this title](./chapter-037-housing-and-small-business-loans.md#section-3721).
 
+
+<a id="section-1831"></a>
+## § 1831. Benefits for children of certain Thailand service veterans born with spina bifida
+**(a) Benefits Authorized.—** The Secretary may provide to any child of a veteran of covered service in Thailand who is suffering from spina bifida the health care, vocational training and rehabilitation, and monetary allowance required to be paid to a child of a Vietnam veteran who is suffering from spina bifida under subchapter I of this chapter as if such child of a veteran of covered service in Thailand were a child of a Vietnam veteran who is suffering from spina bifida under such subchapter.
+
+**(b) Spina Bifida Conditions Covered.—** This section applies with respect to all forms and manifestations of spina bifida, except spina bifida occulta.
+
+**(c) Veteran of Covered Service in Thailand.—** For purposes of this section, a veteran of covered service in Thailand is any individual, without regard to the characterization of that individual’s service, who—
+
+(1) served in the active military, naval, or air service in Thailand, as determined by the Secretary in consultation with the Secretary of Defense, during the period beginning on January 9, 1962, and ending on May 7, 1975; and
+
+(2) is determined by the Secretary, in consultation with the Secretary of Defense, to have been exposed to a herbicide agent during such service in Thailand.
+
+**(d) Herbicide Agent.—** For purposes of this section, the term “herbicide agent” means a chemical in a herbicide used in support of United States and allied military operations in Thailand, as determined by the Secretary in consultation with the Secretary of Defense, during the period beginning on January 9, 1962, and ending on May 7, 1975.
+
+### Statutory Notes
+
+#### Prior Provisions
 A prior section 1822 was renumbered [section 1832 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1832).
 
 Another prior section 1822, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1214; Pub. L. 89–358, § 5(c), Mar. 3, 1966, 88 Stat. 26; Pub. L. 89–623, § 1, Oct. 4, 1966, 80 Stat. 873; Pub. L. 90–301, § 2(b), May 7, 1968, 82 Stat. 113, provided for bringing of an action in district court, by veteran or Attorney General, against one who knowingly participated in sale of property to a veteran for consideration in excess of reasonable value of property, prior to repeal by Pub. L. 93–569, §§ 7(a), 10, Dec. 31, 1974, 88 Stat. 1866, 1867, effective Dec. 31, 1974.
@@ -399,6 +417,12 @@ Another prior section 1824 was renumbered [section 3725 of this title](https://u
 A prior section 1825 was renumbered 3725 of this title and subsequently repealed.
 
 Prior sections 1826 to 1830 were renumbered sections 3726 to 3730 of this title, respectively.
+
+#### Effective Date
+Pub. L. 116–23, § 4(f), June 25, 2019, 133 Stat. 972, provided that: “The amendments made by this section [enacting this section and amending [section 1831 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1831)] shall take effect on January 1, 2020.”
+
+#### Implementation
+Pub. L. 116–23, § 4(d), June 25, 2019, 133 Stat. 971, provided that: “(1) Guidance.—Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement [section 1822 of title 38](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822), United States Code, as added by subsection (a), before prescribing new regulations under such section. “(2) Updates.—(A) Not later than 120 days after the date of the enactment of this Act [June 25, 2019], the Secretary shall submit a report to the Committees on Veterans’ Affairs of the House of Representatives and the Senate regarding the plans of the Secretary to respond to inquiries from veterans regarding claims for disability compensation under [section 1822 of title 38](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822), United States Code, as added by subsection (a) of this section. “(B) On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on the date on which regulations are prescribed to carry out such section 1822, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate updates on the status of such regulations. “(3) Pending cases.—“(A) Authority to stay.—The Secretary may stay a claim described in subparagraph (B) until the date on which the Secretary commences the implementation of [section 1822 of title 38](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822), United States Code, as added by subsection (a). “(B) Claims described.—A claim described in this subparagraph is a claim for benefits—“(i) relating to the spina bifida and service covered by such section 1822; and “(ii) that is pending at the Veterans Benefits Administration or the Board of Veterans’ Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1822.”
 
 
 <a id="section-1832"></a>
@@ -430,10 +454,35 @@ In this chapter:
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (1)
+Pub. L. 116–23, § 4(b), (f), June 25, 2019, 133 Stat. 971, provided that, effective Jan. 1, 2020, paragraph (1) of this section is amended as follows:
+
+(1) in subparagraph (B)—
+
+(A) by striking “subchapter III of this chapter” and inserting “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)”; and
+
+(B) in clause (i), by striking “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)” and inserting “that section”; and
+
+(2) by adding at the end the following new subparagraph:
+
+(C) For purposes of [section 1822 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822), an individual, regardless of age or marital status, who—
+
+(i) is the natural child of a veteran of covered service in Thailand (as determined for purposes of that section); and
+
+(ii) was conceived after the date on which that veteran first entered service described in subsection (c) of that section.
+
+See 2019 Amendment notes below.
+
 #### Prior Provisions
 A prior section 1831 was renumbered [section 3731 of this title](./chapter-037-housing-and-small-business-loans.md#section-3731).
 
 #### Amendments
+2019—Par. (1)(B). Pub. L. 116–23, § 4(b)(1)(A), substituted “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)” for “subchapter III of this chapter” in introductory provisions.
+
+Par. (1)(B)(i). Pub. L. 116–23, § 4(b)(1)(B), substituted “that section” for “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)”.
+
+Par. (1)(C). Pub. L. 116–23, § 4(b)(2), added subpar. (C).
+
 2003—Pub. L. 108–183, § 102(a)(1), renumbered [section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821) as this section.
 
 Par. (1). Pub. L. 108–183, § 102(b), added par. (1) and struck out former par. (1) which read as follows: “The term ‘child’ means an individual, regardless of age or marital status, who—
@@ -441,6 +490,9 @@ Par. (1). Pub. L. 108–183, § 102(b), added par. (1) and struck out former par
 “(A) is the natural child of a Vietnam veteran; and
 
 “(B) was conceived after the date on which that veteran first entered the Republic of Vietnam during the Vietnam era.”
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–23 effective Jan. 1, 2020, see section 4(f) of Pub. L. 116–23, set out as an Effective Date note under [section 1822 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822).
 
 #### Effective Date
 Subchapter effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as a note under [section 1811 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1811).
@@ -470,7 +522,7 @@ Another prior section 1832 was renumbered [section 3733(d) of this title](https:
 #### Amendments
 2015—Subsec. (b)(2). Pub. L. 114–58 substituted “(b)(3)” for “(b)(2)”.
 
-2003—Pub. L. 108–183 renumbered [section 1822 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1822&num=0&edition=prelim) as this section.
+2003—Pub. L. 108–183 renumbered [section 1822 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1822) as this section.
 
 
 <a id="section-1834"></a>

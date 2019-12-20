@@ -688,8 +688,8 @@ Section 102 of the Higher Education Act of 1965, referred to in subsec. (a), is 
 Pub. L. 110–381, § 2(d), Oct. 9, 2008, 122 Stat. 4086, provided that: “The amendments made by this Act [enacting this section, [section 1185c of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1185c&num=0&edition=prelim), Labor, and sections 300gg–7 and 300gg–54 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after the date that is one year after the date of the enactment of this Act [Oct. 9, 2008] and to medically necessary leaves of absence beginning during such plan years.”
 
 
-<a id="section-9815-1"></a>
-## § 9815.1. Additional market reforms
+<a id="section-9815"></a>
+## § 9815. Additional market reforms
 **(a) General rule** Except as provided in subsection (b)—
 
 (1) the provisions of part A of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall apply to group health plans, and health insurance issuers providing health insurance coverage in connection with group health plans, as if included in this subchapter; and

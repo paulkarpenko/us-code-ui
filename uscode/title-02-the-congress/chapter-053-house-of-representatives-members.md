@@ -265,7 +265,7 @@ Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into pe
 
 **(c) Benefit exclusion** [Section 5321(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5321/b&num=0&edition=prelim) shall apply with respect to an intern who is compensated under the allowance under this section in the same manner as such section applies with respect to an intern who is compensated under the Members’ Representational Allowance.
 
-**(d) No effect on payment of interns under members’ representational allowance** Nothing in this section may be construed to affect the use of the Members’ Representational Allowance for the compensation of interns, as provided under [section 5321 of this title](./chapter-053-house-of-representatives-members.md#section-5321).
+**(d) No effect on payment of interns under Members’ Representational Allowance** Nothing in this section may be construed to affect the use of the Members’ Representational Allowance for the compensation of interns, as provided under [section 5321 of this title](./chapter-053-house-of-representatives-members.md#section-5321).
 
 **(e) Definitions** In this section—
 

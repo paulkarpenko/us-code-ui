@@ -2927,6 +2927,11 @@ Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that: “The pu
 
 **(e) Rule of Construction.—** Nothing in this section exceeds, modifies, or supplants any other Federal law relating to any competitive bidding process governing the leasing of postal property.
 
+### Statutory Notes
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-623"></a>
 ## § 623. Establishment of a Federal Real Property Council
@@ -3070,6 +3075,9 @@ Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that: “The pu
 The date of enactment of this subchapter, referred to in subsec. (e)(1), (7), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.
 
 The Tennessee Valley Authority Act of 1933, referred to in subsec. (i)(4), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-624"></a>

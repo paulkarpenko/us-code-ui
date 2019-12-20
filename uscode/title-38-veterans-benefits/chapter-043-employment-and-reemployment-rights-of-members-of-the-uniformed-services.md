@@ -372,7 +372,7 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
 (4) performed by a member of a uniformed service who is—
 
-  (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
+  (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 11 See References in Text note below. of title 14;
 
   (B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -453,6 +453,9 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
 ### Statutory Notes
 
+#### References in Text
+Sections 331, 332, 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(4)(A), were redesignated sections 2127, 2128, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to section 331, 332, 359, 360, 367, or 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Prior Provisions
 A prior section 4312 was renumbered [section 7612 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7612).
 
@@ -474,9 +477,6 @@ Subsec. (c)(4)(C). Pub. L. 104–275, § 311(4)(B)(ii)(III), substituted “sect
 Subsec. (c)(4)(E). Pub. L. 104–275, § 311(4)(B)(ii)(IV), substituted “section 12406” for “section 3500 or 8500”.
 
 Subsec. (d)(2)(C). Pub. L. 104–275, § 311(4)(C), substituted “is for a brief, nonrecurrent period and there is no reasonable expectation” for “is brief or for a nonrecurrent period and without a reasonable expectation”.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-Sections 331, 332, 359, 360, 367, and 712 of title 14 redesignated sections 2127, 2128, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to section 331, 332, 359, 360, 367, or 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 Of Title 14, Coast Guard.
 
 #### Effective Date of 1996 Amendment
 Amendment by section 311(4)(A), (B)(ii)(II), (C) of Pub. L. 104–275 effective Oct. 13, 1994, and amendment by section 311(4)(B)(i), (ii)(I), (III), (IV) of Pub. L. 104–275 effective Dec. 1, 1994, see section 313 of Pub. L. 104–275, set out as a note under [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301).

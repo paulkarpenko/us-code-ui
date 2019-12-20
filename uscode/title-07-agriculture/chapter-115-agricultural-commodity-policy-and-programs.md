@@ -66,7 +66,7 @@ source: >-
 
 **(d) Loan implementation**
 
-(1) **In general** — In any crop year in which an order is issued pursuant 11 So in original. Probably should be followed by “to”. [section 901(a) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/a&num=0&edition=prelim), the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitle B or C, under the amendments made by subtitle B or C, or under the amendments made by subtitle B or C of the Agriculture Improvement Act of 2018,22 See References in Text note below. except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
+(1) **In general** — In any crop year in which an order is issued pursuant 22 So in original. Probably should be followed by “to”. [section 901(a) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/a&num=0&edition=prelim), the Secretary shall use such sums as necessary of the funds of the Commodity Credit Corporation for such crop year to fully restore the support, loan, or assistance that is otherwise required under subtitle B or C, under the amendments made by subtitle B or C, or under the amendments made by subtitle B or C of the Agriculture Improvement Act of 2018,1 except with respect to the assistance provided under sections 9037(c) and 9038 of this title.
 
 (2) **Repayment** — In carrying out this subsection, the Secretary shall ensure that when a producer repays a loan at a rate equal to the loan rate plus interest in accordance with the repayment provisions of subtitles 33 So in original. Probably should be “subtitle”. B or C that the repayment amount shall include the portion of the loan amount provided under paragraph (1), except that this paragraph shall not affect or reduce marketing loan gains, loan deficiency payments, or forfeiture benefits provided for under subtitles 3 B or C and as supplemented in accordance with paragraph (1).
 
@@ -187,7 +187,7 @@ This section was not enacted as part of title I of Pub. L. 113–79 which compri
 #### Short Title of 2018 Amendment
 Pub. L. 115–334, § 1(a), Dec. 20, 2018, 132 Stat. 4490, provided that: “This Act [see Tables for classification] may be cited as the ‘Agriculture Improvement Act of 2018’.”
 
-Pub. L. 115–123, div. F, Feb. 9, 2018, 132 Stat. 313, provided that: “This division [amending sections 1508b, 1516, 1523, 9011, 9013 to 9016, 9032, 9051, 9052, and 9054 to 9057 of this title and sections 3839aa–2 and 3841 of Title 16, Conservation, and enacting provisions set out as notes under sections 9011 and 9051 of this title] may be cited as the ‘Improvements to Agriculture Programs Act of 2018’.”
+Pub. L. 115–123, div. F, Feb. 9, 2018, 132 Stat. 312, provided that: “This division [amending sections 1508b, 1516, 1523, 9011, 9013 to 9016, 9032, 9051, 9052, and 9054 to 9057 of this title and sections 3839aa–2 and 3841 of Title 16, Conservation, and enacting provisions set out as notes under sections 9011 and 9051 of this title] may be cited as the ‘Improvements to Agriculture Programs Act of 2018’.”
 
 #### Short Title
 Pub. L. 113–79, § 1(a), Feb. 7, 2014, 128 Stat. 649, provided that: “This Act [see Tables for classification] may be cited as the ‘Agricultural Act of 2014’.”
@@ -355,7 +355,7 @@ Par. (26). Pub. L. 115–334, § 1101(1), redesignated par. (25) as (26).
 Pub. L. 115–123, div. F, § 60101(a)(13), Feb. 9, 2018, 132 Stat. 311, provided that: “Except as provided in paragraph (10) [amending [section 1508b of this title](./chapter-036-crop-insurance.md#section-1508b)], the amendments made by this subsection [amending this section and sections 1508b, 9013 to 9016, and 9032 of this title] shall apply beginning with the 2018 crop year.”
 
 #### Administration
-Pub. L. 115–123, div. F, § 60101(a)(12), Feb. 9, 2018, 132 Stat. 311, provided that: “The Secretary of Agriculture shall carry out the amendments made by this subsection [amending this section] in accordance with section 1601 of the Agricultural Act of 2014 ([7 U.S.C. 9091](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9091)).”
+Pub. L. 115–123, div. F, § 60101(a)(12), Feb. 9, 2018, 132 Stat. 311, provided that: “The Secretary of Agriculture shall carry out the amendments made by this subsection [amending this section and sections 1508b, 9013 to 9016, and 9032 of this title] in accordance with section 1601 of the Agricultural Act of 2014 ([7 U.S.C. 9091](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9091)).”
 
 #### Popcorn Acreage
 Pub. L. 108–7, div. A, title VII, § 767, Feb. 20, 2003, 117 Stat. 48, as amended by Pub. L. 113–79, title I, § 1609(c), Feb. 7, 2014, 128 Stat. 709, provided that: “Notwithstanding any other provision of law, for purposes of administering subtitle A of title I of the Agricultural Act of 2014 [[7 U.S.C. 9011](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9011) et seq.], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: Provided, That if a farm program payment yield for corn is otherwise established for a farm under such subtitle, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: Provided further, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area.”
@@ -545,9 +545,6 @@ Subsec. (d)(3), (4). Pub. L. 115–334, § 1102(b), added pars. (3) and (4).
 (2) **Update** — At the sole discretion of the owner of a farm with a yield for upland cotton described in paragraph (1), the owner of the farm shall have a 1-time opportunity to update the payment yield for upland cotton for the farm, as provided in subsection (d), for the purpose of calculating the payment yield for seed cotton under paragraph (1).
 
 ### Statutory Notes
-
-#### References in Text
-[Section 8714(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8714/e/3&num=0&edition=prelim) (as in effect on September 30, 2013), referred to in subsec. (e)(1), means [section 8714(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8714/e/3&num=0&edition=prelim) as in effect prior to its repeal by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.
 
 #### Amendments
 2018—Subsec. (b)(1). Pub. L. 115–334, § 1103(a)(1), substituted “oilseeds designated before December 20, 2018” for “designated oilseeds”.
@@ -1044,11 +1041,9 @@ Subsec. (e). Pub. L. 115–334, § 1107(4), substituted “2023” for “2018�
 
 Subsec. (g)(2). Pub. L. 115–334, § 1107(5)(A), struck out “to the maximum extent practicable,” before “calculate”.
 
-Subsec. (g)(3). Pub. L. 115–334, § 1107(5)(B), struck out “and” at end.
-
 Subsec. (g)(4). Pub. L. 115–334, § 1107(5)(C), inserted “effective for the 2014 through 2018 crop years,” before “in the case of” in introductory provisions and substituted “; and” for period at end.
 
-Subsec. (g)(5). Pub. L. 115–334, § 1107(5)(D), added par. (5).
+Subsec. (g)(5). Pub. L. 115–334, § 1107(5)(B), (D), added par. (5).
 
 Subsecs. (h), (i). Pub. L. 115–334, § 1107(6), added subsecs. (h) and (i).
 
@@ -2044,7 +2039,7 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year,
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–334, § 1401(k)(7)(A) substituted “Dairy margin coverage” for “Margin protection” in section catchline..
+2018—Pub. L. 115–334, § 1401(k)(7)(A) substituted “Dairy margin coverage” for “Margin protection” in section catchline.
 
 Pub. L. 115–123, § 60101(b)(1)(C)(i), substituted “month” for “consecutive 2-month period” wherever appearing.
 
@@ -2141,7 +2136,7 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year,
 
 Subsec. (a). Pub. L. 115–334, § 1401(k)(8)(B), substituted “dairy margin coverage” for “the margin protection program” in introductory provisions.
 
-2018—Subsec. (b). Pub. L. 115–123, § 60101(b)(4)(A)(i), substituted “Tier I: premium per hundredweight for first 5,000,000 pounds of production” for “Premium per hundredweight for first 4 million pounds of production” in heading.
+Subsec. (b). Pub. L. 115–123, § 60101(b)(4)(A)(i), substituted “Tier I: premium per hundredweight for first 5,000,000 pounds of production” for “Premium per hundredweight for first 4 million pounds of production” in heading.
 
 Subsec. (b)(1). Pub. L. 115–123, § 60101(b)(4)(A)(ii), substituted “5,000,000” for “4,000,000”.
 
@@ -2639,11 +2634,9 @@ Subsec. (a)(2) to (5). Pub. L. 115–334, § 12306(h)(1)(A), redesignated pars. 
 
 Subsec. (b)(1). Pub. L. 115–123, § 20101(a)(1), inserted “sold livestock for a reduced sale price, or both” after “normal mortality,” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 115–334, § 1501(b)(1)(A), struck out “or” at end.
-
 Subsec. (b)(1)(B). Pub. L. 115–334, § 1501(b)(1)(B), substituted “cold, on the condition that in the case of the death loss of unweaned livestock due to that adverse weather, the Secretary may disregard any management practice, vaccination protocol, or lack of vaccination by the eligible producer on a farm; or” for “cold.”
 
-Subsec. (b)(1)(C). Pub. L. 115–334, § 1501(b)(1)(C), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 115–334, § 1501(b)(1)(A), (C), added subpar. (C).
 
 Subsec. (b)(2). Pub. L. 115–123, § 20101(a)(2), substituted “affected livestock, as determined by the Secretary, on, as applicable—” for “applicable livestock on the day before the date of death of the livestock, as determined by the Secretary.” and added subpars. (A) and (B).
 

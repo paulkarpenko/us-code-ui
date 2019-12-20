@@ -298,7 +298,7 @@ Subsec. (c). Pub. L. 115–254, § 1968(b)(2), added subsec. (c).
 Subsec. (b). Pub. L. 114–190, § 3601(2), substituted “such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018” for “such sums as necessary for fiscal years 2007 through 2011”.
 
 #### VIPR Team Statistics
-Pub. L. 115–254, div. K, title I, § 1930(a), Oct. 5, 2018, 132 Stat. 3568, provided that: “(a) VIPR Team Statistics.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Oct. 5, 2018], and annually thereafter, the Administrator [of the Transportation Security Administration] shall notify the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] of the number of VIPR teams available for deployment at transportation facilities, including—“(A) the number of VIPR team operations that include explosive detection canine teams; and “(B) the distribution of VIPR team operations deployed across different modes of transportation. “(2) Annex.—The notification under paragraph (1) may contain a classified annex. “(3) Definition of vipr team.—In this subsection, the term ‘VIPR’ means a Visible Intermodal Prevention and Response team authorized under section 1303 of the National Transit Systems Security Act of 2007 [probably means section 1303 of the Implementing Recommendations of the 9/11 Commission Act of 2007] ([6 U.S.C. 1112](./chapter-004-transportation-security.md#section-1112)).”
+Pub. L. 115–254, div. K, title I, § 1930(a), Oct. 5, 2018, 132 Stat. 3568, provided that: “(1) In general.—Not later than 90 days after the date of enactment of this Act [Oct. 5, 2018], and annually thereafter, the Administrator [of the Transportation Security Administration] shall notify the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] of the number of VIPR teams available for deployment at transportation facilities, including—“(A) the number of VIPR team operations that include explosive detection canine teams; and “(B) the distribution of VIPR team operations deployed across different modes of transportation. “(2) Annex.—The notification under paragraph (1) may contain a classified annex. “(3) Definition of vipr team.—In this subsection, the term ‘VIPR’ means a Visible Intermodal Prevention and Response team authorized under section 1303 of the National Transit Systems Security Act of 2007 [probably means section 1303 of the Implementing Recommendations of the 9/11 Commission Act of 2007] ([6 U.S.C. 1112](./chapter-004-transportation-security.md#section-1112)).”
 
 [For definition of “explosive detection canine teams” as used in section 1930(a) of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation.]
 
@@ -549,7 +549,7 @@ Executive Order No. 13416, referred to in text, is set out as a note under [sect
 
       (I) error rates in the use of biometric technologies; or
 
-      (II) whether the use of biometric technologies and error rates in the use of such technologies disproportionately affect 22 So in original. Probably should be “affects”. a certain race, gender, or nationality; and
+      (II) whether the use of biometric technologies and error rates in the use of such technologies disproportionately affect a certain race, gender, or nationality; and
 
     (ii) the results of the audits described in clause (i).
 
@@ -605,9 +605,9 @@ For definitions of “Administrator”, “appropriate committees of Congress”
 
   (B) not expired;
 
-  (C) shows no signs of tampering; and
+  (C) shows 11 So in original. no signs of tampering; and
 
-  (D) bears a photograph of the individual representing such card.
+  (D) bears 1 a photograph of the individual representing such card.
 
 ### Statutory Notes
 
@@ -1917,11 +1917,7 @@ Subsec. (b)(9). Pub. L. 115–254, § 1973(a)(4), substituted “, security, and
 #### Amendments
 2018—Subsec. (a)(3)(D). Pub. L. 115–254, § 1973(b)(1), inserted “, or to connect to the National Terrorism Screening Center watchlist” after “Secretary”.
 
-Subsec. (a)(3)(G). Pub. L. 115–254, § 1973(b)(2), substituted semicolon for “; and” at end.
-
-Subsec. (a)(3)(H). Pub. L. 115–254, § 1973(b)(3), substituted semicolon for period at end.
-
-Subsec. (a)(3)(I) to (K). Pub. L. 115–254, § 1973(b)(4), added subpars. (I) to (K).
+Subsec. (a)(3)(I) to (K). Pub. L. 115–254, § 1973(b)(2)–(4), added subpars. (I) to (K).
 
 #### Passenger Rail Vetting
 Pub. L. 115–254, div. K, title I, § 1974, Oct. 5, 2018, 132 Stat. 3615, provided that: “(a) In General.—Not later than 180 days after the date on which the Amtrak Board of Directors submits a request to the Administrator [of the Transportation Security Administration], the Administrator shall issue a decision on the use by Amtrak of the Transportation Security Administration’s Secure Flight Program or a similar passenger vetting system to enhance passenger rail security. “(b) Considerations.—In making a decision under subsection (a), the Administrator shall—“(1) consider the technological, privacy, operational, and security impacts of such a decision; and “(2) describe such impacts in any strategic plan developed under subsection (c). “(c) Strategic Plan.—If the Administrator decides to grant the request by Amtrak under subsection (a), the decision shall include a strategic plan for working with rail stakeholders to enhance passenger rail security by—“(1) vetting passengers using terrorist watch lists maintained by the Federal Government or a similar passenger vetting system maintained by the Transportation Security Administration; and “(2) where applicable and in consultation with the Commissioner of U.S. Customs and Border Protection, assessing whether the vetting process should be integrated into preclearance operations established under section 813 of the Trade Facilitation and Trade Enforcement Act of 2015 ([19 U.S.C. 4432](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4432&num=0&edition=prelim)). “(d) Notices.—The Administrator shall notify the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] of any decision made under subsection (a) and the details of the strategic plan under subsection (c). “(e) Rule of Construction.—Nothing in this section shall be construed to limit the Administrator’s authority to set the access to, or terms and conditions of using, the Secure Flight Program or a similar passenger vetting system.”

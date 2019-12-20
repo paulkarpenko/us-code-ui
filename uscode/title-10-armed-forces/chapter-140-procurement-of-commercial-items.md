@@ -470,7 +470,7 @@ See 2018 Amendment notes below.
 #### Amendments
 2018—Pub. L. 115–232, § 836(d)(8)(D), substituted “Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress” for “Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items” in section catchline.
 
-Pub. L. 115–232, § 836(d)(4)(C), substituted “commercial product” for “commercial item” and “commercial products” for “commercial items” whereever appearing.
+Pub. L. 115–232, § 836(d)(4)(C), substituted “commercial product” for “commercial item” and “commercial products” for “commercial items” wherever appearing.
 
 Subsec. (a)(1)(A). Pub. L. 115–232, § 836(d)(4)(B), struck out “, as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” before “; and”.
 

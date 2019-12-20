@@ -557,7 +557,7 @@ Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–6
 #### Amendments
 2018—Subsec. (a)(5)(A)(i). Pub. L. 115–232, § 316(1), substituted “Except as provided by clause (ii), upon request” for “Upon request” in introductory provisions.
 
-Subsec. (a)(5)(A)(ii) to (iv). Pub. L. 115–232, § 316(2), (3), added cl. (ii) and redesignated formers cls. (ii) and (iii) as (iii) and (iv), respectively.
+Subsec. (a)(5)(A)(ii) to (iv). Pub. L. 115–232, § 316(2), (3), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
 2003—Subsec. (a)(5)(A). Pub. L. 108–136, § 319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
 
@@ -2601,7 +2601,7 @@ The amounts authorized to be appropriated under this subsection are in addition 
 
 **(f) Temporary marine mammal removal authority on the waters of the Columbia River or its tributaries**
 
-(1) Removal authority Notwithstanding any other provision of this chapter, the Secretary may issue a permit to an eligible entity to authorize the intentional lethal taking on the waters of the Columbia River and its tributaries of individually identifiable sea lions that are part of a population or stock that is not categorized under this chapter as depleted or strategic for the purpose of protecting—
+(1) **Removal authority** — Notwithstanding any other provision of this chapter, the Secretary may issue a permit to an eligible entity to authorize the intentional lethal taking on the waters of the Columbia River and its tributaries of individually identifiable sea lions that are part of a population or stock that is not categorized under this chapter as depleted or strategic for the purpose of protecting—
 
   (A) species of salmon, steelhead, or eulachon that are listed as endangered species or threatened species under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.); and
 

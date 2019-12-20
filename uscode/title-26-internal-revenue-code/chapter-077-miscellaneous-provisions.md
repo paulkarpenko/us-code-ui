@@ -2,7 +2,7 @@
 title: 26
 chapter: '77'
 heading: MISCELLANEOUS PROVISIONS
-section_count: 29
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -418,7 +418,7 @@ George Bush.
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–141 substituted “section 165(i)(5)(A)” for “section 165(h)(3)(C)(i)”.
+2018—Subsec. (a). Pub. L. 115–141 substituted “section 165(i)(5)(A)” for “section 165(h)(3)(C)(i)” in introductory provisions.
 
 2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
 
@@ -1103,9 +1103,12 @@ Pub. L. 100–647, title VI, § 6228(d), Nov. 10, 1988, 102 Stat. 3732, provided
 
 (2) any notice generated out of any information return matching program, and
 
-(3) the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
+(3) the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (b)(3). Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
 
 #### Effective Date
 Pub. L. 100–647, title VI, § 6233(c), Nov. 10, 1988, 102 Stat. 3735, provided that: “The amendments made by this section [enacting this section] shall apply to mailings made on or after January 1, 1990.”
@@ -1292,10 +1295,162 @@ Pub. L. 105–206, title III, § 3411(c), July 22, 1998, 112 Stat. 751, provided
   (B) the cost of equipment used in the clinic.
   Indirect expenses, including general overhead of the institution sponsoring the clinic, shall not be counted as matching funds.
 
+(6) **Provision of information regarding qualified low-income taxpayer clinics** — Notwithstanding any other provision of law, officers and employees of the Department of the Treasury may—
+
+  (A) advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from one or more specific qualified low-income taxpayer clinics receiving funding under this section, and
+
+  (B) provide information regarding the location of, and contact information for, such clinics.
+
 ### Statutory Notes
+
+#### Amendments
+2019—Subsec. (c)(6). Pub. L. 116–25 added par. (6).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1402(b), July 1, 2019, 133 Stat. 997, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 1, 2019].”
 
 #### Effective Date
 Pub. L. 105–206, title III, § 3601(c), July 22, 1998, 112 Stat. 776, provided that: “The amendments made by this section [enacting this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
+
+
+<a id="section-7526a"></a>
+## § 7526A. Return preparation programs for applicable taxpayers
+**(a) Establishment of Volunteer Income Tax Assistance Matching Grant Program** The Secretary shall establish a Community Volunteer Income Tax Assistance Matching Grant Program under which the Secretary may, subject to the availability of appropriated funds, make grants to provide matching funds for the development, expansion, or continuation of qualified return preparation programs assisting applicable taxpayers and members of underserved populations.
+
+**(b) Use of funds**
+
+(1) **In general** — Qualified return preparation programs may use grants received under this section for—
+
+  (A) ordinary and necessary costs associated with program operation in accordance with cost principles under the applicable Office of Management and Budget circular, including—
+
+    (i) wages or salaries of persons coordinating the activities of the program,
+
+    (ii) developing training materials, conducting training, and performing quality reviews of the returns prepared under the program,
+
+    (iii) equipment purchases, and
+
+    (iv) vehicle-related expenses associated with remote or rural tax preparation services,
+
+  (B) outreach and educational activities described in subsection (c)(2)(B), and
+
+  (C) services related to financial education and capability, asset development, and the establishment of savings accounts in connection with tax return preparation.
+
+(2) **Requirement of matching funds** — A qualified return preparation program must provide matching funds on a dollar-for-dollar basis for all grants provided under this section. Matching funds may include—
+
+  (A) the salary (including fringe benefits) of individuals performing services for the program,
+
+  (B) the cost of equipment used in the program, and
+
+  (C) other ordinary and necessary costs associated with the program.
+  Indirect expenses, including general overhead of any entity administering the program, shall not be counted as matching funds.
+
+**(c) Application**
+
+(1) **In general** — Each applicant for a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+
+(2) **Priority** — In awarding grants under this section, the Secretary shall give priority to applications which demonstrate—
+
+  (A) assistance to applicable taxpayers, with emphasis on outreach to, and services for, such taxpayers,
+
+  (B) taxpayer outreach and educational activities relating to eligibility and availability of income supports available through this title, including the earned income tax credit, and
+
+  (C) specific outreach and focus on one or more underserved populations.
+
+(3) **Amounts taken into account** — In determining matching grants under this section, the Secretary shall only take into account amounts provided by the qualified return preparation program for expenses described in subsection (b).
+
+**(d) Program adherence**
+
+(1) **In general** — The Secretary shall establish procedures for, and shall conduct not less frequently than once every 5 calendar years during which a qualified return preparation program is operating under a grant under this section, periodic site visits—
+
+  (A) to ensure the program is carrying out the purposes of this section, and
+
+  (B) to determine whether the program meets such program adherence standards as the Secretary shall by regulation or other guidance prescribe.
+
+(2) **Additional requirements for grant recipients not meeting program adherence standards** — In the case of any qualified return preparation program which—
+
+  (A) is awarded a grant under this section, and
+
+  (B) is subsequently determined—
+
+    (i) not to meet the program adherence standards described in paragraph (1)(B), or
+
+    (ii) not to be otherwise carrying out the purposes of this section,
+  such program shall not be eligible for any additional grants under this section unless such program provides sufficient documentation of corrective measures established to address any such deficiencies determined.
+
+**(e) Definitions** For purposes of this section—
+
+(1) **Qualified return preparation program** — The term “qualified return preparation program” means any program—
+
+  (A) which provides assistance to individuals, not less than 90 percent of whom are applicable taxpayers, in preparing and filing Federal income tax returns,
+
+  (B) which is administered by a qualified entity,
+
+  (C) in which all volunteers who assist in the preparation of Federal income tax returns meet the training requirements prescribed by the Secretary, and
+
+  (D) which uses a quality review process which reviews 100 percent of all returns.
+
+(2) **Qualified entity**
+
+  (A) *In general* — The term “qualified entity” means any entity which—
+
+    (i) is an eligible organization,
+
+    (ii) is in compliance with Federal tax filing and payment requirements,
+
+    (iii) is not debarred or suspended from Federal contracts, grants, or cooperative agreements, and
+
+    (iv) agrees to provide documentation to substantiate any matching funds provided pursuant to the grant program under this section.
+
+  (B) *Eligible organization* — The term “eligible organization” means—
+
+    (i) an institution of higher education which is described in section 102 (other than subsection (a)(1)(C) thereof) of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)), as in effect on the date of the enactment of this section, and which has not been disqualified from participating in a program under title IV of such Act,
+
+    (ii) an organization described in section 501(c) and exempt from tax under section 501(a),
+
+    (iii) a local government agency, including—
+
+      (I) a county or municipal government agency, and
+
+      (II) an Indian tribe, as defined in section 4(13) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/13&num=0&edition=prelim)), including any tribally designated housing entity (as defined in section 4(22) of such Act ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))), tribal subsidiary, subdivision, or other wholly owned tribal entity,
+
+    (iv) a local, State, regional, or national coalition (with one lead organization which meets the eligibility requirements of clause (i), (ii), or (iii) acting as the applicant organization), or
+
+    (v) in the case of applicable taxpayers and members of underserved populations with respect to which no organizations described in the preceding clauses are available—
+
+      (I) a State government agency, or
+
+      (II) an office providing Cooperative Extension services (as established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914).
+
+(3) **Applicable taxpayers** — The term “applicable taxpayer” means a taxpayer whose income for the taxable year does not exceed an amount equal to the completed phaseout amount under section 32(b) for a married couple filing a joint return with three or more qualifying children, as determined in a revenue procedure or other published guidance.
+
+(4) **Underserved population** — The term “underserved population” includes populations of persons with disabilities, persons with limited English proficiency, Native Americans, individuals living in rural areas, members of the Armed Forces and their spouses, and the elderly.
+
+**(f) Special rules and limitations**
+
+(1) **Duration of grants** — Upon application of a qualified return preparation program, the Secretary is authorized to award a multi-year grant not to exceed 3 years.
+
+(2) **Aggregate limitation** — Unless otherwise provided by specific appropriation, the Secretary shall not allocate more than $30 million per fiscal year (exclusive of costs of administering the program) to grants under this section.
+
+**(g) Promotion of programs**
+
+(1) **In general** — The Secretary shall promote tax preparation through qualified return preparation programs through the use of mass communications and other means.
+
+(2) **Provision of information regarding qualified return preparation programs** — The Secretary may provide taxpayers information regarding qualified return preparation programs receiving grants under this section.
+
+(3) **Referrals to low-income taxpayer clinics** — Qualified return preparation programs receiving a grant under this section are encouraged, in appropriate cases, to—
+
+  (A) advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from qualified low-income taxpayer clinics receiving funding under section 7526, and
+
+  (B) provide information regarding the location of, and contact information for, such clinics.
+
+### Statutory Notes
+
+#### References in Text
+The Higher Education Act of 1965 and such Act, referred to in subsec. (e)(2)(B)(i), are Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+
+The date of the enactment of this section, referred to in subsec. (e)(2)(B)(i), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
+
+The Smith-Lever Act, referred to in subsec. (e)(2)(B)(v)(II), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section341&num=0&edition=prelim) and Tables.
 
 
 <a id="section-7527"></a>
@@ -1468,3 +1623,66 @@ Pub. L. 108–89, title II, § 202(d), Oct. 1, 2003, 117 Stat. 1133, provided th
 
 #### Limitations
 Pub. L. 108–89, title II, § 202(c), Oct. 1, 2003, 117 Stat. 1133, provided that: “Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act.”
+
+
+<a id="section-7529"></a>
+## § 7529. Notification of suspected identity theft
+**(a) In general** If the Secretary determines that there has been or may have been an unauthorized use of the identity of any individual, the Secretary shall, without jeopardizing an investigation relating to tax administration—
+
+(1) as soon as practicable—
+
+  (A) notify the individual of such determination,
+
+  (B) provide instructions on how to file a report with law enforcement regarding the unauthorized use,
+
+  (C) identify any steps to be taken by the individual to permit law enforcement to access personal information of the individual during the investigation,
+
+  (D) provide information regarding actions the individual may take in order to protect the individual from harm relating to the unauthorized use, and
+
+  (E) offer identity protection measures to the individual, such as the use of an identity protection personal identification number, and
+
+(2) at the time the information described in paragraph (1) is provided (or, if not available at such time, as soon as practicable thereafter), issue additional notifications to such individual (or such individual’s designee) regarding—
+
+  (A) whether an investigation has been initiated in regards to such unauthorized use,
+
+  (B) whether the investigation substantiated an unauthorized use of the identity of the individual, and
+
+  (C) whether—
+
+    (i) any action has been taken against a person relating to such unauthorized use, or
+
+    (ii) any referral has been made for criminal prosecution of such person and, to the extent such information is available, whether such person has been criminally charged by indictment or information.
+
+**(b) Employment-related identity theft**
+
+(1) **In general** — For purposes of this section, the unauthorized use of the identity of an individual includes the unauthorized use of the identity of the individual to obtain employment.
+
+(2) **Determination of employment-related identity theft** — For purposes of this section, in making a determination as to whether there has been or may have been an unauthorized use of the identity of an individual to obtain employment, the Secretary shall review any information—
+
+  (A) obtained from a statement described in section 6051 or an information return relating to compensation for services rendered other than as an employee, or
+
+  (B) provided to the Internal Revenue Service by the Social Security Administration regarding any statement described in section 6051,
+  which indicates that the social security account number provided on such statement or information return does not correspond with the name provided on such statement or information return or the name on the tax return reporting the income which is included on such statement or information return.
+
+### Statutory Notes
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title II, § 2007(d), July 1, 2019, 133 Stat. 1006, provided that: “The amendments made by this section [enacting this section and amending [section 432 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section432&num=0&edition=prelim), The Public Health and Welfare] shall apply to determinations made after the date that is 6 months after the date of the enactment of this Act [July 1, 2019].”
+
+#### Public-Private Partnership To Address Identity Theft Refund Fraud
+Pub. L. 116–25, title II, § 2001, July 1, 2019, 133 Stat. 1001, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall work collaboratively with the public and private sectors to protect taxpayers from identity theft refund fraud.”
+
+#### Information Sharing and Analysis Center
+Pub. L. 116–25, title II, § 2003(a), (b), July 1, 2019, 133 Stat. 1001, provided that: “(a) In General.—The Secretary of the Treasury (or the Secretary’s delegate) may participate in an information sharing and analysis center to centralize, standardize, and enhance data compilation and analysis to facilitate sharing actionable data and information with respect to identity theft tax refund fraud. “(b) Development of Performance Metrics.—The Secretary of the Treasury (or the Secretary’s delegate) shall develop metrics for measuring the success of such center in detecting and preventing identity theft tax refund fraud.”
+
+#### Single Point of Contact for Tax-Related Identity Theft Victims
+Pub. L. 116–25, title II, § 2006, July 1, 2019, 133 Stat. 1004, provided that: “(a) In General.—The Secretary of the Treasury (or the Secretary’s delegate) shall establish and implement procedures to ensure that any taxpayer whose return has been delayed or otherwise adversely affected due to tax-related identity theft has a single point of contact at the Internal Revenue Service throughout the processing of the taxpayer’s case. The single point of contact shall track the taxpayer’s case to completion and coordinate with other Internal Revenue Service employees to resolve case issues as quickly as possible. “(b) Single Point of Contact.—“(1) In general.—For purposes of subsection (a), the single point of contact shall consist of a team or subset of specially trained employees who—“(A) have the ability to work across functions to resolve the issues involved in the taxpayer’s case; and “(B) shall be accountable for handling the case until its resolution. “(2) Team or subset.—The employees included within the team or subset described in paragraph (1) may change as required to meet the needs of the Internal Revenue Service, provided that procedures have been established to—“(A) ensure continuity of records and case history; and “(B) notify the taxpayer when appropriate.”
+
+#### Examination of Both Paper and Electronic Statements and Returns
+Pub. L. 116–25, title II, § 2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall examine the statements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper.”
+
+#### Underreporting of Income
+Pub. L. 116–25, title II, § 2007(b)(3), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall establish procedures to ensure that income reported in connection with the unauthorized use of a taxpayer’s identity is not taken into account in determining any penalty for underreporting of income by the victim of identity theft.”
+
+#### Guidelines for Stolen Identity Refund Fraud Cases
+Pub. L. 116–25, title II, § 2008, July 1, 2019, 133 Stat. 1006, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [July 1, 2019], the Secretary of the Treasury (or the Secretary’s delegate), in consultation with the National Taxpayer Advocate, shall develop and implement publicly available guidelines for management of cases involving stolen identity refund fraud in a manner that reduces the administrative burden on taxpayers who are victims of such fraud. “(b) Standards and Procedures To Be Considered.—The guidelines described in subsection (a) may include—“(1) standards for—“(A) the average length of time in which a case involving stolen identity refund fraud should be resolved; “(B) the maximum length of time, on average, a taxpayer who is a victim of stolen identity refund fraud and is entitled to a tax refund which has been stolen should have to wait to receive such refund; and “(C) the maximum number of offices and employees within the Internal Revenue Service with whom a taxpayer who is a victim of stolen identity refund fraud should be required to interact in order to resolve a case; “(2) standards for opening, assigning, reassigning, or closing a case involving stolen identity refund fraud; and “(3) procedures for implementing and accomplishing the standards described in paragraphs (1) and (2), and measures for evaluating such procedures and determining whether such standards have been successfully implemented.”

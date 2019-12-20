@@ -41,7 +41,7 @@ Pub. L. 115–141, div. P, title VI, § 601, Mar. 23, 2018, 132 Stat. 1097, prov
 
 
 <a id="section-1502"></a>
-## § 1502. Identifying 255 megahertz.
+## § 1502. Identifying 255 megahertz
 **(a) Requirements**
 
 (1) **In general** — Not later than December 31, 2022, the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
@@ -118,7 +118,7 @@ Section 156 of the National Telecommunications and Information Administration Or
 
 
 <a id="section-1504"></a>
-## § 1504. Broadband infrastructure deployment.
+## § 1504. Broadband infrastructure deployment
 **(a) Definitions** In this section:
 
 (1) **Appropriate State agency** — The term “appropriate State agency” means a State governmental agency that is recognized by the executive branch of the State as having the experience necessary to evaluate and carry out projects relating to the proper and effective installation and operation of broadband infrastructure.
@@ -373,7 +373,7 @@ Section 156 of the National Telecommunications and Information Administration Or
 
 
 <a id="section-1512"></a>
-## § 1512. Relationship to Middle Class tax Relief and Job Creation Act of 2012
+## § 1512. Relationship to Middle Class Tax Relief and Job Creation Act of 2012
 
 Nothing in this chapter shall be construed to limit, restrict, or circumvent in any way the implementation of the nationwide public safety broadband network defined in section 6001 of title VI of the Middle Class Tax Relief and Job Creation Act of 2012 ([47 U.S.C. 1401](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1401)) or any rules implementing that network under title VI of that Act ([47 U.S.C. 1401](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1401) et seq.).
 

@@ -88,13 +88,13 @@ Advance payments under [section 4501 of this title](./chapter-045-chapter-45.md#
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–232, div. A, title VIII, § 836(b)(18)(A), (B)(i), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by amending the section catchline to read “Payments for commercial products and commercial services” and, in subsections (a) and (c), by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 4505 | 41:255(f). | June 30, 1949, ch. 288, title III, § 305(f), as added Pub. L. 103–355, title II, § 2051(e), Oct. 13, 1994, 108 Stat. 3304, as amended Pub. L. 104–106, title XLIII, § 4321(a)(4), Feb. 10, 1996, 110 Stat. 671. |
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(b)(18)(A), (B)(i), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by amending the section catchline to read “Payments for commercial products and commercial services” and, in subsections (a) and (c), by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment notes below.
 
 #### Amendments
 2018—Pub. L. 115–232, § 836(b)(18)(B)(i), substituted “Payments for commercial products and commercial services” for “Payments for commercial items” in section catchline.

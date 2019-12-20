@@ -3730,8 +3730,8 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 
 <a id="section-6296"></a>
-## § 6296. Watersense program
-**(a) Establishment of watersense program**
+## § 6296. WaterSense program
+**(a) Establishment of WaterSense program**
 
 (1) **In general** — There is established within the Environmental Protection Agency a voluntary program, to be known as the WaterSense program, to identify and promote water-efficient products, buildings, landscapes, facilities, processes, and services in order to, through voluntary labeling of, or other forms of communications regarding, such products, buildings, landscapes, facilities, processes, and services while meeting strict performance criteria, sensibly—
 

@@ -342,12 +342,14 @@ The Secretary of Agriculture shall submit to the House Committee on Agriculture 
 
 (3) Not later than April 15, 1985, a report on the effectiveness of the paid diversion program carried out under [section 1446(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1446/d&num=0&edition=prelim).
 
-(4) Not later than July 1, 1985, and July 1 of each year after the date of enactment of this title,11 See References in Text note below. an annual report describing activities conducted under the dairy products promotion and research order issued under this subchapter, and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.
+(4) Not later than July 1, 1985, and July 1 of each year after the date of enactment of this title,11 See References in Text note below. an annual report describing activities conducted under the dairy products promotion and research order issued under subtitle B of title I of this Act [[7 U.S.C. 4501](./chapter-076-dairy-research-and-promotion.md#section-4501) et seq.], and accounting for the receipt and disbursement of all funds received by the National Dairy Promotion and Research Board under such order including an independent analysis of the effectiveness of the program.
 
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of this title, referred to in par. (4), means the date of enactment of title III of Pub. L. 98–180, which was approved Nov. 29, 1983.
+
+Subtitle B of title I of this Act, referred to in par. (4), is subtitle B (§§ 110–122) of title I of Pub. L. 98–180, which is classified generally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of Pub. L. 98–180, known as the Dairy and Tobacco Adjustment Act of 1983, and not as part of title I of Pub. L. 98–180, known as the Dairy Production Stabilization Act of 1983, subtitle B of which comprises this subchapter.

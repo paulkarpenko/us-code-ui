@@ -2,7 +2,7 @@
 title: 21
 chapter: '9'
 heading: 'FEDERAL FOOD, DRUG, AND COSMETIC ACT'
-section_count: 277
+section_count: 278
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -271,7 +271,7 @@ For the purposes of this chapter—
 
 **(g)**
 
-(1) The term “drug” means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of [section 343(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/r&num=0&edition=prelim) is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with [section 343(r)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/r/6&num=0&edition=prelim) is not a drug under clause (C) solely because the label or the labeling contains such a statement.
+(1) The term “drug” means (A) articles recognized in the official United States Pharmacopoeia,11 So in original. Probably should be “Pharmacopeia,”. official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of [section 343(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/r&num=0&edition=prelim) is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with [section 343(r)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/r/6&num=0&edition=prelim) is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
 (2) The term “counterfeit drug” means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
@@ -372,7 +372,7 @@ which does not achieve its primary intended purposes through chemical action wit
 
 (2) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
-**(w)** The term “animal feed”, as used in paragraph (w) 11 So in original. Probably should be paragraph “(v)”. of this section, in [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b), and in provisions of this chapter referring to such paragraph or section, means an article which is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
+**(w)** The term “animal feed”, as used in paragraph (w) 22 So in original. Probably should be paragraph “(v)”. of this section, in [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b), and in provisions of this chapter referring to such paragraph or section, means an article which is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
 
 **(x)** The term “informal hearing” means a hearing which is not subject to section 554, 556, or 557 of title 5 and which provides for the following:
 
@@ -464,7 +464,7 @@ which does not achieve its primary intended purposes through chemical action wit
     (i) an article that is approved as a new drug under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), certified as an antibiotic under [section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), or licensed as a biologic under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), or
 
     (ii) an article authorized for investigation as a new drug, antibiotic, or biological for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public,
-  which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary’s discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.22 So in original. Provision probably should be set flush with subpar. (B).
+  which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary’s discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.33 So in original. Provision probably should be set flush with subpar. (B).
 Except for purposes of paragraph (g) and [section 350f of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-350f), a dietary supplement shall be deemed to be a food within the meaning of this chapter.
 
 **(gg)** The term “processed food” means any food other than a raw agricultural commodity and includes any raw agricultural commodity that has been subject to processing, such as canning, cooking, freezing, dehydration, or milling.
@@ -3832,7 +3832,7 @@ such a pesticide chemical residue shall be regarded as exempt from the requireme
 
 (2) **Deposit** — All fees collected under paragraph (1) shall be deposited in the Reregistration and Expedited Processing Fund created by section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act [[7 U.S.C. 136a–1(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a–1/k&num=0&edition=prelim)]. Such fees shall be available to the Administrator, without fiscal year limitation, for the performance of the Administrator’s services or functions as specified in paragraph (1).
 
-(3) **Prohibition** — During the period beginning on October 1, 2007, and ending on September 30, 2017, the Administrator shall not collect any tolerance fees under paragraph (1).
+(3) **Prohibition** — During the period beginning on October 1, 2007, and ending on September 30, 2023, the Administrator shall not collect any tolerance fees under paragraph (1).
 
 **(n) National uniformity of tolerances**
 
@@ -3967,6 +3967,8 @@ The Toxic Substances Control Act, referred to in subsec. (s), is Pub. L. 94–46
 August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original references to the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2019—Subsec. (m)(3). Pub. L. 116–8 substituted “2023” for “2017”.
+
 2012—Subsec. (m)(3). Pub. L. 112–177 substituted “September 30, 2017” for “September 30, 2012”.
 
 2007—Subsec. (m)(3). Pub. L. 110–94 added par. (3).
@@ -4072,9 +4074,12 @@ Act Mar. 16, 1950, ch. 61, § 5, 64 Stat. 22, provided that: “So much of the u
 <a id="section-347a"></a>
 ## § 347a. Congressional declaration of policy regarding oleomargarine sales
 
-The Congress finds and declares that the sale, or the serving in public eating places, of colored oleomargarine or colored margarine without clear identification as such or which is otherwise adulterated or misbranded within the meaning of this chapter depresses the market in interstate commerce for butter and for oleomargarine or margarine clearly identified and neither adulterated nor misbranded, and constitutes a burden on interstate commerce in such articles. Such burden exists, irrespective of whether such oleomargarine or margarine originates from an interstate source or from the State in which it is sold.
+The Congress hereby finds and declares that the sale, or the serving in public eating places, of colored oleomargarine or colored margarine without clear identification as such or which is otherwise adulterated or misbranded within the meaning of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.] depresses the market in interstate commerce for butter and for oleomargarine or margarine clearly identified and neither adulterated nor misbranded, and constitutes a burden on interstate commerce in such articles. Such burden exists, irrespective of whether such oleomargarine or margarine originates from an interstate source or from the State in which it is sold.
 
 ### Statutory Notes
+
+#### References in Text
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Codification
 Section was not enacted as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
@@ -4342,7 +4347,7 @@ The Safe Drinking Water Act, referred to in subsec. (b)(4)(B)(ii), is title XIV 
 1996—Pub. L. 104–182 substituted “(a) Except as provided in subsection (b), whenever” for “Whenever” and added subsec. (b).
 
 #### Bottled Water Study
-Pub. L. 104–182, title I, § 114(b), Aug. 6, 1996, 110 Stat. 1641, provided that: “Not later than 18 months after the date of enactment of this Act [Aug. 6, 1996], the Administrator of the Food and Drug Administration, in consultation with the Administrator of the Environmental Protection Agency, shall publish for public notice and comment a draft study on the feasibility of appropriate methods, if any, of informing customers of the contents of bottled water. The Administrator of the Food and Drug Administration shall publish a final study not later than 30 months after the date of enactment of this Act.”
+Pub. L. 104–182, title I, § 114(b), Aug. 6, 1996, 110 Stat. 1641, provided that not later than 18 months after Aug. 6, 1996, the Administrator of the Food and Drug Administration would publish for public notice and comment a draft study on the feasibility of appropriate methods, if any, of informing customers of the contents of bottled water, and publish a final study not later than 30 months after Aug. 6, 1996.
 
 
 <a id="section-350"></a>
@@ -4566,7 +4571,7 @@ Pub. L. 94–278, title V, § 501(b), Apr. 22, 1976, 90 Stat. 411, as amended by
 
   (A) revise the list of nutrients in the table in this subsection, and
 
-  (B) revise the required level for any nutrient required by the table. NUTRIENTS Nutrient Minimum aMaximum a a Stated per 100 kilocalories. b The source of protein shall be at least nutritionally equivalent to casein. c Retinol equivalents. d Required to be included in this amount only in formulas which are not milk-based. e Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0. Protein (gm)1.8 b 4.5. Fat: gm3.3 6.0. percent cal30.0 54.0. Essential fatty acids (linoeate): percent cal2.7 mg300.0 Vitamins: A (IU)250.0(75 μg)c750.0 (225 μg).c D (IU)40.0 100.0. K (μg)4.0 E (IU)0.7(with 0.7 IU/gm linoleic acid) C (ascorbic acid) (mg)8.0 B1 (thiamine) (μg)40.0 B2 (riboflavin) (μg)60.0 B6 (pyridoxine) (μg)35.0(with 15 μg/gm of protein in formula) B12 (μg)0.15 Niacin (μg)250.0 Folic acid (μg)4.0 Pantothenic acid (μg)300.0 Biotin (μg)1.5 d Choline (mg)7.0 d Inositol (mg)4.0 d Minerals: Calcium (mg)50.0 e Phosphorus (mg)25.0 e Magnesium (mg)6.0 Iron (mg)0.15 Iodine (μg)5.0 Zinc (mg)0.5 Copper (μg)60.0 Manganese (μg)5.0 Sodium (mg)20.0 60.0. Potassium (mg)80.0 200.0. Chloride (mg)55.0 150.0.
+  (B) revise the required level for any nutrient required by the table. NUTRIENTS Nutrient Minimum aMaximum a a Stated per 100 kilocalories. b The source of protein shall be at least nutritionally equivalent to casein. c Retinol equivalents. d Required to be included in this amount only in formulas which are not milk-based. e Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0. Protein (gm)1.8 b 4.5. Fat: gm3.3 6.0. percent cal30.0 54.0. Essential fatty acids (linoleate): percent cal2.7 mg300.0 Vitamins: A (IU)250.0(75 μg)c750.0 (225 μg).c D (IU)40.0 100.0. K (μg)4.0 E (IU)0.7(with 0.7 IU/gm linoleic acid) C (ascorbic acid) (mg)8.0 B1 (thiamine) (μg)40.0 B2 (riboflavin) (μg)60.0 B6 (pyridoxine) (μg)35.0(with 15 μg/gm of protein in formula) B12 (μg)0.15 Niacin (μg)250.0 Folic acid (μg)4.0 Pantothenic acid (μg)300.0 Biotin (μg)1.5 d Choline (mg)7.0 d Inositol (mg)4.0 d Minerals: Calcium (mg)50.0 e Phosphorus (mg)25.0 e Magnesium (mg)6.0 Iron (mg)0.15 Iodine (μg)5.0 Zinc (mg)0.5 Copper (μg)60.0 Manganese (μg)5.0 Sodium (mg)20.0 60.0. Potassium (mg)80.0 200.0. Chloride (mg)55.0 150.0.
 
 ### Statutory Notes
 
@@ -6607,7 +6612,7 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 
 The Public Health Service Act, referred to in subsec. (g)(2)(A)(iv)(II), (3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-[Section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), referred to in subsec. (g)(5)(C)(i), was repealed by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+[Section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), referred to in subsec. (g)(9)(C)(i), was repealed by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 #### Codification
 In subsec. (b)(5), “sections 4721, 6001, and 6151 of title 26” and “[section 4761 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4761&num=0&edition=prelim)” substituted for “section 3220 of the Internal Revenue Code ([26 U.S.C. 3220](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3220&num=0&edition=prelim))” and “section 3238(b) of the Internal Revenue Code ([26 U.S.C. 3238(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3238/b&num=0&edition=prelim))”, respectively, on authority of [section 7852(b) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7852/b&num=0&edition=prelim), Internal Revenue Code.
@@ -11316,7 +11321,15 @@ Section was enacted as part of the Public Health Security and Bioterrorism Prepa
 
 (2) **Relation to Trade Secrets Act** — Information made publicly available by the Secretary under paragraph (1) shall be considered a disclosure authorized by law for purposes of [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
 
-(3) **Applicability** — Nothing in this section shall be construed as authorizing the Secretary to disclose any information contained in an application submitted under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)] that is confidential commercial or trade secret information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
+(3) **Applicability**
+
+  (A) *In general* — Nothing in this section shall be construed as authorizing or directing the Secretary to disclose—
+
+    (i) any information contained in an application submitted under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)] that is confidential commercial or trade secret information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim); or
+
+    (ii) in the case of a drug development tool that may be used to support the development of a qualified countermeasure, security countermeasure, or qualified pandemic or epidemic product, as defined in sections 319F–1, 319F–2, and 319F–3, respectively, of the Public Health Service Act [[42 U.S.C. 247d–6a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a&num=0&edition=prelim), 247d–6b, 247d–6d], any information that the Secretary determines has a significant potential to affect national security.
+
+  (B) *Public acknowledgment* — In the case that the Secretary, pursuant to subparagraph (A)(ii), does not make information publicly available, the Secretary shall provide on the internet website of the Food and Drug Administration an acknowledgment of the information that has not been disclosed, pursuant to subparagraph (A)(ii).
 
 **(d) Rule of construction** Nothing in this section shall be construed—
 
@@ -11369,6 +11382,9 @@ The Public Health Service Act, referred to in subsec. (d)(2), is act July 1, 194
 
 #### Prior Provisions
 A prior section 357, act June 25, 1938, ch. 675, § 507, as added July 6, 1945, ch. 281, § 3, 59 Stat. 463; amended Mar. 10, 1947, ch. 16, § 3, 61 Stat. 12; July 13, 1949, ch. 305, § 2, 63 Stat. 409; Aug. 5, 1953, ch. 334, § 2, 67 Stat. 389; Pub. L. 87–781, title I, §§ 105(a), (b), (d)–(f), 106(a), (b), Oct. 10, 1962, 76 Stat. 785, 786, 787; Pub. L. 90–399, § 105(b), July 13, 1968, 82 Stat. 352; Pub. L. 102–300, § 6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, § 3(p), Aug. 13, 1993, 107 Stat. 777, related to certification of drugs containing penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other antibiotic drug, prior to repeal by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+
+#### Amendments
+2019—Subsec. (c)(3). Pub. L. 116–22 designated existing provisions as subpar. (A), inserted heading and “or directing” after “authorizing” in text, substituted “disclose—” for “disclose”, designated remainder of existing provisions as cl. (i) of subpar. (A), substituted “;or” for period at end, and added cl. (ii) of subpar. (A) and subpar. (B).
 
 #### Guidance
 Pub. L. 114–255, div. A, title III, § 3011(b), Dec. 13, 2016, 130 Stat. 1089, provided that: “(1) In general.—The Secretary of Health and Human Services (referred to in this section [this note] as the ‘Secretary’) shall, in consultation with biomedical research consortia (as defined in subsection (e) of section 507 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 357](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357)] (as added by subsection (a)) and other interested parties through a collaborative public process, issue guidance to implement such section 507 that—“(A) provides a conceptual framework describing appropriate standards and scientific approaches to support the development of biomarkers delineated under the taxonomy established under paragraph (3); “(B) with respect to the qualification process under such section 507—“(i) describes the requirements that entities seeking to qualify a drug development tool under such section shall observe when engaging in such process; “(ii) outlines reasonable timeframes for the Secretary’s review of letters, qualification plans, or full qualification packages submitted under such process; and “(iii) establishes a process by which such entities or the Secretary may consult with biomedical research consortia and other individuals and entities with expert knowledge and insights that may assist the Secretary in the review of qualification plans and full qualification submissions under such section; and “(C) includes such other information as the Secretary determines appropriate. “(2) Timing.—Not later than 3 years after the date of the enactment of this Act [Dec. 13, 2016], the Secretary shall issue draft guidance under paragraph (1) on the implementation of section 507 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 357](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357)] (as added by subsection (a)). The Secretary shall issue final guidance on the implementation of such section not later than 6 months after the date on which the comment period for the draft guidance closes. “(3) Taxonomy.—“(A) In general.—For purposes of informing guidance under this subsection, the Secretary shall, in consultation with biomedical research consortia and other interested parties through a collaborative public process, establish a taxonomy for the classification of biomarkers (and related scientific concepts) for use in drug development. “(B) Public availability.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall make such taxonomy publicly available in draft form for public comment. The Secretary shall finalize the taxonomy not later than 1 year after the close of the public comment period.”
@@ -13400,7 +13416,7 @@ Subsec. (m). Pub. L. 113–5, § 302(a)(9), added subsec. (m).
 
 (2) **Effect** — Notwithstanding any other provisions of this chapter or the Public Health Service Act [[42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.], a product shall not be considered an unapproved product and shall not be deemed adulterated or misbranded under this chapter because of the issuance of emergency use instructions under paragraph (1) with respect to such product or the introduction or delivery for introduction of such product into interstate commerce accompanied by such instructions—
 
-  (A) during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C)(i); or
+  (A) during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C); or
 
   (B) by a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, in preparation for an emergency response.
 
@@ -13410,6 +13426,8 @@ Subsec. (m). Pub. L. 113–5, § 302(a)(9), added subsec. (m).
 The Public Health Service Act, referred to in subsecs. (b)(3), (c)(2), and (e)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (e)(2)(A). Pub. L. 116–22 substituted “subsection (a)(1)(C)” for “subsection (a)(1)(C)(i)”.
+
 2016—Subsec. (a)(1)(A). Pub. L. 114–255, § 3088(c)(1), inserted “, conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc),” after “subchapter”.
 
 Subsec. (d). Pub. L. 114–255, § 3088(c)(2), substituted “subsections (b) and (f) of section 353, section 354, and [section 360j(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/e&num=0&edition=prelim)” for “sections 353(b) and 360j(e) of this title” in introductory provisions.
@@ -13426,9 +13444,9 @@ It is not a violation of any section of this chapter or of the Public Health Ser
 
   (A) is approved, cleared, or licensed under section 355, 360(k), 360b, or 360e of this title or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)] or conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc);
 
-  (B) is authorized for investigational use under section 355 11 So in original. Probably should be followed by a comma. 360b, or 360j of this title or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)]; or
+  (B) is authorized for investigational use under section 355, 360b, or 360j of this title or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)]; or
 
-  (C) is authorized for use under [section 360bbb–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-3).
+  (C) is authorized for use under [section 360bbb–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-3) or [section 360bbb–3a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-3a).
 
 ### Statutory Notes
 
@@ -13436,6 +13454,10 @@ It is not a violation of any section of this chapter or of the Public Health Ser
 The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Par. (2)(B). Pub. L. 116–22, § 705(d)(1), inserted comma after “355”.
+
+Par. (2)(C). Pub. L. 116–22, § 705(d)(2), inserted “or [section 360bbb–3a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-3a)” before period at end.
+
 2016—Par. (2)(A). Pub. L. 114–255, § 3088(d)(1), substituted “360b, or 360e of this title” for “or 360e of this title” and inserted “or conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc)” after “Public Health Service Act”.
 
 Par. (2)(B). Pub. L. 114–255, § 3088(d)(2), substituted “360b, or 360j of this title” for “or 360j of this title”.
@@ -13552,7 +13574,19 @@ Section was enacted as part of Pub. L. 115–92, and not as part of the Federal 
 
 (2) **Regulatory management plan process** — The Secretary, in consultation with the Assistant Secretary for Preparedness and Response and the Director of the Biomedical Advanced Research and Development Authority, shall establish a formal process for obtaining scientific feedback and interactions regarding the development and regulatory review of eligible countermeasures by facilitating the development of written regulatory management plans in accordance with this subsection.
 
-(3) **Submission of request and proposed plan by sponsor or applicant**
+(3) **Publication** — The Secretary shall make available on the internet website of the Food and Drug Administration information regarding regulatory management plans, including—
+
+  (A) the process by which an applicant may submit a request for a regulatory management plan;
+
+  (B) the timeframe by which the Secretary is required to respond to such request;
+
+  (C) the information required for the submission of such request;
+
+  (D) a description of the types of development milestones and performance targets that could be discussed and included in such plans; and
+
+  (E) contact information for beginning the regulatory management plan process.
+
+(4) **Submission of request and proposed plan by sponsor or applicant**
 
   (A) *In general* — A sponsor or applicant of an eligible countermeasure may initiate the process described under paragraph (2) upon submission of a written request to the Secretary. Such request shall include a proposed regulatory management plan.
 
@@ -13560,7 +13594,7 @@ Section was enacted as part of Pub. L. 115–92, and not as part of the Federal 
 
   (C) *Response by Secretary* — The Secretary shall direct the Food and Drug Administration, upon submission of a written request by a sponsor or applicant under subparagraph (A), to work with the sponsor or applicant to agree on a regulatory management plan within a reasonable time not to exceed 90 days. If the Secretary determines that no plan can be agreed upon, the Secretary shall provide to the sponsor or applicant, in writing, the scientific or regulatory rationale why such agreement cannot be reached.
 
-(4) **Plan** — The content of a regulatory management plan agreed to by the Secretary and a sponsor or applicant shall include—
+(5) **Plan** — The content of a regulatory management plan agreed to by the Secretary and a sponsor or applicant shall include—
 
   (A) an agreement between the Secretary and the sponsor or applicant regarding developmental milestones that will trigger responses by the Secretary as described in subparagraph (B);
 
@@ -13568,7 +13602,7 @@ Section was enacted as part of Pub. L. 115–92, and not as part of the Federal 
 
   (C) an agreement on how the plan shall be modified, if needed.
 
-(5) **Milestones and performance targets** — The developmental milestones described in paragraph (4)(A) and the performance targets and goals described in paragraph (4)(B) shall include—
+(6) **Milestones and performance targets** — The developmental milestones described in paragraph (5)(A) and the performance targets and goals described in paragraph (5)(B) shall include—
 
   (A) feedback from the Secretary regarding the data required to support the approval, clearance, or licensure of the eligible countermeasure involved;
 
@@ -13584,9 +13618,9 @@ Section was enacted as part of Pub. L. 115–92, and not as part of the Federal 
 
   (G) as necessary and appropriate, and to the extent practicable, a plan for demonstrating safety and effectiveness in pediatric populations, and for developing pediatric dosing, formulation, and administration with respect to the eligible countermeasure, provided that such plan would not delay authorization under [section 360bbb–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-3), approval, licensure, or clearance for adults.
 
-(6) **Prioritization**
+(7) **Prioritization**
 
-  (A) *Plans for security countermeasures* — The Secretary shall establish regulatory management plans for all security countermeasures for which a request is submitted under paragraph (3)(A).
+  (A) *Plans for security countermeasures* — The Secretary shall establish regulatory management plans for all security countermeasures for which a request is submitted under paragraph (4)(A).
 
   (B) *Plans for other eligible countermeasures* — The Secretary shall determine whether resources are available to establish regulatory management plans for eligible countermeasures that are not security countermeasures. If resources are available to establish regulatory management plans for eligible countermeasures that are not security countermeasures, and if resources are not available to establish regulatory management plans for all eligible countermeasures for which requests have been submitted, the Director of the Biomedical Advanced Research and Development Authority, in consultation with the Commissioner, shall prioritize which eligible countermeasures may receive regulatory management plans.
 
@@ -13627,6 +13661,14 @@ Section was enacted as part of Pub. L. 115–92, and not as part of the Federal 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (f)(3) to (5). Pub. L. 116–22, § 503(1), (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (f)(6). Pub. L. 116–22, § 503(1), (3), redesignated par. (5) as (6) and, in introductory provisions, substituted “paragraph (5)(A)” for “paragraph (4)(A)” and “paragraph (5)(B)” for “paragraph (4)(B)”. Former par. (6) redesignated (7).
+
+Subsec. (f)(7). Pub. L. 116–22, § 503(1), redesignated par. (6) as (7).
+
+Subsec. (f)(7)(A). Pub. L. 116–22, § 503(4), substituted “paragraph (4)(A)” for “paragraph (3)(A)”.
+
 2013—Pub. L. 113–5, § 304(1), substituted “Countermeasure development, review, and technical assistance” for “Technical assistance” in section catchline.
 
 Pub. L. 113–5, § 303, designated existing provisions as subsec. (b) and inserted heading.
@@ -13721,6 +13763,69 @@ Pub. L. 114–255, div. A, title III, § 3091, Dec. 13, 2016, 130 Stat. 1149, pr
 Section 101(b) of the Food and Drug Administration Safety and Innovation Act, referred to in subsec. (a)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+
+<a id="section-360bbb-4b"></a>
+## § 360bbb–4b. Medical countermeasure master files
+**(a) Applicability of reference**
+
+(1) **In general** — A person may submit data and information in a master file to the Secretary with the intent to reference, or to authorize, in writing, another person to reference, such data or information to support a medical countermeasure submission (including a supplement or amendment to any such submission), without requiring the master file holder to disclose the data and information to any such persons authorized to reference the master file. Such data and information shall be available for reference by the master file holder or by a person authorized by the master file holder, in accordance with applicable privacy and confidentiality protocols and regulations.
+
+(2) **Reference of certain master files** — In the case that data or information within a medical countermeasure master file is used only to support the conditional approval of an application filed under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc), such master file may be relied upon to support the effectiveness of a product that is the subject of a subsequent medical countermeasure submission only if such application is supplemented by additional data or information to support review and approval in a manner consistent with the standards applicable to such review and approval for such countermeasure, qualified countermeasure, or qualified pandemic or epidemic product.
+
+**(b) Medical countermeasure master file content**
+
+(1) **In general** — A master file under this section may include data or information to support—
+
+  (A) the development of medical countermeasure submissions to support the approval, licensure, classification, clearance, conditional approval, or authorization of one or more security countermeasures, qualified countermeasures, or qualified pandemic or epidemic products; and
+
+  (B) the manufacture of security countermeasures, qualified countermeasures, or qualified pandemic or epidemic products.
+
+(2) **Required updates** — The Secretary may require, as appropriate, that the master file holder ensure that the contents of such master file are updated during the time such master file is referenced for a medical countermeasure submission.
+
+**(c) Sponsor reference**
+
+(1) **In general** — Each incorporation of data or information within a medical countermeasure master file shall describe the incorporated material in a manner in which the Secretary determines appropriate and that permits the review of such information within such master file without necessitating resubmission of such data or information. Master files shall be submitted in an electronic format in accordance with sections 360b(b)(4), 360ccc(a)(4), and 379k–1 of this title, as applicable, and as specified in applicable guidance.
+
+(2) **Reference by a master file holder** — A master file holder that is the sponsor of a medical countermeasure submission shall notify the Secretary in writing of the intent to reference the medical countermeasure master file as a part of the submission.
+
+(3) **Reference by an authorized person** — A person submitting an application for review may, where the Secretary determines appropriate, incorporate by reference all or part of the contents of a medical countermeasure master file, if the master file holder authorizes the incorporation in writing.
+
+**(d) Acknowledgment of and reliance upon a master file by the Secretary**
+
+(1) **In general** — The Secretary shall provide the master file holder with a written notification indicating that the Secretary has reviewed and relied upon specified data or information within a master file and the purposes for which such data or information was incorporated by reference if the Secretary has reviewed and relied upon such specified data or information to support the approval, classification, conditional approval, clearance, licensure, or authorization of a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product. The Secretary may rely upon the data and information within the medical countermeasure master file for which such written notification was provided in additional applications, as applicable and appropriate and upon the request of the master file holder so notified in writing or by an authorized person of such holder.
+
+(2) **Certain applications** — If the Secretary has reviewed and relied upon specified data or information within a medical countermeasure master file to support the conditional approval of an application under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc) to subsequently support the approval, clearance, licensure, or authorization of a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product, the Secretary shall provide a brief written description to the master file holder regarding the elements of the application fulfilled by the data or information within the master file and how such data or information contained in such application meets the standards of evidence under subsection (c) or (d) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), subsection (d) of [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b), or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)] (as applicable), which shall not include any trade secret or confidential commercial information.
+
+**(e) Rules of construction** Nothing in this section shall be construed to—
+
+(1) limit the authority of the Secretary to approve, license, clear, conditionally approve, or authorize drugs, biological products, or devices pursuant to, as applicable, this Act [this chapter] or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)] (as such applicable Act is in effect on the day before June 24, 2019), including the standards of evidence, and applicable conditions, for approval under the applicable Act;
+
+(2) alter the standards of evidence with respect to approval, licensure, or clearance, as applicable, of drugs, biological products, or devices under this Act [this chapter] or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)], including, as applicable, the substantial evidence standards under sections 355(d) and 360b(d) of this title and section 351(a) of the Public Health Service Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)]; or
+
+(3) alter the authority of the Secretary under this Act [this chapter] or the Public Health Service Act [[42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.] to determine the types of data or information previously submitted by a sponsor or any other person that may be incorporated by reference in an application, request, or notification for a drug, biological product, or device submitted under sections 355(i), 355(b), 355(j), 360b(b)(1), 360b(b)(2), 360b(j), 360bbb–3, 360ccc, 360j(g), 360e(c), 360c(f)(2), or 360(k) of this title, or subsection (a) or (k) of section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)], including a supplement or amendment to any such submission, and the requirements associated with such reference.
+
+**(f) Definitions** In this section:
+
+(1) The term “master file holder” means a person who submits data and information to the Secretary with the intent to reference or authorize another person to reference such data or information to support a medical countermeasure submission, as described in subsection (a).
+
+(2) The term “medical countermeasure submission” means an investigational new drug application under [section 355(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim), a new drug application under [section 355(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b&num=0&edition=prelim), or an abbreviated new drug application under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim), a biological product license application under section 351(a) of the Public Health Service Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)] or a biosimilar biological product license application under section 351(k) of the Public Health Service Act [[42 U.S.C. 262(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)], a new animal drug application under [section 360b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/1&num=0&edition=prelim) or abbreviated new animal drug application under [section 360b(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/2&num=0&edition=prelim), an application for conditional approval of a new animal drug under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc), an investigational device application under [section 360j(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/g&num=0&edition=prelim), an application with respect to a device under [section 360e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360e/c&num=0&edition=prelim), a request for classification of a device under [section 360c(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/f/2&num=0&edition=prelim), a notification with respect to a device under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim), or a request for an emergency use authorization under [section 360bbb–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-3) to support—
+
+  (A) the approval, licensure, classification, clearance, conditional approval, or authorization of a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product; or
+
+  (B) a new indication to an approved security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product.
+
+(3) The terms “qualified countermeasure”, “security countermeasure”, and “qualified pandemic or epidemic product” have the meanings given such terms in sections 319F–1, 319F–2, and 319F–3, respectively, of the Public Health Service Act [[42 U.S.C. 247d–6a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a&num=0&edition=prelim), 247d–6b, 247d–6d].
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (e), is the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter (§ 301 et seq.). For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+
+The Public Health Service Act, referred to in subsec. (e)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+#### Medical Countermeasure Master Files
+Pub. L. 116–22, title VI, § 603, June 24, 2019, 133 Stat. 953, provided that: “(a) In General.—The purpose of this section (including section 565B of the Federal Food, Drug, and Cosmetic Act [this section], as added by subsection (b)) is to support and advance the development or manufacture of security countermeasures, qualified countermeasures, and qualified pandemic or epidemic products by facilitating and encouraging submission of data and information to support the development of such products, and through clarifying the authority to cross-reference to data and information previously submitted to the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), including data and information submitted to medical countermeasure master files or other master files. “(b) Medical Countermeasure Master Files.— [Enacted this section.] “(c) Stakeholder Input.—Not later than 18 months after the date of enactment of this Act [June 24, 2019], the Secretary, acting through the Commissioner of Food and Drugs and in consultation with the Assistant Secretary for Preparedness and Response, shall solicit input from stakeholders, including stakeholders developing security countermeasures, qualified countermeasures, or qualified pandemic or epidemic products, and stakeholders developing technologies to assist in the development of such countermeasures with respect to how the Food and Drug Administration can advance the use of tools and technologies to support and advance the development or manufacture of security countermeasures, qualified countermeasures, and qualified pandemic or epidemic products, including through reliance on cross-referenced data and information contained within master files and submissions previously submitted to the Secretary as set forth in section 565B of the Federal Food, Drug, and Cosmetic Act, as added by subsection (b). “(d) Guidance.—Not later than 2 years after the date of enactment of this Act, the Secretary, acting through the Commissioner of Food and Drugs, shall publish draft guidance about how reliance on cross-referenced data and information contained within master files under section 565B of the Federal Food, Drug, and Cosmetic Act, as added by subsection (b) or submissions otherwise submitted to the Secretary may be used for specific tools or technologies (including platform technologies) that have the potential to support and advance the development or manufacture of security countermeasures, qualified countermeasures, and qualified pandemic or epidemic products. The Secretary, acting through the Commissioner of Food and Drugs, shall publish the final guidance not later than 3 years after the enactment of this Act.”
 
 
 <a id="section-360bbb-5"></a>
@@ -19235,7 +19340,7 @@ Subsec. (c). Pub. L. 110–85, § 307(3)(D), added subsec. (c).
 Pub. L. 105–115, title II, § 212, Nov. 21, 1997, 111 Stat. 2346, provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
 
 #### Study by Institute of Medicine of Postmarket Surveillance Regarding Pediatric Populations
-Pub. L. 107–250, title II, § 212, Oct. 26, 2002, 116 Stat. 1614, as amended by Pub. L. 108–214, § 2(d)(3)(C), Apr. 1, 2004, 118 Stat. 577, provided that: “(a) In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study for the purpose of determining whether the system under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.] for the postmarket surveillance of medical devices provides adequate safeguards regarding the use of devices in pediatric populations. “(b) Certain Matters.—The Secretary shall ensure that determinations made in the study under subsection (a) include determinations of—“(1) whether postmarket surveillance studies of implanted medical devices are of long enough duration to evaluate the impact of growth and development for the number of years that the child will have the implant, and whether the studies are adequate to evaluate how children’s active lifestyles may affect the failure rate and longevity of the implant; and “(2) whether the postmarket surveillance by the Food and Drug Administration of medical devices used in pediatric populations is sufficient to provide adequate safeguards for such populations, taking into account the Secretary’s monitoring of commitments made at the time of approval of medical devices and the Secretary’s monitoring and use of adverse reaction reports, registries, and other postmarket surveillance activities. “(c) Report to Congress.—The Secretary shall ensure that, not later than four years after the date of the enactment of this Act [Oct. 26, 2002], a report describing the findings of the study under subsection (a) is submitted to the Congress. The report shall include any recommendations of the Secretary for administrative or legislative changes to the system of postmarket surveillance referred to in such subsection.”
+Pub. L. 107–250, title II, § 212, Oct. 26, 2002, 116 Stat. 1614, as amended by Pub. L. 108–214, § 2(d)(3)(C), Apr. 1, 2004, 118 Stat. 577, provided that the Secretary of Health and Human Services would request the Institute of Medicine to study whether the system under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.) for the postmarket surveillance of medical devices provides adequate safeguards regarding the use of devices in pediatric populations, and provided that the Secretary, not later than four years after Oct. 26, 2002, would submit to Congress a report on the study and legislative and administrative recommendations.
 
 
 <a id="section-360ll"></a>
@@ -20534,9 +20639,12 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 <a id="section-377"></a>
 ## § 377. Revision of United States Pharmacopoeia; development of analysis and mechanical and physical tests
 
-The Secretary, in carrying into effect the provisions of this chapter, is authorized on and after July 12, 1943, to cooperate with associations and scientific societies in the revision of the United States Pharmacopoeia and in the development of methods of analysis and mechanical and physical tests necessary to carry out the work of the Food and Drug Administration.
+The Secretary, in carrying into effect the provisions of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.], is authorized on and after July 12, 1943, to cooperate with associations and scientific societies in the revision of the United States Pharmacopoeia and in the development of methods of analysis and mechanical and physical tests necessary to carry out the work of the Food and Drug Administration.
 
 ### Statutory Notes
+
+#### References in Text
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Codification
 Section was enacted as part of the Labor-Federal Security Appropriation Act, 1944, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
@@ -24156,7 +24264,7 @@ Section effective Oct. 1, 2008, with fees under this subpart to be assessed for 
 
 (3) **Authorization of appropriations** — For each of the fiscal years 2019 through 2023, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount established under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c).
 
-(4) **1 Excess collections** — If the sum total of fees collected under this section for a fiscal year exceeds the amount of fees authorized to be appropriated for such year under paragraph (3), the excess collections shall be credited to the appropriations account of the Food and Drug Administration as provided in paragraph (1).
+(4) **11 So in original. Two pars. (4) have been enacted. Excess collections** — If the sum total of fees collected under this section for a fiscal year exceeds the amount of fees authorized to be appropriated for such year under paragraph (3), the excess collections shall be credited to the appropriations account of the Food and Drug Administration as provided in paragraph (1).
 
 (4) **1 Offset** — If the sum of the cumulative amount of fees collected under this section for the fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
 
@@ -29801,7 +29909,7 @@ Section was enacted as part of the 21st Century Cures Act, and not as part of th
 
 **(b) Appropriations** Of any discretionary resources appropriated in this Act for fiscal year 2018 for “Department of Health and Human Services, Food and Drug Administration, Salaries and Expenses”, not to exceed $5,000,000 of amounts available as of September 30 may be transferred to and merged with the Fund established under subsection (a), notwithstanding any otherwise applicable purpose limitations.
 
-**(c) Emergency funds excluded** No amounts may be transferred pursuant to this section that are designated by the Congress as an emergency requirement pursuant to a concurrent resolution on the budget or the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.].
+**(c) Emergency funds excluded** No amounts may be transferred pursuant to this section that are designated by the Congress as an emergency requirement pursuant to a concurrent resolution on the budget or the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 ### Statutory Notes
 

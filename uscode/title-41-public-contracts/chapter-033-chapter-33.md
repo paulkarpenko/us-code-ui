@@ -54,9 +54,9 @@ Pub. L. 113–291, div. A, title VIII, § 836, Dec. 19, 2014, 128 Stat. 3449, pr
 Pub. L. 98–369, div. B, title VII, § 2711(c), July 18, 1984, 98 Stat. 1181, provided that: “The amendments made by this section [see Tables for classification] do not supersede or affect the provisions of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)).”
 
 #### Pilot Programs for Authority To Acquire Innovative Commercial Items Using General Solicitation Competitive Procedures
-Pub. L. 114–328, div. A, title VIII, § 880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(10), Aug. 13, 2018, 132 Stat. 1872, provided that: “(a) Authority.—“(1) In general.—The head of an agency may carry out a pilot program, to be known as a ‘commercial solutions opening pilot program’, under which innovative commercial items may be acquired through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals. “(2) Head of an agency.—In this section, the term ‘head of an agency’ means the following:“(A) The Secretary of Homeland Security. “(B) The Administrator of General Services. “(3) Applicability of section.—This section applies to the following agencies:“(A) The Department of Homeland Security. “(B) The General Services Administration. “(b) Treatment as Competitive Procedures.—Use of general solicitation competitive procedures for the pilot program under subsection (a) shall be considered, in the case of the Department of Homeland Security and the General Services Administration, to be use of competitive procedures for purposes of division C of [subtitle I of] title 41, United States Code (as defined in section 152 of such title). “(c) Limitation.—The head of an agency may not enter into a contract under the pilot program for an amount in excess of $10,000,000. “(d) Guidance.—The head of an agency shall issue guidance for the implementation of the pilot program under this section within that agency. Such guidance shall be issued in consultation with the Office of Management and Budget and shall be posted for access by the public. “(e) Report Required.—“(1) In general.—Not later than three years after the date of the enactment of this Act [Dec. 23, 2016], the head of an agency shall submit to the congressional committees specified in paragraph (3) a report on the activities the agency carried out under the pilot program. “(2) Elements of report.—Each report under this subsection shall include the following:“(A) An assessment of the impact of the pilot program on competition. “(B) A comparison of acquisition timelines for—“(i) procurements made using the pilot program; and “(ii) procurements made using other competitive procedures that do not use general solicitations. “(C) A recommendation on whether the authority for the pilot program should be made permanent. “(3) Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives. “(f) Innovative Defined.—In this section, the term ‘innovative’ means—“(1) any new technology, process, or method, including research and development; or “(2) any new application of an existing technology, process, or method. “(g) Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2022.”
+Pub. L. 114–328, div. A, title VIII, § 880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(10), Aug. 13, 2018, 132 Stat. 1872, provided that: “(a) Authority.—“(1) In general.—The head of an agency may carry out a pilot program, to be known as a ‘commercial solutions opening pilot program’, under which innovative commercial items may be acquired through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals. “(2) Head of an agency.—In this section, the term ‘head of an agency’ means the following:“(A) The Secretary of Homeland Security. “(B) The Administrator of General Services. “(3) Applicability of section.—This section applies to the following agencies:“(A) The Department of Homeland Security. “(B) The General Services Administration. “(b) Treatment as Competitive Procedures.—Use of general solicitation competitive procedures for the pilot program under subsection (a) shall be considered, in the case of the Department of Homeland Security and the General Services Administration, to be use of competitive procedures for purposes of division C of [subtitle I of] title 41, United States Code (as defined in section 152 of such title). “(c) Limitation.—The head of an agency may not enter into a contract under the pilot program for an amount in excess of $10,000,000. “(d) Guidance.—The head of an agency shall issue guidance for the implementation of the pilot program under this section within that agency. Such guidance shall be issued in consultation with the Office of Management and Budget and shall be posted for access by the public. “(e) Report Required.—“(1) In general.—Not later than three years after the date of the enactment of this Act [Dec. 23, 2016], the head of an agency shall submit to the congressional committees specified in paragraph (3) a report on the activities the agency carried out under the pilot program. “(2) Elements of report.—Each report under this subsection shall include the following:“(A) An assessment of the impact of the pilot program on competition. “(B) A comparison of acquisition timelines for—“(i) procurements made using the pilot program; and “(ii) procurements made using other competitive procedures that do not use general solicitations. “(C) A recommendation on whether the authority for the pilot program should be made permanent. “(3) Specified congressional committees.—The congressional committees specified in this paragraph are the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives. “(f) Innovative Defined.—In this section, the term ‘innovative’ means—“(1) any new technology, process, or method, including research and development; or “(2) any new application of an existing technology, process, or method. “(g) Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2022.”
 
-[Pub. L. 115–232, div. A, title VIII, § 836(f)(10), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 880(a)(1) of Pub. L. 114–328, set out above, is amended by striking “commercial items” in subsection (a)(1) and inserting “commercial products”.]
+[Pub. L. 115–232, div. A, title VIII, § 836(f)(10), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 880 of Pub. L. 114–328, set out above, is amended by striking “commercial items” in subsection (a)(1) and inserting “commercial products”.]
 
 #### Governmentwide Software Purchasing Program
 Pub. L. 113–291, div. A, title VIII, § 837, Dec. 19, 2014, 128 Stat. 3450, provided that: “(a) In General.—The Administrator of General Services shall identify and develop a strategic sourcing initiative to enhance Governmentwide acquisition, shared use, and dissemination of software, as well as compliance with end user license agreements. “(b) Governmentwide User License Agreement.—The Administrator, in developing the initiative under subsection (a), shall allow for the purchase of a license agreement that is available for use by all Executive agencies (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code) as one user to the maximum extent practicable and as appropriate.”
@@ -298,6 +298,9 @@ Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, pr
 
 ### Statutory Notes
 
+#### Amendment of Subsections (a)(5) and (e)(4)(B)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(7), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (a)(5) and (e)(4)(B) of this section are amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -320,9 +323,6 @@ In subsection (e)(1)(B)(ii), the reference to [section 5376 of title 5](https://
 In subsection (e)(5)(B), the words “and not in lieu of” are omitted as unnecessary.
 
 In subsection (f)(2), the words “referred to in subparagraph (A) of paragraph (1)” are added for clarity.
-
-#### Amendment of Subsections (a)(5) and (e)(4)(B)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(7), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (a)(5) and (e)(4)(B) of this section are amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 #### Senate Revision Amendment
 In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim)” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
@@ -355,13 +355,13 @@ Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, pro
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(8), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(2) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3305 | 41:253(g). | June 30, 1949, ch. 288, title III, § 303(g), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1178; Pub. L. 99–145, title XIII, § 1304(c)(3), Nov. 8, 1985, 99 Stat. 742; Pub. L. 101–510, title VIII, § 806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, § 1051(2), title IV, § 4402(a), Oct. 13, 1994, 108 Stat. 3260, 3348; Pub. L. 104–106, title XLII, § 4202(b)(1), Feb. 10, 1996, 110 Stat. 653; Pub. L. 105–85, title VIII, § 850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850. |
-
-#### Amendment of Subsection (a)(2)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(8), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(2) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (a)(2). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.
@@ -474,6 +474,9 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(9), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -481,9 +484,6 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 | 3306(f) | 41:253a note. | Pub. L. 108–136, title XIV, § 1428, Nov. 24, 2003, 117 Stat. 1670. |
 
 In subsection (f)(2), the words “Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend” are omitted as obsolete.
-
-#### Amendment of Subsection (b)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(9), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment notes below.
 
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–232, § 836(b)(9), substituted “commercial products or commercial services” for “commercial items” in introductory provisions.
@@ -630,21 +630,6 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 3307(a) | 41:264. | June 30, 1949, ch. 288, title III, §§ 314, 314B, as added Pub. L. 103–355, title VIII, §§ 8201, 8203, Oct. 13, 1994, 108 Stat. 3394. |
-| 3307(b) | 41:264b(a). |  |
-| 3307(c) | 41:264b(b). |  |
-| 3307(d) | 41:264b(c). |  |
-| 3307(e) | 41:264 note. | Pub. L. 103–355, title VIII, § 8002, Oct. 13, 1994, 108 Stat. 3386; Pub. L. 108–136, title XIV, 1432, Nov. 24, 2003, 117 Stat. 1672. |
-
-Subsection (a)(1) is substituted for [41 U.S.C. 264(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section264/a&num=0&edition=prelim) for clarity.
-
-In subsection (e), the text of section 8002(f) of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, [41 U.S.C. 264](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section264&num=0&edition=prelim) note) is omitted as obsolete.
-
-In subsection (e)(2)(B)(i) and (C)(i), the words “as the case may be” are omitted as unnecessary.
-
 #### Amendment of Section
 Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(A), (B)(i), (h), Aug. 13, 2018, 132 Stat. 1861–1863, 1874, made amendments to this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, this section will read as follows:
 
@@ -744,7 +729,7 @@ Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(A), (B)(i), (h), Aug. 13, 2
 
 (A) Types of contracts that may be used.—The Federal Acquisition Regulation shall include, for acquisitions of commercial products or commercial services—
 
-i) a requirement that firm, fixed price contracts or fixed price with economic price adjustment contracts be used to the maximum extent practicable;
+(i) a requirement that firm, fixed price contracts or fixed price with economic price adjustment contracts be used to the maximum extent practicable;
 
 (ii) a prohibition on use of cost type contracts; and
 
@@ -782,8 +767,23 @@ i) a requirement that firm, fixed price contracts or fixed price with economic p
 
 See 2018 Amendment notes below.
 
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 3307(a) | 41:264. | June 30, 1949, ch. 288, title III, §§ 314, 314B, as added Pub. L. 103–355, title VIII, §§ 8201, 8203, Oct. 13, 1994, 108 Stat. 3394. |
+| 3307(b) | 41:264b(a). |  |
+| 3307(c) | 41:264b(b). |  |
+| 3307(d) | 41:264b(c). |  |
+| 3307(e) | 41:264 note. | Pub. L. 103–355, title VIII, § 8002, Oct. 13, 1994, 108 Stat. 3386; Pub. L. 108–136, title XIV, 1432, Nov. 24, 2003, 117 Stat. 1672. |
+
+Subsection (a)(1) is substituted for [41 U.S.C. 264(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section264/a&num=0&edition=prelim) for clarity.
+
+In subsection (e), the text of section 8002(f) of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, [41 U.S.C. 264](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section264&num=0&edition=prelim) note) is omitted as obsolete.
+
+In subsection (e)(2)(B)(i) and (C)(i), the words “as the case may be” are omitted as unnecessary.
+
 #### Amendments
-2018—Pub. L. 115–232, § 836(b)(10)(B)(i), amended section catchline generally, substituting “Preference for commercial products and commercial services” for “Preference for commercial items”.
+2018—Pub. L. 115–232, § 836(b)(10)(B)(i), substituted “Preference for commercial products and commercial services” for “Preference for commercial items” in section catchline.
 
 Subsec. (a). Pub. L. 115–232, § 836(b)(10)(A)(i)(I), substituted “Commercial Products and Commercial Services” for “Commercial Items” in heading.
 
@@ -809,7 +809,7 @@ Subsec. (e)(2)(A). Pub. L. 115–232, § 836(b)(10)(A)(v)(II), substituted “co
 
 Subsec. (e)(2)(B). Pub. L. 115–232, § 836(b)(10)(A)(v)(III), (IV), in introductory provisions, substituted “end items that are commercial products” for “commercial end items” and, in cl. (i), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
 
-Subsec. (e)(2)(C). Pub. L. 115–232, § 836(b)(10)(A)(v)(IV), (V), in introductory provisions, substituted “commercial products or commercial services” for “commercial items”, and in cl. (i), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
+Subsec. (e)(2)(C). Pub. L. 115–232, § 836(b)(10)(A)(v)(IV), (V), in introductory provisions, substituted “commercial products or commercial services” for “commercial items” and, in cl. (i), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
 
 Subsec. (e)(2)(D). Pub. L. 115–232, § 836(b)(10)(A)(v)(IV), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
 

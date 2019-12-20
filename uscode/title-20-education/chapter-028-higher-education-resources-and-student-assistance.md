@@ -2,7 +2,7 @@
 title: 20
 chapter: '28'
 heading: HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE
-section_count: 430
+section_count: 431
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -82,6 +82,9 @@ Pub. L. 96–374, title XIII, § 1393, Oct. 3, 1980, 94 Stat. 1504, provided tha
 
 #### Effective Date of 1976 Amendment
 Pub. L. 94–482, title V, § 532, Oct. 12, 1976, 90 Stat. 2241, provided that: “The provisions of this Act [see Tables for classification] and the amendments made by this Act shall take effect 30 days after the date of the enactment of this Act [Oct. 12, 1976] except— “(1) as specifically otherwise provided; and “(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–91, § 1, Dec. 19, 2019, 133 Stat. 1189, provided that: “This Act [enacting [section 1098h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098h), amending sections 1067q, 1070a, 1087, 1087e, 1091, and 1098e of this title and [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), Internal Revenue Code, and enacting provisions set out as notes under [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim)] may be cited as the ‘Fostering Undergraduate Talent by Unlocking Resources for Education Act’ or the ‘FUTURE Act’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–105, § 1, Dec. 18, 2015, 129 Stat. 2219, provided that: “This Act [amending sections 1087aa, 1087cc–1, and 1087ff of this title and enacting provisions set out as notes under sections 1087aa and 1226a of this title] may be cited as the ‘Federal Perkins Loan Program Extension Act of 2015’.”
@@ -268,6 +271,91 @@ Pub. L. 90–575, title V, § 505, Oct. 16, 1968, 82 Stat. 1063, provided for pu
 
 #### Presidential Recommendations by December 31, 1969, With Respect to Post-Secondary Education for All
 Pub. L. 90–575, title V, § 508, Oct. 16, 1968, 82 Stat. 1063, authorized the President, on or before Dec. 31, 1969, to submit to the Congress proposals relative to the feasibility of making available a post-secondary education to all young Americans who qualify and seek it.
+
+#### Ex. Ord. No. 13864. Improving Free Inquiry, Transparency, and Accountability at Colleges and Universities
+Ex. Ord. No. 13864, Mar. 21, 2019, 84 F.R. 11401, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. The purpose of this order is to enhance the quality of postsecondary education by making it more affordable, more transparent, and more accountable. Institutions of higher education (institutions) should be accountable both for student outcomes and for student life on campus.
+
+In particular, my Administration seeks to promote free and open debate on college and university campuses. Free inquiry is an essential feature of our Nation’s democracy, and it promotes learning, scientific discovery, and economic prosperity. We must encourage institutions to appropriately account for this bedrock principle in their administration of student life and to avoid creating environments that stifle competing perspectives, thereby potentially impeding beneficial research and undermining learning.
+
+The financial burden of higher education on students and their families is also a national problem that needs immediate attention. Over the past 30 years, college tuition and fees have grown at more than twice the rate of the Consumer Price Index. Rising student loan debt, coupled with low repayment rates, threatens the financial health of both individuals and families as well as of Federal student loan programs. In addition, too many programs of study fail to prepare students for success in today’s job market.
+
+The Federal Government can take meaningful steps to address these problems. Selecting an institution and course of study are important decisions for prospective students and significantly affect long-term earnings. Institutions should be transparent about the average earnings and loan repayment rates of former students who received Federal student aid. Additionally, the Federal Government should make this information readily accessible to the public and to prospective students and their families, in particular.
+
+This order will promote greater access to critical information regarding the prices and outcomes of postsecondary education, thereby furthering the goals of the National Council for the American Worker established by Executive Order 13845 of July 19, 2018 (Establishing the President’s National Council for the American Worker) [[29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) note]. Increased information disclosure will help ensure that individuals make educational choices suited to their needs, interests, and circumstances. Access to this information will also increase institutional accountability and encourage institutions to take into account likely future earnings when establishing the cost of their educational programs.
+
+Sec. 2. Policy. It is the policy of the Federal Government to:
+
+(a) encourage institutions to foster environments that promote open, intellectually engaging, and diverse debate, including through compliance with the First Amendment for public institutions and compliance with stated institutional policies regarding freedom of speech for private institutions;
+
+(b) help students (including workers seeking additional training) and their families understand, through better data and career counseling, that not all institutions, degrees, or fields of study provide similar returns on their investment, and consider that their educational decisions should account for the opportunity cost of enrolling in a program;
+
+(c) align the incentives of institutions with those of students and taxpayers to ensure that institutions share the financial risk associated with Federal student loan programs;
+
+(d) help borrowers avoid defaulting on their Federal student loans by educating them about risks, repayment obligations, and repayment options; and
+
+(e) supplement efforts by States and institutions by disseminating information to assist students in completing their degrees faster and at lower cost.
+
+Sec. 3. Improving Free Inquiry on Campus. (a) To advance the policy described in subsection 2(a) of this order, the heads of covered agencies shall, in coordination with the Director of the Office of Management and Budget, take appropriate steps, in a manner consistent with applicable law, including the First Amendment, to ensure institutions that receive Federal research or education grants promote free inquiry, including through compliance with all applicable Federal laws, regulations, and policies.
+
+(b) “Covered agencies” for purposes of this section are the Departments of Defense, the Interior, Agriculture, Commerce, Labor, Health and Human Services, Transportation, Energy, and Education; the Environmental Protection Agency; the National Science Foundation; and the National Aeronautics and Space Administration.
+
+(c) “Federal research or education grants” for purposes of this section include all funding provided by a covered agency directly to an institution but do not include funding associated with Federal student aid programs that cover tuition, fees, or stipends.
+
+Sec. 4. Improving Transparency and Accountability on Campus. (a) To advance the policy described in subsections 2(b)–(e) of this order, the Secretary of Education (Secretary) shall, to the extent consistent with applicable law:
+
+(i) make available, by January 1, 2020, through the Office of Federal Student Aid, a secure and confidential website and mobile application that informs Federal student loan borrowers of how much they owe, how much their monthly payment will be when they enter repayment, available repayment options, how long each repayment option will take, and how to enroll in the repayment option that best serves their needs;
+
+(ii) expand and update annually the College Scorecard, or any successor, with the following program-level data for each certificate, degree, graduate, and professional program, for former students who received Federal student aid:
+
+(A) estimated median earnings;
+
+(B) median Stafford loan debt;
+
+(C) median Graduate PLUS loan debt (if applicable);
+
+(D) median Parent PLUS loan debt; and
+
+(E) student loan default rate and repayment rate; and
+
+(iii) expand and update annually the College Scorecard, or any successor, with the following institution-level data, providing the aggregate for all certificate, degree, graduate, and professional programs, for former students who received Federal student aid:
+
+(A) student loan default rate and repayment rate;
+
+(B) Graduate PLUS default rate and repayment rate; and
+
+(C) Parent PLUS default rate and repayment rate.
+
+(b) For the purpose of implementing subsection (a)(ii) of this section, the Secretary of the Treasury shall, upon the request of the Secretary, provide in a timely manner appropriate statistical studies and compilations regarding program-level earnings, consistent with [section 6108(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6108/b&num=0&edition=prelim), United States Code, other applicable laws, and available data regarding programs attended by former students who received Federal student aid.
+
+Sec. 5. Reporting Requirements. (a) By January 1, 2020, the Secretary, in consultation with the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Chairman of the Council of Economic Advisers, shall submit to the President, through the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, a report identifying and analyzing policy options for sharing the risk associated with Federal student loan debt among the Federal Government, institutions, and other entities.
+
+(b) By January 1, 2020, the Secretary, in consultation with the Secretary of the Treasury, shall submit to the President, through the Assistant to the President for Domestic Policy and the Assistant to the President for Economic Policy, policy recommendations for reforming the collections process for Federal student loans in default.
+
+(c) Beginning July 1, 2019, the Secretary shall provide an annual update on the Secretary’s progress in implementing the policies set forth in subsections 2(b)–(e) of this order to the National Council for the American Worker at meetings of the Council.
+
+(d) Within 1 year of the date of this order [Mar. 21, 2019], the Secretary shall compile information about successful State and institutional efforts to promote students’ timely and affordable completion of a postsecondary program of study. Based on that information, the Secretary shall publish a compilation of research results that addresses:
+
+(i) how some States and institutions have better facilitated successful transfer of credits and degree completion by transfer students;
+
+(ii) how States and institutions can increase access to dual enrollment programs; and
+
+(iii) other strategies for increasing student success, especially among students at high risk of not completing a postsecondary program of study.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-1002"></a>
@@ -679,9 +767,6 @@ Par. (20). Pub. L. 114–95, § 9215(oo)(1)(E), which directed technical amendme
 Pars. (17) to (24). Pub. L. 110–315, § 103(a)(1), added pars. (17) to (24).
 
 2002—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted “7801” for “8801”.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -7542,7 +7627,7 @@ Repeal effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244
 
 (1) **In general**
 
-  (A) *Provision of funds* — There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.
+  (A) *Provision of funds* — There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for fiscal year 2020 and each fiscal year thereafter.
 
   (B) *Availability* — Funds made available under subparagraph (A) for a fiscal year shall remain available for the next succeeding fiscal year.
 
@@ -7693,6 +7778,8 @@ The Act of March 2, 1867, referred to in subsec. (c)(9)(F)(iii), is act Mar. 2, 
 Section was formerly classified to [section 1099e of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1099e&num=0&edition=prelim) prior to renumbering by Pub. L. 110–315.
 
 #### Amendments
+2019—Subsec. (b)(1)(A). Pub. L. 116–91 substituted “for fiscal year 2020 and each fiscal year thereafter.” for “for each of the fiscal years 2008 through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.”
+
 2010—Subsec. (b)(1)(A). Pub. L. 111–152 substituted “through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.” for “and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
 2009—Subsec. (c)(3)(D), (4), (9)(C)(iii). Pub. L. 111–39, § 301(7)(A)–(C)(i), substituted “1070a–11(h)” for “1070a–11(g)”.
@@ -8139,7 +8226,7 @@ Pub. L. 103–382, title V, part B, Oct. 20, 1994, 108 Stat. 4045, which provide
 Pub. L. 102–325, title XIV, § 1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.) with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, § 6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### Olympic Scholarships
-Pub. L. 102–325, title XV, § 1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, § 836, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 106–554, § 1(a)(1) [title III, § 319], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–116, title III, § 305(a), Jan. 10, 2002, 115 Stat. 2208; Pub. L. 110–315, title IX, § 934, Aug. 14, 2008, 122 Stat. 3460, provided that: “(a) Scholarships Authorized.—“(1) In general.—The Secretary of Education is authorized to provide financial assistance to the United States Olympic Education Center or the United States Olympic Training Center to enable such centers to provide financial assistance to athletes who are training at such centers and are pursuing postsecondary education at institutions of higher education (as such term is defined in section 481(a) of the Higher Education Act of 1965 [[20 U.S.C. 1088(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/a&num=0&edition=prelim)]). “(2) Award determination.—The amount of the financial assistance provided to an athlete described in paragraph (1) shall be determined in accordance with criteria, and in amounts, specified in the application of the center under subsection (c). Such assistance shall not exceed the athlete’s cost of attendance as determined under section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087)ll). “(3) Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate. “(b) Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part [part E (§ 1543) of Pub. L. 102–325] is available to both full-time and part-time students who are athletes at centers described in subsection (a). “(c) Application.—Each center desiring financial assistance under this section shall submit an application to the Secretary of Education at such time, in such manner and accompanied by such information as the Secretary may reasonably require. “(d) Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years to carry out this section. “(e) Designation.—Scholarships awarded under this section shall be known as ‘B.J. Stupak Olympic Scholarships’.”
+Pub. L. 102–325, title XV, § 1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, § 836, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 106–554, § 1(a)(1) [title III, § 319], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–116, title III, § 305(a), Jan. 10, 2002, 115 Stat. 2208; Pub. L. 110–315, title IX, § 934, Aug. 14, 2008, 122 Stat. 3460, provided that: “(a) Scholarships Authorized.—“(1) In general.—The Secretary of Education is authorized to provide financial assistance to the United States Olympic Education Center or the United States Olympic Training Center to enable such centers to provide financial assistance to athletes who are training at such centers and are pursuing postsecondary education at institutions of higher education (as such term is defined in section 481(a) of the Higher Education Act of 1965 [[20 U.S.C. 1088(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/a&num=0&edition=prelim)]). “(2) Award determination.—The amount of the financial assistance provided to an athlete described in paragraph (1) shall be determined in accordance with criteria, and in amounts, specified in the application of the center under subsection (c). Such assistance shall not exceed the athlete’s cost of attendance as determined under section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087)ll). “(3) Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce [now Education and Labor] and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate. “(b) Eligibility.—The Secretary of Education shall ensure that financial assistance provided under this part [part E (§ 1543) of Pub. L. 102–325] is available to both full-time and part-time students who are athletes at centers described in subsection (a). “(c) Application.—Each center desiring financial assistance under this section shall submit an application to the Secretary of Education at such time, in such manner and accompanied by such information as the Secretary may reasonably require. “(d) Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years to carry out this section. “(e) Designation.—Scholarships awarded under this section shall be known as ‘B.J. Stupak Olympic Scholarships’.”
 
 [Pub. L. 107–116, title III, § 305(b), Jan. 10, 2002, 115 Stat. 2208, provided that: “The amendments made by subsection (a) [amending section 1543 of Pub. L. 102–325, set out above] shall apply with respect to any funds appropriated pursuant to section 1543(d) of the Higher Education Amendments of 1992 [section 1543(d) of Pub. L. 102–325, set out above], including funds appropriated pursuant to that section in fiscal years 2000 and 2001, that are available for financial assistance under section 1543 on or after the date of enactment of this Act [Jan. 10, 2002].” ]
 
@@ -8213,9 +8300,9 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
       (IX) $1,370,000,000 for fiscal year 2019;
 
-      (X) $1,430,000,000 for fiscal year 2020; and
+      (X) $1,455,000,000 for fiscal year 2020; and
 
-      (XI) $1,145,000,000 for fiscal year 2021 and each succeeding fiscal year.
+      (XI) $1,170,000,000 for fiscal year 2021 and each succeeding fiscal year.
 
   (B) *Increase in federal pell grants.—* — The amounts made available pursuant to clauses (i) through (iii) of subparagraph (A) of this paragraph shall be used to increase the amount of the maximum Federal Pell Grant for which a student shall be eligible during an award year, as specified in the last enacted appropriation Act applicable to that award year, by—
 
@@ -8345,6 +8432,10 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, § 131(b)(1), title X, § 1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, § 125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, § 401, title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to [section 1070 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070), prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2019—Subsec. (b)(7)(A)(iv)(X). Pub. L. 116–91, § 7(1), substituted “$1,455,000,000” for “$1,430,000,000”.
+
+Subsec. (b)(7)(A)(iv)(XI). Pub. L. 116–91, § 7(2), substituted “$1,170,000,000” for “$1,145,000,000”.
+
 2018—Subsec. (b)(7)(A)(iv)(VIII). Pub. L. 115–141 substituted “$1,334,000,000” for “$1,382,000,000”.
 
 Subsec. (b)(7)(A)(iv)(IX). Pub. L. 115–245 substituted “$1,370,000,000” for “$1,409,000,000”.
@@ -14785,7 +14876,7 @@ Section effective Oct. 17, 1987, with subsection (b)(1)(M) (except cls. (viii), 
 Pub. L. 109–171, title VIII, § 8007(e), Feb. 8, 2006, 120 Stat. 161, provided that: “Nothing in the amendments made by this section [amending this section and sections 1087e, 1087dd, and 1088 of this title] shall be construed to authorize any refunding of any repayment of a loan.”
 
 #### Review of Inducements Limitations
-Pub. L. 110–227, § 5(c), May 7, 2008, 122 Stat. 746, provided that: “Within 90 days after the date of enactment of this Act [May 7, 2008], the Secretary of Education shall review, and as necessary revise, the Department of Education’s regulations concerning prohibited guaranty agency inducements to eligible lenders (34 CFR 682.401(e)) to ensure that such agencies do not engage in improper inducements in the expansion of operations of the lender-of-last-resort program as authorized by the amendments made by this section [amending this section]. The Secretary shall submit a report on the review and revision required by this subsection to the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate within 180 days after such date of enactment.”
+Pub. L. 110–227, § 5(c), May 7, 2008, 122 Stat. 746, provided that: “Within 90 days after the date of enactment of this Act [May 7, 2008], the Secretary of Education shall review, and as necessary revise, the Department of Education’s regulations concerning prohibited guaranty agency inducements to eligible lenders (34 CFR 682.401(e)) to ensure that such agencies do not engage in improper inducements in the expansion of operations of the lender-of-last-resort program as authorized by the amendments made by this section [amending this section]. The Secretary shall submit a report on the review and revision required by this subsection to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate within 180 days after such date of enactment.”
 
 #### Guaranteed Student Loan Family Contribution Schedule for the Periods of Instruction Beginning After June 30, 1983
 Pub. L. 97–301, § 9, Oct. 13, 1982, 96 Stat. 1403, as amended by Pub. L. 98–79, § 4(b), Aug. 15, 1983, 97 Stat. 481; Pub. L. 98–511, title VII, § 707(7), (8), Oct. 19, 1984, 98 Stat. 2407, 2408; Pub. L. 99–272, title XVI, § 16018(b), Apr. 7, 1986, 100 Stat. 348; Pub. L. 99–498, title IV, § 408(a)(6), (7), Oct. 17, 1986, 100 Stat. 1495, specified that the family contribution schedule for specific periods of instruction through June 30, 1988, for loans made, insured, or guaranteed under this part be the family contribution schedule for such loans for the period of instruction from July 1, 1982, through June 30, 1983, and required the family contribution schedule for the period of instruction from July 1, 1982, through June 30, 1983, to be modified by the Secretary of Education for use for each of the specific periods of instruction to reflect the most recent and relevant data, prior to repeal by Pub. L. 99–498, title IV, § 408(b), Oct. 17, 1986, 100 Stat. 1495, effective with respect to any academic year beginning on or after July 1, 1988, Pub. L. 97–301.
@@ -18310,6 +18401,22 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 (2) **Disability determinations** — A borrower who has been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected condition and who provides documentation of such determination to the Secretary of Education, shall be considered permanently and totally disabled for the purpose of discharging such borrower’s loans under this subsection, and such borrower shall not be required to present additional documentation for purposes of this subsection.
 
+(3) **Automatic income monitoring**
+
+  (A) *In general* — The Secretary shall establish and implement, with respect to any borrower described in subparagraph (B), procedures to—
+
+    (i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under [section 1098h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098h), to determine the borrower’s continued eligibility for the loan discharge described in subparagraph (B);
+
+    (ii) allow the borrower, at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the borrower’s continued eligibility for such loan discharge; and
+
+    (iii) provide the borrower with an opportunity to update the return information so disclosed before determination of such borrower’s continued eligibility for such loan discharge.
+
+  (B) *Applicability* — Subparagraph (A) shall apply—
+
+    (i) to each borrower of a loan that is discharged due to the total and permanent disability (within the meaning of this subsection) of the borrower; and
+
+    (ii) during the period beginning on the date on which such loan is so discharged and ending on the first day on which such loan may no longer be reinstated.
+
 **(b) Payment of claims on loans in bankruptcy** The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(A) or (B), 1078–1,11 See References in Text note below. 1078–2, 1078–3, or 1078–8 of this title, the amount of the unpaid balance of principal and interest owed on such loan—
 
 (1) when the borrower files for relief under chapter 12 or 13 of title 11;
@@ -18341,6 +18448,8 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 A prior section 1087, Pub. L. 89–329, title IV, § 437, as added Pub. L. 90–575, title I, § 113(a), Oct. 16, 1968, 82 Stat. 1020; amended Pub. L. 92–318, title I, § 132D(a), June 23, 1972, 86 Stat. 263; Pub. L. 94–482, title I, § 127(a), Oct. 12, 1976, 90 Stat. 2133; Pub. L. 96–374, title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to repayment of loans by Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–91 added par. (3).
+
 2009—Subsec. (a)(1). Pub. L. 111–39 substituted “Secretary), or if” for “Secretary),, or if” in introductory provisions and inserted “the reinstatement and resumption to be” after “determines” in subpar. (B).
 
 2008—Subsec. (a). Pub. L. 110–315, § 437(a)(3), which directed insertion of “The Secretary may develop such safeguards as the Secretary determines necessary to prevent fraud and abuse in the discharge of liability under this subsection. Notwithstanding any other provision of this subsection, the Secretary may promulgate regulations to reinstate the obligation of, and resume collection on, loans discharged under this subsection in any case in which—
@@ -18391,6 +18500,47 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under [section 1051 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051).
+
+#### Discharging the Federal Student Loan Debt of Totally and Permanently Disabled Veterans
+Memorandum of President of the United States, Aug. 21, 2019, 84 F.R. 44677, provided:
+
+Memorandum for the Secretary of Education [and] the Secretary of Veterans Affairs
+
+Since our Founding, the United States has been blessed with men and women willing to serve in defense of our Nation and our ideals. Many of those answering the call to serve make the ultimate sacrifice for their country, and many others carry physical and emotional scars for the rest of their lives.
+
+The Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.], as amended by the Higher Education Opportunity Act in 2008 and other acts (Higher Education Act), honors veterans who are totally and permanently disabled as a result of their service to the Nation by providing for the discharge of their Federal student loan debt. Borrowers who have been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected condition and who provide documentation of that determination to the Secretary of Education are entitled to the discharge of such debt.
+
+For the last decade, veterans seeking loan discharges have been required to submit an application to the Secretary of Education with proof of their disabilities obtained from the Department of Veterans Affairs. The process has been overly complicated and difficult, and prevented too many of our veterans from receiving the relief for which they are eligible. This has inflicted significant hardship and serious harm on these veterans and has frustrated the intent of the Congress that their Federal student loan debt be discharged.
+
+Only half of the approximately 50,000 totally and permanently disabled veterans who currently qualify for the discharge of their Federal student loan debt have availed themselves of the benefits provided to them by the Higher Education Act. This has created a serious and critical problem for disabled veterans, who must deal with the day-to-day consequences of their service-connected injuries, and for our military, as readiness and recruitment suffer when we do not take care of our veterans. There is a pressing need to quickly and effectively resolve this problem. Therefore, my Administration will take prompt action to ensure that all totally and permanently disabled veterans are able to obtain, with minimal burden, the Federal student loan debt discharges to which they are legally entitled.
+
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to express the gratitude of our Nation for the service of our totally and permanently disabled veterans, I hereby direct the following:
+
+Section 1. Policy. It shall be the policy of the Federal Government to facilitate—in a manner that is quick, efficient, and minimally burdensome—the discharge of Federal student loan debt for totally and permanently disabled veterans.
+
+Sec. 2. Directive to the Secretaries of Education and Veterans Affairs. (a) The Secretary of Education is hereby directed to develop as soon as practicable a process, consistent with applicable law, to facilitate the swift and effective discharge of the Federal student loan debt of totally and permanently disabled veterans pursuant to section 437 of the Higher Education Act, [20 U.S.C. 1087](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087); section 455 of the Higher Education Act, [20 U.S.C. 1087e](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087e); and section 464 of the Higher Education Act, [20 U.S.C. 1087dd](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087dd). To the maximum extent feasible and consistent with applicable law, the process developed by the Secretary of Education should account for and make use of disability determinations made available to the Secretary of Education by the Department of Veterans Affairs.
+
+(b) The Secretaries of Education and Veterans Affairs (Secretaries) shall take appropriate action to implement the policy set forth in section 1 of this memorandum as expeditiously as possible. To that end, the Secretaries shall consider all pathways for the Department of Veterans Affairs to share disability determinations with the Department of Education, so that veterans may be relieved of the burdensome administrative impediments to Federal student loan debt discharge.
+
+Sec. 3. Definitions. As used in this memorandum:
+
+(a) the term “Federal student loan debt” means liability to repay Federal Family Education Loan (FFEL) Program loans, William D. Ford Federal Direct Loan (Direct Loan) Program loans, and Federal Perkins Loans.
+
+(b) the term “discharge” means discharge of FFEL Program loans and Direct Loan Program loans and cancellation of Federal Perkins Loans.
+
+Sec. 4. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Education is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-1087a"></a>
@@ -19984,11 +20134,7 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
 (5) **Calculation of balance due** — The balance due on a loan made under this part that is repaid pursuant to income contingent repayment shall equal the unpaid principal amount of the loan, any accrued interest, and any fees, such as late charges, assessed on such loan. The Secretary may promulgate regulations limiting the amount of interest that may be capitalized on such loan, and the timing of any such capitalization.
 
-(6) **Notification to borrowers** — The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower—
-
-  (A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(l)(13) of title 26; and
-
-  (B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+(6) **Notification to borrowers** — The Secretary shall establish procedures under which a borrower of a loan made under this part who chooses or is required to repay such loan pursuant to income contingent repayment is notified of the terms and conditions of such plan, including notification of such borrower, that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower’s spouse, warrant an adjustment in the borrower’s loan repayment, the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
 (7) **Maximum repayment period** — In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part D, or part E—
 
@@ -20005,6 +20151,22 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
     (iv) makes payments of not less than the payments required under a standard repayment plan under [section 1078(b)(9)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/9/A/i&num=0&edition=prelim) or subsection (d)(1)(A) with a repayment period of 10 years; or
 
     (v) makes payments under an income contingent repayment plan under subsection (d)(1)(D).
+
+(8) **Automatic recertification**
+
+  (A) *In general* — The Secretary shall establish and implement, with respect to any borrower described in subparagraph (B), procedures to—
+
+    (i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under [section 1098h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098h), to determine the repayment obligation of the borrower without further action by the borrower;
+
+    (ii) allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this subsection); and
+
+    (iii) provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
+
+  (B) *Applicability* — Subparagraph (A) shall apply to each borrower of a loan made under this part who, on or after the date on which the Secretary establishes procedures under such subparagraph—
+
+    (i) selects, or is required to repay such loan pursuant to, an income-contingent repayment plan; or
+
+    (ii) recertifies income or family size under such plan.
 
 **(f) Deferment**
 
@@ -20174,6 +20336,16 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+2019—Subsec. (e)(6). Pub. L. 116–91, § 4(a)(2), substituted “including notification of such borrower, that if a borrower” for “including notification of such borrower—
+
+“(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(l)(13) of title 26; and
+
+“(B) that if a borrower”
+
+and struck out “as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3)” after “borrower’s loan repayment”.
+
+Subsec. (e)(8). Pub. L. 116–91, § 4(a)(1), added par. (8).
+
 2018—Subsec. (f)(3) to (5). Pub. L. 115–245 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 2016—Subsec. (o)(3)(B). Pub. L. 114–328 inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.
@@ -21259,7 +21431,7 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 
     (iii) notify the Secretary of the adjustment and the student’s eligibility for the adjustment.
 
-(4) **Treatment of Pell amount** — Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796d–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796d–1&num=0&edition=prelim)),1 in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student’s educational assistance benefits under the Public Safety Officers’ Benefits program under subpart 2 of part L of title I of such Act.1 See References in Text note below.
+(4) **Treatment of Pell amount** — Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796d–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796d–1&num=0&edition=prelim)),11 See References in Text note below. in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student’s educational assistance benefits under the Public Safety Officers’ Benefits program under subpart 2 of part L of title I of such Act.
 
 (5) **Definition of public safety officer** — For purposes of this subsection, the term “public safety officer” means—
 
@@ -21287,7 +21459,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968 and such Act, referred to
 
 Subsec. (b)(2)(B). Pub. L. 115–141, § 317(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “whose parent or guardian was a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; and”.
 
-Subsec. (b)(3). Pub. L. 115–141, § 317(2), designated existing provisions as subpar. (A), inserted heading, substituted “subparagraphs (A), (B)(i), and (C) of paragraph (2)” for paragraph (2)”, and added subpar. (B).
+Subsec. (b)(3). Pub. L. 115–141, § 317(2), designated existing provisions as subpar. (A), inserted heading, substituted “subparagraphs (A), (B)(i), and (C) of paragraph (2)” for “paragraph (2)”, and added subpar. (B).
 
 Subsec. (b)(4), (5). Pub. L. 115–141, § 317(3), added pars. (4) and (5).
 
@@ -23785,8 +23957,6 @@ Subsec. (r). Pub. L. 102–325, § 431(e), added subsec. (r).
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1996 Amendment
 Pub. L. 104–208, div. A, title I, § 101(e) [title VI, § 602(d)(2)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that: “The repeals made by paragraph (1) [repealing this section and [section 1087–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-3)] shall be effective one year after— “(A) the date on which all of the obligations of the trust established under section 440(d)(1) of the Higher Education Act of 1965 [[20 U.S.C. 1087–3(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–3/d/1&num=0&edition=prelim)] (as added by subsection (a)) have been extinguished, if a reorganization occurs in accordance with section 440 of such Act; or “(B) the date on which all of the obligations of the trust established under subsection [sic] 439(s)(3)(A) of such Act [[20 U.S.C. 1087–2(s)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–2/s/3/A&num=0&edition=prelim)] (as added by subsection (c)) have been extinguished, if a reorganization does not occur in accordance with section 440 of such Act.”
 
@@ -25614,7 +25784,7 @@ Pub. L. 111–39, title IV, § 407(a), July 1, 2009, 123 Stat. 1950, provided th
 
 (1) be enrolled or accepted for enrollment in a degree, certificate, or other program (including a program of study abroad approved for credit by the eligible institution at which such student is enrolled) leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of [section 1094 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1094), except as provided in subsections (b)(3) and (b)(4), and not be enrolled in an elementary or secondary school;
 
-(2) if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c);
+(2) if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c);(q)
 
 (3) not owe a refund on grants previously received at any institution under this subchapter, or be in default on any loan from a student loan fund at any institution provided for in part E, or a loan made, insured, or guaranteed by the Secretary under this subchapter for attendance at any institution;
 
@@ -25803,15 +25973,7 @@ the official of the institution making the determination shall notify and instru
 
   (B) any student with respect to any error in a social security number, unless such error was a result of fraud on the part of the student.
 
-**(q) Use of income data**
-
-(1) **Matching with IRS** — The Secretary, in cooperation with the Secretary of the Treasury, is authorized to obtain from the Internal Revenue Service such information reported on Federal income tax returns by applicants, or by any other person whose financial information is required to be provided on the Federal student financial aid application, as the Secretary determines is necessary for the purpose of—
-
-  (A) prepopulating the Federal student financial aid application described in [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090); or
-
-  (B) verifying the information reported on such student financial aid applications.
-
-(2) **Consent** — The Secretary may require that applicants for financial assistance under this subchapter provide a consent to the disclosure of the data described in paragraph (1) as a condition of the student receiving assistance under this subchapter. The parents of an applicant, in the case of a dependent student, or the spouse of an applicant, in the case of an applicant who is married but files separately, may also be required to provide consent as a condition of the student receiving assistance under this subchapter.
+**(q) Repealed. Pub. L. 116–91, § 6(b), Dec. 19, 2019, 133 Stat. 1196**
 
 **(r) Suspension of eligibility for drug-related offenses**
 
@@ -25874,6 +26036,8 @@ A prior section 1091, Pub. L. 89–329, title IV, § 484, as added Pub. L. 96–
 Another prior section 1091, Pub. L. 89–329, title V, § 501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, § 2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, § 141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, § 151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+2019—Subsec. (q). Pub. L. 116–91 struck out subsec. (q) which authorized the Secretary of the Treasury to obtain certain information from the Internal Revenue Service regarding applicants’ tax returns and to require consent from such applicants as a condition of receiving assistance. See [section 1098h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098h).
+
 2015—Subsec. (d)(2). Pub. L. 114–113 amended par. (2) generally. Prior to amendment, par. (2) contained a different definition of “eligible career pathway program”.
 
 2014—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text read as follows: “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
@@ -26404,7 +26568,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
   (C) performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
 
-    (i) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 251, 252, 359, 360, 367, or 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
+    (i) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 251, 252,11 See References in Text note below. 359, 360, 367, or 712 1 of title 14;
 
     (ii) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -26444,6 +26608,11 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 ### Statutory Notes
 
+#### References in Text
+Sections 251 and 252 of title 14, referred to in subsec. (c)(3)(C)(i), probably should be references to sections 2127 and 2128 of title 14. Prior to amendment by Pub. L. 115–232, § 1204(b)(2) (see 2018 Amendment note below), those references were to sections 331 and 332 of title 14 and probably should not have been amended by Pub. L. 115–232 to conform to the renumbering of those sections as sections 251 and 252 because the renumbered sections were in title 10 of the Code and not title 14. Sections 331 and 332 of title 14 were renumbered sections 2127 and 2128, respectively, of title 14 by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to sections 331 and 332 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+Sections 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(3)(C)(i), were renumbered sections 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4221, 4233, and references to sections 359, 360, 367, and 712 of title 14 considered to refer to such sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Prior Provisions
 Prior sections 1091c to 1091f were repealed, effective Sept. 30, 1976, by Pub. L. 94–482, title I, § 151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
@@ -26459,9 +26628,6 @@ Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2
 2018—Subsec. (c)(3)(C)(i). Pub. L. 115–232, § 1204(b)(2), substituted “section 251, 252,” for “section 331, 332,”.
 
 Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 13” for “chapter 15”.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-Sections 251, 252, 359, 360, 367, and 712 of title 14 redesignated sections 2106, 2107, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to sections 251, 252, 359, 360, 367, and 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-1092"></a>
@@ -29512,6 +29678,9 @@ Section was formerly set out in a note under [section 1070 of this title](./chap
 
 Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-1098c"></a>
 ## § 1098c. Repealed. Pub. L. 110–315, title IV, § 494E, Aug. 14, 2008, 122 Stat. 3324
@@ -29635,7 +29804,15 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 
 (9) the special allowance payment to a lender calculated under [section 1087–1(b)(2)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–1/b/2/I&num=0&edition=prelim), when calculated for a loan in repayment under this section, shall be calculated on the principal balance of the loan and on any accrued interest unpaid by the borrower in accordance with this section.
 
-**(c) Eligibility determinations** The Secretary shall establish procedures for annually determining the borrower’s eligibility for income-based repayment, including verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with [section 1087e(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/1&num=0&edition=prelim) or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
+**(c) Eligibility determinations**
+
+(1) **In general** — The Secretary shall establish procedures for annually determining the borrower’s eligibility for income-based repayment, including verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section.
+
+(2) **Procedures for eligibility** — The Secretary shall—
+
+  (A) consider, but is not limited to, the procedures established in accordance with [section 1087e(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/1&num=0&edition=prelim) or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title; and
+
+  (B) carry out, with respect to borrowers of any loan made under part D (other than an excepted PLUS loan or excepted consolidation loan), procedures for income-based repayment plans that are equivalent to the procedures carried out under [section 1087e(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/8&num=0&edition=prelim) with respect to income-contingent repayment plans.
 
 **(d) Special rule for married borrowers filing separately** In the case of a married borrower who files a separate Federal income tax return, the Secretary shall calculate the amount of the borrower’s income-based repayment under this section solely on the basis of the borrower’s student loan debt and adjusted gross income.
 
@@ -29648,6 +29825,10 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(1). Pub. L. 116–91, § 4(b)(1), designated first sentence of existing provisions as par. (1) and inserted heading.
+
+Subsec. (c)(2). Pub. L. 116–91, § 4(b)(2), (3), designated second sentence of existing provisions as par. (2) and inserted heading, substituted “The Secretary shall—” for “The Secretary shall”, inserted subpar. (A) designation before “consider,”, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
+
 2010—Subsec. (e). Pub. L. 111–152 added subsec. (e).
 
 2008—Subsec. (b)(1). Pub. L. 110–315 substituted “or had been in default” for “or is already in default”.
@@ -29728,6 +29909,51 @@ Section was enacted as part of the Garn-St Germain Depository Institutions Act o
 
 #### Effective Date
 Section effective both with respect to loans made prior to and after Oct. 15, 1982, see section 701(c) of Pub. L. 97–320, set out as an Effective Date of 1982 Amendment note under [section 1603 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1603&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-1098h"></a>
+## § 1098h. Procedure and requirements for requesting tax return information from the Internal Revenue Service
+**(a) Notification and approval requirements**
+
+(1) **Federal student financial aid** — In the case of any written or electronic application under [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090) by an individual for Federal student financial aid under a program authorized under subpart 1 of part A, part C, or part D, the Secretary, with respect to such individual and any parent or spouse whose financial information is required to be provided on such application, shall—
+
+  (A) notify such individuals that—
+
+    (i) if such individuals provide approval under subparagraph (B), the Secretary will have the authority to request that the Secretary of the Treasury disclose return information of such individuals to authorized persons (as defined in section 6103(l)(13) of title 26) for the relevant purposes described in such section; and
+
+    (ii) the failure to provide such approval for such disclosure will result in the Secretary being unable to calculate eligibility for such aid to such individual; and
+
+  (B) require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosure described in subparagraph (A)(i).
+
+(2) **Income-contingent and income-based repayment**
+
+  (A) *New applicants* — In the case of any written or electronic application by an individual for an income-contingent or income-based repayment plan for a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall—
+
+    (i) provide to such individuals the notification described in paragraph (1)(A)(i);
+
+    (ii) require, as a condition of eligibility for such repayment plan, that such individuals—
+
+      (I) affirmatively approve the disclosure described in paragraph (1)(A)(i) and agree that such approval shall serve as an ongoing approval of such disclosure until the date on which the individual elects to opt out of such disclosure under [section 1087e(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/8&num=0&edition=prelim) or the equivalent procedures established under [section 1098e(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/c/2/B&num=0&edition=prelim), as applicable; or
+
+      (II) provide such information as the Secretary may require to confirm the eligibility of such individual for such repayment plan.
+
+  (B) *Recertifications* — With respect to the first written or electronic recertification (after December 19, 2019) of an individual’s income or family size for purposes of an income-contingent or income-based repayment plan (entered into before December 19, 2019) for a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall meet the requirements of clauses (i) and (ii) of subparagraph (A) with respect to such recertification.
+
+(3) **Total and permanent disability** — In the case of any written or electronic application by an individual for a discharge of a loan under this subchapter based on total and permanent disability (within the meaning of [section 1087(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087/a&num=0&edition=prelim)) that requires income monitoring, the Secretary shall—
+
+  (A) provide to such individual the notification described in paragraph (1)(A)(i); and
+
+  (B) require, as a condition of eligibility for such discharge, that such individual—
+
+    (i) affirmatively approve the disclosure described in paragraph (1)(A)(i) and agree that such approval shall serve as an ongoing approval of such disclosure until the earlier of—
+
+      (I) the date on which the individual elects to opt out of such disclosure under [section 1087(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087/a/3/A&num=0&edition=prelim); or
+
+      (II) the first day on which such loan may no longer be reinstated; or
+
+    (ii) provide such information as the Secretary may require to confirm the eligibility of such individual for such discharge.
+
+**(b) Limit on authority** The Secretary shall only have authority to request that the Secretary of the Treasury disclose return information under section 6103(l)(13) of title 26 with respect to an individual if the Secretary of Education has obtained approval under subsection (a) for such disclosure.
 
 
 <a id="section-1099"></a>

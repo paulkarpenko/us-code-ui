@@ -1002,7 +1002,7 @@ Section, Pub. L. 108–136, div. C, title XXXI, § 3113, Nov. 24, 2003, 117 Stat
 Section was formerly classified to [section 7271d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7271d&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
-2018—Subsec. (a)(1). Pub. L. 115–232 inserted dash after “weapon, the Secretary”, designated remainder of existing provisions as subpar. (A) and substituted “; and” for period at end, and added subpar. (B).
+2018—Subsec. (a)(1). Pub. L. 115–232 inserted dash after “weapon, the Secretary”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 
 2013—Subsec. (d). Pub. L. 113–66 made technical amendment to reference in original act which appears in text as reference to “December 2, 2002” in two places.
 
@@ -1984,9 +1984,7 @@ Section was enacted as part of the Ronald W. Reagan National Defense Authorizati
 #### Amendments
 2018—Subsec. (f)(5). Pub. L. 115–232, § 3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows: “Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.”
 
-Subsec. (f)(6). Pub. L. 115–232, § 3114(1), (3), redesignated par. (7) as (6) and substituted “December 31, 2023” for “December 31, 2018”. Former par. (6) redesignated (5).
-
-Subsec. (f)(7). Pub. L. 115–232, § 3114(2), redesignated par. (7) as (6).
+Subsec. (f)(6), (7). Pub. L. 115–232, § 3114(2), (3), redesignated par. (7) as (6) and substituted “December 31, 2023” for “December 31, 2018”. Former par. (6) redesignated (5).
 
 2013—Subsec. (f)(2). Pub. L. 112–239, § 3118(a), amended par. (2) generally. Prior to amendment, par. (2) related to programs covered and listed certain international programs within the Global Threat Reduction Initiative.
 

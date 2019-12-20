@@ -1397,12 +1397,12 @@ Subsec. (d)(3). Pub. L. 99–509, § 7006(a)(4), added par. (3).
 
   (E) *Definition* — As used in this subsection, the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $117,000,000, in an appropriation measure or conference report (as the case may be) and specified to pay for grants to States under [section 506 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section506&num=0&edition=prelim).
 
-(2) **Report on 633(b) 1 of this title level** — Following any adjustment made under paragraph (1), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations pursuant to [section 633(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section633/b&num=0&edition=prelim) to carry out this subsection.
+(2) **Report on 633(b) level** — Following any adjustment made under paragraph (1), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations pursuant to [section 633(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section633/b&num=0&edition=prelim) to carry out this subsection.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (g)(1)(C), means Pub. L. 115–123, Feb 9, 2018, 132 Stat. 64, known as the Bipartisan Budget Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (g)(1)(C), is Pub. L. 115–123, Feb. 9, 2018, 132 Stat. 64, known as the Bipartisan Budget Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 #### Amendments
 2018—Subsec. (g). Pub. L. 115–123 added subsec. (g).

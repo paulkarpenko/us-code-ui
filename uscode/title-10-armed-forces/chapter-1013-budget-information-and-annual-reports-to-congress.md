@@ -38,7 +38,7 @@ source: >-
 
 (8) A statement of the current status of the compatibility of equipment between the Army reserve components and active forces of the Army, the effect of that level of incompatibility on combat effectiveness, and a plan to achieve full equipment compatibility.
 
-(9) An assessment of the extent to which the National Guard possesses the equipment required to perform the responsibilities of the National Guard pursuant to sections 251, 252, 253,11 See References in Text note below. 12304(b), and 12406 of this title in response to an emergency or major disaster (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim))). Such assessment shall—
+(9) An assessment of the extent to which the National Guard possesses the equipment required to perform the responsibilities of the National Guard pursuant to sections 251, 252, 253, 12304(b), and 12406 of this title in response to an emergency or major disaster (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim))). Such assessment shall—
 
   (A) identify any shortfall in equipment provided to the National Guard by the Department of Defense throughout the United States and the territories and possessions of the United States that is likely to affect the ability of the National Guard to perform such responsibilities;
 
@@ -75,9 +75,6 @@ source: >-
   (C) which has not been received by a National Guard unit as of the close of that fiscal year.
 
 ### Statutory Notes
-
-#### References in Text
-Sections 251, 252, and 253 of this title, referred to in subsec. (b)(9), were renumbered sections 240a, 240b, and 240c, respectively, of this title by Pub. L. 115–232, div. A, title X, § 1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).

@@ -36,7 +36,7 @@ In this chapter:
 
   (A) any agency or instrumentality of a foreign state (as defined in [section 1603 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1603&num=0&edition=prelim)) that has a purpose that is similar to the purpose of the Corporation as described in [section 9612(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/b&num=0&edition=prelim); or
 
-  (B) any international financial institution (as defined in section262r(c) of this title).
+  (B) any international financial institution (as defined in [section 262r(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -1139,7 +1139,7 @@ This subchapter, referred to in subsec. (c)(2), was in the original “this titl
 ### Statutory Notes
 
 #### References in Text
-The enactment of this Act, referred to in subsecs. (a)(1), (b)(1), and (c), means the enactment of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3186. For complete classification of this Act to the Code, see Short Title note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation, and Tables.
+The enactment of this Act, referred to in subsecs. (a)(1), (b)(1), and (c), means the enactment of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3186, known as the FAA Reauthorization Act of 2018. For complete classification of this Act to the Code, see Short Title note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation, and Tables.
 
 This chapter, referred to in subsecs. (b)(2), (d), and (e)(2), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 

@@ -507,7 +507,7 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under [section 797 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-797).
 
 #### Applicability of 2018 Amendment
-Pub. L. 115–325, title II, § 201(b), Dec. 18, 2018, 132 Stat. 4459, provided that: “The amendment made by subsection (a) shall not affect— “(1) any preliminary permit or original license issued before the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017 [Dec. 18, 2018]; or “(2) an application for an original license, if the Commission has issued a notice accepting that application for filing pursuant to section 4.32(d) of title 18, Code of Federal Regulations (or successor regulations), before the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017.”
+Pub. L. 115–325, title II, § 201(b), Dec. 18, 2018, 132 Stat. 4459, provided that: “The amendment made by subsection (a) [amending this section] shall not affect— “(1) any preliminary permit or original license issued before the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017 [Dec. 18, 2018]; or “(2) an application for an original license, if the Commission has issued a notice accepting that application for filing pursuant to section 4.32(d) of title 18, Code of Federal Regulations (or successor regulations), before the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017.”
 
 #### Definition of Indian Tribe
 Pub. L. 115–325, title II, § 201(c), Dec. 18, 2018, 132 Stat. 4459, provided that: “For purposes of section 7(a) of the Federal Power Act ([16 U.S.C. 800(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section800/a&num=0&edition=prelim)) (as amended by subsection (a)), the term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).”
@@ -633,7 +633,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act, referred to in subsec. (j)(1), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (j)(1), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 #### Amendments
 1992—Subsec. (e)(1). Pub. L. 102–486, in introductory provisions, substituted “administration of this subchapter, including any reasonable and necessary costs incurred by Federal and State fish and wildlife agencies and other natural and cultural resource agencies in connection with studies or other reviews carried out by such agencies for purposes of administering their responsibilities under this subchapter;” for “administration of this subchapter;” and inserted “Provided, That, subject to annual appropriations Acts, the portion of such annual charges imposed by the Commission under this subsection to cover the reasonable and necessary costs of such agencies shall be available to such agencies (in addition to other funds appropriated for such purposes) solely for carrying out such studies and reviews and shall remain available until expended:” after “as conditions may require:”.
@@ -1056,7 +1056,7 @@ As originally enacted, this section contained the further proviso: “That secti
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 #### Prior Provisions
 A prior section 30 of act June 10, 1920, was classified to [section 791 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791), prior to repeal by act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.
@@ -1203,7 +1203,7 @@ Section applicable to licenses, permits, and exemptions without regard to when i
 #### References in Text
 The Endangered Species Act, referred to in subsec. (a)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 #### Amendments
 2005—Subsec. (a)(3)(C). Pub. L. 109–58, § 244(1), inserted “except as provided in subsection (j),” before “conditions”.
@@ -1344,7 +1344,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
 
 
 <a id="section-823f"></a>
@@ -1408,7 +1408,7 @@ The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (f)(2
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act, referred to in subsec. (c)(2), (3)(A), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (c)(2), (3)(A), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
@@ -1899,7 +1899,7 @@ For definitions of terms used in this section, see [section 2602 of this title](
 
   (A) sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $10,000,000;
 
-  (B) merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;
+  (B) merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;
 
   (C) purchase, acquire, or take any security with a value in excess of $10,000,000 of any other public utility; or
 
@@ -1932,13 +1932,6 @@ For definitions of terms used in this section, see [section 2602 of this title](
 **(b) Orders of Commission** The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(1)(B)
-Pub. L. 115–247, §§ 1, 3, Sept. 28, 2018, 132 Stat. 3152, provided that, effective 180 days after Sept. 28, 2018, subsection (a)(1) of this section is amended by striking subparagraph (B) and inserting the following:
-
-“(B) merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;”.
-
-See 2018 Amendment note below.
 
 #### References in Text
 The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim) and Tables.

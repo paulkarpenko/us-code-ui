@@ -291,7 +291,7 @@ For short title of this subchapter as the “Veterans’ Oral History Project Ac
 
 (2) to create a collection of the recordings obtained (including a catalog and index) which will be available for public use through the National Digital Library of the Library of Congress and such other methods as the Director considers appropriate to the extent feasible subject to available resources; and
 
-(3) to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary 11 So in original. Probably should be complementary. to the efforts described in paragraphs (1) and (2).
+(3) to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary 11 So in original. Probably should be “complementary”. to the efforts described in paragraphs (1) and (2).
 
 **(b) Use of and consultation with other entities** The Director may carry out the activities described in paragraphs (1) and (3) of subsection (a) through agreements and partnerships entered into with other government and private entities, and may otherwise consult with interested persons (within the limits of available resources) and develop appropriate guidelines and arrangements for soliciting, acquiring, and making available recordings under the program under this subchapter.
 

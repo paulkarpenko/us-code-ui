@@ -433,9 +433,6 @@ Subsec. (b)(3). Pub. L. 102–421, § 121(2), substituted “will prepare and su
 
 Subsec. (b)(6). Pub. L. 102–421, § 121(3), added par. (6).
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
@@ -645,9 +642,6 @@ Pub. L. 103–73, § 202, substituted “NTID” for “the Institute”.
 
 1992—Subsec. (c). Pub. L. 102–421, § 133, added subsec. (c).
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
@@ -718,9 +712,6 @@ Par. (3). Pub. L. 103–73, § 204(c)(3), amended par. (3) generally. Prior to a
 Par. (6). Pub. L. 103–73, § 204(c)(4), substituted “Program funds are” for “Program is”.
 
 1992—Pub. L. 102–421, § 134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -945,9 +936,6 @@ Another prior section 208 of Pub. L. 99–371 was classified to [section 4358 of
 
 Subsec. (b). Pub. L. 103–73, § 204(g)(2), struck out “the provisions of” after “inconsistent with”.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
@@ -1038,9 +1026,6 @@ Another prior section 210 of title II of Pub. L. 99–371, formerly title IV, §
 
 #### Amendments
 2008—Subsec. (b). Pub. L. 110–315 substituted “Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Education and the Workforce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate”.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).

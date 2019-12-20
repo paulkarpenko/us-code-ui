@@ -2,7 +2,7 @@
 title: 34
 heading: CRIME CONTROL AND LAW ENFORCEMENT
 positive_law: false
-sections: 738
+sections: 739
 chapters: 31
 ---
 # Title 34. CRIME CONTROL AND LAW ENFORCEMENT

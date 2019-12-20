@@ -41,7 +41,7 @@ Section was formerly classified to [section 13001 of Title 42](https://uscode.ho
 
 Par. (6). Pub. L. 115–424, § 2(a)(2), inserted “improve positive outcomes for the child,” before “and increase” and substituted semicolon for “; and” at end.
 
-Par. (7). Pub. L. 115–424, § 2(a)(3), substituted “have expanded dramatically throughout the United States; and” for “could be duplicated in many jurisdictions throughout the country.”.
+Par. (7). Pub. L. 115–424, § 2(a)(3), substituted “have expanded dramatically throughout the United States; and” for “could be duplicated in many jurisdictions throughout the country.”
 
 Par. (8). Pub. L. 115–424, § 2(a)(4), added par. (8).
 
@@ -233,7 +233,7 @@ Subsec. (b)(1). Pub. L. 115–424, § 2(c)(2)(A)(i), struck out “, in coordina
 
 Subsec. (b)(1)(B). Pub. L. 115–424, § 2(c)(2)(A)(iii), substituted “multidisciplinary team investigation, trauma-informed interventions, and evidence-informed treatment,” for “the prevention, judicial handling, and treatment of child abuse and neglect; and”.
 
-Subsec. (b)(1)(C). Pub. L. 115–424, § 2(c)(2)(A)(ii), (iv), struck out subpar. (C), which read as follows: “fund the establishment of freestanding facilities in multidisciplinary programs within communities that have yet to establish such facilities,”.
+Subsec. (b)(1)(C). Pub. L. 115–424, § 2(c)(2)(A)(ii), (iv), struck out subpar. (C) which read as follows: “fund the establishment of freestanding facilities in multidisciplinary programs within communities that have yet to establish such facilities,”.
 
 Subsec. (b)(2)(A). Pub. L. 115–424, § 2(c)(2)(B)(i)(I), substituted “communities, local children’s advocacy centers, multidisciplinary teams, and State chapters” for “communities” in introductory provisions.
 
@@ -241,11 +241,11 @@ Subsec. (b)(2)(A)(i). Pub. L. 115–424, § 2(c)(2)(B)(i)(II), inserted “and e
 
 Subsec. (b)(2)(A)(ii). Pub. L. 115–424, § 2(c)(2)(B)(i)(IV), added cl. (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (b)(2)(A)(iii). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), (V), redesignated cl. (ii) as cl. (iii) and substituted “child-friendly facilities for the investigation of, assessment of, and intervention in abuse” for “a freestanding facility where interviews of and services for abused children can be provided”. Former cl. (iii) redesignated (iv).
+Subsec. (b)(2)(A)(iii). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), (V), redesignated cl. (ii) as (iii) and substituted “child-friendly facilities for the investigation of, assessment of, and intervention in abuse” for “a freestanding facility where interviews of and services for abused children can be provided”. Former cl. (iii) redesignated (iv).
 
 Subsec. (b)(2)(A)(iv). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), (VI), redesignated cl. (iii) as (iv) and substituted “duplicative” for “multiple”. Former cl. (iv) redesignated (v).
 
-Subsec. (b)(2)(A)(v) to (xi). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), redesignated cls. (iv) to (x) as cls. (v) to (xi), respectively.
+Subsec. (b)(2)(A)(v) to (xi). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), redesignated cls. (iv) to (x) as (v) to (xi), respectively.
 
 Subsec. (b)(2)(B). Pub. L. 115–424, § 2(c)(2)(B)(ii), inserted “and interested communities” after “advocacy centers”.
 
@@ -255,15 +255,15 @@ Subsec. (c)(3)(A)(ii). Pub. L. 115–424, § 2(c)(3)(B), substituted “children
 
 Subsec. (c)(4)(B). Pub. L. 115–424, § 2(c)(3)(C)(i), struck out “, in coordination with the Director,” after “Administrator” in introductory provisions.
 
-Subsec. (c)(4)(B)(iii) to (v). Pub. L. 115–424, § 2(c)(3)(C)(ii), (iii), redesignated cls. (iv) and (v) as (iii) and (iv), respectively, and struck our cl. (iii), which read as follows: “carry out the objectives developed by the board under subsection (e)(2)(A);”.
+Subsec. (c)(4)(B)(iii) to (v). Pub. L. 115–424, § 2(c)(3)(C)(ii), (iii), redesignated cls. (iv) and (v) as (iii) and (iv), respectively, and struck out former cl. (iii) which read as follows: “carry out the objectives developed by the board under subsection (e)(2)(A);”.
 
 Subsec. (d)(1). Pub. L. 115–424, § 2(c)(4)(A), struck out “, in coordination with the Director,” after “Administrator”.
 
 Subsec. (d)(2). Pub. L. 115–424, § 2(c)(4)(B), struck out “and the Director” after “Administrator” in intoductory provisions.
 
-Subsec. (d)(3). Pub. L. 115–424, § 2(c)(4)(C), struck out subpar. (A) designation, heading and text and struck out subpar. (B) designation and heading “(B) Solicitation of new proposals”. Prior to amendment, subpar. (A) read as follows: “(A) Failure to implement program activities—If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.”
+Subsec. (d)(3). Pub. L. 115–424, § 2(c)(4)(C), struck out subpar. (B) designation and heading before “Upon discontinuation” and struck out subpar. (A). Prior to amendment, text of subpar. (A) read as follows: “If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.”
 
-Subsecs. (e), (f). Pub. L. 115–424, § 2(c)(5), struck out subsecs. (e) and (f) which related to the children’s advocacy advisory board and the reporting requirements detailing the progress of regional children’s advocacy program activities, respectively.
+Subsecs. (e), (f). Pub. L. 115–424, § 2(c)(5), struck out subsecs. (e) and (f) which related to the children’s advocacy advisory board and annual report on the progress of regional children’s advocacy program activities, respectively.
 
 2003—Subsec. (c)(4). Pub. L. 108–21, § 381(a)(1), struck out “and” at end of cl. (ii) of subpar. (B), substituted “board” for “Board” in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
 
@@ -281,7 +281,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 (2) promote the effective delivery of the evidence-informed Children’s Advocacy Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding.
 
-**(b) Direct services for child victims of a severe form of trafficking in persons and victims of human trafficking and child pornography** The Administrator, in coordination with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of a severe form of trafficking (as defined in [section 7102(9)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim) who were under the age of 18 at the time of the offense and victims of human trafficking and child pornography.
+**(b) Direct services for child victims of a severe form of trafficking in persons and victims of human trafficking and child pornography** The Administrator, in coordination with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of a severe form of trafficking (as defined in section 7102(9)(A) 11 See References in Text note below. of title 22) who were under the age of 18 at the time of the offense and victims of human trafficking and child pornography.
 
 **(c) Grant criteria**
 
@@ -315,6 +315,9 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 ### Statutory Notes
 
+#### References in Text
+[Section 7102(9)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 7102(11)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/11/A&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+
 #### Codification
 Section was formerly classified to [section 13002 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
@@ -322,7 +325,7 @@ Section was formerly classified to [section 13002 of Title 42](https://uscode.ho
 A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is classified to [section 20306 of this title](./chapter-203-victims-of-child-abuse.md#section-20306).
 
 #### Amendments
-2019—Subsec. (a). Pub. L. 115–424, § 2(d)(1), added subsec. (a) and struck out former subsec. (a), which read as follows: “The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.”
+2019—Subsec. (a). Pub. L. 115–424, § 2(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.”
 
 Subsec. (b). Pub. L. 115–424, § 2(d)(2), in heading, inserted “human trafficking and” before “child pornography”, and in text, struck out “with the Director and” after “coordination” and inserted “human trafficking and” before “child pornography”.
 
@@ -338,7 +341,7 @@ Subsec. (c)(2)(C). Pub. L. 115–424, § 2(d)(3)(B)(iii), substituted “child a
 
 Subsec. (c)(2)(D). Pub. L. 115–424, § 2(d)(3)(B)(iv), substituted “forensic” for “investigative” and “child protective service” for “social service”.
 
-Subsec. (c)(2)(E). Pub. L. 115–424, § 2(d)(3)(B)(v)–(vii), redesignated subpar. (F) as (E), substituted “children’s advocacy center or an agency with which there is a linkage agreement regarding the delivery of multidisciplinary child abuse investigation, prosecution, and intervention services” for “counseling center”, and struck out former subpar. (E), which read as follows: “A requirement that, to the extent practicable, the same agency representative who conducts an initial interview conduct all subsequent interviews.”.
+Subsec. (c)(2)(E). Pub. L. 115–424, § 2(d)(3)(B)(v)–(vii), redesignated subpar. (F) as (E), substituted “children’s advocacy center or an agency with which there is a linkage agreement regarding the delivery of multidisciplinary child abuse investigation, prosecution, and intervention services” for “counseling center”, and struck out former subpar. (E) which read as follows: “A requirement that, to the extent practicable, the same agency representative who conducts an initial interview conduct all subsequent interviews.”
 
 Subsec. (c)(2)(F). Pub. L. 115–424, § 2(d)(3)(B)(vi), (viii), redesignated subpar. (G) as (F) and substituted “eliminate duplicative forensic interviews with a child victim” for “minimize the number of interviews that a child victim must attend”. Former subpar. (F) redesignated (E).
 
@@ -352,7 +355,7 @@ Subsec. (d). Pub. L. 115–424, § 2(d)(4), substituted “the Administrator” 
 
 Subsec. (f). Pub. L. 115–424, § 2(d)(5), added subsec. (f).
 
-2018—Subsec. (b). Pub. L. 115–392 inserted “child victims of a severe form of trafficking in persons and” before “victims of child pornography” in heading and “victims of a severe form of trafficking (as defined in [section 7102(9)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim) who were under the age of 18 at the time of the offense and” before “victims of child pornography” in text.
+2018—Subsec. (b). Pub. L. 115–392 inserted “child victims of a severe form of trafficking in persons and” before “victims of child pornography” in heading and “victims of a severe form of trafficking (as defined in [section 7102(9)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim)) who were under the age of 18 at the time of the offense and” before “victims of child pornography” in text.
 
 2015—Subsecs. (b) to (e). Pub. L. 114–22 added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
@@ -411,9 +414,9 @@ This title, referred to in subsec. (c)(2), means title II of Pub. L. 101–647, 
 Section was formerly classified to [section 13003 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13003&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
-2019—Subsec. (a). Pub. L. 115–424, § 2(e)(1), substituted “to—” and pars. (1) and (2) for “to attorneys and others instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases.”.
+2019—Subsec. (a). Pub. L. 115–424, § 2(e)(1), substituted “to—” and pars. (1) and (2) for “to attorneys and others instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases.”
 
-Subsec. (b). Pub. L. 115–424, § 2(e)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows “An organization to which a grant is made pursuant to subsection (a) shall be one that has, or is affiliated with one that has, broad membership among attorneys who prosecute criminal cases in State courts and has demonstrated experience in providing training and technical assistance for prosecutors.”.
+Subsec. (b). Pub. L. 115–424, § 2(e)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “An organization to which a grant is made pursuant to subsection (a) shall be one that has, or is affiliated with one that has, broad membership among attorneys who prosecute criminal cases in State courts and has demonstrated experience in providing training and technical assistance for prosecutors.”
 
 Subsec. (c)(1). Pub. L. 115–424, § 2(h)(3), made technical amendment to reference in original act which appears in text as reference to sections 11183 and 11186 of this title.
 

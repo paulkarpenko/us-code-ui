@@ -23,7 +23,7 @@ In this chapter:
 
   (B) *Submission to Congress* — Any submission to Congress shall mean submission to the appropriate congressional committees.
 
-(3) **Demand reduction** — The term “demand reduction” means any activity conducted by a National Drug Control Program Agency, other than an enforcement activity, that is intended to reduce or prevent the use of drugs or support, expand, or provide treatment and recovery efforts, including—
+(3) **Demand reduction** — The term “demand reduction” means any activity conducted by a National Drug Control Program agency, other than an enforcement activity, that is intended to reduce or prevent the use of drugs or support, expand, or provide treatment and recovery efforts, including—
 
   (A) education about the dangers of illicit drug use;
 
@@ -63,9 +63,9 @@ In this chapter:
 
 (9) **Law enforcement** — The term “law enforcement” or “drug law enforcement” means all efforts by a Federal, State, local, or Tribal government agency to enforce the drug laws of the United States or any State, including investigation, arrest, prosecution, and incarceration or other punishments or penalties.
 
-(10) **National Drug Control Program** — The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
+(10) **National Drug Control Program** — The term “National Drug Control Program” means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal 11 So in original. Probably should be “Tribal”. affairs.
 
-(11) **National Drug Control Program Agency** — The term “National Drug Control Program Agency” 11 See References in Text note below. means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
+(11) **National Drug Control Program agency** — The term “National Drug Control Program agency” 22 See References in Text note below. means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
 
 (12) **National Drug Control Strategy** — The term “National Drug Control Strategy” or “Strategy” means the strategy developed and submitted to Congress under [section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705), including any report, plan, or strategy required to be incorporated into or issued concurrently with such strategy.
 
@@ -73,15 +73,15 @@ In this chapter:
 
 (14) **Office** — The term “Office” means the Office of National Drug Control Policy established under [section 1702(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1702/a&num=0&edition=prelim).
 
-(15) **State, local, and tribal affairs** — The term “State, local, and tribal affairs” means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
+(15) **State, local, and Tribal affairs** — The term “State, local, and Tribal affairs” means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
 
-  (A) coordination and enhancement of Federal, State, local, and tribal law enforcement drug control efforts;
+  (A) coordination and enhancement of Federal, State, local, and Tribal law enforcement drug control efforts;
 
-  (B) coordination and enhancement of efforts among National Drug Control Program agencies and State, local, and tribal demand reduction and supply reduction agencies;
+  (B) coordination and enhancement of efforts among National Drug Control Program agencies and State, local, and Tribal demand reduction and supply reduction agencies;
 
-  (C) coordination and enhancement of Federal, State, local, and tribal law enforcement initiatives to gather, analyze, and disseminate information and law enforcement intelligence relating to drug control among domestic law enforcement agencies; and
+  (C) coordination and enhancement of Federal, State, local, and Tribal law enforcement initiatives to gather, analyze, and disseminate information and law enforcement intelligence relating to drug control among domestic law enforcement agencies; and
 
-  (D) other coordinated and joint initiatives among Federal, State, local, and tribal agencies to promote comprehensive drug control strategies designed to reduce the demand for, and the availability of, illegal drugs.
+  (D) other coordinated and joint initiatives among Federal, State, local, and Tribal agencies to promote comprehensive drug control strategies designed to reduce the demand for, and the availability of, illegal drugs.
 
 (16) **Substance use disorder treatment** — The term “substance use disorder treatment” means an evidence-based, professionally directed, deliberate, and planned regimen including evaluation, observation, medical monitoring, and rehabilitative services and interventions such as pharmacotherapy, behavioral therapy, and individual and group counseling, on an inpatient or outpatient basis, to help patients with substance use disorder reach recovery.
 
@@ -112,9 +112,11 @@ In this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out below and Tables.
 
-The term “National Drug Control Program Agency”, referred to in par. (11), appeared, prior to amendment by Pub. L. 115–271, as the term “National Drug Control Program agency”. The words “Agency” and “agency”, in singular and plural, are both used throughout this chapter.
-
 #### Amendments
+2019—Pars. (3), (11). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+
+Par. (15). Pub. L. 116–74, § 2(a)(3), substituted “Tribal” for “tribal” wherever appearing.
+
 2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
 Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out below.
@@ -175,6 +177,12 @@ Pars. (12), (13). Pub. L. 109–469, § 101(g), added pars. (12) and (13).
 
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–74, § 1, Nov. 27, 2019, 133 Stat. 1155, provided that: “This Act [see Tables for classification] may be cited as the ‘ONDCP Technical Corrections Act of 2019’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–271, title VIII, § 8201, Oct. 24, 2018, 132 Stat. 4110, provided that: “This subtitle [subtitle K (§§ 8201–8222) of title VIII of Pub. L. 115–271, see Tables for classification] may be cited as the ‘Substance Abuse Prevention Act of 2018’.”
 
@@ -221,17 +229,17 @@ Sec. 3. Participation in the World Anti-Doping Agency. (a) As part of my Adminis
 ## § 1702. Office of National Drug Control Policy
 **(a) Establishment of Office** There is established in the Executive Office of the President an Office of National Drug Control Policy, which shall—
 
-(1) lead the national drug control effort, including coordinating with the National Drug Control Program Agencies;
+(1) lead the national drug control effort, including coordinating with the National Drug Control Program agencies;
 
 (2) coordinate and oversee the implementation of the national drug control policy, including the National Drug Control Strategy;
 
 (3) assess and certify the adequacy of National Drug Control Programs and the budget for those programs;
 
-(4) evaluate the effectiveness of national drug control policy efforts, including the National Drug Control Program Agencies’ program, 11 So in original. Probably should be “programs,”. by developing and applying specific goals and performance measurements and monitoring the agencies’ program-level spending;
+(4) evaluate the effectiveness of national drug control policy efforts, including the National Drug Control Program Agencies’ 11 So in original. Probably should be “agencies’ ”. programs, by developing and applying specific goals and performance measurements and monitoring the agencies’ program-level spending;
 
 (5) identify and respond to emerging drug threats related to illicit drug use;
 
-(6) administer the Drug-Free Communities Program, the High-Intensity 22 So in original. Probably should be “High Intensity”. Drug Trafficking Areas Program, and other grant programs directly authorized to be administered by the Office in furtherance of the National Drug Control Strategy; and
+(6) administer the Drug-Free Communities Program, the High Intensity Drug Trafficking Areas Program, and other grant programs directly authorized to be administered by the Office in furtherance of the National Drug Control Strategy; and
 
 (7) facilitate broad-scale information sharing and data standardization among Federal, State, and local entities to support the national drug control efforts.
 
@@ -253,9 +261,9 @@ Sec. 3. Participation in the World Anti-Doping Agency. (a) As part of my Adminis
 
 (4) **Ethics guidelines** — The Director shall establish written guidelines setting forth the criteria to be used in determining whether a gift or donation should be declined under this subsection because the acceptance of the gift or donation would—
 
-  (A) reflect unfavorably upon the ability of the Director or the Office, or any employee of the Office, to carry out responsibilities or official duties under this chapter 33 See References in Text note below. in a fair and objective manner; or
+  (A) reflect unfavorably upon the ability of the Director or the Office, or any employee of the Office, to carry out responsibilities or official duties under this chapter in a fair and objective manner; or
 
-  (B) compromise the integrity or the appearance of integrity of programs or services provided under this chapter 3 or of any official involved in those programs or services.
+  (B) compromise the integrity or the appearance of integrity of programs or services provided under this chapter or of any official involved in those programs or services.
 
 (5) **Registry of gifts** — The Director shall maintain a list of—
 
@@ -268,9 +276,17 @@ Sec. 3. Participation in the World Anti-Doping Agency. (a) As part of my Adminis
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (d)(4), was so in the original, but probably should have been a reference to “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
+This chapter, referred to in subsec. (d)(4), was in the original a reference to “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies”.
+
+Subsec. (a)(4). Pub. L. 116–74, § 2(a)(4)(A)(i), substituted “programs,” for “program,”.
+
+Subsec. (a)(6). Pub. L. 116–74, § 2(a)(4)(A)(ii), substituted “High Intensity” for “High-Intensity”.
+
+Subsec. (d)(4). Pub. L. 116–74, § 2(a)(4)(B), made technical amendment to reference in original act which appears in text as reference to this chapter in subpars. (A) and (B).
+
 2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
 Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701).
@@ -298,9 +314,11 @@ Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior 
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
 #### Gifts to Office of National Drug Control Policy
-Pub. L. 115–141, div. E, title II, Mar. 23, 2018, 132 Stat. 549, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 116–6, div. D, title II, Feb. 15, 2019, 133 Stat. 152, provided that: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. E, title II, Mar. 23, 2018, 132 Stat. 549.
 
 Pub. L. 115–31, div. E, title II, May 5, 2017, 131 Stat. 340.
 
@@ -384,7 +402,7 @@ William J. Clinton.
 
   (C) *Coordinators* — The following coordinators shall be appointed by the Director:
 
-    (i) Performance Budget Coordinator, as described in subsection (c)(4).11 So in original. Probably should be “(c)(5).”
+    (i) Performance Budget Coordinator, as described in subsection (c)(5).
 
     (ii) Interdiction Coordinator, as described in [section 1710 of this title](./chapter-022-national-drug-control-policy.md#section-1710).
 
@@ -394,7 +412,7 @@ William J. Clinton.
 
     (v) Demand Reduction Coordinator, as described in subparagraph (D).
 
-  (D) *Demand Reduction Coordinator* — The Director shall designate or appoint a United States Demand Reduction Coordinator to be responsible for the activities described in [section 1701(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1701/3&num=0&edition=prelim). The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+  (D) *Demand Reduction Coordinator* — The Director shall designate or appoint a United States Demand Reduction Coordinator to be responsible for the activities described in [section 1701(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1701/3&num=0&edition=prelim). For purposes of carrying out the previous sentence, the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
 
 (2) **Duties of Deputy Director of National Drug Control Policy** — The Deputy Director of National Drug Control Policy shall—
 
@@ -414,7 +432,7 @@ William J. Clinton.
 
 (1) shall assist the President in the establishment of policies, goals, objectives, and priorities for the National Drug Control Program;
 
-(2) shall promulgate the National Drug Control Strategy under [section 1705(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1705/a&num=0&edition=prelim) and each report under section 1705(b) 22 See References in Text note below. of this title in accordance with [section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705);
+(2) shall promulgate the National Drug Control Strategy under [section 1705(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1705/a&num=0&edition=prelim) and each report under section 1705(b) 11 See References in Text note below. of this title in accordance with [section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705);
 
 (3) shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Program agency heads with respect to implementation of Federal counter-drug programs;
 
@@ -450,7 +468,7 @@ William J. Clinton.
 
   (A) each of the evaluations received by the Director under [section 1705(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1705/g/2&num=0&edition=prelim); and
 
-  (B) the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) 2 of this title;
+  (B) the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) 22 Probably should be “1705(h)”. of this title;
 
 (15) shall ensure that drug prevention and drug treatment research and information is effectively disseminated by National Drug Control Program agencies to State and local governments and nongovernmental entities involved in demand reduction by—
 
@@ -480,9 +498,9 @@ William J. Clinton.
 
     (i) State and local governments;
 
-    (ii) National Drug Control Program Agencies;
+    (ii) National Drug Control Program agencies;
 
-    (iii) each committee, working group, council, or other entity established under this chapter,2 as appropriate;
+    (iii) each committee, working group, council, or other entity established under this chapter, as appropriate;
 
     (iv) the public;
 
@@ -500,7 +518,7 @@ William J. Clinton.
 
 **(c) National Drug Control Program budget**
 
-(1) **Responsibilities of National Drug Control Program Agencies**
+(1) **Responsibilities of National Drug Control Program agencies**
 
   (A) *In general* — For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategy shall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
 
@@ -514,7 +532,7 @@ William J. Clinton.
 
     (i) the funding level for each National Drug Control Program agency; and
 
-    (ii) alternative funding structures that could improve progress on achieving the goals fo 33 So in original. the National Drug Control Strategy; and
+    (ii) alternative funding structures that could improve progress on achieving the goals of the National Drug Control Strategy; and
 
   (B) submit the consolidated budget proposal to the President and Congress.
 
@@ -558,9 +576,9 @@ William J. Clinton.
 
     (ii) *Certification* — The Director shall—
 
-      (I) review each budget submission submitted under subparagraph (A); 44 So in original. Probably should be “clause (i);”.
+      (I) review each budget submission submitted under clause (i);
 
-      (II) based on the review under clause (i),55 So in original. Probably should be “subclause (I),”. make a determination as to whether the budget submission of a National Drug Control Program agency includes the funding levels and initiatives described in subparagraph (B); and
+      (II) based on the review under subclause (I), make a determination as to whether the budget submission of a National Drug Control Program agency includes the funding levels and initiatives described in subparagraph (B); and
 
       (III) submit to the appropriate congressional committees—
 
@@ -584,13 +602,13 @@ William J. Clinton.
 
   (A) *Designation* — The Director shall designate or appoint a United States Performance-Budget Coordinator to—
 
-    (i) ensure the Director has sufficient information necessary to analyze the performance of each National Drug Control Program Agency, the impact Federal funding has had on the goals in the Strategy, and the likely contributions to the goals of the Strategy based on funding levels of each National Drug Control Program Agency, to make an independent assessment of the budget request of each agency under this subsection;
+    (i) ensure the Director has sufficient information necessary to analyze the performance of each National Drug Control Program agency, the impact Federal funding has had on the goals in the Strategy, and the likely contributions to the goals of the Strategy based on funding levels of each National Drug Control Program agency, to make an independent assessment of the budget request of each agency under this subsection;
 
     (ii) advise the Director on agency budgets, performance measures and targets, and additional data and research needed to make informed policy decisions under this section and [section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705); and
 
     (iii) other duties as may be determined by the Director with respect to measuring or assessing performance or agency budgets.
 
-  (B) *Determination of position* — The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+  (B) *Determination of position* — For purposes of carrying out subparagraph (A), the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
 
 (6) **Budget estimate or request submission to Congress** — Whenever the Director submits any budget estimate or request to the President or the Office of Management and Budget, the Director shall concurrently transmit to the appropriate congressional committees a detailed statement of the budgetary needs of the Office to execute its mission based on the good-faith assessment of the Director.
 
@@ -630,19 +648,19 @@ William J. Clinton.
 
     (ii) annually submit to the appropriate congressional committees a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) during the 12-month period preceding the date on which the report is submitted; and
 
-    (iii) 66 So in original. Probably should be designated as subpar. (F). funds may only be used for—
+  (F) funds may only be used for—
 
-      (I) expansion of demand reduction activities;
+    (i) expansion of demand reduction activities;
 
-      (II) interdiction of illicit drugs on the high seas, in United States territorial waters, and at United States ports of entry by officers and employees of National Drug Control Program Agencies and domestic and foreign law enforcement officers;
+    (ii) interdiction of illicit drugs on the high seas, in United States territorial waters, and at United States ports of entry by officers and employees of National Drug Control Program agencies and domestic and foreign law enforcement officers;
 
-      (III) accurate assessment and monitoring of international drug production and interdiction programs and policies;
+    (iii) accurate assessment and monitoring of international drug production and interdiction programs and policies;
 
-      (IV) activities to facilitate and enhance the sharing of domestic and foreign intelligence information among National Drug Control Program Agencies related to the production and trafficking of drugs in the United States and foreign countries; and
+    (iv) activities to facilitate and enhance the sharing of domestic and foreign intelligence information among National Drug Control Program agencies related to the production and trafficking of drugs in the United States and foreign countries; and
 
-      (V) research related to any of these activities.77 So in original. The period probably should be a semicolon.
+    (v) research related to any of these activities;
 
-(9) issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);
+(9) issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5); and
 
 (10) participate in the drug certification process pursuant to [section 2291j of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j&num=0&edition=prelim) and [section 2291j–1 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j–1&num=0&edition=prelim).
 
@@ -706,16 +724,16 @@ William J. Clinton.
 
 (2) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $1,250,000 for each of fiscal years 2018 through 2023.
 
-**(j) State, Local, and Tribal Affairs Coordinator** The Director shall designate or appoint a United States State, Local, and Tribal Affairs Coordinator to perform the duties of the Office outlined in this section and 1705 88 So in original. Probably should be preceded by “section”. of this title and such other duties as may be determined by the Director with respect to coordination of drug control efforts between agencies and State, local, and Tribal governments. The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+**(j) State, Local, and Tribal Affairs Coordinator** The Director shall designate or appoint a United States State, Local, and Tribal Affairs Coordinator to perform the duties of the Office outlined in this section and [section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705) and such other duties as may be determined by the Director with respect to coordination of drug control efforts between agencies and State, local, and Tribal governments. For purposes of carrying out the previous sentence, the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
 
 **(k) Harm reduction programs** When developing the national drug control policy, any policy of the Director, including policies relating to syringe exchange programs for intravenous drug users, shall be based on the best available medical and scientific evidence regarding the effectiveness of such policy in promoting individual health and preventing the spread of infectious disease and the impact of such policy on drug addiction and use. In making any policy relating to harm reduction programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705), referred to in subsec. (b)(2), (14)(B), was amended generally by Pub. L. 115–271, title VIII, § 8221(a), Oct. 24, 2018, 132 Stat. 4134, and, as so amended, subsecs. (b) and (c) of section 1705 do not respectively relate to reports or performance measures for National Drug Control Program Agencies.
+[Section 1705 of this title](./chapter-022-national-drug-control-policy.md#section-1705), referred to in subsec. (b)(2), (14)(B), was amended by Pub. L. 115–271, title VIII, § 8221(a), Oct. 24, 2018, 132 Stat. 4134. Subsec. (b) of section 1705 no longer relates to reports for National Drug Control Program Agencies, but similar provisions can be found elsewhere in that section. Subsec. (c) of section 1705 was redesignated (h).
 
-This chapter, referred to in subsec. (b)(21)(A)(iii), was so in the original, but probably should have been a reference to “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
+This chapter, referred to in subsec. (b)(21)(A)(iii), was in the original a reference to “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
 
 The General Schedule, referred to in subsecs. (c)(5)(B) and (j), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
@@ -731,6 +749,32 @@ The Central Intelligence Agency Act of 1949, referred to in subsec. (h), is act 
 In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2019—Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
+
+Subsec. (a)(1)(C)(i). Pub. L. 116–74, § 2(a)(5)(A)(i)(I), substituted “subsection (c)(5)” for “subsection (c)(4)”.
+
+Subsec. (a)(1)(C)(iv). Pub. L. 116–74, § 2(a)(5)(A)(i)(II), made technical amendment to reference in original act which appears in text as reference to subsection (j).
+
+Subsec. (a)(1)(D). Pub. L. 116–74, § 2(a)(5)(A)(ii), substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “or an appointee” for “or a career appointee”.
+
+Subsec. (b)(21)(A)(iii). Pub. L. 116–74, § 2(a)(5)(B), made technical amendment to reference in original act which appears in text as reference to this chapter.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 116–74, § 2(a)(5)(C)(i), substituted “of” for “fo”.
+
+Subsec. (c)(3)(E)(ii)(I). Pub. L. 116–74, § 2(a)(5)(C)(ii)(I), substituted “clause (i)” for “subparagraph (A)”.
+
+Subsec. (c)(3)(E)(ii)(II). Pub. L. 116–74, § 2(a)(5)(C)(ii)(II), substituted “subclause (I)” for “clause (i)”.
+
+Subsec. (c)(5)(A)(i). Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” in two places.
+
+Subsec. (c)(5)(B). Pub. L. 116–74, § 2(a)(5)(C)(iii), substituted “For purposes of carrying out subparagraph (A), the Director shall designate or appoint an” for ‘The Director shall determine whether the coordinator position is a noncareer”.
+
+Subsec. (d)(8)(F). Pub. L. 116–74, § 2(a)(5)(D)(i), redesignated subpar. (E)(iii) as subpar. (F), realigned margins, and substituted “activities;” for “activities.” in cl. (v)
+
+Subsec. (d)(9). Pub. L. 116–74, § 2(a)(5)(D)(ii), made technical amendment to reference in original act which appears in text as reference to subsection (f)(5), and inserted “and” at end.
+
+Subsec. (j). Pub. L. 116–74, § 2(a)(5)(E), substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “or an appointee” for “or a career appointee”, and inserted “section” before “1705”.
+
 2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
 Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701).
@@ -898,7 +942,7 @@ William J. Clinton.
 
 
 <a id="section-1704"></a>
-## § 1704. Coordination with National Drug Control Program Agencies in demand reduction, supply reduction, and State and local affairs
+## § 1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs
 **(a) Access to information**
 
 (1) **In general** — Upon the request of the Director, the head of any National Drug Control Program agency shall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
@@ -947,7 +991,7 @@ William J. Clinton.
 
 **(d) Accounting of funds expended**
 
-(1) **In general** — Not later than February 1 of each year, in accordance with guidance issued by the Director, the head of each National Drug Control Program Agency shall submit to the Director a detailed accounting of all funds expended by the agency for National Drug Control Program activities during the previous fiscal year and shall ensure such detailed accounting is authenticated for the previous fiscal year by the Inspector General for such agency prior to the submission to the Director as frequently as determined by the Inspector General but not less frequently that 11 So in original. Probably should be “than”. every 3 years.
+(1) **In general** — Not later than February 1 of each year, in accordance with guidance issued by the Director, the head of each National Drug Control Program agency shall submit to the Director a detailed accounting of all funds expended by the agency for National Drug Control Program activities during the previous fiscal year and shall ensure such detailed accounting is authenticated for the previous fiscal year by the Inspector General for such agency prior to the submission to the Director as frequently as determined by the Inspector General but not less frequently than every 3 years.
 
 (2) **Submission to Congress** — The Director shall submit to Congress not later than April 1 of each year the information submitted to the Director under paragraph (1).
 
@@ -963,15 +1007,15 @@ William J. Clinton.
 
   (A) ensure the public has electronic access to information identifying:
 
-    (i) all drug control grants and pertinent identifying information for each grant; 22 So in original. Probably should be followed by “and”.
+    (i) all drug control grants and pertinent identifying information for each grant; and
 
     (ii) any available performance metrics, evaluations, or other information indicating the effectiveness of such programs;
 
   (B) facilitate efforts to identify duplication, overlap, or gaps in funding to provide increased accountability of Federally-funded grants for substance use disorder treatment, prevention, and enforcement; and
 
-  (C) identify barriers in the grant application process impediments that applicants currently have in the grant application process 33 So in original. with applicable agencies.
+  (C) identify barriers that may impede applicants in the grant application process.
 
-(2) **National Drug Control 44 So in original. Probably should be followed by “Program”. Agencies** — The head of each National Drug Control Program Agency shall provide to the Director a complete list of all drug control program grant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
+(2) **National Drug Control Program Agencies** — The head of each National Drug Control Program agency shall provide to the Director a complete list of all drug control program grant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
 
 (3) **Updating existing systems** — The Director may meet the requirements of this subsection by utilizing, updating, or improving existing Federal information systems to ensure they meet the requirements of this subsection.
 
@@ -983,6 +1027,16 @@ William J. Clinton.
 The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2019—Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+
+Subsec. (d)(1). Pub. L. 116–74, § 2(a)(6)(A), substituted “than every” for “that every”.
+
+Subsec. (f)(1)(A)(i). Pub. L. 116–74, § 2(a)(6)(B)(i)(I), substituted “grant; and” for “grant;”.
+
+Subsec. (f)(1)(C). Pub. L. 116–74, § 2(a)(6)(B)(i)(II), inserted “that may impede applicants” after “barriers” and struck out “impediments that applicants currently have in the grant application process with applicable agencies” before period at end.
+
+Subsec. (f)(2). Pub. L. 116–74, § 2(a)(6)(B)(ii), substituted “Drug Control Program” for “Drug Control” in heading.
+
 2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
 Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701).
@@ -1068,7 +1122,7 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
   (F) A description of how each goal established under subparagraph (B) will be achieved, including for each goal—
 
-    (i) a list of each relevant National Drug Control Program Agency and each such agency’s related programs, activities, and available assets and the role of each such program, activity, and asset in achieving such goal;
+    (i) a list of each relevant National Drug Control Program agency and each such agency’s related programs, activities, and available assets and the role of each such program, activity, and asset in achieving such goal;
 
     (ii) a list of relevant stakeholders and each such stakeholder’s role in achieving such goal;
 
@@ -1078,9 +1132,9 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
     (v) a description of the Office’s role in facilitating the achievement of such goal.
 
-  (G) For each year covered by the Strategy, a performance evaluation plan for each goal established under subparagraph (B) for each National Drug Control Program Agency, including—
+  (G) For each year covered by the Strategy, a performance evaluation plan for each goal established under subparagraph (B) for each National Drug Control Program agency, including—
 
-    (i) specific performance measures for each National Drug Control Program Agency;
+    (i) specific performance measures for each National Drug Control Program agency;
 
     (ii) annual and, to the extent practicable, quarterly objectives and targets for each performance measure; and
 
@@ -1102,15 +1156,15 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
   (M) A systematic plan for increasing data collection to enable real time surveillance of drug control threats, developing analysis and monitoring capabilities, and identifying and addressing policy questions related to the National Drug Control Strategy and Program, which shall include—
 
-    (i) a list of policy-relevant questions for which the Director and each National Drug Control Program Agency intends to develop evidence to support the National Drug Control Program and Strategy;
+    (i) a list of policy-relevant questions for which the Director and each National Drug Control Program agency intends to develop evidence to support the National Drug Control Program and Strategy;
 
-    (ii) a list of data the Director and each National Drug Control Program Agency intends to collect, use, or acquire to facilitate the use of evidence in drug control policymaking and monitoring;
+    (ii) a list of data the Director and each National Drug Control Program agency intends to collect, use, or acquire to facilitate the use of evidence in drug control policymaking and monitoring;
 
     (iii) a list of methods and analytical approaches that may be used to develop evidence to support the National Drug Control Program and Strategy and related policy;
 
     (iv) a list of any challenges to developing evidence to support policymaking, including any barriers to accessing, collecting, or using relevant data;
 
-    (v) a description of the steps the Director and the head of each National Drug Control Program Agency will take to effectuate the plan; and
+    (v) a description of the steps the Director and the head of each National Drug Control Program agency will take to effectuate the plan; and
 
     (vi) any other relevant information as determined by the Director.
 
@@ -1118,13 +1172,13 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
     (i) identify unmet needs for treatment for substance use disorders and a strategy for closing the gap between available and needed treatment;
 
-    (ii) describe the specific roles and responsibilities of the relevant National Drug Control Programs for implementing the plan;
+    (ii) describe the specific roles and responsibilities of the relevant National Drug Control Program agencies for implementing the plan;
 
-    (iii) identify the specific resources required to enable the relevant National Drug Control Agencies 11 So in original. Probably should be preceded by “Program”. to implement that strategy; and
+    (iii) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy; and
 
     (iv) identify the resources, including private sources, required to eliminate the unmet need for evidence-based substance use disorder treatment.
 
-(2) **Consultation** — In developing the plan required under paragraph (1), the Director shall consult with the following:
+(2) **Consultation** — In developing the plan required under paragraph (1)(M), the Director shall consult with the following:
 
   (A) The public.
 
@@ -1144,11 +1198,11 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
     (i) Provide a copy of the additional strategies to the appropriate congressional committees and to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate.
 
-    (ii) Issue the additional strategies in consultation with the head of each relevant National Drug Control Program Agency, any relevant official of a State, local, or Tribal government, and the government of other relevant countries.
+    (ii) Issue the additional strategies in consultation with the head of each relevant National Drug Control Program agency, any relevant official of a State, local, or Tribal government, and the government of other relevant countries.
 
     (iii) Not change any existing agency authority or construe any strategy described under this paragraph to amend or modify any law governing interagency relationship but may include recommendations about changes to such authority or law.
 
-    (iv) Present separately from the rest of any strategy described under this paragraph any information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director or the head of any relevant National Drug Control Program Agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or Tribal agency.
+    (iv) Present separately from the rest of any strategy described under this paragraph any information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or Tribal agency.
 
   (B) *Requirement for Southwest Border Counternarcotics Strategy*
 
@@ -1172,13 +1226,13 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
       (I) set forth the strategy of the Federal Government for preventing the illegal trafficking of drugs across the international border between the United States and Canada, including through ports of entry and between ports of entry on the border;
 
-      (II) state the specific roles and responsibilities of each relevant National Drug Control Program Agency for implementing the strategy;
+      (II) state the specific roles and responsibilities of each relevant National Drug Control Program agency for implementing the strategy;
 
       (III) identify the specific resources required to enable the relevant National Drug Control Program Agencies to implement the strategy;
 
       (IV) be designed to promote, and not hinder, legitimate trade and travel; and
 
-      (V) reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law, enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
+      (V) reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law,11 So in original. The comma probably should not appear. enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
 
     (ii) *Specific content related to cross-border Indian reservations* — The Northern Border Counternarcotics Strategy shall include—
 
@@ -1210,7 +1264,7 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
 (1) **In general** — The Director shall collect and disseminate, as appropriate, such information as the Director determines is appropriate, but not less than the information described in this subsection. The data shall be publicly available in a machine-readable format on the online portal of the Office, and to the extent practicable on the Drug Control Data Dashboard.
 
-(2) **Establishment** — The Director shall publish to the online portal of the office 22 So in original. Probably should be “Office”. in a machine-readable, sortable, and searchable format, or to the extent practicable, establish and maintain a data dashboard on the online portal of the Office to be known as the “Drug Control Data Dashboard”. To the extent practicable, when establishing the Drug Control Dashboard, the Director shall ensure the user interface of the dashboard is constructed with modern design standards. To the extent practicable, the data made available on the dashboard shall be publicly available in a machine-readable format and searchable by year, agency, drug, and location.
+(2) **Establishment** — The Director shall publish to the online portal of the Office in a machine-readable, sortable, and searchable format, or to the extent practicable, establish and maintain a data dashboard on the online portal of the Office to be known as the “Drug Control Data Dashboard”. To the extent practicable, when establishing the Drug Control Dashboard, the Director shall ensure the user interface of the dashboard is constructed with modern design standards. To the extent practicable, the data made available on the dashboard shall be publicly available in a machine-readable format and searchable by year, agency, drug, and location.
 
 (3) **Data** — The data included in the Drug Control Data Dashboard shall be updated quarterly to the extent practicable, but not less frequently than annually and shall include, at a minimum, the following:
 
@@ -1228,7 +1282,7 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
       (V) the average street price for the calendar year and the highest known street price during the preceding 10-year period; and
 
-      (VI) to the extent practicable, related prosecutions by State, local, and Tribal governments; 33 So in original. Probably should be followed by “and”.
+      (VI) to the extent practicable, related prosecutions by State, local, and Tribal governments; 22 So in original. Probably should be followed by “and”.
 
     (ii) data sufficient to show the frequency of use of such substance, including—
 
@@ -1236,9 +1290,9 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
       (II) use of such substance by arrestees, probationers, and parolees;
 
-      (III) crime and criminal activity related to such substance; 3
+      (III) crime and criminal activity related to such substance; and
 
-      (IV) to the extent practicable, related prosecutions by State, local, and Tribal governments; 44 So in original. The semicolon probably should be a period.
+      (IV) to the extent practicable, related prosecutions by State, local, and Tribal governments.
 
   (B) For the calendar year and each of the previous three years data sufficient to show, disaggregated by State and, to the extent feasible, by region within a State, county, or city, the following:
 
@@ -1256,9 +1310,9 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
 **(g) Development of an annual national drug control assessment**
 
-(1) **Timing** — Not later than the first Monday in February of each year, the Director shall submit to the President, Congress, and the appropriate congressional committees, a report assessing the progress of each National Drug Control Program Agency toward achieving each goal, objective, and target contained in the National Drug Control Strategy applicable to the prior fiscal year.
+(1) **Timing** — Not later than the first Monday in February of each year, the Director shall submit to the President, Congress, and the appropriate congressional committees, a report assessing the progress of each National Drug Control Program agency toward achieving each goal, objective, and target contained in the National Drug Control Strategy applicable to the prior fiscal year.
 
-(2) **Process for development of the annual assessment** — Not later than November 1 of each year, the head of each National Drug Control Program Agency shall submit, in accordance with guidance issued by the Director, to the Director an evaluation of progress by the agency with respect to the National Drug Control Strategy goals using the performance measures for the agency developed under this chapter, including progress with respect to—
+(2) **Process for development of the annual assessment** — Not later than November 1 of each year, the head of each National Drug Control Program agency shall submit, in accordance with guidance issued by the Director, to the Director an evaluation of progress by the agency with respect to the National Drug Control Strategy goals using the performance measures for the agency developed under this chapter, including progress with respect to—
 
   (A) success in achieving the goals of the National Drug Control Strategy;
 
@@ -1280,23 +1334,65 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
   (A) a summary of each evaluation received by the Director under paragraph (2);
 
-  (B) a summary of the progress of each National Drug Control Program Agency toward the National Drug Control Strategy goals of the agency using the performance measures for the agency developed under this chapter; 55 See References in Text note below.
+  (B) a summary of the progress of each National Drug Control Program agency toward the National Drug Control Strategy goals of the agency using the performance measures for the agency developed under this chapter;
 
-  (C) an assessment of the effectiveness of each National Drug Control Program Agency and program in achieving the National Drug Control Strategy for the previous year, including a specific evaluation of whether the applicable goals, measures, objectives, and targets for the previous year were met; and
+  (C) an assessment of the effectiveness of each National Drug Control Program agency and program in achieving the National Drug Control Strategy for the previous year, including a specific evaluation of whether the applicable goals, measures, objectives, and targets for the previous year were met; and
 
-  (D) the assessments required under this subsection shall be based on the Performance Measurement System.66 So in original.
+  (D) the assessments required under this subsection shall be based on the Performance Measurement System.33 So in original.
+
+**(h) Performance measurement system** Not later than February 1 of each year, the Director shall submit to Congress as part of the National Drug Control Strategy, a description of a national drug control performance measurement system, that—
+
+(1) develops 2-year and 5-year performance measures and targets for each National Drug Control Strategy goal and objective established for reducing drug use, availability, and the consequences of drug use;
+
+(2) describes the sources of information and data that will be used for each performance measure incorporated into the performance measurement system;
+
+(3) identifies major programs and activities of the National Drug Control Program agencies that support the goals and annual objectives of the National Drug Control Strategy;
+
+(4) evaluates the contribution of demand reduction and supply reduction activities as defined in [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) implemented by each National Drug Control Program agency in support of the National Drug Control Strategy;
+
+(5) monitors consistency between the drug-related goals and objectives of the National Drug Control Program agencies and ensures that each agency’s goals and budgets support and are fully consistent with the National Drug Control Strategy; and
+
+(6) coordinates the development and implementation of national drug control data collection and reporting systems to support policy formulation and performance measurement, including an assessment of—
+
+  (A) the quality of current drug use measurement instruments and techniques to measure supply reduction and demand reduction activities;
+
+  (B) the adequacy of the coverage of existing national drug use measurement instruments and techniques to measure the illicit drug user population, and groups that are at risk for illicit drug use;
+
+  (C) the adequacy of the coverage of existing national treatment outcome monitoring systems to measure the effectiveness of drug abuse treatment in reducing illicit drug use and criminal behavior during and after the completion of substance abuse treatment; and
+
+  (D) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection.
+
+**(i) Modifications** A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) 44 Probably should be “(h)”. shall be included in each report submitted under subsection (b).55 Probably should be “(d)”.
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(A)(i)(IV), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
-This chapter, referred to in subsec. (g)(2), was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
-
-This chapter, referred to in subsec. (g)(3)(B), was so in the original, but probably should have been a reference to “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
+This chapter, referred to in subsec. (g)(2), (3)(B), was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
 
 #### Amendments
-2018—Pub. L. 115–271, § 8221(a), amended section generally. Prior to amendment, section related to development, submission, implementation, and assessment of National Drug Control Strategy.
+2019—Pub. L. 116–74, § 2(c)(1)(B)(ii), amended directory language of Pub. L. 115–271, § 8221(a). See 2018 Amendment note below.
+
+Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
+
+Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+
+Subsec. (c)(1)(N)(ii). Pub. L. 116–74, § 2(d)(1)(A), substituted “Program agencies” for “Programs”.
+
+Subsec. (c)(1)(N)(iii). Pub. L. 116–74, § 2(d)(1)(B), substituted “Program agencies” for “Agencies”.
+
+Subsec. (c)(2). Pub. L. 116–74, § 2(d)(2), substituted “paragraph (1)(M)” for “paragraph (1)” in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 116–74, § 2(d)(3)(A), substituted “Office” for “office”.
+
+Subsec. (f)(3)(A)(ii)(III). Pub. L. 116–74, § 2(d)(3)(B)(i), substituted “substance; and” for “substance;”.
+
+Subsec. (f)(3)(A)(ii)(IV). Pub. L. 116–74, § 2(d)(3)(B)(ii), substituted “governments.” for “governments;”.
+
+Subsec. (g)(3)(B). Pub. L. 116–74, § 2(d)(4), made technical amendment to reference in original act which appears in text as reference to this chapter.
+
+2018—Pub. L. 115–271, § 8221(a), as amended by Pub. L. 116–74, § 2(c)(1)(B)(ii), added subsecs. (a) to (g), redesignated former subsecs. (c) and (d) as (h) and (i), respectively, and struck out former subsecs. (a) and (b) which related to submission of the National Drug Control Strategy and submission of a revised strategy.
 
 Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
@@ -1309,6 +1405,9 @@ Pub. L. 109–469, § 201, amended section generally. Prior to amendment, sectio
 Subsecs. (c), (d). Pub. L. 109–469, § 202, added subsecs. (c) and (d).
 
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
+
+#### Effective Date of 2019 Amendment
+Amendment by section 2(c) of Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under [section 1522 of this title](./chapter-020-national-drug-control-program.md#section-1522).
 
 #### Requirement for Southwest Border Counternarcotics Strategy
 Pub. L. 109–469, title XI, § 1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years a Southwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, § 8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
@@ -1475,7 +1574,7 @@ Pub. L. 109–469, title XI, § 1110A, as added by Pub. L. 111–356, § 2, Jan.
 
   (A) the number of methamphetamine manufacturing facilities discovered through HIDTA-funded initiatives in the previous fiscal year;
 
-  (B) the amounts of methamphetamine or listed chemicals (as that term is defined in [section 802(33) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/33&num=0&edition=prelim) 11 So in original. There probably should be a closing parenthesis. seized by HIDTA-funded initiatives in the area during the previous year; and
+  (B) the amounts of methamphetamine or listed chemicals (as that term is defined in [section 802(33) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/33&num=0&edition=prelim)) seized by HIDTA-funded initiatives in the area during the previous year; and
 
   (C) law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in methamphetamine and listed chemicals.
 
@@ -1491,7 +1590,7 @@ Pub. L. 109–469, title XI, § 1110A, as added by Pub. L. 111–356, § 2, Jan.
 
 (4) $270,000,000 for fiscal year 2010;
 
-(5) $280,000,000 for each of 22 So in original. fiscal year 2011; and
+(5) $280,000,000 for each of 11 So in original. fiscal year 2011; and
 
 (6) $280,000,000 for each of fiscal years 2018 through 2023.
 
@@ -1525,6 +1624,8 @@ Pub. L. 109–469, title XI, § 1110A, as added by Pub. L. 111–356, § 2, Jan.
 December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2019—Subsec. (o)(2)(B). Pub. L. 116–74 substituted “802(33) of this title)” for “802(33) of this title”.
+
 2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
 Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701).
@@ -1568,12 +1669,12 @@ Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 448, provided in part: �
 
 ### Statutory Notes
 
-Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112 Stat. 2681–687, 2681–693; Pub. L. 109–469, title IV, § 401, title VI, § 602, Dec. 29, 2006, 120 Stat. 3525, 3533; Pub. L. 115–271, title VIII, §§ 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110, related to Counter-Drug Technology Assessment Center.
+Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112 Stat. 2681–687, 2681–693; Pub. L. 109–469, title IV, § 401, title VI, § 602, Dec. 29, 2006, 120 Stat. 3525, 3533; Pub. L. 115–271, title VIII, § 8202(a), (b)(2), Oct. 24, 2018, 132 Stat. 4110, related to Counter-Drug Technology Assessment Center.
 
 
 <a id="section-1708"></a>
 ## § 1708. Emerging Threats Committee, plan, and media campaign
-**(a) Emerging Threats Coordinator 11 So in original. Probably should be “Emerging and Continuing Threats Coordinator”.** The Director shall designate or appoint a United States Emerging and Continuing Threats Coordinator to perform the duties of that position described in this section and such other duties as may be determined by the Director. The Director shall determine whether the coordinator position is a noncareer appointee in the Senior Executive Service or a career appointee in a position at level 15 of the General Schedule (or equivalent).
+**(a) Emerging and Continuing Threats Coordinator** The Director shall designate or appoint a United States Emerging and Continuing Threats Coordinator to perform the duties of that position described in this section and such other duties as may be determined by the Director. For purposes of carrying out the previous sentence, the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
 
 **(b) Emerging Threats Committee**
 
@@ -1603,7 +1704,7 @@ Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112
 
 (3) **Members** — The Director shall appoint other members of the Committee, which shall include—
 
-  (A) representatives from National Drug Control Program Agencies or other agencies;
+  (A) representatives from National Drug Control Program agencies or other agencies;
 
   (B) representatives from State, local, and Tribal governments; and
 
@@ -1617,7 +1718,7 @@ Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112
 
 **(c) Designation**
 
-(1) **In general** — The Director, in consultation with the Coordinator, the Committee, and the head of each National Drug Control Program Agency, may designate an emerging drug threat in the United States.
+(1) **In general** — The Director, in consultation with the Coordinator, the Committee, and the head of each National Drug Control Program agency, may designate an emerging drug threat in the United States.
 
 (2) **Standards for designation** — The Director, in consultation with the Coordinator, shall promulgate and make publicly available standards by which a designation under paragraph (1) and the termination of such designation may be made. In developing such standards, the Director shall consider the recommendations of the committee and other criteria the Director considers to be appropriate.
 
@@ -1641,11 +1742,11 @@ Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112
 
   (E) an implementation strategy for the media campaign under subsection (f), including goals as described under subparagraph (B) of this paragraph and performance measures, objectives, and targets, as described under subparagraph (C) of this paragraph; and
 
-  (F) any other information necessary to inform the public of the status, progress, or response of 22 So in original. an emerging drug threat.
+  (F) any other information necessary to inform the public of the status, progress, or response to an emerging drug threat.
 
 (4) **Implementation**
 
-  (A) *In general* — Not later than 120 days after the date on which a designation is made under subsection (c), the Director, in consultation with the President, the appropriate congressional committees, and the head of each National Drug Control Program Agency, shall issue guidance on implementation of the plan described in this subsection to the National Drug Control Program Agencies and any other relevant agency determined to be necessary by the Director.
+  (A) *In general* — Not later than 120 days after the date on which a designation is made under subsection (c), the Director, in consultation with the President, the appropriate congressional committees, and the head of each National Drug Control Program agency, shall issue guidance on implementation of the plan described in this subsection to the National Drug Control Program agencies and any other relevant agency determined to be necessary by the Director.
 
   (B) *Coordinator’s responsibilities* — The Coordinator shall—
 
@@ -1653,7 +1754,7 @@ Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112
 
     (ii) facilitate information-sharing between agencies identified in the plan, State, local, and Tribal governments, and other relevant entities; and
 
-    (iii) monitor implementation of the plan by coordinating the development and implementation of collection and reporting systems to support performance measurement and adherence to the plan by agencies identified in 33 So in original. The word “the” probably should appear. plan, where appropriate.
+    (iii) monitor implementation of the plan by coordinating the development and implementation of collection and reporting systems to support performance measurement and adherence to the plan by agencies identified in the plan, where appropriate.
 
   (C) *Reporting* — Not later than 180 days after the date on which a designation is made under subsection (c) and in accordance with subparagraph (A), the head of each agency identified in the plan shall submit to the Coordinator a report on implementation of the plan.
 
@@ -1661,7 +1762,7 @@ Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112
 
 **(f) National anti-drug media campaign**
 
-(1) **In general** — The Director shall, to the extent feasible and appropriate, conduct a national anti-drug media campaign (referred to in this chapter 44 See References in Text note below. as the “national media campaign”) in accordance with this subsection for the purposes of—
+(1) **In general** — The Director shall, to the extent feasible and appropriate, conduct a national anti-drug media campaign (referred to in this subsection as the “national media campaign”) in accordance with this subsection for the purposes of—
 
   (A) preventing substance abuse among people in the United States;
 
@@ -1715,7 +1816,7 @@ Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112
 
     (iii) *Consultation* — For the planning of the campaign under paragraph (1), the Director may consult with—
 
-      (I) the head of any appropriate National Drug Control Program Agency;
+      (I) the head of any appropriate National Drug Control Program agency;
 
       (II) experts on the designated drug;
 
@@ -1832,9 +1933,19 @@ Section, Pub. L. 105–277, div. C, title VII, §§ 708, 715, Oct. 21, 1998, 112
 #### References in Text
 The General Schedule, referred to in subsec. (a), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
-This chapter, referred to in subsec. (f)(1), was in the original “this subtitle” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
-
 #### Amendments
+2019—Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.
+
+Pub. L. 116–74, § 2(a)(1), substituted “National Drug Control Program agency” for “National Drug Control Program Agency” wherever appearing.
+
+Subsec. (a). Pub. L. 116–74, § 2(a)(8)(A), in heading inserted “and Continuing” before “Threats”, and in text substituted “For purposes of carrying out the previous sentence, the Director shall designate or appoint an” for “The Director shall determine whether the coordinator position is a noncareer” and “an appointee” for “a career appointee”.
+
+Subsec. (d)(3)(F). Pub. L. 116–74, § 2(a)(8)(B)(i), substituted “response to” for “response of”.
+
+Subsec. (d)(4)(B)(iii). Pub. L. 116–74, § 2(a)(8)(B)(ii), inserted “the” before “plan, where”.
+
+Subsec. (f)(1). Pub. L. 116–74, § 2(a)(8)(C), substituted “subsection’ for “chapter”.
+
 2018—Pub. L. 115–271, § 8218(a), amended section generally. Prior to amendment, section related to national youth anti-drug media campaign.
 
 Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
@@ -1933,42 +2044,11 @@ William J. Clinton.
 
 
 <a id="section-1708a"></a>
-## § 1708a. Annual report requirement
-**(a) Repealed. Pub. L. 115–271, title VIII, § 8218(b), Oct. 24, 2018, 132 Stat. 4132**
-
-**(b) Audit** The Government Accountability Office shall, not later than December 31, 2013, and every 3 years thereafter—
-
-(1) conduct and supervise an audit and investigation relating to the programs and operations of the—
-
-  (A) Office; or
-
-  (B) certain programs within the Office, including—
-
-    (i) the High Intensity Drug Trafficking Areas Program;
-
-    (ii) the Counterdrug Technology Assessment Center; or
-
-    (iii) the National Youth Anti-drug Media Campaign; and
-
-(2) provide the Director and the appropriate congressional committees with a report containing an evaluation of and recommendations on the—
-
-  (A) policies and activities of the programs and operations subject to the audit and investigation;
-
-  (B) economy, efficiency, and effectiveness in the administration of the reviewed programs and operations; and
-
-  (C) policy or management changes needed to prevent and detect fraud and abuse in such programs and operations.
+## § 1708a. Repealed. Pub. L. 116–74, § 2(b)(1), Nov. 27, 2019, 133 Stat. 1157
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Office of National Drug Control Policy Reauthorization Act of 2006, and not as part of the Office of National Drug Control Policy Reauthorization Act of 1998 which comprises this chapter.
-
-#### Amendments
-2018—Subsec. (a). Pub. L. 115–271 struck out subsec. (a) which required annual submission to Congress of a report on the national media campaign.
-
-2012—Subsec. (a). Pub. L. 112–234, § 2(c)(1), substituted “, 2013, and every 3 years thereafter,” for “of each year” in introductory provisions.
-
-Subsec. (b). Pub. L. 112–234, § 2(c)(2), substituted “not later than December 31, 2013, and every 3 years thereafter—” for “at a frequency of not less than once per year—” in introductory provisions.
+Section, Pub. L. 109–469, title II, § 203, Dec. 29, 2006, 120 Stat. 3517; Pub. L. 112–234, § 2(c), Dec. 28, 2012, 126 Stat. 1624; Pub. L. 115–271, title VIII, § 8218(b), Oct. 24, 2018, 132 Stat. 4132, required the Government Accountability Office to conduct and supervise an audit and investigation and prepare and report every 3 years.
 
 
 <a id="section-1709"></a>
@@ -2047,10 +2127,12 @@ Section, Pub. L. 105–277, div. C, title VII, § 710, Oct. 21, 1998, 112 Stat. 
 The General Schedule, referred to in subsec. (a)(1), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Prior Provisions
-A prior section 711 of Pub. L. 105–277, div. C, title VII, Oct. 21, 1998, 112 Stat. 2681–691; Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3553, related to drug interdiction, prior to repeal by Pub. L. 115–271, title VIII, § 8219(a), Oct. 24, 2018, 132 Stat. 4132.
+A prior section 711 of Pub. L. 105–277, div. C, title VII, Oct. 21, 1998, 112 Stat. 2681–691; Pub. L. 105–277, div. C, title VII, § 715, Oct. 21, 1998, 2681–693; Pub. L. 109–469, title VI, § 602, Dec. 29, 2006, 120 Stat. 3553, related to drug interdiction, prior to repeal by Pub. L. 115–271, title VIII, § 8219(a), Oct. 24, 2018, 132 Stat. 4132. See 2018 and 2006 Amendment notes below.
 
 #### Amendments
-2018—Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
+2018—Pub. L. 115–271, § 8219(a), repealed Pub. L. 105–277, div. C, title VII, § 711, Oct. 21, 1998, 112 Stat. 2681–691. See 2006 Amendment note below.
+
+Pub. L. 115–271, § 8202(b)(2), repealed Pub. L. 105–277, § 715. See 1998 Amendment note below.
 
 Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701).
 
@@ -2092,7 +2174,9 @@ Subsec. (c). Pub. L. 115–271, § 8219(b)(3), added subsec. (c).
 
 2006—Pub. L. 109–469, § 602, amended Pub. L. 105–277, § 715, which provided for the repeal of this section. See 1998 Amendment note below.
 
-1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
+Pub. L. 109–469, § 103(f)(1), directed that section 711 of Office of National Drug Control Policy Reauthorization Act of 1998 (Pub. L. 105–277, div. C, title VII) be amended by “adding at the end” a new section 711, which comprises this section. A prior section 711 of the Act was repealed by Pub. L. 115–271, § 8219(a). See 2018 Amendment note above.
+
+1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of title VII of the Office of National Drug Control Policy Reauthorization Act of 1988 (Pub. L. 105–277, div. C, title VII) effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
 
 <a id="section-1710a"></a>
@@ -2225,7 +2309,7 @@ Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on
 
 
 <a id="section-1715"></a>
-## § 1715. GAO Audit
+## § 1715. GAO audit
 
 Not later than 4 years after October 24, 2018, and every 4 years thereafter, the Comptroller General of the United States shall—
 

@@ -830,7 +830,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
   (A) *In general.—* — The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
 
-  (B) *Tribal organizations and inter-tribal consortiums.—* — The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450i(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i/j&num=0&edition=prelim)).1
+  (B) *Tribal organizations and inter-tribal consortiums.—* — The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450i(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i/j&num=0&edition=prelim)).11 See References in Text note below.
 
 (2) **State and local governments and institutions, hospitals, and organizations.—** — The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
 
@@ -858,7 +858,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
     (i) any communication to, or appearance before, the Federal Election Commission by a former officer or employee of the Federal Election Commission; or
 
-    (ii) a communication or appearance made by a person who is subject to the restrictions contained in subsections 11 So in original. Probably should be “subsection”. (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
+    (ii) a communication or appearance made by a person who is subject to the restrictions contained in subsections 22 So in original. Probably should be “subsection”. (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
 
       (I) a candidate, an authorized committee, a national committee, a national Federal campaign committee, a State committee, or a political party; or
 

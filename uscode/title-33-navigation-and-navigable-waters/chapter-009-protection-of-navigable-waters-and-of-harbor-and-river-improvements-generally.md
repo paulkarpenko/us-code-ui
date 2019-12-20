@@ -61,7 +61,7 @@ It shall not be lawful to construct or commence the construction of any bridge, 
 ### Statutory Notes
 
 #### Codification
-Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and together with [section 403 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-403) superseded act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended by act July 13, 1892, ch. 158, § 3, 27 Stat. 88, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by that Secretary.
+Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and together with [section 403 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-403) effectively superseded act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 88, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by that Secretary.
 
 #### Amendments
 2016—Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation” wherever appearing.
@@ -101,10 +101,7 @@ The creation of any obstruction not affirmatively authorized by Congress, to the
 ### Statutory Notes
 
 #### Codification
-Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”.
-
-#### Prior Provisions
-This section and section 9 of act Mar. 3, 1899 ([section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401)), superseded provisions of act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended by act July 13, 1892, ch. 158, § 3, 27 Stat. 110, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by said Secretary.
+Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and together with [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) effectively superseded act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 88, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by that Secretary.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1168,7 +1165,7 @@ In sections 426e and 426f to 426h–1 of this title, the following definitions a
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (c). Pub. L. 115–270 substituted “$12,500,000” for ‘$10,000,000”.
+2018—Subsec. (c). Pub. L. 115–270 substituted “$12,500,000” for “$10,000,000”.
 
 2016—Subsec. (b). Pub. L. 114–322, § 1169(1), substituted “measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project” for “measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project”.
 

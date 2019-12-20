@@ -599,7 +599,7 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 ## § 1409. Venue of proceedings arising under title 11 or arising in or related to cases under title 11
 **(a)** Except as otherwise provided in subsections (b) and (d), a proceeding arising under title 11 or arising in or related to a case under title 11 may be commenced in the district court in which such case is pending.
 
-**(b)** Except as provided in subsection (d) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case to recover a money judgment of or property worth less than $1,000 11 See Adjustment of Dollar Amounts notes below. or a consumer debt of less than $15,000,1 or a debt (excluding a consumer debt) against a noninsider of less than $10,000,1 only in the district court for the district in which the defendant resides.
+**(b)** Except as provided in subsection (d) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case to recover a money judgment of or property worth less than $1,000 11 See Adjustment of Dollar Amounts notes below. or a consumer debt of less than $15,000,1 or a debt (excluding a consumer debt) against a noninsider of less than $25,000, only in the district court for the district in which the defendant resides.
 
 **(c)** Except as provided in subsection (b) of this section, a trustee in a case under title 11 may commence a proceeding arising in or related to such case as statutory successor to the debtor or creditors under section 541 or 544(b) of title 11 in the district court for the district where the State or Federal court sits in which, under applicable nonbankruptcy venue provisions, the debtor or creditors, as the case may be, may have commenced an action on which such proceeding is based if the case under title 11 had not been commenced.
 
@@ -610,7 +610,12 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–54 substituted “$25,000” for “$10,000”.
+
 2005—Subsec. (b). Pub. L. 109–8 substituted “$15,000, or a debt (excluding a consumer debt) against a noninsider of less than $10,000,” for “$5,000”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim).
@@ -621,13 +626,15 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section104&num=0&edition=prelim), Bankruptcy, as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amounts “1,250”, “18,675”, and “12,475” were adjusted to “1,300”, “19,250”, and “12,850”, respectively. See notice of the Judicial Conference of the United States set out as a note under [section 104 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section104&num=0&edition=prelim).
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b), dollar amounts “1,300”, “19,250”, and “12,850” were adjusted to “1,375”, “20,450”, and “13,650”, respectively. See notice of the Judicial Conference of the United States set out as a note under [section 104 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section104&num=0&edition=prelim).
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amounts “1,250”, “18,675”, and “12,475” were adjusted to “1,300”, “19,250”, and “12,850”, respectively.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amounts “1,175”, “17,575”, and “11,725” were adjusted to “1,250”, “18,675”, and “12,475”, respectively.
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b), dollar amounts “1,100”, “16,425”, and “10,950” were adjusted to “1,175”, “17,575”, and “11,725”, respectively.
 
-By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b), dollar amounts “1,000”, “15,000”, and “10,000” were adjusted to “1,100”, “16,425”, and “10,950”, respectively.
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b), dollar amounts “1,000”, “15,000”, and “10,000” were adjusted to “1,100”, “16,425”, and “10,950”, respectively. Pub. L. 116–54 subsequently substituted “25,000” for “10,000”, see 2019 Amendment note above.
 
 
 <a id="section-1410"></a>

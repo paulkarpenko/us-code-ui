@@ -1988,6 +1988,9 @@ Subsec. (h). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board”
 
 Subsec. (c)(4). Pub. L. 106–554, § 1(a)(1) [title III, § 307(2)], added par. (4).
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -2229,6 +2232,9 @@ Subsec. (f)(1)(B)(iv). Pub. L. 107–279, § 401(d)(7), substituted “section 9
 Subsec. (f)(3). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
 Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).

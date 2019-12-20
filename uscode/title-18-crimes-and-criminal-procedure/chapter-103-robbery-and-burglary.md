@@ -78,7 +78,7 @@ Section consolidates sections 588a, 588b, and 588c of title 12, U.S.C., 1940 ed.
 
 Words “felony or larceny” in subsection (a) were changed to “felony affecting such bank and in violation of any statute of the United States, or any larceny”.
 
-Use of term “felony” without limitation caused confusion as to whether a common law, State, or Federal felony was intended. Change conforms with Jerome v. U.S. (1943, 63 S. Ct. 483, 318 U.S. 101, 87 L. Ed. 640): “§ 2(a) [§ 588b(a) of title 12, U.S.C., 1940 ed., Banks and Banking] is not deprived of vitality if it is interpreted to exclude State felonies and to include only those Federal felonies which affect banks protected by the Act.”
+Use of term “felony” without limitation caused confusion as to whether a common law, State, or Federal felony was intended. Change conforms with Jerome v. U.S. (1943, 63 S. Ct. 483, 318 U.S. 101, 87 L. Ed. 640): “§ 2(a) [[§ 588b(a) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section588b/a&num=0&edition=prelim), U.S.C., 1940 ed., Banks and Banking] is not deprived of vitality if it is interpreted to exclude State felonies and to include only those Federal felonies which affect banks protected by the Act.”
 
 Minimum punishment provisions were omitted from subsection (c). (See reviser’s note under [section 203 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-203).) Also the provisions of subsection (b) measuring the punishment by the amount involved were extended and made applicable to the receiver as well as the thief. There seems no good reason why the thief of less than $100 should be liable to a maximum of imprisonment for one year and the receiver subject to 10 years.
 

@@ -519,7 +519,7 @@ The Native American Housing Assistance and Self Determination Act of 1996, refer
 A prior section 2021 was renumbered [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301) and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–407 substituted “reintegration into the labor force of—” for “reintegration of homeless veterans into the labor force.reintegration of homeless veterans into the labor force.reintegration of homeless veterans into the labor force.” and added pars. (1) to (5).
+2018—Subsec. (a). Pub. L. 115–407 substituted “reintegration into the labor force of—” for “reintegration of homeless veterans into the labor force.” and added pars. (1) to (5).
 
 Subsec. (e)(1)(F). Pub. L. 115–251 substituted “2020” for “2018”.
 
@@ -1148,7 +1148,7 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
   (F) $340,000,000 for fiscal year 2018.
 
-  (G) $380,000,000 for fiscal year 2019.
+  (G) $380,000,000 for each of fiscal years 2019 through 2021.
 
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -1200,6 +1200,8 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2044), Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+2019—Subsec. (e)(1)(G). Pub. L. 116–61 substituted “each of fiscal years 2019 through 2021” for “fiscal year 2019”.
+
 2018—Subsec. (e)(1)(F), (G). Pub. L. 115–251 added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “$320,000,000 for each of fiscal years 2018 through 2019.”
 
 2017—Subsec. (e)(1)(F). Pub. L. 115–62 added subpar. (F).

@@ -452,7 +452,7 @@ This chapter, referred to in subsecs. (a), (k), and (l), was in the original “
 #### Amendments
 2018—Subsecs. (k), (l). Pub. L. 115–167 struck out first sentence of subsec. (k) which read “An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section.”, redesignated the remainder of subsec. (k) as (l), and added a new subsec. (k).
 
-#### Applicability
+#### Effective Date of 2018 Amendment
 Pub. L. 115–167, title II, § 204(c), Apr. 23, 2018, 132 Stat. 1280, provided that: “The amendments made by this section [amending this section and [section 7712 of this title](./chapter-084-millennium-challenge.md#section-7712)] apply with respect to Compacts entered into between the United States and an eligible country under the Millennium Challenge Act of 2003 [[22 U.S.C. 7701](./chapter-084-millennium-challenge.md#section-7701) et seq.] before, on, or after the date of the enactment of this Act [Apr. 23, 2018].”
 
 
@@ -576,7 +576,7 @@ Pub. L. 115–167, title II, § 204(c), Apr. 23, 2018, 132 Stat. 1280, provided 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–167, § 206(a), in heading, inserted “timely” before “disclosure”, and in introductory provisions, substituted “Not later than 90 days after the last day of each fiscal quarter, the Corporation” for “The Corporation” and struck out “on at least a quarterly basis,” after “public”.
 
-Subsec. (b). Pub. L. 115–167, § 206(b), amended subsec. (b) generally. Prior to amendment text read as follows: “The information required to be disclosed under subsection (a) shall be made available to the public by means of publication in the Federal Register and on the Internet website of the Corporation, as well as by any other methods that the Board determines appropriate.”
+Subsec. (b). Pub. L. 115–167, § 206(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The information required to be disclosed under subsection (a) shall be made available to the public by means of publication in the Federal Register and on the Internet website of the Corporation, as well as by any other methods that the Board determines appropriate.”
 
 
 <a id="section-7712"></a>
@@ -604,7 +604,7 @@ Subsec. (b). Pub. L. 115–167, § 206(b), amended subsec. (b) generally. Prior 
 #### Amendments
 2018—Subsec. (b)(2)(A). Pub. L. 115–167 substituted “any Compact” for “the Compact”.
 
-#### Applicability
+#### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–167 applicable to Compacts entered into between the United States and an eligible country under this chapter before, on, or after Apr. 23, 2018, see section 204(c) of Pub. L. 115–167, set out as a note under [section 7708 of this title](./chapter-084-millennium-challenge.md#section-7708).
 
 #### Assignment of Function To Submit a Report Relating to Millennium Challenge Corporation Activities
@@ -682,7 +682,7 @@ George W. Bush.
 #### References in Text
 This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title](./chapter-084-millennium-challenge.md#section-7701) and Tables.
 
-The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, 2715b to 2734, and 2735 of this title and chapters 53 (§ 4301 et seq.), 53A (§ 4341 et seq.), and 53B (§ 4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651) and Tables.
+The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890. For complete classification of this Act to the Code, see Short Title note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651) and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 

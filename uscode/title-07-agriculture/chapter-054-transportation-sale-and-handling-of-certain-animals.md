@@ -780,9 +780,11 @@ Pub. L. 115–334, title XII, § 12616(a)–(c), (e), Dec. 20, 2018, 132 Stat. 5
 
 (2) in subsection (c), by striking “(e)” and inserting “(d)”;
 
-(3) by redesignating paragraphs (e) to (j) as (d) to (i), respectively; and
+(3) by striking subsection (d);
 
-(4) in subsection (i), as so redesignated, by striking “(e)” and inserting “(d)”.
+(4) by redesignating paragraphs (e) to (j) as (d) to (i), respectively; and
+
+(5) in subsection (i), as so redesignated, by striking “(e)” and inserting “(d)”.
 
 See 2018 Amendment notes below.
 
@@ -1010,7 +1012,7 @@ Section effective one year after Dec. 23, 1985, see section 1759 of Pub. L. 99�
 
 **(d) Penalty** Any person who violates subsection (a) shall be subject to a fine in an amount not greater than $5,000 for each violation.
 
-**(e) Effect On State law** Nothing in this section—
+**(e) Effect on State law** Nothing in this section—
 
 (1) limits any State or local law or regulation protecting the welfare of animals; or
 

@@ -14,6 +14,10 @@ source: >-
 #### References in Text
 Rule 45(c) of the Federal Rules of Criminal Procedure, referred to in text, was rescinded Feb. 28, 1966, eff. July 1, 1966.
 
+### Notes
+
+Expiration of term without significance in criminal cases, Rule 45(c).
+
 
 <a id="section-3432"></a>
 ## § 3432. Indictment and list of jurors and witnesses for prisoner in capital cases
@@ -45,9 +49,17 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 <a id="section-3433"></a>
 ## § 3433. Arraignment—(Rule)
 
+### Notes
+
+Reading and furnishing copy of indictment to accused, Rule 10.
+
 
 <a id="section-3434"></a>
 ## § 3434. Presence of defendant—(Rule)
+
+### Notes
+
+Right of defendant to be present generally; corporation; waiver, Rule 43.
 
 
 <a id="section-3435"></a>
@@ -68,42 +80,90 @@ Necessary changes were made in phraseology.
 <a id="section-3436"></a>
 ## § 3436. Consolidation of indictments or informations—(Rule)
 
+### Notes
+
+Two or more indictments or informations triable together, Rule 13.
+
 
 <a id="section-3437"></a>
 ## § 3437. Severance—(Rule)
+
+### Notes
+
+Relief from prejudicial joinder of defendants or offenses, Rule 14.
 
 
 <a id="section-3438"></a>
 ## § 3438. Pleas—(Rule)
 
+### Notes
+
+Plea of guilty, not guilty, or nolo contendere; acceptance by court; refusal to plead; corporation failing to appear, Rule 11.
+
+Withdrawal of plea of guilty, Rule 32.
+
 
 <a id="section-3439"></a>
 ## § 3439. Demurrers and special pleas in bar or abatement abolished; relief on motion—(Rule)
+
+### Notes
+
+Motion to dismiss or for appropriate relief substituted for demurrer or dilatory plea or motion to quash, Rule 12.
 
 
 <a id="section-3440"></a>
 ## § 3440. Defenses and objections determined on motion—(Rule)
 
+### Notes
+
+Defenses or objections which may or must be raised before trial; time; hearing; effect of determination; limitations by law unaffected, Rule 12(b).
+
 
 <a id="section-3441"></a>
 ## § 3441. Jury; number of jurors; waiver—(Rule)
+
+### Notes
+
+Jury trial, waiver, twelve jurors or less by written stipulation, trial by court on general or special findings, Rule 23.
 
 
 <a id="section-3442"></a>
 ## § 3442. Jurors, examination, peremptory challenges; alternates—(Rule)
 
+### Notes
+
+Examination and peremptory challenges of trial jurors; alternate jurors, Rule 24.
+
 
 <a id="section-3443"></a>
 ## § 3443. Instructions to jury—(Rule)
+
+### Notes
+
+Court’s instructions to jury, written requests and copies, objections, Rule 30.
 
 
 <a id="section-3444"></a>
 ## § 3444. Disability of judge—(Rule)
 
+### Notes
+
+Disability of judge after verdict or finding of guilt, Rule 25.
+
 
 <a id="section-3445"></a>
 ## § 3445. Motion for judgment of acquittal—(Rule)
 
+### Notes
+
+Motions for directed verdict abolished.
+
+Motions for judgment of acquittal adopted; court may reserve decision; renewal, Rule 29.
+
 
 <a id="section-3446"></a>
 ## § 3446. New trial—(Rule)
+
+### Notes
+
+Granting of new trial, grounds, and motion, Rule 33.

@@ -67,10 +67,23 @@ In the case of a failure to file a return of tax imposed by chapter 1 within 60 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 116–25, title III, § 3201, July 1, 2019, 133 Stat. 1017, applicable to returns required to be filed after Dec. 31, 2019, amended this section as follows:
+
+(1) in subsection (a), by striking “$205” and inserting “$330”; and
+
+(2) in subsection (j)(1), by striking “2014” and inserting “2020”, striking “$205” and inserting “$330”, and striking “2013” and inserting “2019”.
+
+See 2019 Amendment notes below.
+
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–25, § 3201(a), substituted “$330” for “$205” in concluding provisions.
+
+Subsec. (j)(1). Pub. L. 116–25, § 3201(b), substituted “2020” for “2014”, “$330” for “$205” and “2019” for “2013”.
+
 2018—Subsec. (i). Pub. L. 115–141, § 206(n)(1), added subsec. (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 115–141, § 401(a)(299)(A), which directed amendment of subsec. (i) by inserting “an amount equal to” after “increased by” and “for the calendar year” after “section 1(f)(3)”, was executed by making the insertions in subsec. (j) to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by Pub. L. 115–141, § 206(n)(1), effective as if included in Pub. L. 114–74. See Amendment and Effective Date of 2018 Amendment notes below.
@@ -120,6 +133,9 @@ Subsec. (b). Pub. L. 91–172 designated existing provisions as par. (1) and add
 Subsecs. (c), (d). Pub. L. 91–172 added subsec. (c), redesignated former subsec. (c) as (d) and struck out reference to [section 6016 of this title](./chapter-061-information-and-returns.md#section-6016) and provided that this section would not be applicable for failure to pay any estimated tax required under section 6153 or 6154 of this title.
 
 1968—Subsec. (c). Pub. L. 90–364 struck out reference to section 6016.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title III, § 3201(c), July 1, 2019, 133 Stat. 1017, provided that: “The amendments made by this section [amending this section] shall apply to returns required to be filed after December 31, 2019.”
 
 #### Effective Date of 2018 Amendment
 Amendment by section 206(n)(1) of Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
@@ -1003,7 +1019,7 @@ Regulations issued before May 24, 1985, to carry out subsec. (h) of this section
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–141, § 401(a)(301), substituted “chapter 1, the tax” for “chapter 1 the tax”.
+2018—Subsec. (a). Pub. L. 115–141, § 401(a)(301), substituted “chapter 1, the tax” for “chapter 1 the tax” in introductory provisions.
 
 Subsec. (d)(1)(C)(i). Pub. L. 115–141, § 401(b)(48), substituted “by substituting ‘110 percent’ for ‘100 percent’.” for “by substituting the applicable percentage for ‘100 percent’. For purposes of the preceding sentence, the applicable percentage shall be determined in accordance with the following table:”, table setting out applicable percentages for preceding taxable years 1998 to 2002 and thereafter, and concluding provisions “This clause shall not apply in the case of a preceding taxable year beginning in calendar year 1997.”
 
@@ -1846,17 +1862,9 @@ Pub. L. 109–222, title IV, § 401, May 17, 2006, 120 Stat. 353, as amended by 
 
 [Pub. L. 111–152, title I, § 1410, Mar. 30, 2010, 124 Stat. 1070, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 [Pub. L. 111–42, set out above] in effect on the date of the enactment of this Act [Mar. 30, 2010] is increased by 15.75 percentage points.” ]
 
-[Pub. L. 111–147, title V, § 561, Mar. 18, 2010, 124 Stat. 117, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)—
+[Pub. L. 111–147, title V, § 561, Mar. 18, 2010, 124 Stat. 117, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)— [“(1) the percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 [Pub. L. 111–42, set out above] in effect on the date of the enactment of this Act [Mar. 18, 2010] is increased by 23 percentage points, [“(2) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2015 shall be 121.5 percent of such amount, [“(3) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2019 shall be 106.5 percent of such amount, and [“(4) the amount of the next required installment after an installment referred to in paragraph (2) or (3) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.” ]
 
-[“(1) the percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 [Pub. L. 111–42, set out above] in effect on the date of the enactment of this Act [Mar. 18, 2010] is increased by 23 percentage points,
-
-[“(2) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2015 shall be 121.5 percent of such amount,
-
-[“(3) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2019 shall be 106.5 percent of such amount, and
-
-[“(4) the amount of the next required installment after an installment referred to in paragraph (2) or (3) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”]
-
-[Section 561(b) of Pub. L. 111–147, set out above, and any modification of such provision, not applicable with respect to any installment of corporate income tax, see section 7001 of Pub. L. 112–96, set out as a note above.]
+[Section 561 of Pub. L. 111–147, set out above, and any modification of such provision, not applicable with respect to any installment of corporate income tax, see section 7001 of Pub. L. 112–96, set out as a note above.]
 
 [Pub. L. 111–344, title III, § 302, Dec. 29, 2010, 124 Stat. 3617, provided that: “The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act [Pub. L. 111–147, set out above] in effect on the date of the enactment of this Act [Dec. 29, 2010] is increased by 4.5 percentage points.” ]
 
@@ -4530,11 +4538,27 @@ Section applicable to taxable periods the due date for filing returns for which 
 (2) uses any such information for any purpose other than to prepare, or assist in preparing, any such return,
 shall pay a penalty of $250 for each such disclosure or use, but the total amount imposed under this subsection on such a person for any calendar year shall not exceed $10,000.
 
-**(b) Exceptions** The rules of section 7216(b) shall apply for purposes of this section.
+**(b) Enhanced penalty for improper use or disclosure relating to identity theft**
 
-**(c) Deficiency procedures not to apply** Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
+(1) **In general** — In the case of a disclosure or use described in subsection (a) that is made in connection with a crime relating to the misappropriation of another person’s taxpayer identity (as defined in section 6103(b)(6)), whether or not such crime involves any tax filing, subsection (a) shall be applied—
+
+  (A) by substituting “$1,000” for “$250”, and
+
+  (B) by substituting “$50,000” for “$10,000”.
+
+(2) **Separate application of total penalty limitation** — The limitation on the total amount of the penalty under subsection (a) shall be applied separately with respect to disclosures or uses to which this subsection applies and to which it does not apply.
+
+**(c) Exceptions** The rules of section 7216(b) shall apply for purposes of this section.
+
+**(d) Deficiency procedures not to apply** Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
 
 ### Statutory Notes
+
+#### Amendments
+2019—Subsecs. (b) to (d). Pub. L. 116–25 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title II, § 2009(c), July 1, 2019, 133 Stat. 1007, provided that: “The amendments made by this section [amending this section and [section 7216 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7216)] shall apply to disclosures or uses on or after the date of the enactment of this Act [July 1, 2019].”
 
 #### Effective Date
 Pub. L. 100–647, title VI, § 6242(d), Nov. 10, 1988, 102 Stat. 3749, provided that: “The amendments made by this section [enacting this section and amending [section 7216 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7216)] shall apply to disclosures or uses after December 31, 1988.”
@@ -5197,7 +5221,7 @@ Section applicable to returns the due date for which (determined without regard 
 
 **(b) Payment of penalty** Any penalty imposed by this part shall be paid on notice and demand by the Secretary and in the same manner as tax.
 
-**(c) Special rule for failure to meet magnetic media requirements** No penalty shall be imposed under section 6721 solely by reason of any failure to comply with the requirements of the regulations prescribed under section 6011(e)(2), except to the extent that such a failure occurs with respect to more than 250 information returns (more than 100 information returns in the case of a partnership having more than 100 partners) or with respect to a return described in section 6011(e)(4).
+**(c) Special rule for failure to meet magnetic media requirements** No penalty shall be imposed under section 6721 solely by reason of any failure to comply with the requirements of the regulations prescribed under section 6011(e)(2), except to the extent that such a failure occurs with respect to more than the applicable number (determined under section 6011(e)(5) with respect to the calendar year to which such returns relate) of information returns or with respect to a return described in section 6011(e)(4).
 
 **(d) Definitions** For purposes of this part—
 
@@ -5275,7 +5299,7 @@ Section applicable to returns the due date for which (determined without regard 
 
     (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), or
 
-    (xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions), and 2
+    (xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions), and 11 So in original. The word “and” probably should not appear.
 
   (C) any statement of the amount of payments to another person required to be made to the Secretary under—
 
@@ -5358,9 +5382,9 @@ Section applicable to returns the due date for which (determined without regard 
 
   (II) section 6035 (other than a statement described in paragraph (1)(D)), or
 
-  (JJ) 11 So in original. Two subpars. (JJ) have been enacted. section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section.
+  (JJ) 22 So in original. Two subpars. (JJ) have been enacted. section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section.
 
-  (JJ) 1 subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions).
+  (JJ) 2 subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions).
   Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 or 4 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
 (3) **Specified information reporting requirement** — The term “specified information reporting requirement” means—
@@ -5373,15 +5397,9 @@ Section applicable to returns the due date for which (determined without regard 
 
     (ii) furnish his TIN to another person, or
 
-    (iii) include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person,
+    (iii) include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person,33 So in original. Probably should be followed by “and”.
 
-  (C) 22 See Amendment of Subsection (d)(3) note below. any requirement contained in the regulations prescribed under section 215 that a person—
-
-    (i) furnish his TIN to another person, or
-
-    (ii) include on his return the TIN of another person, and
-
-  (D) any requirement under section 6109(h) that—
+  (C) any requirement under section 6109(h) that—
 
     (i) a person include on his return the name, address, and TIN of another person, or
 
@@ -5395,22 +5413,21 @@ Section applicable to returns the due date for which (determined without regard 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(3)
-Pub. L. 115–97, title I, § 11051(b)(2)(C), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former [section 71(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section71/b/2&num=0&edition=prelim) as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, subsection (d)(3) of this section is amended by striking subparagraph (C) and redesignating subparagraph (D) as (C). See 2017 Amendment note below.
-
 #### Codification
 Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section 6724 without specifying the act to be amended, was executed to this section, which is section 6724 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–25 substituted “the applicable number (determined under section 6011(e)(5) with respect to the calendar year to which such returns relate) of information returns” for “250 information returns (more than 100 information returns in the case of a partnership having more than 100 partners)”.
+
 2018—Subsec. (d)(1). Pub. L. 115–141, § 401(a)(317), realigned margin of concluding provisions.
 
 Subsec. (d)(1)(B)(xx). Pub. L. 115–141, § 401(a)(315), struck out “or” after “contracts),”.
 
 Subsec. (d)(1)(B)(xxi). Pub. L. 115–141, § 401(a)(316), struck out “and” after “arrangements),”.
 
-Subsec. (d)(2)(F). Pub. L. 115–141, § 401(a)(318), substituted “acquisitions),” for “ acquisitions).”
+Subsec. (d)(2)(F). Pub. L. 115–141, § 401(a)(318), substituted “acquisitions),” for “acquisitions).”
 
 Subsec. (d)(2)(M). Pub. L. 115–141, § 401(a)(319), substituted “(h)(2) (relating” for “(h)(2) relating”.
 

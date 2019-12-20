@@ -2,7 +2,7 @@
 title: 40
 chapter: '33'
 heading: 'ACQUISITION, CONSTRUCTION, AND ALTERATION'
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -799,3 +799,39 @@ The text of 40:615(1) is omitted as obsolete.
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-3318"></a>
+## § 3318. Lactation room in public buildings
+**(a) Definitions.—** In this section:
+
+(1) **Appropriate authority.—** — The term “appropriate authority” means the head of a Federal agency, the Architect of the Capitol, or other official authority responsible for the operation of a public building.
+
+(2) **Covered public building.—** — The term “covered public building” means a public building (as defined in section 3301) that is open to the public and contains a public restroom, and includes a building listed in section 6301 or 5101.
+
+(3) **Lactation room.—** — The term “lactation room” means a hygienic place, other than a bathroom, that—
+
+  (A) is shielded from view;
+
+  (B) is free from intrusion; and
+
+  (C) contains a chair, a working surface, and, if the public building is otherwise supplied with electricity, an electrical outlet.
+
+**(b) Lactation Room Required.—** Except as provided in subsection (c), the appropriate authority of a covered public building shall ensure that the building contains a lactation room that is made available for use by members of the public to express breast milk.
+
+**(c) Exceptions.—** A covered public building may be excluded from the requirement in subsection (b) at the discretion of the appropriate authority if—
+
+(1) the public building—
+
+  (A) does not contain a lactation room for employees who work in the building; and
+
+  (B) does not have a room that could be repurposed as a lactation room or a space that could be made private using portable materials, at a reasonable cost; or
+
+(2) new construction would be required to create a lactation room in the public building and the cost of such construction is unfeasible.
+
+**(d) No Unauthorized Entry.—** Nothing in this section shall be construed to authorize an individual to enter a public building or portion thereof that the individual is not otherwise authorized to enter.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 116–30, § 2(c), July 25, 2019, 133 Stat. 1033, provided that: “The amendments made by this section [enacting this section] shall take effect 1 year after the date of the enactment of this Act [July 25, 2019].”

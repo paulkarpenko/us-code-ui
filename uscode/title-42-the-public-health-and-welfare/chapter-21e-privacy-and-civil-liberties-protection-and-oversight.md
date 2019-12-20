@@ -217,6 +217,9 @@ Subsec. (j)(2) to (4). Pub. L. 115–118, § 108(a), added par. (2) and redesign
 
 2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2007 Amendment
 Pub. L. 110–53, title VIII, § 801(d), Aug. 3, 2007, 121 Stat. 358, provided that: “(1) In general.—The amendments made by subsection (a) and subsection (b) [amending this section] shall take effect 180 days after the date of enactment of this Act [Aug. 3, 2007]. “(2) Transition provisions.—Subsection (c) [enacting provisions set out as a note under this section] shall take effect on the date of enactment of this Act.”
 
@@ -397,6 +400,9 @@ George W. Bush.
 
 2007—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: “It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer.”
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-2000ee-2"></a>
 ## § 2000ee–2. Privacy and data protection policies and procedures
@@ -452,6 +458,9 @@ Section was formerly set out as a note under [section 552a of Title 5](https://u
 
 #### Amendments
 2007—Subsec. (d). Pub. L. 110–161 added subsec. (d) and struck out former subsec. (d) which related to independent, third-party reviews.
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Ex. Ord. No. 13719. Establishment of the Federal Privacy Council
 Ex. Ord. No. 13719, Feb. 9, 2016, 81 F.R. 7961, provided:

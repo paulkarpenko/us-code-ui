@@ -170,6 +170,8 @@ Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That no
 
 Similar provisions were contained in the following appropriations acts:
 
+Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 216.
+
 Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 645.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
@@ -1737,6 +1739,8 @@ Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in par
 
 Similar provisions were contained in the following appropriations acts:
 
+Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 216.
+
 Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 645.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
@@ -2692,23 +2696,23 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### References in Text
 The Mining and Minerals Policy Act of 1970 ([30 U.S.C. 21a](./chapter-002-mineral-lands-and-regulations-in-general.md#section-21a)), referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which enacted [section 21a of this title](./chapter-002-mineral-lands-and-regulations-in-general.md#section-21a) and provisions set out as a note under [section 21a of this title](./chapter-002-mineral-lands-and-regulations-in-general.md#section-21a). For complete classification of this Act to the Code, see Short Title note set out under [section 21a of this title](./chapter-002-mineral-lands-and-regulations-in-general.md#section-21a) and Tables.
 
-The National Environmental Policy Act of 1969 ([42 U.S.C. 4321–47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321–47&num=0&edition=prelim)), referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969 ([42 U.S.C. 4321–47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321–47&num=0&edition=prelim)), referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The Federal Metal and Nonmetallic Mine Safety Act ([30 U.S.C. 721–740](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section721–740&num=0&edition=prelim)), referred to in subsec. (a)(1), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322.
 
-The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742), referred to in subsec. (a)(2), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
+The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742), referred to in subsec. (a)(2), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
 
 The Federal Water Pollution Control Act (79 Stat. 903), referred to in subsec. (a)(3), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (a)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 The Solid Waste Disposal Act ([42 U.S.C. 3251–325](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3251–325&num=0&edition=prelim)9), referred to in subsec. (a)(5), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
 
 The Refuse Act of 1899 ([33 U.S.C. 407](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section407&num=0&edition=prelim)), referred to in subsec. (a)(6), probably means act Mar. 3, 1899, ch. 425, § 13, 30 Stat. 1152, which enacted [section 407 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section407&num=0&edition=prelim), Navigation and Navigable Waters.
 
-The Fish and Wildlife Coordination Act of 1934 ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), referred to in subsec. (a)(7), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim) and Tables.
+The Fish and Wildlife Coordination Act of 1934 ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), referred to in subsec. (a)(7), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
 
-The Mineral Leasing Act of 1920, as amended ([30 U.S.C. 181](./chapter-3a-leases-and-prospecting-permits.md#section-181) et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
+The Mineral Leasing Act of 1920, as amended ([30 U.S.C. 181](./chapter-3a-leases-and-prospecting-permits.md#section-181) et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
 
 <a id="section-1293"></a>
@@ -2872,7 +2876,7 @@ Subsec. (j). Pub. L. 109–432, § 209(a), added subsec. (j).
 
 
 <a id="section-1301"></a>
-## § 1301. Environmental practices
+## § 1301. Experimental practices
 
 In order to encourage advances in mining and reclamation practices or to allow post-mining land use for industrial, commercial, residential, or public use (including recreational facilities), the regulatory authority with approval by the Secretary may authorize departures in individual cases on an experimental basis from the environmental protection performance standards promulgated under sections 1265 and 1266 of this title. Such departures may be authorized if (i) the experimental practices are potentially more or at least as environmentally protective, during and after mining operations, as those required by promulgated standards; (ii) the mining operations approved for particular land-use or other purposes are not larger or more numerous than necessary to determine the effectiveness and economic feasibility of the experimental practices; and (iii) the experimental practices do not reduce the protection afforded public health and safety below that provided by promulgated standards.
 

@@ -22,7 +22,7 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 #### Ex. Ord. No. 13186. Responsibilities of Federal Agencies To Protect Migratory Birds
 Ex. Ord. No. 13186, Jan. 10, 2001, 66 F.R. 3853, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the migratory bird conventions, the Migratory Bird Treaty Act ([16 U.S.C. 703–711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section703–711&num=0&edition=prelim)), the Bald and Golden Eagle Protection Acts ([16 U.S.C. 668–668d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668–668d&num=0&edition=prelim)), the Fish and Wildlife Coordination Act ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), the Endangered Species Act of 1973 ([16 U.S.C. 1531–154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531–154&num=0&edition=prelim)4), the National Environmental Policy Act of 1969 ([42 U.S.C. 4321–434](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321–434&num=0&edition=prelim)7), and other pertinent statutes, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the migratory bird conventions, the Migratory Bird Treaty Act ([16 U.S.C. 703–711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section703–711&num=0&edition=prelim)), the Bald and Golden Eagle Protection Acts ([16 U.S.C. 668–668d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668–668d&num=0&edition=prelim)), the Fish and Wildlife Coordination Act ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim) [666c–1]), the Endangered Species Act of 1973 ([16 U.S.C. 1531–154](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531–154&num=0&edition=prelim)4), the National Environmental Policy Act of 1969 ([42 U.S.C. 4321–434](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321–434&num=0&edition=prelim)7), and other pertinent statutes, it is hereby ordered as follows:
 
 Section 1. Policy. Migratory birds are of great ecological and economic value to this country and to other countries. They contribute to biological diversity and bring tremendous enjoyment to millions of Americans who study, watch, feed, or hunt these birds throughout the United States and other countries. The United States has recognized the critical importance of this shared resource by ratifying international, bilateral conventions for the conservation of migratory birds. Such conventions include the Convention for the Protection of Migratory Birds with Great Britain on behalf of Canada 1916, the Convention for the Protection of Migratory Birds and Game Mammals-Mexico 1936, the Convention for the Protection of Birds and Their Environment-Japan 1972, and the Convention for the Conservation of Migratory Birds and Their Environment-Union of Soviet Socialist Republics 1978.
 
@@ -177,9 +177,43 @@ Pub. L. 106–108, Nov. 24, 1999, 113 Stat. 1491, provided that: “SECTION 1. S
 
 (2) place or direct the placement of bait on or adjacent to an area for the purpose of causing, inducing, or allowing any person to take or attempt to take any migratory game bird by the aid of baiting on or over the baited area.
 
+**(c) Federal Framework Closing Date for Hunting of Ducks, Mergansers, and Coots.—**
+
+(1) **Regulations relating to framework closing date.—**
+
+  (A) *In general.—* — In promulgating regulations under subsection (a) relating to the Federal framework for the closing date up to which the States may select seasons for migratory bird hunting, except as provided in paragraph (2), the Secretary shall, with respect to the hunting season for ducks, mergansers, and coots—
+
+    (i) subject to subparagraph (B), adopt the recommendation of each respective flyway council (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if the Secretary determines that the recommendation is consistent with science-based and sustainable harvest management; and
+
+    (ii) allow the States to establish the closing date for the hunting season in accordance with the Federal framework.
+
+  (B) *Requirement.—* — The framework closing date promulgated by the Secretary under subparagraph (A) shall not be later than January 31 of each year.
+
+(2) **Special hunting days for youths, veterans, and active military personnel.—**
+
+  (A) *In general.—* — Notwithstanding the Federal framework closing date under paragraph (1) and subject to subparagraphs (B) and (C), the Secretary shall allow States to select 2 days for youths and 2 days for veterans (as defined in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim)) and members of the Armed Forces on active duty, including members of the National Guard and Reserves on active duty (other than for training), to hunt eligible ducks, geese, swans, mergansers, coots, moorhens, and gallinules, if the Secretary determines that the addition of those days is consistent with science-based and sustainable harvest management. Such days shall be treated as separate from, and in addition to, the annual Federal framework hunting season lengths.
+
+  (B) *Requirements.—* — In selecting days under subparagraph (A), a State shall ensure that—
+
+    (i) the days selected—
+
+      (I) may only include the hunting of duck, geese, swan, merganser, coot, moorhen, and gallinule species that are eligible for hunting under the applicable annual Federal framework;
+
+      (II) are not more than 14 days before or after the Federal framework hunting season for ducks, mergansers, and coots; and
+
+      (III) are otherwise consistent with the Federal framework; and
+
+    (ii) the total number of days in a hunting season for any migratory bird species, including any days selected under subparagraph (A), is not more than 107 days.
+
+  (C) *Limitation.—* — A State may combine the 2 days allowed for youths with the 2 days allowed for veterans and members of the Armed Forces on active duty under subparagraph (A), but in no circumstance may a State have more than a total of 4 additional days added to its regular hunting season for any purpose.
+
+(3) **Regulations.—** — The Secretary shall promulgate regulations in accordance with this subsection for the Federal framework for migratory bird hunting for the 2019–2020 hunting season and each hunting season thereafter.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–9 added subsec. (c).
+
 1998—Pub. L. 105–312 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1936—Act June 20, 1936, substituted “conventions” for “convention” in two places.

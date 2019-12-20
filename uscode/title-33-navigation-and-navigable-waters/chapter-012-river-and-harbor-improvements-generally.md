@@ -261,7 +261,7 @@ Section is from Pub. L. 91–611, popularly known as the “Flood Control Act of
 
 (2) for which a final report by the Director of Civil Works has been completed.
 
-**(b) Notification to Committees** Upon completion of a final report referred to in subsection (a), the Secretary shall transmit a copy of the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+**(b) Notification to committees** Upon completion of a final report referred to in subsection (a), the Secretary shall transmit a copy of the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 ### Statutory Notes
 
@@ -535,7 +535,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 ### Statutory Notes
 
-Section, act Mar. 3, 1925, ch. 467, § 11, 43 Stat. 1197; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501,related to advancements by and repayments to local interests for river and harbor improvement projects.
+Section, act Mar. 3, 1925, ch. 467, § 11, 43 Stat. 1197; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501, related to advancements by and repayments to local interests for river and harbor improvement projects.
 
 
 <a id="section-561a"></a>
@@ -1306,7 +1306,7 @@ Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270,
 
 
 <a id="section-579d"></a>
-## § 579d. Deauthorization of inactive projects
+## § 579d. Deauthorization of inactive projects as of Public Law 114–322
 **(a) Purposes** The purposes of this section are—
 
 (1) to identify $10,000,000,000 in water resources development projects authorized by Congress that are no longer viable for construction due to—
@@ -1510,7 +1510,7 @@ Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322
 
 (1) **In general** — After the expiration of the 180-day period beginning on the date of submission of the final deauthorization list and appendix under subsection (c), a project or separable element of a project identified in the final deauthorization list is hereby deauthorized, unless Congress passes a joint resolution disapproving the final deauthorization list prior to the end of such period.
 
-(2) **Non-federal contributions**
+(2) **Non-Federal contributions**
 
   (A) *In general* — A project or separable element of a project identified in the final deauthorization list under subsection (c) shall not be deauthorized under this subsection if, before the expiration of the 180-day period referred to in paragraph (1), the non-Federal interest for the project or separable element of the project provides sufficient funds to complete the project or separable element of the project.
 

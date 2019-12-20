@@ -242,7 +242,7 @@ Subsec. (b)(1). Pub. L. 115–198, § 7(a)(2), substituted “2022” for “201
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–198, § 4(1), (3), substituted “United States should—” for “United States should”, inserted par. (1) designation before “facilitate”, and added par. (2).
 
-Subsec. (a)(1). Pub. L. 115–198, § 4(2), substituted “broadcasting, including news rebroadcasting,” for “radio broadcasting”, “increase such broadcasts, including news rebroadcasts,” for “increase broadcasts”, and “Voice of America; and” for “Voice of America.”.
+Subsec. (a)(1). Pub. L. 115–198, § 4(2), substituted “broadcasting, including news rebroadcasting,” for “radio broadcasting”, “increase such broadcasts, including news rebroadcasts,” for “increase broadcasts”, and “Voice of America; and” for “Voice of America.”
 
 
 <a id="section-7817"></a>
@@ -443,7 +443,7 @@ Subsecs. (b), (c). Pub. L. 115–198, § 7(d)(2), (3), added subsec. (b) and red
 
 (1) humanitarian assistance to North Korean refugees, defectors, migrants, and orphans outside of North Korea, which may include support for refugee camps or temporary settlements; and
 
-(2) humanitarian assistance to North Korean women outside of North Korea who are victims of trafficking, as defined in [section 7102(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/15&num=0&edition=prelim), or are in danger of being trafficked.
+(2) humanitarian assistance to North Korean women outside of North Korea who are victims of trafficking, as defined in section 7102(15) 11 See References in Text note below. of this title, or are in danger of being trafficked.
 
 **(c) Authorization of appropriations**
 
@@ -452,6 +452,9 @@ Subsecs. (b), (c). Pub. L. 115–198, § 7(d)(2), (3), added subsec. (b) and red
 (2) **Availability** — Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 7102(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/15&num=0&edition=prelim), referred to in subsec. (b)(2), was redesignated [section 7102(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/17&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Amendments
 2018—Subsec. (c)(1). Pub. L. 115–198 substituted “2018 through 2022” for “2013 through 2017”.

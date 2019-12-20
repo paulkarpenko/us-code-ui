@@ -82,7 +82,7 @@ Pub. L. 103–448, § 2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106
 Pub. L. 103–448, title I, § 125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program under this chapter and school breakfast program under [section 1773 of this title](./chapter-13a-child-nutrition.md#section-1773).
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
-Pub. L. 103–448, title III, § 301, Nov. 2, 1994, 108 Stat. 4749, as amended by Pub. L. 106–78, title VII, § 752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that: “(a) In General.—Notwithstanding any provision of [the] Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act [Nov. 2, 1994], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) into a comprehensive meal program. “(b) Requirements.—In establishing the comprehensive meal program under subsection (a), the Secretary shall meet the following requirements:“(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1758(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a/1&num=0&edition=prelim)) and section 4(e)(1) of the Child Nutrition Act of 1966 ([42 U.S.C. 1773(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1773/e/1&num=0&edition=prelim)). “(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.). “(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760](./chapter-013-school-lunch-programs.md#section-1760)(l)(4)). “(c) Plan and Recommendations.—“(1) Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program. “(2) Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
+Pub. L. 103–448, title III, § 301, Nov. 2, 1994, 108 Stat. 4749, as amended by Pub. L. 106–78, title VII, § 752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that: “(a) In General.—Notwithstanding any provision of [the] Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act [Nov. 2, 1994], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) into a comprehensive meal program. “(b) Requirements.—In establishing the comprehensive meal program under subsection (a), the Secretary shall meet the following requirements:“(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1758(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a/1&num=0&edition=prelim)) and section 4(e)(1) of the Child Nutrition Act of 1966 ([42 U.S.C. 1773(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1773/e/1&num=0&edition=prelim)). “(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.). “(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760](./chapter-013-school-lunch-programs.md#section-1760)(l)(4)). “(c) Plan and Recommendations.—“(1) Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program. “(2) Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 Pub. L. 103–448, title III, § 302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States, in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schools that participate in the school lunch program under this chapter or the school breakfast program under [section 1773 of this title](./chapter-13a-child-nutrition.md#section-1773).
@@ -327,7 +327,7 @@ shall be available to the Secretary during such year for direct expenditure by t
 
   (A) commodity assistance provided under this section, including cash in lieu of commodities and administrative costs for procurement of commodities under this section; or
 
-  (B) during the period beginning October 1, 2003, and ending September 30, 2020, commodities provided by the Secretary under any provision of law.
+  (B) during the period beginning October 1, 2003, and ending September 30, 2018, commodities provided by the Secretary under any provision of law.
 
 (2) If amounts available to carry out the requirements of the sections described in paragraph (1) are insufficient to meet the requirement contained in paragraph (1) for a school year, the Secretary shall, to the extent necessary, use the authority provided under [section 1762a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1762a/a&num=0&edition=prelim) to meet the requirement for the school year.
 
@@ -386,6 +386,8 @@ Subsection (c), referred to in subsec. (b), was repealed and subsec. (e) was red
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2019—Subsec. (e)(1)(B). Pub. L. 116–6 substituted “September 30, 2018” for “September 30, 2020”.
+
 2014—Subsec. (f). Pub. L. 113–79 added subsec. (f).
 
 2010—Subsec. (e)(1)(B). Pub. L. 111–296 substituted “2020” for “2010”.
@@ -528,9 +530,6 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c), is
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -1339,13 +1338,13 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 (2) **State and local government inspections** — Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
 
-(3) **Audits and reports by States** — For fiscal year 2018, each State shall annually—
+(3) **Audits and reports by States** — For fiscal year 2019, each State shall annually—
 
   (A) audit food safety inspections of schools conducted under paragraphs (1) and (2); and
 
   (B) submit to the Secretary a report of the results of the audit.
 
-(4) **Audit by the Secretary** — For fiscal year 2018, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+(4) **Audit by the Secretary** — For fiscal year 2019, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
 
 (5) **School food safety program**
 
@@ -1420,13 +1419,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
-2018—Subsec. (h)(3). Pub. L. 115–141, which directed substitution of “for fiscal year 2018” for “for fiscal year 2017”, was executed by substituting “For fiscal year 2018” for “For fiscal year 2017”, to reflect the probable intent of Congress.
+2019—Subsec. (h)(3). Pub. L. 116–6, which directed substitution of “For fiscal year 2019” for “For fiscal year 2018”, was executed by making the substitution for “for fiscal year 2018” in introductory provisions, to reflect the probable intent of Congress.
 
-Subsec. (h)(4). Pub. L. 115–141, which directed substitution of “for fiscal year 2018” for “for fiscal year 2017”, was executed by substituting “For fiscal year 2018” for “For fiscal year 2017”, to reflect the probable intent of Congress.
+Subsec. (h)(4). Pub. L. 116–6, which directed substitution of “For fiscal year 2019” for “For fiscal year 2018”, was executed by making the substitution for “for fiscal year 2018”, to reflect the probable intent of Congress.
 
-2017—Subsec. (h)(3). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by substituting “For fiscal year 2017” for “For each of fiscal years 2011 through 2015”, to reflect the probable intent of Congress.
+2018—Subsec. (h)(3). Pub. L. 115–141, substituted “for fiscal year 2018” for “for fiscal year 2017” in introductory provisions.
 
-Subsec. (h)(4). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by substituting “For fiscal year 2017” for “For each of fiscal years 2011 through 2015”, to reflect the probable intent of Congress.
+Subsec. (h)(4). Pub. L. 115–141, substituted “for fiscal year 2018” for “for fiscal year 2017”.
+
+2017—Subsec. (h)(3). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by making the substitution for “For each of fiscal years 2011 through 2015” in introductory provisions, to reflect the probable intent of Congress.
+
+Subsec. (h)(4). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by making the substitution for “For each of fiscal years 2011 through 2015”, to reflect the probable intent of Congress.
 
 2011—Subsec. (l). Pub. L. 112–55 added subsec. (l).
 
@@ -1708,9 +1711,6 @@ Subsec. (c). Pub. L. 92–433, § 5(c), designated eighth through thirteenth sen
 
 1968—Pub. L. 90–302 provided that minimum nutritional requirements prescribed by the Secretary on basis of tested nutritional research which lunches served by participating schools must meet could not be construed to prohibit substitution of foods to accommodate medical or other special dietary needs of individual students.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
 
@@ -1808,9 +1808,6 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2),
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -2825,9 +2822,6 @@ Subsec. (d). Pub. L. 87–823 redefined “State” in par. (1) to recognize Haw
 Pub. L. 87–688 inserted “American Samoa,” after “Guam”.
 
 1952—Subsec. (d)(1). Act July 12, 1952, included Guam within definition of State.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -5674,9 +5668,6 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 A prior section 1769a, act June 4, 1946, ch. 281, § 19, formerly § 21, as added Nov. 10, 1977, Pub. L. 95–166, § 13, 91 Stat. 1338; renumbered § 19, Oct. 18, 1986, Pub. L. 99–500, title III, § 371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, § 371(c)(1), 100 Stat. 3341–372; renumbered § 19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, § 4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, § 108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, § 119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), prior to repeal by Pub. L. 104–193, title VII, § 710, Aug. 22, 1996, 110 Stat. 2301.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
@@ -6543,9 +6534,6 @@ Section effective Oct. 1, 2010, except as otherwise specifically provided, see s
 #### Amendments
 1998—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “the homeless children nutrition program established under [section 1766b of this title](./chapter-013-school-lunch-programs.md#section-1766b);”.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of Pub. L. 105–336, set out as a note under [section 1761 of this title](./chapter-013-school-lunch-programs.md#section-1761).
 
@@ -6584,11 +6572,13 @@ Pub. L. 103–448, title I, § 122(c), Nov. 2, 1994, 108 Stat. 4731, provided th
 
 **(c) Audits** The Secretary shall establish fair and reasonable auditing procedures regarding the expenditures of funds to carry out this section.
 
-**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2018. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2019. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–6 substituted “2010 through 2019” for “2010 through 2018”.
+
 2018—Subsec. (d). Pub. L. 115–141 substituted “2010 through 2018” for “2010 through 2017”.
 
 2017—Subsec. (d). Pub. L. 115–31, which directed substitution of “2010 through 2017” for “2010 through 2016” in first sentence, could not be executed because of the prior identical amendment by Pub. L. 114–223, § 148. See 2016 Amendment note below.

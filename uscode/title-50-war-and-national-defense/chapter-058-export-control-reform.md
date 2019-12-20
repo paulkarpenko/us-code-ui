@@ -2,22 +2,24 @@
 title: 50
 chapter: '58'
 heading: EXPORT CONTROL REFORM
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
 <a id="section-4801"></a>
-## § 4801. Under Secretary of Commerce for Industry and Security
-**(a) In general** On and after August 13, 2018, any reference in any law or regulation to the Under Secretary of Commerce for Export Administration shall be deemed to be a reference to the Under Secretary of Commerce for Industry and Security.
+## § 4801. Assistant Secretaries of Commerce
+**(a) In general** The President shall appoint, by and with the advice and consent of the Senate, two Assistant Secretaries of Commerce to assist the Under Secretary of Commerce for Industry and Security in carrying out the functions described in paragraphs (1) and (2) of [section 4851(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4851/a&num=0&edition=prelim).
 
-**(b) Omittedd**
-
-**(c) Continuation in office** The individual serving as Under Secretary of Commerce for Export Administration on the day before August 13, 2018, may serve as the Under Secretary of Commerce for Industry and Security on and after that date without the need for renomination or reappointment.
+**(b) Continuation in office of one Assistant Secretary** An individual appointed as an Assistant Secretary of Commerce under section 15(a) of the Export Administration Act of 1979 11 See References in Text note below. (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) et seq.)) and serving in that position on the day before the date of the enactment of this Act may serve in one of the Assistant Secretary positions established under subsection (a) on and after that date without the need for renomination or reappointment.
 
 ### Statutory Notes
 
-#### Codification
-Section is comprised of section 1781 of Pub. L. 115–232. Subsec. (b) of section 1781 of Pub. L. 115–232 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+#### References in Text
+Section 15(a) of the Export Administration Act of 1979, referred to subsec. (b), was classified to [section 4617(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4617/a&num=0&edition=prelim) prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+The International Emergency Economic Powers Act ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) et seq.), referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701) and Tables.
+
+The date of the enactment of this Act, referred to in subsec. (b), probably means the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
 
 
 <a id="section-4811"></a>
@@ -362,7 +364,7 @@ IEEPA, referred to in subsec. (b), is the International Emergency Economic Power
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (b)(1), (2), and (c), was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+This subchapter, referred to in subsecs. (b)(1), (2) and (c), was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
 
 Executive Order 12981, referred to in subsec. (c), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former [section 4603 of this title](./chapter-056-export-administration.md#section-4603).
 
@@ -415,6 +417,19 @@ This subchapter, referred to in subsecs. (a) to (c), was in the original “this
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+
+#### Delegation of Authorities Under Section 1757 of the National Defense Authorization Act for Fiscal Year 2019
+Memorandum of President of the United States, Nov. 26, 2018, 83 F.R. 61503, provided:
+
+Memorandum for the Secretary of Commerce
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of Commerce the functions and authorities vested in the President by section 1757 of the [John S. McCain] National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) [[50 U.S.C. 4816](./chapter-058-export-control-reform.md#section-4816)].
+
+The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-4818"></a>
@@ -573,7 +588,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (g)(2), 
 
 (1) the scope of controls under title 15, Code of Federal Regulations, that apply to exports, reexports, and in-country transfers for military end uses and military end users in countries that are subject to a comprehensive United States arms embargo and countries that are subject to a United Nations arms embargo; and
 
-(2) entries on the Commerce Control List maintained under title 15, Code of Federal Regulations, that are not subject to a license requirement for the export, reexport, or in-country transfer of items to countries subject to a comprehensive United States arms embargo;
+(2) entries on the Commerce Control List maintained under title 15, Code of Federal Regulations, that are not subject to a license requirement for the export, reexport, or in-country transfer of items to countries subject to a comprehensive United States arms embargo; 11 So in original. The semicolon probably should be a period.
 
 **(b) Implementation of results of review** Not later than 270 days after August 13, 2018, the Secretary shall implement the results of the review conducted under subsection (a).
 
@@ -710,7 +725,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (e)(1)(B
 
 (8) execute warrants and make arrests.
 
-**(b) Undercover Investigations**
+**(b) Undercover investigations**
 
 (1) **In general** — Amounts made available to carry out this subchapter may be used by the Secretary to carry out undercover investigations that are necessary for detection and prosecution of violations of this subchapter, including to—
 
@@ -796,7 +811,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (e)(1)(B
 
   (D) *Information sharing with Federal agencies* — Licensing or enforcement information obtained under this subchapter may be shared with departments, agencies, and offices that do not have enforcement authorities under this subchapter on a case-by-case basis.
 
-**(i) Reporting Requirements** In the administration of this section, reporting requirements shall be designed to reduce the cost of reporting, recordkeeping, and documentation to the extent consistent with effective enforcement and compilation of useful trade statistics. Reporting, recordkeeping, and documentation requirements shall be periodically reviewed and revised in the light of developments in the field of information technology.
+**(i) Reporting requirements** In the administration of this section, reporting requirements shall be designed to reduce the cost of reporting, recordkeeping, and documentation to the extent consistent with effective enforcement and compilation of useful trade statistics. Reporting, recordkeeping, and documentation requirements shall be periodically reviewed and revised in the light of developments in the field of information technology.
 
 **(j) Civil forfeiture**
 
@@ -862,6 +877,19 @@ This subchapter, referred to in subsec. (a), was in the original “this part”
 #### References in Text
 Executive Order 12981, referred to in subsec. (c), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former [section 4603 of this title](./chapter-056-export-administration.md#section-4603).
 
+#### Delegation of Authorities and Responsibilities Under Section 1763 of the National Defense Authorization Act for Fiscal Year 2019
+Memorandum of President of the United States, Jan. 15, 2019, 84 F.R. 197, provided:
+
+Memorandum for the Secretary of Commerce
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of Commerce, in coordination with executive departments and agencies through the National Security Presidential Memorandum–4 [[50 U.S.C. 3021](./chapter-044-national-security.md#section-3021) note] process, the functions and authorities vested in the President by section 1763 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) [[50 U.S.C. 4822](./chapter-058-export-control-reform.md#section-4822)].
+
+The delegation of authorities and responsibilities in this memorandum shall apply to any provision of any future public law that are the same or substantially the same as the provision referenced in this memorandum.
+
+The Secretary of Commerce is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-4824"></a>
 ## § 4824. Consultation with other agencies on commodity classification
@@ -887,7 +915,7 @@ Notwithstanding any other provision of law, the Secretary shall consult with the
 
 (7) a summary of approved license applications to proscribed persons;
 
-(8) efforts undertaken within the previous year to comply with the requirements of section 481711 See References in Text note below. of this title, including any critical technologies identified under such section and how or whether such critical technologies were controlled for export; and
+(8) efforts undertaken within the previous year to comply with the requirements of section 4817 11 See References in Text note below. of this title, including any critical technologies identified under such section and how or whether such critical technologies were controlled for export; and
 
 (9) a summary of industrial base assessments conducted during the previous year by the Department of Commerce, including with respect to counterfeit electronics, foundational technologies, and other research and analysis of critical technologies and industrial capabilities of key defense-related sectors.
 
@@ -1043,3 +1071,38 @@ Subchapter I, referred to in subsec. (b)(1), was in the original “part I”, m
 
 #### References in Text
 Subchapter I, referred to in subsec. (b)(2), (3), was in the original “part I”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+
+
+<a id="section-4852"></a>
+## § 4852. Under Secretary of Commerce for Industry and Security
+**(a) Under Secretary of Commerce for Industry and Security** The President shall appoint, by and with the advice and consent of the Senate, an Under Secretary of Commerce for Industry and Security, who shall carry out—
+
+(1) all functions of the Secretary under this chapter; and
+
+(2) all functions delegated to the Under Secretary of Commerce for Export Administration on the day before the date of the enactment of this Act.
+
+**(b) Reference** On and after August 13, 2018, any reference in any law or regulation to the Under Secretary of Commerce for Export Administration shall be deemed to be a reference to the Under Secretary of Commerce for Industry and Security.
+
+**(c) Omitted**
+
+**(d) Continuation in office** The individual serving as Under Secretary of Commerce for Export Administration on the day before August 13, 2018, may serve as the Under Secretary of Commerce for Industry and Security on and after that date without the need for renomination or reappointment.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, known as the Export Control Reform Act of 2018, which is classified principally to this chapter. For complete classification of subtitle B to the Code, see section 1741 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+
+The date of the enactment of this Act, referred to in subsec. (a)(2), probably means the date of enactment of Pub. L. 115–232, which enacted this section and was approved Aug. 13, 2018.
+
+#### Codification
+Section is comprised of section 1781 of Pub. L. 115–232. Subsec. (c) of section 1781 of Pub. L. 115–232 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2019—Pub. L. 116–6, § 205(a)(3), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (b). Pub. L. 116–6, § 205(a)(1), (2), redesignated subsec. (a) as (b) and substituted “Reference” for “In general” in heading. Former subsec. (b) redesignated (c).
+
+Subsecs. (c), (d). Pub. L. 116–6, § 205(a)(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–6, div. H, title II, § 205(d), Feb. 15, 2019, 133 Stat. 477, provided that: “The amendments made by this section [amending this section and [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees] shall take effect as if included in the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232).”

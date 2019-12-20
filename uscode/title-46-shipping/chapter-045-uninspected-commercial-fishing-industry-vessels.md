@@ -407,7 +407,7 @@ Subsec. (c)(2)(B)(ii)(II). Pub. L. 115–282, § 508(b)(4), substituted “subse
 
 Subsec. (d). Pub. L. 115–282, § 508(b)(1), redesignated subsec. (e) as (d).
 
-Pub. L. 115–282, § 508(a), redesignated and transferred subsec. (d) as [section 4503a of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4503a).
+Pub. L. 115–282, § 508(a), redesignated subsec. (d) as [section 4503a of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4503a).
 
 Subsec. (e). Pub. L. 115–282, § 508(b)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -498,9 +498,7 @@ Section, as added and amended by Pub. L. 115–282, is based on Pub. L. 111–28
 #### Amendments
 2018—Pub. L. 115–282, § 508(c)(2), inserted section designation and catchline before subsec. (a).
 
-Pub. L. 115–282, § 508(c)(1), redesignated pars. (1) to (5) as subsecs. (a) to (e), respectively.
-
-Pub. L. 115–282, § 508(a), renumbered [section 4503(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim) as this section.
+Pub. L. 115–282, § 508(a), (c)(1), renumbered [section 4503(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim) as this section and redesignated pars. (1) to (5) thereof as subsecs. (a) to (e), respectively.
 
 Subsec. (a). Pub. L. 115–282, § 508(c)(4), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
 

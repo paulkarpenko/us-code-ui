@@ -9,17 +9,47 @@ source: >-
 <a id="section-3001"></a>
 ## § 3001. Procedure governed by rules; scope, purpose and effect; definition of terms; local rules; forms—(Rule)
 
+### Notes
+
+Scope, rule 1.
+
+Purpose and construction, rule 2.
+
+Proceedings to which rules apply, rules 54 and 59.
+
+Definition, rule 54(c).
+
+Rules of District Courts and Circuit Courts of Appeal, rule 57.
+
+Forms, rule 58.
+
+Effective date, rule 59.
+
+Citation of rule, rule 60.
+
 
 <a id="section-3002"></a>
 ## § 3002. Courts always open—(Rule)
+
+### Notes
+
+Business hours, rule 56.
 
 
 <a id="section-3003"></a>
 ## § 3003. Calendars—(Rule)
 
+### Notes
+
+Preference to criminal cases, rule 50.
+
 
 <a id="section-3004"></a>
 ## § 3004. Decorum in court room—(Rule)
+
+### Notes
+
+Photographing or radio broadcasting prohibited, rule 53.
 
 
 <a id="section-3005"></a>
@@ -40,6 +70,12 @@ Changes were made in phraseology.
 
 <a id="section-3006"></a>
 ## § 3006. Assignment of counsel—(Rule)
+
+### Notes
+
+Appointment by court, rule 44.
+
+Accused to be informed of right to counsel, rules 5 and 44.
 
 
 <a id="section-3006a"></a>
@@ -392,9 +428,19 @@ Pub. L. 88–455, § 3, Aug. 20, 1964, 78 Stat. 554, directed each district cour
 <a id="section-3007"></a>
 ## § 3007. Motions—(Rule)
 
+### Notes
+
+Motions substituted for pleas in abatement and special pleas in bar, rule 12.
+
+Form and contents, rule 47.
+
 
 <a id="section-3008"></a>
 ## § 3008. Service and filing of papers—(Rule)
+
+### Notes
+
+Requirement and manner of service; notice of orders; filing papers, rule 49.
 
 
 <a id="section-3009"></a>
@@ -408,13 +454,25 @@ Pub. L. 88–455, § 3, Aug. 20, 1964, 78 Stat. 554, directed each district cour
 #### Change of Name
 Words “magistrate judges” substituted for “magistrates” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+### Notes
+
+Keeping of records by district court clerks and magistrate judges, rule 55.
+
 
 <a id="section-3010"></a>
 ## § 3010. Exceptions unnecessary—(Rule)
 
+### Notes
+
+Objections substituted for exceptions, rule 51.
+
 
 <a id="section-3011"></a>
 ## § 3011. Computation of time—(Rule)
+
+### Notes
+
+Computation: enlargement; expiration of term; motions and affidavits; service by mail, rule 45.
 
 
 <a id="section-3012"></a>
@@ -540,7 +598,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 (3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim))) under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
 
-(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act shall continue to apply to the amounts transferred pursuant to paragraph (1).
+(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act,,22 So in original. section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
 ### Statutory Notes
 
@@ -557,7 +615,15 @@ Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referre
 
 Section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (h)(4), is section 50901(e) of Pub. L. 115–123, div. E, title IX, Feb. 9, 2018, 132 Stat. 289. Section 50901(e) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
 
+Section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, referred to in subsec. (h)(4), is section 1101(d) of Pub. L. 116–59, div. B, title I, Sept. 27, 2019, 133 Stat. 1102. Section 1101(d) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
+
+Section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019, referred to in subsec. (h)(4), is section 1101(d) of Pub. L. 116–69, div. B, title I, Nov. 21, 2019, 133 Stat. 1136. Section 1101(d) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
+
 #### Amendments
+2019—Subsec. (h)(4). Pub. L. 116–69 substituted “, section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019, and section 1101(d) of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019” for “and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019”.
+
+Pub. L. 116–59 substituted “, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, and section 1101(d) of division B of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019” for “and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act”.
+
 2018—Subsec. (a). Pub. L. 115–392, § 2(b)(1), substituted “September 30, 2021” for “September 30, 2019” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 115–392, § 2(b)(2), substituted “2023” for “2019” in introductory provisions.

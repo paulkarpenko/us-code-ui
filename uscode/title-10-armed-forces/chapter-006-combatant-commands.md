@@ -73,6 +73,21 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
+#### Establishment of United States Space Command as a Unified Combatant Command
+Memorandum of President of the United States, Dec. 18, 2018, 83 F.R. 65483, provided:
+
+Memorandum for the Secretary of Defense
+
+Pursuant to my authority as the Commander in Chief and under [section 161 of title 10](./chapter-006-combatant-commands.md#section-161), United States Code, and in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, I direct the establishment, consistent with United States law, of United States Space Command as a functional Unified Combatant Command. I also direct the Secretary of Defense to recommend officers for my nomination and Senate confirmation as Commander and Deputy Commander of the new United States Space Command.
+
+I assign to United States Space Command: (1) all the general responsibilities of a Unified Combatant Command; (2) the space-related responsibilities previously assigned to the Commander, United States Strategic Command; and (3) the responsibilities of Joint Force Provider and Joint Force Trainer for Space Operations Forces. The comprehensive list of authorities and responsibilities for United States Space Command will be included in the next update to the Unified Command Plan.
+
+Consistent with [section 161(b)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/b/2&num=0&edition=prelim), United States Code, and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, you are directed to notify the Congress on my behalf.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-162"></a>
 ## § 162. Combatant commands: assigned forces; chain of command
@@ -741,7 +756,7 @@ Section, added Pub. L. 108–136, div. A, title VIII, § 848(a)(1), Nov. 24, 200
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2017—Subsec. (d). Pub. L. 115–91, § 1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.

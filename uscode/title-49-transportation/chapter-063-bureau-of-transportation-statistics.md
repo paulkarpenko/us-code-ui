@@ -144,19 +144,14 @@ Pub. L. 112–141, div. E, title II, § 52011(b), July 6, 2012, 126 Stat. 895, p
 
 (3) **Exceptions.—** — The Secretary shall direct external support functions, such as the coordination of activities involving multiple modal administrations.
 
-(4) **Information technology.—** — The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).
+(4) **Information technology.—** — The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with [section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)(4)
-Pub. L. 115–435, title III, § 302(c)(3)(A), title IV, § 403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, subsection (d)(4) of this section is amended by striking “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).” and inserting “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” See 2019 Amendment note below.
 
 #### References in Text
 Executive Order 12906, referred to in subsec. (b)(3)(B)(vii), is Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, which is set out as a note under [section 1457 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1457&num=0&edition=prelim), Public Lands.
 
 The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(B)(ix)(I), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
-
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (d)(4), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
 #### Amendments
 2019—Subsec. (d)(4). Pub. L. 115–435 substituted “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” for “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).”
@@ -583,17 +578,12 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
   (B) are consistent with applicable security constraints and confidentiality interests; and
 
-(2) the data acquired, regardless of source, shall be protected in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).
+(2) the data acquired, regardless of source, shall be protected in accordance with [section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(2)
-Pub. L. 115–435, title III, § 302(c)(3)(B), title IV, § 403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, subsection (d)(2) this section is amended by striking “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).” and inserting “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” See 2019 Amendment note below.
-
 #### References in Text
 The date of the enactment of the Transportation for Tomorrow Act of 2015, referred to in subsec. (c)(2), (3), is the date of enactment of title VI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
-
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (d)(2), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
 #### Amendments
 2019—Subsec. (d)(2). Pub. L. 115–435 substituted “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” for “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).”

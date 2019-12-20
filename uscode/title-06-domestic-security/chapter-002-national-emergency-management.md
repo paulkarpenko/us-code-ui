@@ -77,6 +77,9 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 #### Effective Date
 Pub. L. 109–295, title VI, § 614, Oct. 4, 2006, 120 Stat. 1411, provided that: “(a) In General.—Except as provided in subsection (b), this title [see Tables for classification] and the amendments made by this title shall take effect on the date of enactment of this Act [Oct. 4, 2006]. “(b) Exceptions.—The following shall take effect on March 31, 2007:“(1) The amendments made by section 611(11) [enacting [section 313 of this title](./chapter-001-homeland-security-organization.md#section-313)]. “(2) The amendments made by section 611(12) [amending [section 314 of this title](./chapter-001-homeland-security-organization.md#section-314)]. “(3) Sections 505, 507, 508, and 514 of the Homeland Security Act of 2002 [sections 315, 317, 318, and 321c of this title], as amended by section 611(13) of this Act. “(4) The amendments made by subsection (a) [sic]. “(5) The amendments made by subsection (b)(1) [sic].”
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–64, § 1, Oct. 9, 2019, 133 Stat. 1122, provided that: “This Act [amending [section 748 of this title](./chapter-002-national-emergency-management.md#section-748)] may be cited as the ‘Terrorist and Foreign Fighter Travel Exercise Act of 2019’.”
+
 #### Short Title
 Pub. L. 109–295, title VI, § 601, Oct. 4, 2006, 120 Stat. 1394, provided that: “This title [see Tables for classification] may be cited as the ‘Post-Katrina Emergency Management Reform Act of 2006’.”
 
@@ -360,7 +363,7 @@ This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006
 
   (A) shall be—
 
-    (i) as realistic as practicable, based on current risk assessments, including credible threats, vulnerabilities, and consequences, and designed to stress the national preparedness system;
+    (i) as realistic as practicable, based on current risk assessments, including credible and emerging threats, vulnerabilities, and consequences, and designed to stress the national preparedness system;
 
     (ii) designed, as practicable, to simulate the partial or complete incapacitation of a State, local, or tribal government;
 
@@ -389,6 +392,8 @@ This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(2)(A)(i). Pub. L. 116–64 inserted “and emerging” after “credible”.
+
 2007—Subsec. (b)(2)(A)(iv) to (vi). Pub. L. 110–53, § 402, added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
 
 “(iv) designed to provide for systematic evaluation of readiness; and

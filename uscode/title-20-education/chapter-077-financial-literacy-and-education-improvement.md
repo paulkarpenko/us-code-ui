@@ -637,8 +637,5 @@ The Financial Literacy and Education Improvement Act, referred to in subsec. (a)
 #### Codification
 Section was enacted as part of the Higher Education Opportunity Act, and also as part of the Private Student Loan Transparency and Improvement Act of 2008, and not as part of the Financial Literacy and Education Improvement Act which comprises this chapter.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Definitions
 Pub. L. 110–315, title X, § 1041, Aug. 14, 2008, 122 Stat. 3489, provided that: “As used in this subtitle [subtitle D (§§ 1041, 1042) of title X of Pub. L. 110–315, enacting this section]— “(1) the terms ‘covered educational institution’, ‘private educational lender’, and ‘private education loan’ have the same meanings as in section 140 of the Truth in Lending Act [[15 U.S.C. 1650](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650&num=0&edition=prelim)], as added by this Act; “(2) the term ‘historically Black colleges and universities’ means a ‘part B institution’, within the meaning of section 322 of the Higher Education Act of 1965 ([20 U.S.C. 1061](./chapter-028-higher-education-resources-and-student-assistance.md#section-1061)))[sic]; and “(3) the term ‘land-grant colleges and universities’ has the same meaning as in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim)).”

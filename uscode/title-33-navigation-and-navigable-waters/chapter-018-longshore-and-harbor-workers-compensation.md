@@ -1117,15 +1117,18 @@ Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321�
 <a id="section-921a"></a>
 ## § 921a. Appearance of attorneys for Secretary, deputy commissioner, or Board
 
-Attorneys appointed by the Secretary shall represent the Secretary, the deputy commissioner, or the Board in any court proceedings under [section 921 of this title](./chapter-018-longshore-and-harbor-workers-compensation.md#section-921) or other provisions of this chapter except for proceedings in the Supreme Court of the United States.
+Attorneys appointed by the Secretary shall represent the Secretary, the deputy commissioner, or the Board in any court proceedings under section 21 [[33 U.S.C. 921](./chapter-018-longshore-and-harbor-workers-compensation.md#section-921)] or other provisions of this Act 11 See References in Text note below. except for proceedings in the Supreme Court of the United States.
 
 ### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, probably should have been a reference to act Mar. 4, 1927, ch. 509, 44 Stat. 1424, known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to this chapter. This section was not enacted as part of that Act, see Codification note below. For complete classification of act Mar. 4, 1927, to the Code, see [section 901 of this title](./chapter-018-longshore-and-harbor-workers-compensation.md#section-901) and Tables.
 
 #### Codification
 Section was not enacted as part of the Longshore and Harbor Workers’ Compensation Act which comprises this chapter.
 
 #### Amendments
-1972—Pub. L. 92–576 substituted provisions for representation of the Secretary, the deputy commissioner, or the Board by attorneys appointed by the Secretary except for proceedings in the Supreme Court, for former provisions requiring the United States attorney in the judicial district in which the case is pending to appear as attorney or counsel on behalf of the Secretary of Labor or his deputy commissioner when either is a party to the case or interested, and to represent such Secretary or deputy in any court in which such case may be carried on appeal.
+1972—Pub. L. 92–576, which directed the general amendment of “[s]ection 21a of the Act”, meaning section 21a of act Mar. 4, 1927, was executed to this section, which is act May 4, 1928, ch. 502, to reflect the probable intent of Congress. Act Mar. 4, 1927, does not contain a section 21a. Prior to amendment, section required the United States attorney in the judicial district in which a case was pending to appear as attorney or counsel on behalf of the Secretary of Labor or his deputy commissioner when either was a party to the case or interested, and to represent such Secretary or deputy in any court in which such case could be carried on appeal.
 
 #### Change of Name
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney of the United States”. See [section 541 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section541&num=0&edition=prelim), Judiciary and Judicial Procedure, and Historical and Revision note thereunder.

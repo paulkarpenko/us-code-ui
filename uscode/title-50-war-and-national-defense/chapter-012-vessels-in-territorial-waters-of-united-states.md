@@ -18,11 +18,13 @@ Section, act June 15, 1917, ch. 30, title II, § 1, 40 Stat. 220; Aug. 9, 1950, 
 <a id="section-191a"></a>
 ## § 191a. Transfer of Secretary of Transportation’s powers to Secretary of Navy when Coast Guard operates as part of Navy
 
-When the Coast Guard operates as a part of the Navy pursuant to section 3 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, the powers conferred on the Secretary of Transportation by section 191 22 See References in Text note below. of this title, shall vest in and be exercised by the Secretary of the Navy.
+When the Coast Guard operates as a part of the Navy pursuant to section 3 11 See References in Text note below. of title 14, the powers conferred on the Secretary of Transportation by section 191 1 of this title, shall vest in and be exercised by the Secretary of the Navy.
 
 ### Statutory Notes
 
 #### References in Text
+[Section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), referred to in text, was redesignated [section 103 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section103&num=0&edition=prelim) by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to [section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 [Section 191 of this title](./chapter-012-vessels-in-territorial-waters-of-united-states.md#section-191), referred to in text, was redesignated and transferred to [section 70051 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim), Shipping, by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
 
 #### Amendments
@@ -35,9 +37,6 @@ Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 “Secretary of Transportation” substituted in text for “Secretary of the Treasury” pursuant to section 6(b)(1) of Pub. L. 89–670, which transferred Coast Guard to Department of Transportation and transferred to and vested in Secretary of Transportation functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other officers and offices of Department of the Treasury. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim) redesignated [section 103 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section103&num=0&edition=prelim) by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to [section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-191b"></a>

@@ -575,6 +575,8 @@ A prior section 678 of Pub. L. 97–35 was classified to [section 9907 of this t
 ### Statutory Notes
 
 #### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -675,6 +677,8 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 ### Statutory Notes
 
 #### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -810,6 +814,8 @@ A prior section 679 of Pub. L. 97–35 was classified to [section 9908 of this t
 A prior section 680 of Pub. L. 97–35 was classified to [section 9909 of this title](./chapter-106-community-services-block-grant-program.md#section-9909), prior to the general amendment of this chapter by Pub. L. 105–285.
 
 #### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
@@ -908,6 +914,8 @@ Pub. L. 106–113, div. B, § 1000(a)(4) [title II], Nov. 29, 1999, 113 Stat. 15
 A prior section 681 of Pub. L. 97–35 was classified to [section 9910 of this title](./chapter-106-community-services-block-grant-program.md#section-9910), prior to the general amendment of this chapter by Pub. L. 105–285.
 
 #### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 

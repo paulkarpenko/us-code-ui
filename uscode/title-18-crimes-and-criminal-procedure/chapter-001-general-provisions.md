@@ -16,6 +16,11 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–72, § 1, Nov. 25, 2019, 133 Stat. 1151, provided that: “This Act [amending [section 48 of this title](./chapter-003-animals-birds-fish-and-plants.md#section-48)] may be cited as the ‘Preventing Animal Cruelty and Torture Act’ or the ‘PACT Act’.”
+
+Pub. L. 116–31, § 1, July 25, 2019, 133 Stat. 1034, provided that: “This Act [amending [section 175b of this title](./chapter-010-biological-weapons.md#section-175b)] may be cited as the ‘Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–395, § 1, Dec. 21, 2018, 132 Stat. 5287, provided that: “This Act [amending sections 2258A to 2258E of this title] may be cited as the ‘CyberTipline Modernization Act of 2018’.”
 
@@ -540,6 +545,11 @@ The term “crime of violence” means—
 
 **(b)** any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
+### Statutory Notes
+
+#### Constitutionality
+For information regarding constitutionality of this section, as added by section 1001(a) of Pub. L. 98–473, see Government Publishing Office, The Constitution of the United States of America: Analysis and Interpretation, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States, 2018 Supplement, prepared by the Congressional Research Service.
+
 
 <a id="section-17"></a>
 ## § 17. Insanity defense
@@ -649,8 +659,8 @@ such element may be established by proof that the defendant, after or as a resul
 **(b)** For purposes of this section, the term “official representation” means any representation made by a Federal law enforcement officer (as defined in section 115) or by another person at the direction or with the approval of such an officer.
 
 
-<a id="section-23-1"></a>
-## § 23.1. Court of the United States defined
+<a id="section-23"></a>
+## § 23. Court of the United States defined
 
 As used in this title, except where otherwise expressly provided 22 So in original. Probably should be followed by a comma. the term “court of the United States” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands.
 

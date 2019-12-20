@@ -302,7 +302,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
   (A) If a warrant officer described in paragraph (1) has less than 18 years of creditable active service on (i) the date on which the Secretary concerned approves the report of the board under [section 576(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section576/e&num=0&edition=prelim), or (ii) the date on which his name was removed from the recommended list under [section 579 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-579), whichever applies, the warrant officer shall be separated (except as provided in subparagraph (C)). The date of such separation shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence.
 
-  (B) A warrant officer separated under this paragraph shall receive separation pay computed under [section 1174 of this title](./chapter-059-separation.md#section-1174), or severance pay computed under section 286a 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, as appropriate, except in a case in which—
+  (B) A warrant officer separated under this paragraph shall receive separation pay computed under [section 1174 of this title](./chapter-059-separation.md#section-1174), or severance pay computed under section 286a 11 See References in Text note below. of title 14, as appropriate, except in a case in which—
 
     (i) upon his request and in the discretion of the Secretary concerned, he is enlisted in the grade prescribed by the Secretary; or
 
@@ -352,6 +352,8 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 ### Statutory Notes
 
 #### References in Text
+[Section 286a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section286a&num=0&edition=prelim), referred to in subsec. (a)(4)(B), was redesignated [section 2147 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2147&num=0&edition=prelim) by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to [section 286a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section286a&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(6), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note below.
 
 #### Prior Provisions
@@ -373,9 +375,6 @@ Subsec. (e)(6). Pub. L. 103–337, § 541(b)(5)(B), inserted “and the Secretar
 1993—Subsec. (a)(4)(A). Pub. L. 103–160, § 505(a)(1), inserted “(except as provided in subparagraph (C))” after “shall be separated”.
 
 Subsec. (a)(4)(C). Pub. L. 103–160, § 505(a)(2), added subpar. (C).
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 286a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section286a&num=0&edition=prelim) redesignated [section 2147 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2147&num=0&edition=prelim) by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to [section 286a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section286a&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -563,15 +562,15 @@ In this chapter:
 
   (C) are junior to the junior warrant officer in the promotion zone.
 
-(4) The active-duty list referred to in [section 573(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section573/b&num=0&edition=prelim) includes the active-duty promotion list established by section 41a 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+(4) The active-duty list referred to in [section 573(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section573/b&num=0&edition=prelim) includes the active-duty promotion list established by section 41a 11 See References in Text note below. of title 14.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 41a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section41a&num=0&edition=prelim), referred to in par. (4), was redesignated [section 2102 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2102&num=0&edition=prelim) by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to [section 41a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section41a&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Amendments
 1994—Par. (4). Pub. L. 103–337 added par. (4).
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 41a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section41a&num=0&edition=prelim) redesignated [section 2012 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2012&num=0&edition=prelim) by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to [section 41a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section41a&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).

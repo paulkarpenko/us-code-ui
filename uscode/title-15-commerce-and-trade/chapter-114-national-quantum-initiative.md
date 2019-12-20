@@ -201,7 +201,7 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 
 (2) oversee interagency coordination of the Program, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Program;
 
-(3) serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities professional societies, State governments, and such other persons as the Coordination Office considers appropriate to exchange technical and programmatic information;
+(3) serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities 11 So in original. Probably should be followed by a comma. professional societies, State governments, and such other persons as the Coordination Office considers appropriate to exchange technical and programmatic information;
 
 (4) ensure coordination among the collaborative ventures or consortia established under [section 8831(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8831/a&num=0&edition=prelim), Multidisciplinary Centers for Quantum Research and Education established under [section 8842(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8842/a&num=0&edition=prelim), and the National Quantum Information Science Research Centers established under [section 8852(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8852/a&num=0&edition=prelim);
 
@@ -331,10 +331,51 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 #### References in Text
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Ex. Ord. No. 13885. Establishing the National Quantum Initiative Advisory Committee
+Ex. Ord. No. 13885, Aug. 30, 2019, 84 F.R. 46873, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 104(a) of the National Quantum Initiative Act (Public Law 115–368) (Act) [[15 U.S.C. 8814(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8814/a&num=0&edition=prelim)], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and in order to ensure continued American leadership in quantum information science and technology applications, it is hereby ordered as follows:
+
+Section 1. Establishment. The National Quantum Initiative Advisory Committee (Committee) is hereby established. The Committee shall consist of the Director of the Office of Science and Technology Policy or the Director’s designee (Director) and not more than 22 members appointed by the Secretary of Energy (Secretary). Committee members shall represent industry, universities, Federal laboratories, and other Federal Government agencies. Committee members must be qualified to provide advice and information on quantum information science and technology research, development, demonstrations, standards, education, technology transfers, commercial application, and national security economic concerns. The Director shall serve as a Co-Chair of the Committee. The Secretary shall designate at least one of the Committee members to serve as Co-Chair with the Director.
+
+Sec. 2. Functions. (a) The Committee shall advise the Secretary and the Subcommittee on Quantum Information Science of the National Science and Technology Council (Subcommittee) and make recommendations to the Secretary to consider when reviewing and revising the National Quantum Initiative Program (Program) established pursuant to section 101 of the Act [[15 U.S.C. 8811](./chapter-114-national-quantum-initiative.md#section-8811)]. The Committee shall also carry out all responsibilities set forth in section 104 of the Act.
+
+(b) The Committee shall meet at least twice a year and shall:
+
+(i) respond to requests from the Co-Chairs of the Committee for information, analysis, evaluation, or advice relating to quantum information science and technology applications;
+
+(ii) solicit information and ideas from a broad range of stakeholders on quantum information science in order to inform policy making. Stakeholders include the research community, the private sector, universities, national laboratories, executive departments and agencies (agencies), State and local governments, foundations, and nonprofit organizations; and
+
+(iii) respond to requests from the Subcommittee.
+
+Sec. 3. Administration. (a) The heads of agencies shall, to the extent permitted by law, provide the Committee with information concerning quantum information science and supporting technologies and applications when requested by a Co-Chair of the Committee.
+
+(b) In consultation with the Director, the Committee may create standing subcommittees and ad hoc groups, including technical advisory groups, to assist and provide preliminary information to the Committee.
+
+(c) The Director may request that members of the Committee, its standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information, receive appropriate clearances and access determinations pursuant to Executive Order 13526 of December 29, 2009 (Classified National Security Information) [[50 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim) note], as amended, or any successor order.
+
+(d) The Department of Energy shall provide such funding and administrative and technical support as the Committee may require.
+
+(e) Committee members shall serve without any compensation for their work on the Committee, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
+
+Sec. 4. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the Committee, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Secretary of Energy, in consultation with the Director, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-8841"></a>
 ## § 8841. Sunset
-**(a) In general** Except as provided in subsection (b), the authority to carry out sections 8811, 8812, 8813, abd 8814 of this title shall terminate on the date that is 11 years after December 21, 2018.
+**(a) In general** Except as provided in subsection (b), the authority to carry out sections 8811, 8812, 8813, and 8814 of this title shall terminate on the date that is 11 years after December 21, 2018.
 
 **(b) Extension** The President may continue the activities under such sections if the President determines that such activities are necessary to meet national economic or national security needs.
 

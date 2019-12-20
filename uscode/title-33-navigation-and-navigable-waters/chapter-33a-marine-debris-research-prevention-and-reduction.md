@@ -308,9 +308,12 @@ The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953,
 ## § 1958. Authorization of appropriations
 **(a) In general** There is authorized to be appropriated to the Administrator $10,000,000 for each of fiscal years 2018 through 2022 for carrying out sections 1952, 1954, and 1955 of this title, of which not more than 5 percent is authorized for each fiscal year for administrative costs.
 
-**(b) Amounts authorized for Coast Guard** Of the amounts authorized for each fiscal year under section 2702(1) 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), of which not more than 5 percent is authorized for each fiscal year for administrative costs.
+**(b) Amounts authorized for Coast Guard** Of the amounts authorized for each fiscal year under section 2702(1) 11 See References in Text note below. of title 14, up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), of which not more than 5 percent is authorized for each fiscal year for administrative costs.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 4902 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section4902&num=0&edition=prelim) by Pub. L. 115–282, title I, § 121(b), Dec. 4, 2018, 132 Stat. 4238, and references to [section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 2018—Pub. L. 115–265 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for each fiscal year 2006 through 2010—
@@ -318,6 +321,3 @@ The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953,
 “(1) to the Administrator for carrying out sections 1952 and 1955 of this title, $10,000,000, of which no more than 10 percent may be for administrative costs; and
 
 “(2) to the Secretary of the Department in which the Coast Guard is operating, for the use of the Commandant of the Coast Guard in carrying out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), $2,000,000, of which no more than 10 percent may be used for administrative costs.”
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim) redesignated [section 4902 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section4902&num=0&edition=prelim) by Pub. L. 115–282, title I, § 121(b)(2), Dec. 4, 2018, 132 Stat. 4238, and references to [section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.

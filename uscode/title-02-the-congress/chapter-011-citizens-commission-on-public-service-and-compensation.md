@@ -220,7 +220,7 @@ The Commission shall submit to the President a report of the results of each rev
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
 
 #### 1985 Fiscal Year Recommendations on Pay Rates of Offices and Positions
-Pub. L. 99–190, § 135(g), Dec. 19, 1985, 99 Stat. 1323, provided that: “Notwithstanding section 225(g) of such Act ([2 U.S.C. 357](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-357)), the Commission on Executive, Legislative, and Judicial Salaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act ([2 U.S.C. 356](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-356)) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
+Pub. L. 99–190, § 135(g), Dec. 19, 1985, 99 Stat. 1323, provided that notwithstanding [section 357 of this title](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-357), the Commission on Executive, Legislative, and Judicial Salaries should not make recommendations on the pay rates of certain offices and positions under [section 356 of this title](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-356) in connection with rate reviews in fiscal year 1985.
 
 
 <a id="section-358"></a>

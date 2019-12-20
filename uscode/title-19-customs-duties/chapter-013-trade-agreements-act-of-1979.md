@@ -214,7 +214,21 @@ Pub. L. 96–490, § 1, Dec. 2, 1980, 94 Stat. 2556, provided that: “(a) Appro
 
 [The Protocol was accepted for the United States on Dec. 30, 1980.]
 
-#### Determination Regarding Acceptance and Application of Certain International Trade Agreements
+#### Determination Regarding the Multilateral Trade Negotiations
+Memorandum of President of the United States, Dec. 14, 1979, 44 F.R. 74781, provided:
+
+Memorandum for the Special Representative for Trade Negotiations
+
+I have signed the enclosed document [set out below] concerning certain international trade agreements pursuant to the authority vested in me under the Constitution and laws of the United States, including the Trade Agreements Act of 1979 (Public Law 96–39, 93 Stat. 144) and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code.
+
+On my behalf, please transmit copies of this document to the Speaker of the House of Representatives and the President of the Senate.
+
+This document shall be published in the Federal Register.
+
+Jimmy Carter.
+
+Presidential Determination Regarding the Acceptance and Application of Certain International Trade Agreements
+
 1. Pursuant to section 102 of the Trade Act of 1974 ([19 U.S.C. 2112(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2112/b&num=0&edition=prelim)), I, through my duly empowered representative, on April 12, 1979, entered into the international agreements negotiated in the Tokyo Round of Multilateral Trade Negotiations. These agreements were:
 
 (i) Agreement on Interpretation and Application of Articles VI, XVI and XXIII of the General Agreement on Tariffs and Trade;
@@ -237,7 +251,7 @@ Pub. L. 96–490, § 1, Dec. 2, 1980, 94 Stat. 2556, provided that: “(a) Appro
 
 These agreements are collectively referred to herein as the “MTN agreements”.
 
-2. In accordance with sections 102 and 151 of the Trade Act of 1974 ([19 U.S.C. 2112](./chapter-012-trade-act-of-1974.md#section-2112) and 2191), the MTN agreements were submitted to Congress for its approval. Section 2 of the Trade Agreements Act of 1979 (93 Stat. 147) [this section] approves the MTN agreements and authorizes the President to accept each of the MTN agreements provided that the President determines that all, or all but one, of the major industrial countries (as defined in section 126(d) of the Trade Act of 1974 ([19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim)) is also accepting the agreement. If the President determines that only one major industrial country is not accepting an agreement, the President may nevertheless accept such an agreement if he determines that the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if:
+2. In accordance with sections 102 and 151 of the Trade Act of 1974 ([19 U.S.C. 2112](./chapter-012-trade-act-of-1974.md#section-2112) and 2191), the MTN agreements were submitted to Congress for its approval. Section 2 of the Trade Agreements Act of 1979 (93 Stat. 147) [[19 U.S.C. 2503](./chapter-013-trade-agreements-act-of-1979.md#section-2503)] approves the MTN agreements and authorizes the President to accept each of the MTN agreements provided that the President determines that all, or all but one, of the major industrial countries (as defined in section 126(d) of the Trade Act of 1974 ([19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim)) is also accepting the agreement. If the President determines that only one major industrial country is not accepting an agreement, the President may nevertheless accept such an agreement if he determines that the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if:
 
 (A) that country is not a major factor in trade in the products covered by that agreement;
 
@@ -245,7 +259,7 @@ These agreements are collectively referred to herein as the “MTN agreements”
 
 (C) a significant portion of United States trade would benefit from the agreement, notwithstanding such nonacceptance, and the President determines and reports to the Congress that it is in the national interest of the United States to accept the agreement.
 
-3. Section 2 of the Trade Agreements Act of 1979 [this section] also provides that no agreement accepted by the President shall apply between the United States and any other country unless the President determines that such country:
+3. Section 2 of the Trade Agreements Act of 1979 also provides that no agreement accepted by the President shall apply between the United States and any other country unless the President determines that such country:
 
 (A) has accepted the obligations of the agreement with respect to the United States, and
 
@@ -253,35 +267,35 @@ These agreements are collectively referred to herein as the “MTN agreements”
 
 4. Section 701 of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) [[19 U.S.C. 1671](./chapter-004-tariff-act-of-1930.md#section-1671)], provides that the President must determine that certain conditions must be met before a country can be considered a “country under the Agreement” and, therefore, entitled to the injury determination provided for in section 703(a) and 705(b) of the Tariff Act of 1930 (93 Stat. 152 and 159) [[19 U.S.C. 1671b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/a&num=0&edition=prelim) and 1671d(b)].
 
-5. Section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267) authorizes the President to proclaim certain modifications in the Tariff Schedules of the United States if the President determines that the conditions under section 2(b) of the Trade Agreements Act of 1979 (93 Stat. 147) [subsec. (b) of this section] on acceptance of the Agreement on Trade in Civil Aircraft have been fulfilled.
+5. Section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267) authorizes the President to proclaim certain modifications in the Tariff Schedules of the United States if the President determines that the conditions under section 2(b) of the Trade Agreements Act of 1979 (93 Stat. 147) [[19 U.S.C. 2503(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/b&num=0&edition=prelim)] on acceptance of the Agreement on Trade in Civil Aircraft have been fulfilled.
 
-NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acting under and by virtue of the authority vested in me as President, and in conformity with the provisions of sections 2 [this section] and 601(a) of the Trade Agreements Act of 1979 (93 Stat. 147 and 267), herein referred to as “the Act”, section 701 of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) [[19 U.S.C. 1671](./chapter-004-tariff-act-of-1930.md#section-1671)], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code do hereby
+NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acting under and by virtue of the authority vested in me as President, and in conformity with the provisions of sections 2 and 601(a) of the Trade Agreements Act of 1979 (93 Stat. 147 and 267), herein referred to as “the Act”, section 701 of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) [[19 U.S.C. 1671](./chapter-004-tariff-act-of-1930.md#section-1671)], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code do hereby
 
 1. Determine that:
 
 a. With respect to the Agreement on Interpretation and Application of Articles VI, XVI and XXIII of the General Agreement on Tariffs and Trade, the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade, the Agreement on Technical Barriers to Trade, the Agreement on Import Licensing Procedures, and the Agreement on Trade in Civil Aircraft,
 
-(i) in accordance with section 2(b)(1) and (3) of the Act (93 Stat. 147) [subsec. (b)(1) and (3) of this section], each major industrial country (as defined in section 126(d) of the Trade Act of 1974 ([19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim)) is also accepting the agreement with the exception of Japan;
+(i) in accordance with section 2(b)(1) and (3) of the Act (93 Stat. 147) [[19 U.S.C. 2503(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/b/1&num=0&edition=prelim), (3)], each major industrial country (as defined in section 126(d) of the Trade Act of 1974 ([19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim)) is also accepting the agreement with the exception of Japan;
 
-(ii) in accordance with section 2(b)(3) of the Act (93 Stat. 147) [subsec. (b)(3) of this section], the acceptance of these agreements by Japan is not essential to the effective operation of the agreements for that period of time during which Japan is completing its Constitutional procedures to accept the agreements and in light of the stated intention of the Government of Japan to act in the interim in line with the agreements within its existing powers; and
+(ii) in accordance with section 2(b)(3) of the Act (93 Stat. 147), the acceptance of these agreements by Japan is not essential to the effective operation of the agreements for that period of time during which Japan is completing its Constitutional procedures to accept the agreements and in light of the stated intention of the Government of Japan to act in the interim in line with the agreements within its existing powers; and
 
-(iii) in accordance with section 2(b)(3)(C) of the Act (93 Stat. 148) [subsec. (b)(3)(C) of this section], a significant portion of United States trade will benefit from these agreements, notwithstanding the anticipated short delay in acceptance by Japan, and it is in the national interest of the United States to accept these agreements.
+(iii) in accordance with section 2(b)(3)(C) of the Act (93 Stat. 148), a significant portion of United States trade will benefit from these agreements, notwithstanding the anticipated short delay in acceptance by Japan, and it is in the national interest of the United States to accept these agreements.
 
-b. The conditions in section 701(b)(3)(A), (B) and (C) of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) [[19 U.S.C. 1671(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671/b/3/A&num=0&edition=prelim), (B) and (C)] will have been met with respect to Venezuela, Honduras, Nepal, North Yemen, El Salvador, Paraguay and Liberia.
+b. The conditions in section 701(b)(3)(A), (B) and (C) of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) [[19 U.S.C. 1671(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671/b/3/A&num=0&edition=prelim), (B), (C)] will have been met with respect to Venezuela, Honduras, Nepal, North Yemen, El Salvador, Paraguay and Liberia.
 
 c. With respect to the International Dairy Arrangement,
 
-(i) in accordance with section 2(b)(1) and (3) of the Act (93 Stat. 147) [subsec. (b)(1) and (3) of this section], each major industrial country (as defined in section 126(d)) [[19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim)] is also accepting the agreement with the exception of Canada;
+(i) in accordance with section 2(b)(1) and (3) of the Act (93 Stat. 147), each major industrial country (as defined in section 126(d)) [[19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim)] is also accepting the agreement with the exception of Canada;
 
-(ii) in accordance with section 2(b)(3) of the Act (93 Stat. 147) [subsec. (b)(3) of this section], the acceptance of this agreement by Canada is not essential to the effective operation of the agreement; and
+(ii) in accordance with section 2(b)(3) of the Act (93 Stat. 147), the acceptance of this agreement by Canada is not essential to the effective operation of the agreement; and
 
-(iii) in accordance with section 2(b)(3)(A) of the Act [subsec. (b)(3)(A) of this section], Canada is not a major factor in trade in the products covered by the agreement.
+(iii) in accordance with section 2(b)(3)(A) of the Act, Canada is not a major factor in trade in the products covered by the agreement.
 
-d. With respect to the Arrangement Regarding Bovine Meat, in accordance with section 2(b)(1) and (3) of the Act (93 Stat. 147) [subsec. (b)(1) and (3) of this section], each major industrial country (as defined in section 126(d) of the Trade Act of 1974 ([19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim) is also accepting the agreement.
+d. With respect to the Arrangement Regarding Bovine Meat, in accordance with section 2(b)(1) and (3) of the Act (93 Stat. 147), each major industrial country (as defined in section 126(d) of the Trade Act of 1974 ([19 U.S.C. 2136(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2136/d&num=0&edition=prelim) is also accepting the agreement.
 
 e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267),
 
-(i) the conditions under section 2(b) of that Act (93 Stat. 147) [subsec. (b) of this section] on acceptance of the Agreement on Trade in Civil Aircraft have been fulfilled;
+(i) the conditions under section 2(b) of that Act (93 Stat. 147) on acceptance of the Agreement on Trade in Civil Aircraft have been fulfilled;
 
 (ii) the modifications provided for in section A of Annex II to Proclamation No. 4707 of December 11, 1979 [see note set out under [section 2111 of this title](./chapter-012-trade-act-of-1974.md#section-2111)], which were authorized by section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267), shall be effective with respect to articles entered, or withdrawn from warehouse, for consumption on and after January 1, 1980; and
 
@@ -296,17 +310,6 @@ e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Sta
 (c) to sign the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade subject to acceptance.
 
 3. [Revoked by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989.]
-
-Jimmy Carter.
-
-#### Determination Regarding Multilateral Trade Negotiations
-Memorandum of the President of the United States, dated Dec. 14, 1979, provided:
-
-I have signed the enclosed document concerning certain international trade agreements pursuant to the authority vested in me under the Constitution and laws of the United States, including the Trade Agreements Act of 1979 (Public Law 96–39, 93 Stat. 144) and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code.
-
-On my behalf, please transmit copies of this document to the Speaker of the House of Representatives and the President of the Senate.
-
-This document shall be published in the Federal Register.
 
 Jimmy Carter.
 
@@ -779,7 +782,7 @@ Subsec. (b)(1). Pub. L. 103–465, § 343(b)(1), amended par. (1) generally. Pri
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–465, title III, § 344, Dec. 8, 1994, 108 Stat. 4955, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this subtitle [subtitle E (§§ 341–344 of title III of Pub. L. 103–465, amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing [section 2516 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2516), and amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim), Agriculture] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) [[19 U.S.C. 3511(d)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim)] enters into force with respect to the United States [Jan. 1, 1995]. “(b) Section 342(g).—The amendments made by section 342(g) [amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim)] take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”

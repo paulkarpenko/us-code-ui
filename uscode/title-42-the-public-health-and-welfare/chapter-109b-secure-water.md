@@ -294,7 +294,13 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
 (2) **Application** — To be eligible to receive a grant, or enter into an agreement with the Secretary under paragraph (1), an eligible applicant shall—
 
-  (A) be located within the States and areas referred to in [section 391 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim); and
+  (A) be located within—
+
+    (i) the States and areas referred to in [section 391 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section391&num=0&edition=prelim);
+
+    (ii) the State of Alaska; or
+
+    (iii) the State of Hawaii; and
 
   (B) submit to the Secretary an application that includes a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant.
 
@@ -302,11 +308,27 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
   (A) *Compliance with requirements* — Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliance with each requirement described in subparagraphs (B) through (F).
 
-  (B) *Agricultural operations* — In carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
+  (B) *Agricultural operations*
 
-    (i) to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
+    (i) *In general* — Except as provided in clause (ii), in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
 
-    (ii) to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+      (I) to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
+
+      (II) to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+
+    (ii) *Indian tribes* — In the case of an eligible applicant that is an Indian tribe, in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the Indian tribe agrees not—
+
+      (I) to use any associated water savings to increase the total irrigated acreage more than the water right of that Indian tribe, as determined by—
+
+        (aa) a court decree;
+
+        (bb) a settlement;
+
+        (cc) a law; or
+
+        (dd) any combination of the authorities described in items (aa) through (cc); or
+
+      (II) to otherwise increase the consumptive use of water more than the water right of the Indian tribe described in subclause (I).
 
   (C) *Nonreimbursable funds* — Any funds provided by the Secretary to an eligible applicant through a grant or agreement under paragraph (1) shall be nonreimbursable.
 
@@ -352,7 +374,7 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
 **(d) Relationship to project-specific authority** This section shall not supersede any existing project-specific funding authority.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $480,000,000 to remain available until expended.
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $480,000,000, to remain available until expended.
 
 ### Statutory Notes
 
@@ -360,9 +382,13 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(2)(A). Pub. L. 116–9, § 8501(1), substituted “within—” for “within”, inserted cl. (i) designation before “the States”, and added cls. (ii) and (iii).
+
+Subsec. (a)(3)(B). Pub. L. 116–9, § 8501(2), designated existing provisions as cl. (i) and inserted heading, substituted “Except as provided in clause (ii), in carrying” for “In carrying” in introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and realigned margins, and added cl. (ii).
+
 2018—Subsec. (e). Pub. L. 115–244 substituted “$480,000,000” for “$450,000,000”.
 
-2016—Subsec. (e). Pub. L. 114–322 substituted “$450,000,000” for “$350,000,000”.
+2016—Subsec. (e). Pub. L. 114–322 substituted “$450,000,000” for “$350,000,000”. See Funding note set out below.
 
 2015—Subsec. (e). Pub. L. 114–113 substituted “$350,000,000” for “$300,000,000”.
 

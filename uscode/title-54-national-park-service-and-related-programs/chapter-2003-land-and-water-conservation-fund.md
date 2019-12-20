@@ -28,7 +28,7 @@ In this chapter:
 ## § 200302. Establishment of Land and Water Conservation Fund
 **(a) Establishment.—** There is established in the Treasury the Land and Water Conservation Fund.
 
-**(b) Deposits.—** During the period ending September 30, 2018, there shall be deposited in the Fund the following revenues and collections:
+**(b) Deposits.—** There shall be deposited in the Fund the following revenues and collections:
 
 (1) All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of the provisions of law set forth in section 572(a) or 574(a) to (c) of title 40 or under authority of any appropriation Act that appropriates an amount, to be derived from proceeds from the transfer of excess property and the disposal of surplus property, for necessary expenses, not otherwise provided for, incident to the utilization and disposal of excess and surplus property) received from any disposal of surplus real property and related personal property under chapter 5 of title 40, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this chapter shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
 
@@ -36,7 +36,7 @@ In this chapter:
 
 **(c) Authorization of Appropriations.—**
 
-(1) **In general.—** — In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year through September 30, 2018.
+(1) **In general.—** — In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year.
 
 (2) **Receipts under outer continental shelf lands act.—** — To the extent that amounts appropriated under paragraph (1) are not sufficient to make the total annual income of the Fund equivalent to the amounts provided in paragraph (1), an amount sufficient to cover the remainder shall be credited to the Fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.).
 
@@ -57,6 +57,10 @@ In subsection (c)(1), reference to fiscal years 1977 and 1978 and the word “th
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–9, § 3001(a)(1), substituted “There” for “During the period ending September 30, 2018, there” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 116–9, § 3001(a)(2), struck out “through September 30, 2018” after “each fiscal year”.
+
 2015—Subsec. (b). Pub. L. 114–113, § 801(a)(1), substituted “September 30, 2018” for “September 30, 2015” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 114–113, § 801(a)(2), substituted “September 30, 2018” for “September 30, 2015”.
@@ -156,8 +160,13 @@ The words “or from the special account established under section 460l–6a(i)(
 
 <a id="section-200304"></a>
 ## § 200304. Statement of estimated requirements
+**(a) In General.—** There shall be submitted with the annual budget of the United States a comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Fund.
 
-There shall be submitted with the annual budget of the United States a comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Fund. Not less than 40 percent of such appropriations shall be available for Federal purposes.
+**(b) Allocation of Funds.—** Of the total amount made available to the Fund through appropriations or deposited in the Fund under section 105(a)(2)(B) of the Gulf of Mexico Energy Security Act of 2006 ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) note; Public Law 109–432)—
+
+(1) not less than 40 percent shall be used for Federal purposes; and
+
+(2) not less than 40 percent shall be used to provide financial assistance to States.
 
 ### Statutory Notes
 
@@ -167,6 +176,12 @@ There shall be submitted with the annual budget of the United States a comprehen
 | 200304 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–7. | Pub. L. 88–578, title I, § 5, formerly § 4, Sept. 3, 1964, 78 Stat. 900; Pub. L. 90–401, § 3, July 15, 1968, 82 Stat. 355; renumbered § 5, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 94–273, § 3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–422, title I, § 101(2), Sept. 28, 1976, 90 Stat. 1314; Pub. L. 95–42, § 1(2), June 10, 1977, 91 Stat. 210. |
 
 The references to fiscal years 1978 and 1979 and the special account are omitted as obsolete.
+
+#### References in Text
+Section 105(a)(2)(B) of the Gulf of Mexico Energy Security Act of 2006, referred to in subsec. (b), is section 105(a)(2)(B) of title I of div. C of Pub. L. 109–432, which is set out in a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+#### Amendments
+2019—Pub. L. 116–9 designated existing provisions as subsec. (a) and inserted heading, struck out “Not less than 40 percent of such appropriations shall be available for Federal purposes.” after “Fund.”, and added subsec. (b).
 
 
 <a id="section-200305"></a>
@@ -194,8 +209,6 @@ The references to fiscal years 1978 and 1979 and the special account are omitted
 (3) The total allocation to a State under paragraphs (1) and (2) shall not exceed 10 percent of the total amount allocated to all of the States in any one year.
 
 (4) The Secretary shall notify each State of its apportionments. The amounts shall be available for payment to the State for planning, acquisition, or development projects as prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary during the fiscal year in which the notification is given and for 2 fiscal years thereafter shall be reapportioned by the Secretary in accordance with paragraph (2) without regard to the 10 percent limitation to an individual State specified in this subsection.
-
-(5) For the purposes of paragraph (1), the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands shall be deemed to be one State, and shall receive shares of the apportionment in proportion to their populations.
 
 **(c) Matching Requirements.—** Payments to any State shall cover not more than 50 percent of the cost of planning, acquisition, or development projects that are undertaken by the State. The remaining share of the cost shall be borne by the State in a manner and with funds or services as shall be satisfactory to the Secretary.
 
@@ -304,6 +317,9 @@ In subsection (j), the words “(including those conducted pursuant to title VII
 
 In subsection (k)(3), the words “and the remaining share of the cost shall be borne by the State” are omitted as unnecessary.
 
+#### Amendments
+2019—Subsec. (b)(5). Pub. L. 116–9 struck out par. (5) which read as follows: “For the purposes of paragraph (1), the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands shall be deemed to be one State, and shall receive shares of the apportionment in proportion to their populations.”
+
 
 <a id="section-200306"></a>
 ## § 200306. Allocation of Fund amounts for Federal purposes
@@ -347,6 +363,32 @@ In subsection (k)(3), the words “and the remaining share of the cost shall be 
 
 **(b) Acquisition Restrictions.—** Appropriations from the Fund pursuant to this section shall not be used for acquisition unless the acquisition is otherwise authorized by law. Appropriations from the Fund may be used for preacquisition work where authorization is imminent and where substantial monetary savings could be realized.
 
+**(c) Recreational Public Access.—**
+
+(1) **In general.—** — Of the amounts made available for expenditure in any fiscal year under section 200303, there shall be made available for recreational public access projects identified on the priority list developed under paragraph (2) not less than the greater of—
+
+  (A) an amount equal to 3 percent of those amounts; or
+
+  (B) $15,000,000.
+
+(2) **Priority list.—** — The Secretary and the Secretary of Agriculture, in consultation with the head of each affected Federal agency, shall annually develop a priority list for projects that, through acquisition of land (or an interest in land), secure recreational public access to Federal land under the jurisdiction of the applicable Secretary for hunting, fishing, recreational shooting, or other outdoor recreational purposes.
+
+**(d) Acquisition Considerations.—** In determining whether to acquire land (or an interest in land) under this section, the Secretary and the Secretary of Agriculture shall take into account—
+
+(1) the significance of the acquisition;
+
+(2) the urgency of the acquisition;
+
+(3) management efficiencies;
+
+(4) management cost savings;
+
+(5) geographic distribution;
+
+(6) threats to the integrity of the land; and
+
+(7) the recreational value of the land.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -355,6 +397,11 @@ In subsection (k)(3), the words “and the remaining share of the cost shall be 
 | 200306 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–9(a), (b). | Pub. L. 88–578, title I, § 7, formerly § 6, Sept. 3, 1964, 78 Stat. 903; Pub. L. 90–401, § 1(c), July 15, 1968, 82 Stat. 355; renumbered § 7, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–205, § 13(c), Dec. 28, 1973, 87 Stat. 902; Pub. L. 94–422, title I, § 101(4), Sept. 28, 1976, 90 Stat. 1317; Pub. L. 95–42, § 1(3)–(5), June 10, 1977, 91 Stat. 210, 211; Pub. L. 96–203, § 2, Mar. 10, 1980, 94 Stat. 81; Pub. L. 99–645, title III, § 302, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–437, § 6(p)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, § 814(b), (d)(2)(C), Nov. 12, 1996, 110 Stat. 4194, 4196; Pub. L. 106–176, title I, §§ 120(b), 129, Mar. 10, 2000, 114 Stat. 28, 30. |
 
 In subsection (a)(4), the words “January 4, 1977” are substituted for “the convening of the Ninety-fifth Congress”, and the words “January 15, 1979” are substituted for “ the convening of the Ninety-sixth Congress”, for clarity.
+
+#### Amendments
+2019—Subsec. (c). Pub. L. 116–9, § 3001(d), added subsec. (c).
+
+Subsec. (d). Pub. L. 116–9, § 3001(e), added subsec. (d).
 
 
 <a id="section-200307"></a>

@@ -2,7 +2,7 @@
 title: 11
 chapter: '11'
 heading: REORGANIZATION
-section_count: 45
+section_count: 60
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11&num=0&edition=prelim
 ---
@@ -41,7 +41,7 @@ Both requirements must be met: liabilities, excluding tax obligations and trade 
 
 (2) On request of a party in interest, the court may order the appointment of additional committees of creditors or of equity security holders if necessary to assure adequate representation of creditors or of equity security holders. The United States trustee shall appoint any such committee.
 
-(3) On request of a party in interest in a case in which the debtor is a small business debtor and for cause, the court may order that a committee of creditors not be appointed.
+(3) Unless the court for cause orders otherwise, a committee of creditors may not be appointed in a small business case or a case under subchapter V of this chapter.
 
 (4) On request of a party in interest and after notice and a hearing, the court may order the United States trustee to change the membership of a committee appointed under this subsection, if the court determines that the change is necessary to ensure adequate representation of creditors or equity security holders. The court may order the United States trustee to increase the number of members of a committee to include a creditor that is a small business concern (as described in section 3(a)(1) of the Small Business Act), if the court determines that the creditor holds claims (of the kind represented by the committee) the aggregate amount of which, in comparison to the annual gross revenue of that creditor, is disproportionately large.
 
@@ -90,6 +90,8 @@ Subsection (c) authorizes the court, on request of a party in interest, to chang
 Section 3(a)(1) of the Small Business Act, referred to in subsec. (a)(4), is classified to [section 632(a)(1) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a/1&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
+2019—Subsec. (a)(3). Pub. L. 116–54 added par. (3) and struck out former par. (3) which read as follows: “On request of a party in interest in a case in which the debtor is a small business debtor and for cause, the court may order that a committee of creditors not be appointed.”
+
 2005—Subsec. (a)(3). Pub. L. 109–8, § 432(b), inserted “debtor” after “small business”.
 
 Subsec. (a)(4). Pub. L. 109–8, § 405(a), added par. (4).
@@ -103,6 +105,9 @@ Subsec. (b)(3). Pub. L. 109–8, § 405(b), added par. (3).
 Subsec. (c). Pub. L. 99–554, § 221(2), struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
 
 1984—Subsec. (b)(1). Pub. L. 98–353 substituted “commencement of the case” for “order for relief”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2178,7 +2183,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 <a id="section-1146"></a>
 ## § 1146. Special tax provisions
-**(a)** The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under [section 1129 of this title](./chapter-011-reorganization.md#section-1129), may not be taxed under any law imposing a stamp tax or similar tax.
+**(a)** The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under section 1129 or 1191 of this title, may not be taxed under any law imposing a stamp tax or similar tax.
 
 **(b)** The court may authorize the proponent of a plan to request a determination, limited to questions of law, by a State or local governmental unit charged with responsibility for collection or determination of a tax on or measured by income, of the tax effects, under [section 346 of this title](./chapter-003-case-administration.md#section-346) and under the law imposing such tax, of the plan. In the event of an actual controversy, the court may declare such effects after the earlier of—
 
@@ -2214,6 +2219,8 @@ Subsection (e) provides that prepetition taxes which are nondischargeable in a r
 Subsection (d) permits the court to authorize the proponent of a plan to request a taxing authority to declare the tax effects of such plan. In the event of an actual controversy, the court may declare the tax effects of the plan of reorganization at any time after the earlier of action by such taxing authority or 270 days after the request. Such a declaration, unless appealed, becomes a final judgment and binds any tax authority that was requested by the proponent to determine the tax effects of the plan.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–54 inserted “or 1191” after “1129”.
+
 2005—Pub. L. 109–8 redesignated subsecs. (c) and (d) as (a) and (b), respectively, and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) For the purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under [section 706 of this title](./chapter-007-liquidation.md#section-706).
@@ -2223,6 +2230,9 @@ Subsection (d) permits the court to authorize the proponent of a plan to request
 1984—Subsec. (c). Pub. L. 98–353, § 517(a), struck out “State or local” before “law imposing a stamp tax”.
 
 Subsec. (d)(1). Pub. L. 98–353, § 517(b), substituted “or” for “and”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2706,3 +2716,284 @@ Although the House amendment does not adopt provisions contained in sections 117
 
 #### senate report no. 95–989
 Section 1174 permits the court to convert the case to a liquidation under chapter 7 if the court finds that the debtor cannot be reorganized, or if various time limits specified in the subchapter are not met. Section 77 [section 205 of former title 11] does not authorize a liquidation of a railroad under the Bankruptcy Act [former title 11]. If the railroad is not reorganizable, the only action open to the court is to dismiss the petition, which would in all likelihood be followed by a State court receivership, with all of its attendant disadvantages. If reorganization is impossible, the debtor should be liquidated under the Bankruptcy Act.
+
+
+<a id="section-1181"></a>
+## § 1181. Inapplicability of other sections
+**(a) In General.—** Sections 105(d), 1101(1), 1104, 1105, 1106, 1107, 1108, 1115, 1116, 1121, 1123(a)(8), 1123(c), 1127, 1129(a)(15), 1129(b), 1129(c), 1129(e), and 1141(d)(5) of this title do not apply in a case under this subchapter.
+
+**(b) Court Authority.—** Unless the court for cause orders otherwise, paragraphs (1), (2), and (4) of section 1102(a) and sections 1102(b), 1103, and 1125 of this title do not apply in a case under this subchapter.
+
+**(c) Special Rule for Discharge.—** If a plan is confirmed under [section 1191(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/b&num=0&edition=prelim), [section 1141(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1141/d&num=0&edition=prelim) shall not apply, except as provided in [section 1192 of this title](./chapter-011-reorganization.md#section-1192).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1182"></a>
+## § 1182. Definitions
+
+In this subchapter:
+
+(1) **Debtor.—** — The term “debtor” means a small business debtor.
+
+(2) **Debtor in possession.—** — The term “debtor in possession” means the debtor, unless removed as debtor in possession under [section 1185(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1185/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1183"></a>
+## § 1183. Trustee
+**(a) In General.—** If the United States trustee has appointed an individual under [section 586(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section586/b&num=0&edition=prelim) to serve as standing trustee in cases under this subchapter, and if such individual qualifies as a trustee under [section 322 of this title](./chapter-003-case-administration.md#section-322), then that individual shall serve as trustee in any case under this subchapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case, as necessary.
+
+**(b) Duties.—** The trustee shall—
+
+(1) perform the duties specified in paragraphs (2), (5), (6), (7), and (9) of [section 704(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section704/a&num=0&edition=prelim);
+
+(2) perform the duties specified in paragraphs (3), (4), and (7) of [section 1106(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1106/a&num=0&edition=prelim), if the court, for cause and on request of a party in interest, the trustee, or the United States trustee, so orders;
+
+(3) appear and be heard at the status conference under [section 1188 of this title](./chapter-011-reorganization.md#section-1188) and any hearing that concerns—
+
+  (A) the value of property subject to a lien;
+
+  (B) confirmation of a plan filed under this subchapter;
+
+  (C) modification of the plan after confirmation; or
+
+  (D) the sale of property of the estate;
+
+(4) ensure that the debtor commences making timely payments required by a plan confirmed under this subchapter;
+
+(5) if the debtor ceases to be a debtor in possession, perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of [section 1106(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1106/a&num=0&edition=prelim), including operating the business of the debtor;
+
+(6) if there is a claim for a domestic support obligation with respect to the debtor, perform the duties specified in [section 704(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section704/c&num=0&edition=prelim); and
+
+(7) facilitate the development of a consensual plan of reorganization.
+
+**(c) Termination of Trustee Service.—**
+
+(1) **In general.—** — If the plan of the debtor is confirmed under [section 1191(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/a&num=0&edition=prelim), the service of the trustee in the case shall terminate when the plan has been substantially consummated, except that the United States trustee may reappoint a trustee as needed for performance of duties under subsection (b)(3)(C) of this section and [section 1185(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1185/a&num=0&edition=prelim).
+
+(2) **Service of notice of substantial consummation.—** — Not later than 14 days after the plan of the debtor is substantially consummated, the debtor shall file with the court and serve on the trustee, the United States trustee, and all parties in interest notice of such substantial consummation.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1184"></a>
+## § 1184. Rights and powers of a debtor in possession
+
+Subject to such limitations or conditions as the court may prescribe, a debtor in possession shall have all the rights, other than the right to compensation under [section 330 of this title](./chapter-003-case-administration.md#section-330), and powers, and shall perform all functions and duties, except the duties specified in paragraphs (2), (3), and (4) of [section 1106(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1106/a&num=0&edition=prelim), of a trustee serving in a case under this chapter, including operating the business of the debtor.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1185"></a>
+## § 1185. Removal of debtor in possession
+**(a) In General.—** On request of a party in interest, and after notice and a hearing, the court shall order that the debtor shall not be a debtor in possession for cause, including fraud, dishonesty, incompetence, or gross mismanagement of the affairs of the debtor, either before or after the date of commencement of the case, or for failure to perform the obligations of the debtor under a plan confirmed under this subchapter.
+
+**(b) Reinstatement.—** On request of a party in interest, and after notice and a hearing, the court may reinstate the debtor in possession.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1186"></a>
+## § 1186. Property of the estate
+**(a) Inclusions.—** If a plan is confirmed under [section 1191(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/b&num=0&edition=prelim), property of the estate includes, in addition to the property specified in [section 541 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-541)—
+
+(1) all property of the kind specified in that section that the debtor acquires after the date of commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 12, or 13 of this title, whichever occurs first; and
+
+(2) earnings from services performed by the debtor after the date of commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 12, or 13 of this title, whichever occurs first.
+
+**(b) Debtor Remaining in Possession.—** Except as provided in [section 1185 of this title](./chapter-011-reorganization.md#section-1185), a plan confirmed under this subchapter, or an order confirming a plan under this subchapter, the debtor shall remain in possession of all property of the estate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1187"></a>
+## § 1187. Duties and reporting requirements of debtors
+**(a) Filing Requirements.—** Upon electing to be a debtor under this subchapter, the debtor shall file the documents required by subparagraphs (A) and (B) of [section 1116(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1116/1&num=0&edition=prelim).
+
+**(b) Other Applicable Provisions.—** A debtor, in addition to the duties provided in this title and as otherwise required by law, shall comply with the requirements of section 308 and paragraphs (2), (3), (4), (5), (6), and (7) of [section 1116 of this title](./chapter-011-reorganization.md#section-1116).
+
+**(c) Separate Disclosure Statement Exemption.—** If the court orders under [section 1181(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1181/b&num=0&edition=prelim) that [section 1125 of this title](./chapter-011-reorganization.md#section-1125) applies, [section 1125(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1125/f&num=0&edition=prelim) shall apply.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1188"></a>
+## § 1188. Status conference
+**(a) In General.—** Except as provided in subsection (b), not later than 60 days after the entry of the order for relief under this chapter, the court shall hold a status conference to further the expeditious and economical resolution of a case under this subchapter.
+
+**(b) Exception.—** The court may extend the period of time for holding a status conference under subsection (a) if the need for an extension is attributable to circumstances for which the debtor should not justly be held accountable.
+
+**(c) Report.—** Not later than 14 days before the date of the status conference under subsection (a), the debtor shall file with the court and serve on the trustee and all parties in interest a report that details the efforts the debtor has undertaken and will undertake to attain a consensual plan of reorganization.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1189"></a>
+## § 1189. Filing of the plan
+**(a) Who May File a Plan.—** Only the debtor may file a plan under this subchapter.
+
+**(b) Deadline.—** The debtor shall file a plan not later than 90 days after the order for relief under this chapter, except that the court may extend the period if the need for the extension is attributable to circumstances for which the debtor should not justly be held accountable.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1190"></a>
+## § 1190. Contents of plan
+
+A plan filed under this subchapter—
+
+(1) shall include—
+
+  (A) a brief history of the business operations of the debtor;
+
+  (B) a liquidation analysis; and
+
+  (C) projections with respect to the ability of the debtor to make payments under the proposed plan of reorganization;
+
+(2) shall provide for the submission of all or such portion of the future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan; and
+
+(3) notwithstanding [section 1123(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1123/b/5&num=0&edition=prelim), may modify the rights of the holder of a claim secured only by a security interest in real property that is the principal residence of the debtor if the new value received in connection with the granting of the security interest was—
+
+  (A) not used primarily to acquire the real property; and
+
+  (B) used primarily in connection with the small business of the debtor.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1191"></a>
+## § 1191. Confirmation of plan
+**(a) Terms.—** The court shall confirm a plan under this subchapter only if all of the requirements of section 1129(a), other than paragraph (15) of that section, of this title 11 So in original. The words “of this title” probably should follow “1129(a)”. are met.
+
+**(b) Exception.—** Notwithstanding [section 510(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section510/a&num=0&edition=prelim), if all of the applicable requirements of [section 1129(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/a&num=0&edition=prelim), other than paragraphs (8), (10), and (15) of that section, are met with respect to a plan, the court, on request of the debtor, shall confirm the plan notwithstanding the requirements of such paragraphs if the plan does not discriminate unfairly, and is fair and equitable, with respect to each class of claims or interests that is impaired under, and has not accepted, the plan.
+
+**(c) Rule of Construction.—** For purposes of this section, the condition that a plan be fair and equitable with respect to each class of claims or interests includes the following requirements:
+
+(1) With respect to a class of secured claims, the plan meets the requirements of [section 1129(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/b/2/A&num=0&edition=prelim).
+
+(2) As of the effective date of the plan—
+
+  (A) the plan provides that all of the projected disposable income of the debtor to be received in the 3-year period, or such longer period not to exceed 5 years as the court may fix, beginning on the date that the first payment is due under the plan will be applied to make payments under the plan; or
+
+  (B) the value of the property to be distributed under the plan in the 3-year period, or such longer period not to exceed 5 years as the court may fix, beginning on the date on which the first distribution is due under the plan is not less than the projected disposable income of the debtor.
+
+(3)
+
+  (A)
+
+    (i) The debtor will be able to make all payments under the plan; or
+
+    (ii) there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and
+
+  (B) the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.
+
+**(d) Disposable Income.—** For purposes of this section, the term “disposable income” means the income that is received by the debtor and that is not reasonably necessary to be expended—
+
+(1) for—
+
+  (A) the maintenance or support of the debtor or a dependent of the debtor; or
+
+  (B) a domestic support obligation that first becomes payable after the date of the filing of the petition; or
+
+(2) for the payment of expenditures necessary for the continuation, preservation, or operation of the business of the debtor.
+
+**(e) Special Rule.—** Notwithstanding [section 1129(a)(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/a/9/A&num=0&edition=prelim), a plan that provides for the payment through the plan of a claim of a kind specified in paragraph (2) or (3) of [section 507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section507/a&num=0&edition=prelim) may be confirmed under subsection (b) of this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1192"></a>
+## § 1192. Discharge
+
+If the plan of the debtor is confirmed under [section 1191(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/b&num=0&edition=prelim), as soon as practicable after completion by the debtor of all payments due within the first 3 years of the plan, or such longer period not to exceed 5 years as the court may fix, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided in [section 1141(d)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1141/d/1/A&num=0&edition=prelim), and all other debts allowed under [section 503 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-503) and provided for in the plan, except any debt—
+
+(1) on which the last payment is due after the first 3 years of the plan, or such other time not to exceed 5 years fixed by the court; or
+
+(2) of the kind specified in [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section523/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1193"></a>
+## § 1193. Modification of plan
+**(a) Modification Before Confirmation.—** The debtor may modify a plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of sections 1122 and 1123 of this title, with the exception of subsection (a)(8) of such section 1123. After the modification is filed with the court, the plan as modified becomes the plan.
+
+**(b) Modification After Confirmation.—** If a plan has been confirmed under [section 1191(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/a&num=0&edition=prelim), the debtor may modify the plan at any time after confirmation of the plan and before substantial consummation of the plan, but may not modify the plan so that the plan as modified fails to meet the requirements of sections 1122 and 1123 of this title, with the exception of subsection (a)(8) of such section 1123. The plan, as modified under this subsection, becomes the plan only if circumstances warrant the modification and the court, after notice and a hearing, confirms the plan as modified under [section 1191(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/a&num=0&edition=prelim).
+
+**(c) Certain Other Modifications.—** If a plan has been confirmed under [section 1191(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/b&num=0&edition=prelim), the debtor may modify the plan at any time within 3 years, or such longer time not to exceed 5 years, as fixed by the court, but may not modify the plan so that the plan as modified fails to meet the requirements of [section 1191(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/b&num=0&edition=prelim). The plan as modified under this subsection becomes the plan only if circumstances warrant such modification and the court, after notice and a hearing, confirms such plan, as modified, under [section 1191(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/b&num=0&edition=prelim).
+
+**(d) Holders of a Claim or Interest.—** If a plan has been confirmed under [section 1191(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/a&num=0&edition=prelim), any holder of a claim or interest that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the plan as modified, unless, within the time fixed by the court, such holder changes the previous acceptance or rejection of the holder.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1194"></a>
+## § 1194. Payments
+**(a) Retention and Distribution by Trustee.—** Payments and funds received by the trustee shall be retained by the trustee until confirmation or denial of confirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan. If a plan is not confirmed, the trustee shall return any such payments to the debtor after deducting—
+
+(1) any unpaid claim allowed under [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b&num=0&edition=prelim);
+
+(2) any payment made for the purpose of providing adequate protection of an interest in property due to the holder of a secured claim; and
+
+(3) any fee owing to the trustee.
+
+**(b) Other Plans.—** If a plan is confirmed under [section 1191(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1191/b&num=0&edition=prelim), except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
+
+**(c) Payments Prior to Confirmation.—** Prior to confirmation of a plan, the court, after notice and a hearing, may authorize the trustee to make payments to the holder of a secured claim for the purpose of providing adequate protection of an interest in property.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+
+<a id="section-1195"></a>
+## § 1195. Transactions with professionals
+
+Notwithstanding [section 327(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section327/a&num=0&edition=prelim), a person is not disqualified for employment under [section 327 of this title](./chapter-003-case-administration.md#section-327), by a debtor solely because that person holds a claim of less than $10,000 that arose prior to commencement of the case.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

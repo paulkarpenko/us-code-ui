@@ -214,9 +214,28 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 
 <a id="section-442"></a>
-## § 442. Printing contracts
+## § 442. Government Publishing Office
+**(a) Definitions.—** In this section—
 
-Neither the Director of the Government Publishing Office, superintendent of printing, superintendent of binding, nor any of their assistants shall, during their continuance in office, have any interest, direct or indirect, in the publication of any newspaper or periodical, or in any printing, binding, engraving, or lithographing of any kind, or in any contract for furnishing paper or other material connected with the public printing, binding, lithographing, or engraving.
+(1) the terms “diversified”, “employee benefit plan”, “holdings”, “mutual fund”, and “unit investment trust” have the meanings given those terms under section 2640.102 of title 5, Code of Federal Regulations, or any successor thereto; and
+
+(2) the term “printing-related interest” means an interest, direct or indirect, in—
+
+  (A) the publication of any newspaper or periodical;
+
+  (B) any printing, binding, engraving, or lithographing of any kind; or
+
+  (C) any contract for furnishing paper or other material connected with the public printing, binding, lithographing, or engraving.
+
+**(b) Offense.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the Director of the Government Publishing Office, Deputy Director of the Government Publishing Office, nor 11 So in original. any of their assistants as determined by the Director of the Government Publishing Office shall not,1 during his or her continuance in office, have any printing-related interest.
+
+(2) **Exception for mutual funds, unit investment trusts, employee benefit plans, and retirement plans.—** — It shall not be a violation of paragraph (1) for an individual who is described in such paragraph to have an interest in a diversified mutual fund, diversified unit investment trust, employee benefit plan, investment fund under the Thrift Savings Plan under subchapter III of chapter 84 of title 5, or pension plan established or maintained by a State government or any political subdivision of a State government for its employees that has 1 or more holdings that are printing-related interests if the fund, trust, or plan does not exhibit a practice of concentrating in printing-related interests.
+
+(3) **Authority of supervising ethics office.—** — The supervising ethics office for the Government Publishing Office under the Ethics in Government Act of 1978 (5 U.S.C. App.) shall have the authority to issue rules and promulgate regulations governing the implementation of this subsection.
+
+**(c) Penalty.—** Whoever violates subsection (b)(1) shall be fined under this title, imprisoned for not more than 1 year, or both.
 
 ### Statutory Notes
 
@@ -234,10 +253,13 @@ Mandatory punishment provision was rephrased in the alternative.
 The offense described in this section involves no moral turpitude, and therefore the punishment provisions were reduced from 5 years to 1 year, so that the stigma of a felony would not attach to an offender. The fine was increased from $500 to $1,000 as more proportionate to the 1-year term of imprisonment. (See classification of felony and misdemeanor in [section 1 of this title](./chapter-001-general-provisions.md#section-1) and note thereunder.)
 
 #### Amendments
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
+2019—Pub. L. 116–78 amended section generally. Prior to amendment, text read as follows:
 
-#### Change of Name
-“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+“Neither the Public Printer, superintendent of printing, superintendent of binding, nor any of their assistants shall, during their continuance in office, have any interest, direct or indirect, in the publication of any newspaper or periodical, or in any printing, binding, engraving, or lithographing of any kind, or in any contract for furnishing paper or other material connected with the public printing, binding, lithographing, or engraving.
+
+“Whoever violates this section shall be fined under this title or imprisoned not more than one year, or both.”
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
 
 
 <a id="section-443"></a>

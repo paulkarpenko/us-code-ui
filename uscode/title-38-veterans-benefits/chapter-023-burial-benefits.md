@@ -204,7 +204,7 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
   (B) an institution at which the deceased veteran was, at the time of death, receiving—
 
-    (i) hospital care in accordance with [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703);
+    (i) hospital care in accordance with sections 1703A, 8111, and 8153 of this title;
 
     (ii) nursing home care under [section 1720 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1720); or
 
@@ -223,9 +223,6 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 (2) the Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(2)(B)(i)
-Pub. L. 115–182, title I, § 144(a)(1)(C), (b), June 6, 2018, 132 Stat. 1429, 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), subsection (a)(2)(B)(i) of this section is amended by striking “with section 1703” and inserting “with sections 1703A, 8111, and 8153”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (a)(2)(B)(i). Pub. L. 115–182 substituted “with sections 1703A, 8111, and 8153” for “with section 1703”.
@@ -291,7 +288,7 @@ Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to 
 1959—Subsec. (b). Pub. L. 86–70 substituted “continental United States (including Alaska), the Administrator shall transport the body to the place of burial in the continental United States (including Alaska)” for “continental United States, the Administrator shall transport the body to the place of burial in the United States, or to the place of burial within Alaska if the deceased was a resident of Alaska who had been brought to the United States as a beneficiary of the Veterans’ Administration for hospital or domiciliary care”.
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. Law 115–182 effective on the date described in section 101(b) of Pub. Law 115–182, see section 144(b) of Pub. Law 115–182, set out as a note under [section 1712 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712).
+Amendment by Pub. L. 115–182 effective on the date described in section 101(b) of Pub. L. 115–182, see section 144(b) of Pub. L. 115–182, set out as a note under [section 1712 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–275, title V, § 501(d), Oct. 13, 2010, 124 Stat. 2881, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply with respect to deaths occurring on or after October 1, 2011. “(2) Prohibition on cost-of-living adjustment for fiscal year 2012.—No adjustments shall be made under [section 2303(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303/c&num=0&edition=prelim), United States Code, as added by subsection (c), for fiscal year 2012.”
@@ -430,7 +427,7 @@ The death of any person who had a status which would, under the laws in effect o
 
     (ii) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
 
-    (iii) was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 (including posthumously).
+    (iii) was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 11 See References in Text note below. of title 14 (including posthumously).
 
   (D) In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 of title 14.
 
@@ -493,6 +490,9 @@ The death of any person who had a status which would, under the laws in effect o
 **(i)** In this section, the term “tribal organization” has the meaning given such term in [section 3765 of this title](./chapter-037-housing-and-small-business-loans.md#section-3765).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim), referred to in subsec. (d)(5)(C)(iii), (D), was redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 2018—Subsec. (a)(4). Pub. L. 115–407, § 201(1), inserted “or a veterans’ cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization” after “State”.
@@ -640,9 +640,6 @@ Subsec. (e). Pub. L. 100–322, § 344(a), added subsec. (e).
 1978—Subsec. (b). Pub. L. 95–479 struck out “dying in the service, and” after “to commemorate any veteran”.
 
 Subsecs. (c), (d). Pub. L. 95–476 added subsecs. (c) and (d).
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.

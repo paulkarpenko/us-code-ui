@@ -32,7 +32,12 @@ source: >-
 
 **(c) Notice of contact of third parties**
 
-(1) **General notice** — An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
+(1) **General notice** — An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer unless such contact occurs during a period (not greater than 1 year) which is specified in a notice which—
+
+  (A) informs the taxpayer that contacts with persons other than the taxpayer are intended to be made during such period, and
+
+  (B) except as otherwise provided by the Secretary, is provided to the taxpayer not later than 45 days before the beginning of such period.
+  Nothing in the preceding sentence shall prevent the issuance of notices to the same taxpayer with respect to the same tax liability with periods specified therein that, in the aggregate, exceed 1 year. A notice shall not be issued under this paragraph unless there is an intent at the time such notice is issued to contact persons other than the taxpayer during the period specified in such notice. The preceding sentence shall not prevent the issuance of a notice if the requirement of such sentence is met on the basis of the assumption that the information sought to be obtained by such contact will not be obtained by other means before such contact.
 
 (2) **Notice of specific contacts** — The Secretary shall periodically provide to a taxpayer a record of persons contacted during such period by the Secretary with respect to the determination or collection of the tax liability of such taxpayer. Such record shall also be provided upon request of the taxpayer.
 
@@ -74,9 +79,15 @@ source: >-
 
 **(e) Limitation on examination on unreported income** The Secretary shall not use financial status or economic reality examination techniques to determine the existence of unreported income of any taxpayer unless the Secretary has a reasonable indication that there is a likelihood of such unreported income.
 
+**(f) Limitation on access of persons other than Internal Revenue Service officers and employees** The Secretary shall not, under the authority of section 6103(n), provide any books, papers, records, or other data obtained pursuant to this section to any person authorized under section 6103(n), except when such person requires such information for the sole purpose of providing expert evaluation and assistance to the Internal Revenue Service. No person other than an officer or employee of the Internal Revenue Service or the Office of Chief Counsel may, on behalf of the Secretary, question a witness under oath whose testimony was obtained pursuant to this section.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(1). Pub. L. 116–25, § 1206(a), amended par. (1) generally. Prior to amendment, text read as follows: “An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.”
+
+Subsec. (f). Pub. L. 116–25, § 1208(a), added subsec. (f).
+
 1998—Subsec. (c). Pub. L. 105–206, § 3417(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 105–206, § 3417(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
@@ -88,6 +99,11 @@ Subsec. (e). Pub. L. 105–206, § 3417(a), redesignated subsec. (d) as (e).
 1982—Pub. L. 97–248 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsecs. (b) and (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1206(b), July 1, 2019, 133 Stat. 990, provided that: “The amendment made by this section [amending this section] shall apply to notices provided, and contacts of persons made, after the date which is 45 days after the date of the enactment of this Act [July 1, 2019].”
+
+Pub. L. 116–25, title I, § 1208(b), July 1, 2019, 133 Stat. 991, provided that: “The amendment made by this section [amending this section]— “(1) shall take effect on the date of the enactment of this Act [July 1, 2019]; and “(2) shall not fail to apply to a contract in effect under section 6103(n) of the Internal Revenue Code of 1986 merely because such contract was in effect before the date of the enactment of this Act.”
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title III, § 3417(b), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by subsection (a) [amending this section] shall apply to contacts made after the 180th day after the date of the enactment of this Act [July 22, 1998].”
@@ -633,6 +649,7 @@ Section effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set 
 (2) there is a reasonable basis for believing that such person or group or class of persons may fail or may have failed to comply with any provision of any internal revenue law, and
 
 (3) the information sought to be obtained from the examination of the records or testimony (and the identity of the person or persons with respect to whose liability the summons is issued) is not readily available from other sources.
+The Secretary shall not issue any summons described in the preceding sentence unless the information sought to be obtained is narrowly tailored to information that pertains to the failure (or potential failure) of the person or group or class of persons referred to in paragraph (2) to comply with one or more provisions of the internal revenue law which have been identified for purposes of such paragraph.
 
 **(g) Special exception for certain summonses** A summons is described in this subsection if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
 
@@ -660,6 +677,8 @@ Section effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set 
 A prior section 7609 was renumbered [section 7613 of this title](./chapter-078-discovery-of-liability-and-enforcement-of-title.md#section-7613).
 
 #### Amendments
+2019—Subsec. (f). Pub. L. 116–25 inserted concluding provisions.
+
 2005—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, § 408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), and struck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
 
 Subsec. (c)(3), (4). Pub. L. 109–135, § 408(a)(2), added par. (3) and redesignated former par. (3) as (4).
@@ -767,6 +786,9 @@ Subsec. (i). Pub. L. 97–248, § 332(a), added subsec. (i).
 1978—Subsec. (c)(1). Pub. L. 95–600 which purported to substitute “6427(f)(2)” for “6427(e)(2)” was not executed in view of the amendment made by Pub. L. 95–599. See below.
 
 Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1204(b), July 1, 2019, 133 Stat. 989, provided that: “The amendments made by this section [amending this section] shall apply to summonses served after the date that is 45 days after the date of the enactment of this Act [July 1, 2019].”
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–135, title IV, § 408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206].”
@@ -1142,7 +1164,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (2) **Protection of software** — Notwithstanding any other provision of this section, and in addition to any protections ordered pursuant to paragraph (1), in the case of software that comes into the possession or control of the Secretary in the course of any examination with respect to any taxpayer—
 
-  (A) the software may be used only in connection with the examination of such taxpayer’s return, any appeal by the taxpayer to the Internal Revenue Service Office of Appeals, any judicial proceeding (and any appeals therefrom), and any inquiry into any offense connected with the administration or enforcement of the internal revenue laws;
+  (A) the software may be used only in connection with the examination of such taxpayer’s return, any appeal by the taxpayer to the Internal Revenue Service Independent Office of Appeals, any judicial proceeding (and any appeals therefrom), and any inquiry into any offense connected with the administration or enforcement of the internal revenue laws;
 
   (B) the Secretary shall provide, in advance, to the taxpayer and the owner of the software a written list of the names of all individuals who will analyze or otherwise have access to the software;
 
@@ -1195,6 +1217,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Prior Provisions
 A prior section 7612 was renumbered [section 7613 of this title](./chapter-078-discovery-of-liability-and-enforcement-of-title.md#section-7613).
+
+#### Amendments
+2019—Subsec. (c)(2)(A). Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
 
 #### Effective Date
 Pub. L. 105–206, title III, § 3413(e), July 22, 1998, 112 Stat. 754, provided that: “(1) In general.—The amendments made by this section [enacting this section, amending sections 7213 and 7603 of this title, and renumbering former [section 7612 of this title](./chapter-078-discovery-of-liability-and-enforcement-of-title.md#section-7612) as 7613] shall apply to summonses issued, and software acquired, after the date of the enactment of this Act [July 22, 1998]. “(2) Software protection.—In the case of any software acquired on or before such date of enactment, the requirements of section 7612(a)(2) of the Internal Revenue Code of 1986 (as added by such amendments) shall apply after the 90th day after such date. The preceding sentence shall not apply to the requirement under section 7612(c)(2)(G)(ii) of such Code (as so added).”
@@ -1320,9 +1345,63 @@ in cases where such expenses are not otherwise provided for by law. Any amount p
 
   (B) violations of reporting requirements.
 
+**(d) Civil action to protect against retaliation cases**
+
+(1) **Anti-retaliation whistleblower protection for employees** — No employer, or any officer, employee, contractor, subcontractor, or agent of such employer, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment (including through an act in the ordinary course of such employee’s duties) in reprisal for any lawful act done by the employee—
+
+  (A) to provide information, cause information to be provided, or otherwise assist in an investigation regarding underpayment of tax or any conduct which the employee reasonably believes constitutes a violation of the internal revenue laws or any provision of Federal law relating to tax fraud, when the information or assistance is provided to the Internal Revenue Service, the Secretary of the Treasury, the Treasury Inspector General for Tax Administration, the Comptroller General of the United States, the Department of Justice, the United States Congress, a person with supervisory authority over the employee, or any other person working for the employer who has the authority to investigate, discover, or terminate misconduct, or
+
+  (B) to testify, participate in, or otherwise assist in any administrative or judicial action taken by the Internal Revenue Service relating to an alleged underpayment of tax or any violation of the internal revenue laws or any provision of Federal law relating to tax fraud.
+
+(2) **Enforcement action**
+
+  (A) *In general* — A person who alleges discharge or other reprisal by any person in violation of paragraph (1) may seek relief under paragraph (3) by—
+
+    (i) filing a complaint with the Secretary of Labor, or
+
+    (ii) if the Secretary of Labor has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+
+  (B) *Procedure*
+
+    (i) *In general* — An action under subparagraph (A)(i) shall be governed under the rules and procedures set forth in [section 42121(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b&num=0&edition=prelim), United States Code.
+
+    (ii) *Exception* — Notification made under [section 42121(b)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b/1&num=0&edition=prelim), United States Code, shall be made to the person named in the complaint and to the employer.
+
+    (iii) *Burdens of proof* — An action brought under subparagraph (A)(ii) shall be governed by the legal burdens of proof set forth in [section 42121(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42121/b&num=0&edition=prelim), United States Code, except that in applying such section—
+
+      (I) “behavior described in paragraph (1)” shall be substituted for “behavior described in paragraphs (1) through (4) of subsection (a)” each place it appears in paragraph (2)(B) thereof, and
+
+      (II) “a violation of paragraph (1)” shall be substituted for “a violation of subsection (a)” each place it appears.
+
+    (iv) *Statute of limitations* — A complaint under subparagraph (A)(i) shall be filed not later than 180 days after the date on which the violation occurs.
+
+    (v) *Jury trial* — A party to an action brought under subparagraph (A)(ii) shall be entitled to trial by jury.
+
+(3) **Remedies**
+
+  (A) *In general* — An employee prevailing in any action under paragraph (2)(A) shall be entitled to all relief necessary to make the employee whole.
+
+  (B) *Compensatory damages* — Relief for any action under subparagraph (A) shall include—
+
+    (i) reinstatement with the same seniority status that the employee would have had, but for the reprisal,
+
+    (ii) the sum of 200 percent of the amount of back pay and 100 percent of all lost benefits, with interest, and
+
+    (iii) compensation for any special damages sustained as a result of the reprisal, including litigation costs, expert witness fees, and reasonable attorney fees.
+
+(4) **Rights retained by employee** — Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.
+
+(5) **Nonenforceability of certain provisions waiving rights and remedies or requiring arbitration of disputes**
+
+  (A) *Waiver of rights and remedies* — The rights and remedies provided for in this subsection may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+
+  (B) *Predispute arbitration agreements* — No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this subsection.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–25 added subsec. (d).
+
 2018—Subsec. (b)(1), (2)(A). Pub. L. 115–123, § 41108(a)(2), (b), substituted “proceeds collected as a result of the action” for “collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action” and inserted “(determined without regard to whether such proceeds are available to the Secretary)” after “in response to such action”.
 
 Subsec. (b)(5)(B). Pub. L. 115–123, § 41108(c), substituted “proceeds” for “tax, penalties, interest, additions to tax, and additional amounts”.
@@ -1334,6 +1413,9 @@ Subsec. (c). Pub. L. 115–123, § 41108(a)(1), added subsec. (c).
 1996—Pub. L. 104–168 substituted “of underpayments and fraud, etc.” for “and punishment of frauds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary, under regulations prescribed by the Secretary, is authorized to pay such sums, not exceeding in the aggregate the sum appropriated therefor, as he may deem necessary for detecting and bringing to trial and punishment persons guilty of violating the internal revenue laws, or conniving at the same, in cases where such expenses are not otherwise provided for by law.”
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [July 1, 2019].”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title II, § 41108(d), Feb. 9, 2018, 132 Stat. 158, provided that: “The amendments made by this section [amending this section] shall apply to information provided before, on, or after the date of the enactment of this Act [Feb. 9, 2018] with respect to which a final determination for an award has not been made before such date of enactment.”
@@ -1351,7 +1433,7 @@ Pub. L. 109–432, div. A, title IV, § 406(b), Dec. 20, 2006, 120 Stat. 2959, p
 Pub. L. 109–432, div. A, title IV, § 406(c), Dec. 20, 2006, 120 Stat. 2960, provided that: “The Secretary of the Treasury shall each year conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986, including— “(1) an analysis of the use of such section during the preceding year and the results of such use, and “(2) any legislative or administrative recommendations regarding the provisions of such section and its application.”
 
 #### Study of Payments Made for Detection of Underpayments and Fraud
-Pub. L. 105–206, title III, § 3804, July 22, 1998, 112 Stat. 783, provided that: “Not later than 1 year after the date of the enactment of this Act [July 22, 1998], the Secretary of the Treasury shall conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986 including— “(1) an analysis of the present use of such section and the results of such use; and “(2) any legislative or administrative recommendations regarding the provisions of such section and its application.”
+Pub. L. 105–206, title III, § 3804, July 22, 1998, 112 Stat. 783, provided that the Secretary of the Treasury, not later than 1 year after July 22, 1998, would conduct a study and report to Congress on the use of this section, including an analysis of the present use of this section and any legislative or administrative recommendations regarding the provisions of this section and its application.
 
 #### Annual Report to Congress on Payments Made Under This Section and Resultant Collections
 Pub. L. 104–168, title XII, § 1209(d), July 30, 1996, 110 Stat. 1474, provided that: “The Secretary of the Treasury or his delegate shall submit an annual report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the payments under section 7623 of the Internal Revenue Code of 1986 during the year and on the amounts collected for which such payments were made.”

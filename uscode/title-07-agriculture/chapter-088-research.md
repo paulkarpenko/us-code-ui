@@ -366,7 +366,7 @@ Amendment by section 7511(c)(15) of Pub. L. 110–246 effective Oct. 1, 2009, se
 2014—Subsec. (d)(2). Pub. L. 113–79 inserted at end “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply to grants awarded under this section.”
 
 #### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 
 <a id="section-5821"></a>
@@ -933,7 +933,7 @@ The Federal Crop Insurance Act, referred to in subsec. (b), is subtitle A of tit
 #### Codification
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of subtitle C of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
@@ -1208,7 +1208,7 @@ Subsec. (b)(7), (8). Pub. L. 107–171, § 7208(a)(2)–(4), added par. (7) and 
 1995—Subsecs. (g), (h). Pub. L. 104–66 redesignated subsec. (h) as (g) and struck out former subsec. (g) which required Secretary to submit annual reports to Congress describing operations of grant program for plant genome mapping.
 
 #### Effective Date of 2018 Amendment
-Amendment by section 7614(b)(2)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by section 7614(b)(2)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1585,7 +1585,7 @@ The Agricultural Act of 2014, referred to in subsec. (f)(3)(F), is Pub. L. 113�
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-Subsec. (a). Pub. L. 115–334, § 7614(b)(2)(C), designated first and second sentences as pars. (1) and (3), respectively, inserted headings, and added par. (2).
+2018—Subsec. (a). Pub. L. 115–334, § 7614(b)(2)(C), designated first and second sentences as pars. (1) and (3), respectively, inserted headings, and added par. (2).
 
 Subsec. (d)(8). Pub. L. 115–334, § 7209(1)(A), substituted, in heading, “Alfalfa seed and alfalfa forage systems” for “Alfalfa and forage”, and in text, substituted “alfalfa seed and alfalfa forage systems” for “alfalfa and forage” and “alfalfa seed and other alfalfa forage” for “alfalfa and other forages, and”.
 
@@ -1712,7 +1712,7 @@ Subsec. (i). Pub. L. 102–237, § 406(1), substituted “Secretary of Agricultu
 Subsec. (k)(1). Pub. L. 102–237, § 406(2), substituted “Research” for “Except for research funded under subsection (i), research”.
 
 #### Effective Date of 2018 Amendment
-Amendment by section 7614(b)(2)(C) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by section 7614(b)(2)(C) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1895,7 +1895,7 @@ Pub. L. 107–171, title VII, § 7411, May 13, 2002, 116 Stat. 462, provided tha
 
   (B) $20,000,000 for each of fiscal years 2010 through 2012;
 
-  (C) $20,000,000 for each of fiscal years 2014 through 2018; and
+  (C) $20,000,000 for each of fiscal years 2014 through 2018; and 11 So in original. The word “and” probably should not appear.
 
   (D) $20,000,000 for each of fiscal years 2019 through 2020;
 
@@ -1923,7 +1923,7 @@ Subsecs. (c) to (e). Pub. L. 115–334, § 7614(b)(2)(D), added subsec. (c) and 
 
 Subsec. (e)(1)(D) to (G). Pub. L. 115–334, § 7210(2)(A), added subpars. (D) to (G).
 
-Subsec. (e)(2). Pub. L. 115–334, § 7210(2)(B), in heading, struck out “for fiscal years 2014 through 2018” after “funding” and in text, substituted “2023” for “2018”.
+Subsec. (e)(2). Pub. L. 115–334, § 7210(2)(B), in heading, struck out “for fiscal years 2014 through 2018” after “funding”, and in text, substituted “2023” for “2018”.
 
 Subsec. (f). Pub. L. 115–334, § 7614(b)(2)(D)(i), redesignated subsec. (e) as (f).
 
@@ -1966,7 +1966,7 @@ Subsec. (a)(4) to (6). Pub. L. 107–171, § 7218(1)(B)–(D), added pars. (4) t
 Subsec. (e). Pub. L. 107–171, § 7218(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.”
 
 #### Effective Date of 2018 Amendment
-Amendment by section 7614(b)(2)(D) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+Amendment by section 7614(b)(2)(D) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

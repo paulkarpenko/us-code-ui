@@ -44,7 +44,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 **(c)**
 
-(1) The Secretary shall request a holder of a license, certificate of registry, or merchant mariner’s document to make available to the Secretary, under [section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim), all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act committed by the individual.
+(1) The Secretary shall request a holder of a license, certificate of registry, or merchant mariner’s document to make available to the Secretary, under [section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim), all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act 11 See References in Text note below. committed by the individual.
 
 (2) The Secretary shall require the testing of the holder of a license, certificate of registry, or merchant mariner’s document for use of alcohol and dangerous drugs in violation of law or Federal regulation. The testing may include preemployment (with respect to dangerous drugs only), periodic, random, and reasonable cause testing, and shall include post-accident testing.
 
@@ -78,7 +78,7 @@ Section 7702(a) provides that Sections 551–559 of title 5 of the United States
 Subsection (b) allows an individual whose license, certificate, or document has been suspended or revoked to appeal it to the Secretary within 30 days.
 
 #### References in Text
-Section 205(a)(3)(A) or (B) of that Act, referred to in subsec. (c)(1), means section 205(a)(3)(A), (B) of the National Driver Register Act of 1982, Pub. L. 97–364, which was set out in a note under [section 401 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim), Highways, and was repealed and restated in [section 30304 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30304&num=0&edition=prelim), Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 862, 1379.
+Section 205(a)(3)(A) or (B) of that Act, referred to in subsec. (c)(1), means section 205(a)(3)(A), (B) of the National Driver Register Act of 1982, Pub. L. 97–364, which was set out in a note under [section 401 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim), Highways, and was repealed and restated in [section 30304 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30304&num=0&edition=prelim), Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 975, 1379.
 
 #### Amendments
 2018—Subsec. (c)(1). Pub. L. 115–232 substituted “[section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim)” for “section 206(b)(4) of the National Driver Register Act of 1982 ([23 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim) note)”.

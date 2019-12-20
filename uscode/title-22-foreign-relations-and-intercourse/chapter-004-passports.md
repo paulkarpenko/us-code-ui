@@ -209,9 +209,11 @@ Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
 #### Extension of Authority
-Pub. L. 115–141, div. K, title VII, § 7034(l)(1), Mar. 23, 2018, 132 Stat. 895, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2018’ for ‘September 30, 2010’.”
+Pub. L. 116–6, div. F, title VII, § 7034(m)(1), Feb. 15, 2019, 133 Stat. 326, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2019’ for ‘September 30, 2010’.”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 115–141, div. K, title VII, § 7034(l)(1), Mar. 23, 2018, 132 Stat. 895.
 
 Pub. L. 115–31, div. J, title VII, § 7034(k)(1), May 5, 2017, 131 Stat. 651.
 

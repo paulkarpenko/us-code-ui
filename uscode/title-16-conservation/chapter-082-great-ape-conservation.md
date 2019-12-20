@@ -179,16 +179,46 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 **(i) Panel**
 
-(1) **In general** — Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.
+(1) **Convention** — Not later than 1 year after March 12, 2019, and every 5 years thereafter, the Secretary may convene a panel of experts on great apes to identify the greatest needs and priorities for the conservation of great apes.
 
-(2) **Applicability of FACA** — The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to a panel convened under paragraph (1).
+(2) **Composition** — The Secretary shall ensure that the panel referred to in paragraph (1) includes, to the maximum extent practicable, 1 or more representatives—
+
+  (A) from each country that comprises the natural range of great apes; and
+
+  (B) with expertise in great ape conservation.
+
+(3) **Conservation plans** — In identifying the conservation needs and priorities under paragraph (1), the panel referred to in that paragraph shall consider any relevant great ape conservation plan or strategy, including scientific research and findings relating to—
+
+  (A) the conservation needs and priorities of great apes;
+
+  (B) any regional or species-specific action plan or strategy;
+
+  (C) any applicable strategy developed or initiated by the Secretary; and
+
+  (D) any other applicable conservation plan or strategy.
+
+(4) **Funds** — Subject to the availability of appropriations, the Secretary may use amounts available to the Secretary to pay for the costs of convening and facilitating any meeting of the panel referred to in paragraph (1).
+
+(5) **Applicability of FACA** — The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to a panel convened under paragraph (1).
+
+**(j) Multiyear grants**
+
+(1) **Authorization** — The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
+
+(2) **Effect of subsection** — Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (i)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2019—Subsec. (i)(1). Pub. L. 116–9, § 7001(c)(2)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.”
+
+Subsec. (i)(2) to (5). Pub. L. 116–9, § 7001(c)(2)(A)(ii), (iii), added pars. (2) to (4) and redesignated former par. (2) as (5).
+
+Subsec. (j). Pub. L. 116–9, § 7001(c)(2)(B), added subsec. (j).
+
 2006—Subsec. (d)(6). Pub. L. 109–363, § 701(1), added par. (6).
 
 Subsec. (i). Pub. L. 109–363, § 701(2), designated existing provisions as par. (1), inserted par. heading, substituted “may convene” for “shall convene”, and added par. (2).
@@ -208,7 +238,7 @@ Subsec. (i). Pub. L. 109–363, § 701(2), designated existing provisions as par
 
 (1) **In general** — Subject to paragraph (2), upon request by the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary, without further appropriation, such amounts as the Secretary determines are necessary to provide assistance under [section 6303 of this title](./chapter-082-great-ape-conservation.md#section-6303).
 
-(2) **Administrative expenses** — Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
+(2) **Administrative expenses** — Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $150,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 **(c) Investment of amounts**
 
@@ -235,15 +265,19 @@ Subsec. (i). Pub. L. 109–363, § 701(2), designated existing provisions as par
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–9 substituted “$150,000” for “$100,000”.
+
 2006—Subsec. (b)(2). Pub. L. 109–363 substituted “expend” for “expand” and “$100,000” for “$80,000”.
 
 
 <a id="section-6305"></a>
 ## § 6305. Authorization of appropriations
 
-There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2006 through 2010.
+There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–9 substituted “2019 through 2023” for “2006 through 2010”.
+
 2006—Pub. L. 109–363 substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.

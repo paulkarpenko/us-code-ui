@@ -2,7 +2,7 @@
 title: 22
 heading: FOREIGN RELATIONS AND INTERCOURSE
 positive_law: false
-sections: 3212
+sections: 3214
 chapters: 115
 ---
 # Title 22. FOREIGN RELATIONS AND INTERCOURSE

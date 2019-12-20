@@ -296,14 +296,14 @@ Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subse
 
 (2) To the extent possible, Authorized Officers shall exercise their powers under paragraph (1)(A)(ii), (iii), and (iv) of this subsection so as not to interfere unduly with the lawful operation of the vessel.
 
-(3) Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+(3) Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 11 See References in Text note below. of title 14.
 
 **(e) Exclusive jurisdiction** The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter.
 
 ### Statutory Notes
 
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) redesignated [section 522 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section522&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+#### References in Text
+[Section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim), referred to in subsec. (d)(3), redesignated [section 522 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section522&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-973i"></a>

@@ -144,7 +144,95 @@ Pub. L. 110–234, title XIV, § 14101, May 22, 2008, 122 Stat. 1453, and Pub. L
 
 
 <a id="section-8912"></a>
-## § 8912. Agriculture and food defense
+## § 8912. Repealed. Pub. L. 115–334, title XII, § 12201, Dec. 20, 2018, 132 Stat. 4944
+
+### Statutory Notes
+
+Section, Pub. L. 110–234, title XIV, § 14111, May 22, 2008, 122 Stat. 1454; Pub. L. 110–246, § 4(a), title XIV, § 14111, June 18, 2008, 122 Stat. 1664, 2216, related to Office of Homeland Security. See [section 6922 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6922).
+
+
+<a id="section-8913"></a>
+## § 8913. Agricultural biosecurity communication center
+**(a) Establishment** The Secretary shall establish a communication center within the Department to—
+
+(1) collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity; and
+
+(2) coordinate activities described in paragraph (1) among agencies and offices within the Department.
+
+**(b) Relation to existing DHS communication systems**
+
+(1) **Consistency and coordination** — The communication center established under subsection (a) shall, to the maximum extent practicable, share and coordinate the dissemination of timely information with the Department of Homeland Security and other communication systems of appropriate Federal departments and agencies.
+
+(2) **Avoiding redundancies** — Paragraph (1) shall not be construed to impede, conflict with, or duplicate the communications activities performed by the Secretary of Homeland Security under any provision of law.
+
+**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
+
+(1) such sums as are necessary for each of fiscal years 2008 through 2013; and
+
+(2) $2,000,000 for each of fiscal years 2014 through 2023.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–334 substituted “2023” for “2018”.
+
+2014—Subsec. (c). Pub. L. 113–79 amended subsec. (c) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2012.”
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Definition of “Secretary”
+“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-8914"></a>
+## § 8914. Assistance to build local capacity in agricultural biosecurity planning, preparedness, and response
+**(a) Advanced training programs**
+
+(1) **Grant assistance** — The Secretary shall establish a competitive grant program to support the development and expansion of advanced training programs in agricultural biosecurity planning and response for food science professionals and veterinarians.
+
+(2) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out this subsection—
+
+  (A) such sums as are necessary for each of fiscal years 2008 through 2013; and
+
+  (B) $15,000,000 for each of fiscal years 2014 through 2023.
+
+**(b) Assessment of response capability**
+
+(1) **Grant and loan assistance** — The Secretary shall establish a competitive grant and low-interest loan assistance program to assist States in assessing agricultural disease response capability.
+
+(2) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection—
+
+  (A) $25,000,000 for each of fiscal years 2008 through 2013; and
+
+  (B) $15,000,000 for each of fiscal years 2014 through 2023.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2018—Subsec. (a)(2)(B). Pub. L. 115–334, § 7402(1), substituted “2023” for “2018”.
+
+Subsec. (b)(2)(B). Pub. L. 115–334, § 7402(2), substituted “2023” for “2018”.
+
+2014—Subsec. (a)(2). Pub. L. 113–79, § 7502(1), struck out “such sums as may be necessary” after “Secretary”, substituted “subsection—” for “subsection for each of fiscal years 2008 through 2012.”, and added subpars. (A) and (B).
+
+Subsec. (b)(2). Pub. L. 113–79, § 7502(2), substituted “are authorized to be appropriated to carry out this subsection—” for “is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2008 through 2012.” and added subpars. (A) and (B).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Definition of “Secretary”
+“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-8921"></a>
+## § 8921. Agriculture and food defense
 **(a) Definitions** In this section:
 
 (1) **Animal** — The term “animal” has the meaning given the term in [section 8302 of this title](./chapter-109-animal-health-protection.md#section-8302).
@@ -287,7 +375,7 @@ Pub. L. 110–234, title XIV, § 14101, May 22, 2008, 122 Stat. 1453, and Pub. L
 
 (4) **Collaboration with land-grant colleges and universities** — The Secretary shall seek to establish cooperative agreements with land-grant colleges and universities (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)) that have the appropriate level of skill, experience, and competence with plant diseases or pests of concern.
 
-(5) **Authorization of appropriations** — In addition to the amount authorized to carry out this subtitle under section 12205,22 See References in Text note below. there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
+(5) **Authorization of appropriations** — In addition to the amount authorized to carry out this subtitle under section 12205,11 See References in Text note below. there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
 
 **(d) National Plant Disease Recovery System**
 
@@ -317,94 +405,6 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 #### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
-
-
-<a id="section-8913"></a>
-## § 8913. Agricultural biosecurity communication center
-**(a) Establishment** The Secretary shall establish a communication center within the Department to—
-
-(1) collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity; and
-
-(2) coordinate activities described in paragraph (1) among agencies and offices within the Department.
-
-**(b) Relation to existing DHS communication systems**
-
-(1) **Consistency and coordination** — The communication center established under subsection (a) shall, to the maximum extent practicable, share and coordinate the dissemination of timely information with the Department of Homeland Security and other communication systems of appropriate Federal departments and agencies.
-
-(2) **Avoiding redundancies** — Paragraph (1) shall not be construed to impede, conflict with, or duplicate the communications activities performed by the Secretary of Homeland Security under any provision of law.
-
-**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
-
-(1) such sums as are necessary for each of fiscal years 2008 through 2013; and
-
-(2) $2,000,000 for each of fiscal years 2014 through 2023.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2018—Subsec. (c)(2). Pub. L. 115–334 substituted “2023” for “2018”.
-
-2014—Subsec. (c). Pub. L. 113–79 amended subsec. (c) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2012.”
-
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-#### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-8914"></a>
-## § 8914. Repealed. Pub. L. 115–334, title XII, § 12201, Dec. 20, 2018, 132 Stat. 4944
-
-### Statutory Notes
-
-Section, Pub. L. 110–234, title XIV, § 14111, May 22, 2008, 122 Stat. 1454; Pub. L. 110–246, § 4(a), title XIV, § 14111, June 18, 2008, 122 Stat. 1664, 2216, related to Office of Homeland Security. See [section 6922 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6922).
-
-
-<a id="section-8921"></a>
-## § 8921. Assistance to build local capacity in agricultural biosecurity planning, preparedness, and response
-**(a) Advanced training programs**
-
-(1) **Grant assistance** — The Secretary shall establish a competitive grant program to support the development and expansion of advanced training programs in agricultural biosecurity planning and response for food science professionals and veterinarians.
-
-(2) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out this subsection—
-
-  (A) such sums as are necessary for each of fiscal years 2008 through 2013; and
-
-  (B) $15,000,000 for each of fiscal years 2014 through 2023.
-
-**(b) Assessment of response capability**
-
-(1) **Grant and loan assistance** — The Secretary shall establish a competitive grant and low-interest loan assistance program to assist States in assessing agricultural disease response capability.
-
-(2) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection—
-
-  (A) $25,000,000 for each of fiscal years 2008 through 2013; and
-
-  (B) $15,000,000 for each of fiscal years 2014 through 2023.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2018—Subsec. (a)(2)(B). Pub. L. 115–334, § 7402(1), substituted “2023” for “2018”.
-
-Subsec. (b)(2)(B). Pub. L. 115–334, § 7402(2), substituted “2023” for “2018”.
-
-2014—Subsec. (a)(2). Pub. L. 113–79, § 7502(1), struck out “such sums as may be necessary” after “Secretary”, substituted “subsection—” for “subsection for each of fiscal years 2008 through 2012.”, and added subpars. (A) and (B).
-
-Subsec. (b)(2). Pub. L. 113–79, § 7502(2), substituted “are authorized to be appropriated to carry out this subsection—” for “is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2008 through 2012.” and added subpars. (A) and (B).
-
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-#### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8922"></a>

@@ -656,7 +656,7 @@ In subsec. (k), “subchapter II of chapter 5, and chapter 7, of title 5” was 
 Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of section 16 of act Dec. 23, 1913, which formerly constituted subsec. (o) of this section, is now classified to [section 248–1 of this title](./chapter-003-federal-reserve-system.md#section-248-1).
 
 #### Amendments
-2018—Subsec. (s)(2)(A), (B). Pub. L. 115–174, § 401(c)(2)(A), substituted “$100,000,000,000” for “$50,000,000,000”.
+2018—Subsec. (s)(2). Pub. L. 115–174, § 401(c)(2)(A), substituted “$100,000,000,000” for “$50,000,000,000” in subpars. (A) and (B).
 
 Subsec. (s)(3). Pub. L. 115–174, § 401(c)(2)(B), added par. (3).
 
@@ -1166,7 +1166,7 @@ Pub. L. 114–94, div. C, title XXXII, § 32203(b), Dec. 4, 2015, 129 Stat. 1740
 Act June 16, 1933, ch. 89, § 4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
 
 #### Additional Transfers for Fiscal Years 1997 and 1998
-Pub. L. 103–66, title III, § 3002(b), Aug. 10, 1993, 107 Stat. 337, provided that: “(1) In general.—In addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to section 7(a)(3) of the Federal Reserve Act [former [12 U.S.C. 289(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section289/a/3&num=0&edition=prelim)], the Federal reserve banks shall transfer from such surplus funds to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $106,000,000 in fiscal year 1997 and a total amount of $107,000,000 in fiscal year 1998. “(2) Allocation by fed.—Of the total amount required to be paid by the Federal reserve banks under paragraph (1) for fiscal year 1997 or 1998, the Board of Governors of the Federal Reserve System shall determine the amount each such bank shall pay in such fiscal year. “(3) Replenishment of surplus fund prohibited.—No Federal reserve bank may replenish such bank’s surplus fund by the amount of any transfer by such bank under paragraph (1) during fiscal years 1997 and 1998.”
+Pub. L. 103–66, title III, § 3002(b), Aug. 10, 1993, 107 Stat. 337, provided that in addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to former [section 289(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section289/a/3&num=0&edition=prelim), the Federal reserve banks should transfer $106,000,000 in fiscal year 1997 and $107,000,000 in fiscal year 1998 from their surplus funds to the Treasury for deposit in the general fund, and prohibited the banks from replenishing their surplus funds by the amount of such transfer.
 
 
 <a id="section-290"></a>

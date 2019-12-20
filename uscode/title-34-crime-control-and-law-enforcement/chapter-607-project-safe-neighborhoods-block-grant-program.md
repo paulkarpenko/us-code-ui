@@ -38,7 +38,7 @@ The Attorney General of the United States is authorized to establish and carry o
 
 (1) competitive and evidence-based programs to reduce gun crime and gang violence;
 
-(2) the Edward Byrne criminal justice innovation program;
+(2) the Edward Byrne criminal justice innovation program; 11 So in original. Probably should be “Edward Byrne Criminal Justice Innovation Program;”.
 
 (3) community-based violence prevention initiatives; or
 

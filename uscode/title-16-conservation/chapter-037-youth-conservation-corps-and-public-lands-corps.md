@@ -2,7 +2,7 @@
 title: 16
 chapter: '37'
 heading: YOUTH CONSERVATION CORPS AND PUBLIC LANDS CORPS
-section_count: 18
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -187,7 +187,7 @@ For purposes of this subchapter:
 
 (1) **Appropriate conservation project** — The term “appropriate conservation project” means any project for the conservation, restoration, construction or rehabilitation of natural, cultural, historic, archaeological, recreational, or scenic resources.
 
-(2) **Corps and Public Lands Corps** — The terms “Corps” and “Public Lands Corps” mean the Public Lands Corps established under [section 1723 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1723).
+(2) **Corps and Public Lands Corps** — The terms “Corps” and “Public Lands Corps” mean the Public Lands Corps established by [section 1723(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1723/a/1&num=0&edition=prelim).
 
 (3) **Eligible service lands** — The term “eligible service lands” means public lands, Indian lands, and Hawaiian home lands.
 
@@ -213,7 +213,17 @@ For purposes of this subchapter:
 
 (7) **Indian tribe** — The term “Indian tribe” means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/c&num=0&edition=prelim), (g), or (j)), that is recognized as eligible for the special programs and services provided by the United States under Federal law to Indians because of their status as Indians.
 
-(8) **Priority project** — The term “priority project” means an appropriate conservation project conducted on eligible service lands to further 1 or more of the purposes of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6501](./chapter-084-healthy-forest-restoration.md#section-6501) et seq.), as follows:
+(8) **Institution of higher education**
+
+  (A) *In general* — The term “institution of higher education” has the meaning given the term in [section 1002 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim).
+
+  (B) *Exclusion* — The term “institution of higher education” does not include—
+
+    (i) an institution described in [section 1001(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/b&num=0&edition=prelim); or
+
+    (ii) an institution outside the United States, as described in [section 1002(a)(1)(C) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/a/1/C&num=0&edition=prelim).
+
+(9) **Priority project** — The term “priority project” means an appropriate conservation project conducted on eligible service lands to further 1 or more of the purposes of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6501](./chapter-084-healthy-forest-restoration.md#section-6501) et seq.) and other conservation and restoration initiatives, as follows:
 
   (A) To reduce wildfire risk to a community, municipal water supply, or other at-risk Federal land.
 
@@ -229,25 +239,37 @@ For purposes of this subchapter:
 
     (iii) enhance productivity and carbon sequestration.
 
-(9) **Public lands** — The term “public lands” means any lands or waters (or interest therein) owned or administered by the United States, except that such term does not include any Indian lands.
+  (E) To protect, restore, or enhance marine, estuarine, riverine, and coastal habitat ecosystem components—
 
-(10) **Qualified youth or conservation corps** — The term “qualified youth or conservation corps” means any program established by a State or local government, by the governing body of any Indian tribe, or by a nonprofit organization that—
+    (i) to promote the recovery of threatened species, endangered species, and managed fisheries;
 
-  (A) is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 30, inclusive, in a natural or cultural resource setting;
+    (ii) to restore fisheries, protected resources, and habitats impacted by oil and chemical spills and natural disasters; or
+
+    (iii) to enhance the resilience of coastal ecosystems, communities, and economies through habitat conservation.
+
+(10) **Public lands** — The term “public lands” means any lands or waters (or interest therein) owned or administered by the United States, except that such term does not include any Indian lands.
+
+(11) **Qualified youth or conservation corps** — The term “qualified youth or conservation corps” means any program established by a State or local government, by the governing body of any Indian tribe, or by a nonprofit organization that—
+
+  (A) is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 30, inclusive, or veterans age 35 or younger in a natural or cultural resource setting;
 
   (B) gives participants a mix of work experience, basic and life skills, education, training, and support services; and
 
   (C) provides participants with the opportunity to develop citizenship values and skills through service to their community and the United States.
 
-(11) **Resource assistant** — The term “resource assistant” means a resource assistant selected under [section 1725 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1725).
+(12) **Resource assistant** — The term “resource assistant” means a resource assistant selected under [section 1725 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1725).
 
-(12) **Secretary** — The term “Secretary” means—
+(13) **Secretary** — The term “Secretary” means—
 
-  (A) with respect to National Forest System land, the Secretary of Agriculture; and
+  (A) with respect to National Forest System land, the Secretary of Agriculture;
 
-  (B) with respect to Indian lands, Hawaiian home lands, or land administered by the Department of the Interior, the Secretary of the Interior.
+  (B) with respect to Indian lands, Hawaiian home lands, or land administered by the Department of the Interior, the Secretary of the Interior; and
 
-(13) **State** — The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+  (C) with respect to the National Marine Sanctuary System, coral reefs, and other coastal, estuarine, and marine habitats, and other land and facilities administered by the National Oceanic and Atmospheric Administration, the Secretary of Commerce.
+
+(14) **State** — The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+(15) **Veteran** — The term “veteran” has the meaning given the term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -258,9 +280,33 @@ Section 4 of Public Law 86–3, referred to in par. (4), is set out as a note pr
 
 The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-084-healthy-forest-restoration.md#section-6501) and Tables.
+The Healthy Forests Restoration Act of 2003, referred to in par. (9), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-084-healthy-forest-restoration.md#section-6501) and Tables.
 
 #### Amendments
+2019—Par. (2). Pub. L. 116–9, § 9003(a)(1), substituted “by section 1723(a)(1)” for “under section 1723”.
+
+Par. (8). Pub. L. 116–9, § 9003(a)(3), added par. (8). Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 116–9, § 9003(a)(2), (4)(A), redesignated par. (8) as (9) and substituted “and other conservation and restoration initiatives, as follows” for “, as follows” in introductory provisions. Former par. (9) redesignated (10).
+
+Par. (9)(E). Pub. L. 116–9, § 9003(a)(4)(B), added subpar. (E).
+
+Par. (10). Pub. L. 116–9, § 9003(a)(2), redesignated par. (9) as (10). Former par. (10) redesignated (11).
+
+Par. (11). Pub. L. 116–9, § 9003(a)(2), redesignated par. (10) as (11). Former par. (11) redesignated (12).
+
+Par. (11)(A). Pub. L. 116–9, § 9003(a)(5), substituted “individuals between the ages of 16 and 30, inclusive, or veterans age 35 or younger” for “individuals between the ages of 16 and 30, inclusive,”.
+
+Par. (12). Pub. L. 116–9, § 9003(a)(2), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+
+Par. (13). Pub. L. 116–9, § 9003(a)(2), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+
+Par. (13)(C). Pub. L. 116–9, § 9003(a)(6), added subpar. (C).
+
+Par. (14). Pub. L. 116–9, § 9003(a)(2), redesignated par. (13) as (14).
+
+Par. (15). Pub. L. 116–9, § 9003(a)(7), added par. (15).
+
 2016—Par. (10)(A). Pub. L. 114–289 substituted “30” for “25”.
 
 2005—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
@@ -271,9 +317,13 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 <a id="section-1723"></a>
 ## § 1723. Public Lands Corps program
-**(a) Establishment of Public Lands Corps** There is hereby established in the Department of the Interior and the Department of Agriculture a Public Lands Corps.
+**(a) Establishment of Public Lands Corps**
 
-**(b) Participants** The Corps shall consist of individuals between the ages of 16 and 30, inclusive, who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in [section 12591(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12591/b&num=0&edition=prelim). The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
+(1) **In general** — There is established in the Department of the Interior, the Department of Agriculture, and the Department of Commerce a corps, to be known as the “Public Lands Corps”.
+
+(2) **No effect on other agencies** — Nothing in this subsection precludes the establishment of a public lands corps by the head of a Federal department or agency other than a department described in paragraph (1), in accordance with this subchapter.
+
+**(b) Participants** The Corps shall consist of individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in paragraphs (1), (2), (4), and (5) of [section 12591(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12591/a&num=0&edition=prelim). The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
 
 **(c) Qualified youth or conservation corps**
 
@@ -307,9 +357,20 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 **(f) Consistency** Each appropriate conservation project carried out under this subchapter on eligible service lands shall be consistent with the provisions of law and policies relating to the management and administration of such lands, with all other applicable provisions of law, and with all management, operational, and other plans and documents which govern the administration of the area.
 
+**(g) Effect** Nothing in this section authorizes the use of the Public Lands Corps for projects on or impacting real property owned by, operated by, or within the custody, control, or administrative jurisdiction of the Administrator of General Services without the express permission of the Administrator of General Services.
+
 ### Statutory Notes
 
+#### References in Text
+This subchapter, referred to in subsec. (a)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title II of Pub. L. 91–378, known as the Public Lands Corps Act of 1993, to reflect the probable intent of Congress.
+
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–9, § 9003(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There is hereby established in the Department of the Interior and the Department of Agriculture a Public Lands Corps.”
+
+Subsec. (b). Pub. L. 116–9, § 9003(b)(2), substituted “individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger” for “individuals between the ages of 16 and 30, inclusive,” and “paragraphs (1), (2), (4), and (5) of [section 12591(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12591/a&num=0&edition=prelim)” for “[section 12591(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12591/b&num=0&edition=prelim)”.
+
+Subsec. (g). Pub. L. 116–9, § 9003(b)(3), added subsec. (g).
+
 2016—Subsec. (b). Pub. L. 114–289 substituted “30” for “25”.
 
 2005—Subsec. (b). Pub. L. 109–154, § 2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
@@ -350,9 +411,13 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 **(d) Assistance** The Secretary may provide any services, facilities, equipment, supplies, technical assistance, oversight, monitoring, or evaluations that are appropriate to carry out this subchapter.
 
+**(e) Transportation** The Secretary may provide to Corps participants who reside in their own homes transportation to and from appropriate conservation project sites.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (e). Pub. L. 116–9 added subsec. (e).
+
 2005—Pub. L. 109–154, § 2(d)(1), inserted “and program support” after “Conservation centers” in section catchline.
 
 Subsec. (a). Pub. L. 109–154, § 2(d)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture are each authorized to provide such quarters, board, medical care, transportation, and other services, facilities, supplies, and equipment as such Secretary deems necessary in connection with the Public Lands Corps and appropriate conservation projects carried out under this subchapter and to establish and use conservation centers owned and operated by such Secretary for purposes of the Corps and such projects. The Secretaries shall establish basic standards of health, nutrition, sanitation, and safety for all conservation centers established under this section and shall assure that such standards are enforced. Where necessary or appropriate, the Secretaries may enter into contracts and other appropriate arrangements with State and local government agencies and private organizations for the management of such conservation centers.”
@@ -369,13 +434,15 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 <a id="section-1725"></a>
 ## § 1725. Resource assistants
-**(a) Authorization** The Secretary is authorized to provide individual placements of resource assistants with any Federal land managing agency under the jurisdiction of the Secretary to carry out research or resource protection activities on behalf of the agency. To be eligible for selection as a resource assistant, an individual must be at least 17 years of age. The Secretary may select resource assistants without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary shall give a preference to the selection of individuals who are enrolled in an institution of higher education or are recent graduates from an institution of higher education, with particular attention given to ensure full representation of women and participants from historically black, Hispanic, and Native American schools.
+**(a) Authorization** The Secretary may provide individual placements of resource assistants to carry out research or resource protection activities on behalf of the Secretary. To be eligible for selection as a resource assistant, an individual must be at least 17 years of age. The Secretary may select resource assistants without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary shall give a preference to the selection of individuals who are enrolled in an institution of higher education or are recent graduates from an institution of higher education, with particular attention given to ensure full representation of women and participants from historically black, Hispanic, and Native American schools.
 
 **(b) Use of existing nonprofit organizations** Whenever one or more existing nonprofit organizations can provide, in the judgment of the the 11 So in original. Secretary, appropriate recruitment and placement services to fulfill the requirements of this section, the Secretary may implement this section through such existing organizations. Participating nonprofit organizations shall contribute to the expenses of providing and supporting the resource assistants, through private sources of funding, at a level equal to 25 percent of the total costs of each participant in the Resource Assistant program who has been recruited and placed through that organization. Any such participating nonprofit conservation service organization shall be required, by the respective land managing agency, to submit an annual report evaluating the scope, size, and quality of the program, including the value of work contributed by the Resource Assistants, to the mission of the agency.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–9 substituted “The Secretary may provide individual placements of resource assistants to carry out research or resource protection activities on behalf of the Secretary.” for “The Secretary is authorized to provide individual placements of resource assistants with any Federal land managing agency under the jurisdiction of the Secretary to carry out research or resource protection activities on behalf of the agency.”
+
 2005—Subsec. (a). Pub. L. 109–154, § 2(g)(3)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each”, “the Secretary to carry out” for “such Secretary to carry out”, “Secretary may” for “Secretaries may”, and “Secretary shall” for “Secretaries shall”.
 
 Subsec. (b). Pub. L. 109–154, § 2(g)(3)(B), substituted “the Secretary, appropriate” for “Secretary of the Interior or the Secretary of Agriculture, appropriate”.
@@ -386,11 +453,11 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 <a id="section-1725a"></a>
 ## § 1725a. Direct hire authority
-(1) During fiscal year 2012 and thereafter, the Secretary of the Interior may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of such title, a qualified candidate described in paragraph (1) 11 So in original. Probably should be “paragraph (2)”. directly to a position with a land managing agency of the Department of the Interior for which the candidate meets Office of Personnel Management qualification standards.
+(1) During fiscal year 2012 and thereafter, the Secretary (as defined in [section 1722 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1722)) may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of such title, a qualified candidate described in paragraph (2) directly to a position for which the candidate meets Office of Personnel Management qualification standards.
 
 (2) Paragraph (1) applies with respect to a former resource assistant (as defined in [section 1722 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1722)) who—
 
-  (A) completed a rigorous undergraduate or graduate summer internship with a land managing agency, such as the National Park Service Business Plan Internship;
+  (A) completed a rigorous undergraduate or graduate summer internship with the Secretary (as so defined), such as the National Park Service Business Plan Internship;
 
   (B) successfully fulfilled the requirements of the internship program; and
 
@@ -402,6 +469,11 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 #### Codification
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Public Lands Corps Act of 1993 which comprises this subchapter.
+
+#### Amendments
+2019—Par. (1). Pub. L. 116–9, § 9003(d)(2)(A), substituted “Secretary (as defined in [section 1722 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1722))” for “Secretary of the Interior” and “paragraph (2)” for “paragraph (1)” and struck out “with a land managing agency of the Department of the Interior” after “position”.
+
+Par. (2)(A). Pub. L. 116–9, § 9003(d)(2)(B), substituted “with the Secretary (as so defined)” for “with a land managing agency”.
 
 
 <a id="section-1725b"></a>
@@ -428,20 +500,46 @@ Section was enacted as part of the Agriculture Improvement Act of 2018 and not a
 
 
 <a id="section-1726"></a>
-## § 1726. Living allowances and terms of service
+## § 1726. Compensation and terms of service
 **(a) Living allowances** The Secretary shall provide each participant in the Public Lands Corps and each resource assistant with a living allowance in an amount established by the Secretary.
 
-**(b) Terms of service** Each participant in the Corps and each resource assistant shall agree to participate in the Corps or serve as a resource assistant, as the case may be, for such term of service as may be established by the Secretary enrolling or selecting the individual.
+**(b) Educational credit** The Secretary may provide a Corps participant with an educational credit that may be applied toward a program of postsecondary education at an institution of higher education that agrees to award the credit for participation in the Corps.
 
-**(c) Hiring** The Secretary may—
+**(c) Terms of service**
 
-(1) grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
+(1) **In general** — Each participant in the Corps and each resource assistant shall agree to participate in the Corps or serve as a resource assistant, as the case may be, for such term of service as may be established by the Secretary enrolling or selecting the individual.
 
-(2) provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 2 years after the date on which the member’s service with the Public Lands Corps is complete.
+(2) **Indian Youth Service Corps** — With respect to the Indian Youth Service Corps established under [section 1727b of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1727b), the Secretary shall establish the term of service of participants in consultation with the affected Indian tribe.
+
+**(d) Hiring**
+
+(1) **In general** — The Secretary may—
+
+  (A) grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
+
+  (B) provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 2 years after the date on which the member’s service with the Public Lands Corps is complete.
+
+(2) **Time-limited appointment** — For purposes of [section 9602 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9602&num=0&edition=prelim), a former member of the Corps hired by the Secretary under paragraph (1)(B) for a time-limited appointment shall be considered to be appointed initially under open, competitive examination.
+
+**(e) Applicability to qualified youth or conservation corps** The hiring and compensation standards described in this section shall apply to any individual participating in an appropriate conservation project through a qualified youth or conservation corps, including an individual placed through a contract or cooperative agreement, as approved by the Secretary.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–9, § 9003(e)(1), substituted “Compensation and terms of service” for “Living allowances and terms of service” in section catchline.
+
+Subsec. (b). Pub. L. 116–9, § 9003(e)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–9, § 9003(e)(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Pub. L. 116–9, § 9003(e)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 116–9, § 9003(e)(5), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Pub. L. 116–9, § 9003(e)(2), redesignated subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 116–9, § 9003(e)(6), added subsec. (e).
+
 2016—Subsec. (c)(2). Pub. L. 114–289 substituted “2 years” for “120 days”.
 
 2005—Subsec. (a). Pub. L. 109–154, § 2(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture shall provide each participant in the Public Lands Corps and each resource assistant with a living allowance in an amount not to exceed the maximum living allowance authorized by section 140(a)(3) of the National and Community Service Act of 1990 for participants in a national service program assisted under subtitle C of title I of such Act.”
@@ -467,12 +565,75 @@ The National and Community Service Act of 1990, referred to in subsec. (a), is P
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
 
 
+<a id="section-1727a"></a>
+## § 1727a. Reporting and data collection
+**(a) Report** Not later than 2 years after March 12, 2019, and annually thereafter, the Chief Executive Officer of the Corporation for National and Community Service, in coordination with the Secretaries, shall submit to Congress a report that includes data on the Corps, including—
+
+(1) the number of participants enrolled in the Corps and the length of the term of service for each participant;
+
+(2) the projects carried out by Corps participants, categorized by type of project and Federal agency;
+
+(3) the total amount and sources of funding provided for the service of participants;
+
+(4) the type of service performed by participants and the impact and accomplishments of the service; and
+
+(5) any other similar data determined to be appropriate by the Chief Executive Officer of the Corporation for National and Community Service or the Secretaries.
+
+**(b) Data** Not later than 1 year after March 12, 2019, and annually thereafter, the Secretaries shall submit to the Chief Executive Officer of the Corporation for National and Community Service the data described in subsection (a).
+
+**(c) Data collection** The Chief Executive Officer of the Corporation for National and Community Service may coordinate with qualified youth or conservation corps to improve the collection of the required data described in subsection (a).
+
+**(d) Coordination**
+
+(1) **In general** — The Secretaries shall, to the maximum extent practicable, coordinate with each other to carry out activities authorized under this subchapter, including—
+
+  (A) the data collection and reporting requirements of this section; and
+
+  (B) implementing and issuing guidance on eligibility for noncompetitive hiring status under [section 1726(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1726/d&num=0&edition=prelim).
+
+(2) **Designation of coordinators** — The Secretary shall designate a coordinator to coordinate and serve as the primary point of contact for any activity of the Corps carried out by the Secretary.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (d)(1), was in the original “this Act”, and was translated as reading “this title”, meaning title II of Pub. L. 91–378, known as the Public Lands Corps Act of 1993, to reflect the probable intent of Congress.
+
+#### Prior Provisions
+A prior section 209 of Pub. L. 91–378 was renumbered section 211 and is classified to [section 1728 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1728).
+
+
+<a id="section-1727b"></a>
+## § 1727b. Indian Youth Service Corps
+**(a) In general** There is established within the Public Lands Corps a program to be known as the “Indian Youth Service Corps” that—
+
+(1) enrolls participants between the ages of 16 and 30, inclusive, and veterans age 35 or younger, a majority of whom are Indians;
+
+(2) is established pursuant to an agreement between an Indian tribe and a qualified youth or conservation corps for the benefit of the members of the Indian tribe; and
+
+(3) carries out appropriate conservation projects on eligible service land.
+
+**(b) Authorization of cooperative agreements** The Secretary may enter into cooperative agreements with Indian tribes and qualified youth or conservation corps for the establishment and administration of the Indian Youth Service Corps.
+
+**(c) Guidelines** Not later than 18 months after March 12, 2019, the Secretary of the Interior, in consultation with Indian tribes, shall issue guidelines for the management of the Indian Youth Service Corps, in accordance with this subchapter and any other applicable Federal laws.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (c), was in the original “this Act”, and was translated as reading “this title”, meaning title II of Pub. L. 91–378, known as the Public Lands Corps Act of 1993, to reflect the probable intent of Congress.
+
+#### Prior Provisions
+A prior section 210 of Pub. L. 91–379 was renumbered section 212 and is classified to [section 1729 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1729).
+
+
 <a id="section-1728"></a>
 ## § 1728. Nondisplacement
 
 The nondisplacement requirements of [section 12637 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12637&num=0&edition=prelim) shall be applicable to all activities carried out by the Public Lands Corps, to all activities carried out under this subchapter by a qualified youth or conservation corps, and to the selection and service of resource assistants.
 
 ### Statutory Notes
+
+#### Prior Provisions
+A prior section 211 of Pub. L. 91–378 was renumbered section 213 and is classified to [section 1730 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1730).
 
 #### Effective Date
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
@@ -493,6 +654,8 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–9, § 9003(f)(3), made technical amendment to reference in original act which appears in text as reference to [section 1730 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1730).
+
 2005—Subsec. (a). Pub. L. 109–154, § 2(g)(4)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
 
 Subsec. (b). Pub. L. 109–154, § 2(g)(4)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.

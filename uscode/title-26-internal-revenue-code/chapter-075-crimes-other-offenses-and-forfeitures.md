@@ -328,7 +328,7 @@ knowing that such statement is false or that the tax is not so great as the port
 
 (1) **Federal employees and other persons** — It shall be unlawful for any officer or employee of the United States or any person described in section 6103(n) (or an officer or employee of any such person), or any former officer or employee, willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)). Any violation of this paragraph shall be a felony punishable upon conviction by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution, and if such offense is committed by any officer or employee of the United States, he shall, in addition to any other punishment, be dismissed from office or discharged from employment upon conviction for such offense.
 
-(2) **State and other employees** — It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), (k)(10), (l)(6), (7), (8), (9), (10), (12), (15), (16), (19), (20), or (21) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+(2) **State and other employees** — It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), (k)(10), (13), or (14), (l)(6), (7), (8), (9), (10), (12), (15), (16), (19), (20), or (21) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
 (3) **Other persons** — It shall be unlawful for any person to whom any return or return information (as defined in section 6103(b)) is disclosed in a manner unauthorized by this title thereafter willfully to print or publish in any manner not provided by law any such return or return information. Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
@@ -351,6 +351,10 @@ knowing that such statement is false or that the tax is not so great as the port
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(2). Pub. L. 116–25, § 2003(c)(2)(B), substituted “, (13), or (14)” for “or (13)”.
+
+Pub. L. 116–25, § 1405(a)(2)(B), substituted “(k)(10) or (13)” for “(k)(10)”.
+
 2016—Subsec. (a)(2). Pub. L. 114–184 substituted “(i)(1)(C), (3)(B)(i),” for “(i)(3)(B)(i)”.
 
 2013—Subsec. (a)(2). Pub. L. 112–240 inserted “(k)(10),” before “(l)(6),”.
@@ -575,7 +579,7 @@ For purposes of paragraph (2), a lack of funds existing immediately after the pa
 (1) discloses any information furnished to him for, or in connection with, the preparation of any such return, or
 
 (2) uses any such information for any purpose other than to prepare, or assist in preparing, any such return,
-shall be guilty of a misdemeanor, and, upon conviction thereof, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, together with the costs of prosecution.
+shall be guilty of a misdemeanor, and, upon conviction thereof, shall be fined not more than $1,000 ($100,000 in the case of a disclosure or use to which section 6713(b) applies), or imprisoned not more than 1 year, or both, together with the costs of prosecution.
 
 **(b) Exceptions**
 
@@ -592,6 +596,8 @@ shall be guilty of a misdemeanor, and, upon conviction thereof, shall be fined n
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 116–25 substituted “$1,000 ($100,000 in the case of a disclosure or use to which section 6713(b) applies)” for “$1,000” in concluding provisions.
+
 1989—Subsec. (b)(3). Pub. L. 101–239 inserted at end “Such regulations shall permit (subject to such conditions as such regulations shall provide) the disclosure or use of information for quality or peer reviews.”
 
 1988—Subsec. (a). Pub. L. 100–647 substituted “and who knowingly or recklessly” for “and who”.
@@ -1228,7 +1234,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 ### Statutory Notes
 
-Section, Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 85–859, title II, § 204(13), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 89–44, title VI, § 601(j), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(f), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1906(a)(43), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1830, 1834, related to disposal of certain forfeited property.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 85–859, title II, § 204(13), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 89–44, title VI, § 601(j), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(f), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1906(a)(43), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1830, 1834, related to disposal of certain forfeited property.
 
 #### Savings Provision
 For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).

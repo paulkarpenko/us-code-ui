@@ -663,9 +663,6 @@ Pars. (25) to (29). Pub. L. 102–10, § 3(2), redesignated pars. (24) to (28) a
 
 Par. (30). Pub. L. 102–10, § 3(2), (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -1978,7 +1975,7 @@ Pub. L. 110–161, div. G, title IV, § 407, Dec. 26, 2007, 121 Stat. 2202.
 
   (C) A campus-based program that is designed to provide substantial service in a community during the school term and during summer or other vacation periods through the use of—
 
-    (i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.); 11 See References in Text note below.
+    (i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.); 44 See References in Text note below.
 
     (ii) teams composed of students described in clause (i); or
 

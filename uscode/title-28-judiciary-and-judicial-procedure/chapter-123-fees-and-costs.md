@@ -654,7 +654,7 @@ Changes were made in phraseology.
 
 (6)
 
-  (A) Except as provided in subparagraph (B), in addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $325 for each quarter in which disbursements total less than $15,000; $650 for each quarter in which disbursements total $15,000 or more but less than $75,000; $975 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,625 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,950 for each quarter in which disbursements total $225,000 or more but less than $300,000; $4,875 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $6,500 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $9,750 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $10,400 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $13,000 for each quarter in which disbursements total $5,000,000 or more but less than $15,000,000; $20,000 for each quarter in which disbursements total $15,000,000 or more but less than $30,000,000; $30,000 for each quarter in which disbursements total more than $30,000,000. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
+  (A) Except as provided in subparagraph (B), in addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11, other than under subchapter V, for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $325 for each quarter in which disbursements total less than $15,000; $650 for each quarter in which disbursements total $15,000 or more but less than $75,000; $975 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,625 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,950 for each quarter in which disbursements total $225,000 or more but less than $300,000; $4,875 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $6,500 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $9,750 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $10,400 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $13,000 for each quarter in which disbursements total $5,000,000 or more but less than $15,000,000; $20,000 for each quarter in which disbursements total $15,000,000 or more but less than $30,000,000; $30,000 for each quarter in which disbursements total more than $30,000,000. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
 
   (B) During each of fiscal years 2018 through 2022, if the balance in the United States Trustee System Fund as of September 30 of the most recent full fiscal year is less than $200,000,000, the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be the lesser of 1 percent of such disbursements or $250,000.
 
@@ -688,6 +688,8 @@ Amendment by Pub. L. 104–91 is based on section 111(a) of H.R. 2076, One Hundr
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2019—Subsec. (a)(6)(A). Pub. L. 116–54 inserted “, other than under subchapter V,” after “chapter 11 of title 11”.
+
 2017—Subsec. (a)(6). Pub. L. 115–72 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), in addition” for “In addition”, and added subpar. (B).
 
 2012—Subsec. (a)(3). Pub. L. 112–121 substituted “$1,167” for “$1,000”.
@@ -743,6 +745,9 @@ Subsec. (a)(5), (6). Pub. L. 99–554, § 117(4), added pars. (5) and (6).
 1984—Pub. L. 98–353, § 111(b), substituted “fees” for “courts” in section catchline.
 
 Subsecs. (a), (c), (e). Pub. L. 98–353, § 111(a), substituted “clerk of the court” for “clerk of the bankruptcy court”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–72, div. B, § 1004(c), Oct. 26, 2017, 131 Stat. 1232, provided that: “The amendments made by this section [amending this section and enacting provisions set out as a note under [section 589a of this title](./chapter-039-united-states-trustees.md#section-589a)] shall apply to quarterly fees payable under [section 1930(a)(6) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/6&num=0&edition=prelim), United States Code, as amended by this section, for disbursements made in any calendar quarter that begins on or after the date of enactment of this Act [Oct. 26, 2017].”
@@ -865,14 +870,14 @@ Pub. L. 101–162, title IV, § 406(b), Nov. 21, 1989, 103 Stat. 1016, as amende
 [Pub. L. 103–121, title I, § 111(a), (b), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendments to section 406(b) of Pub. L. 101–162, set out above, are effective 30 days after Oct. 27, 1993.]
 
 
-<a id="section-1932-1"></a>
-## § 1932.1. Judicial Panel on Multidistrict Litigation
+<a id="section-1932"></a>
+## § 1932. Judicial Panel on Multidistrict Litigation
 
 The Judicial Conference of the United States shall prescribe from time to time the fees and costs to be charged and collected by the Judicial Panel on Multidistrict Litigation.
 
 
-<a id="section-1932-1"></a>
-## § 1932.1. Revocation of earned release credit
+<a id="section-1932"></a>
+## § 1932. Revocation of earned release credit
 
 In any civil action brought by an adult convicted of a crime and confined in a Federal correctional facility, the court may order the revocation of such earned good time credit under [section 3624(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3624/b&num=0&edition=prelim), United States Code, that has not yet vested, if, on its own motion or the motion of any party, the court finds that—
 

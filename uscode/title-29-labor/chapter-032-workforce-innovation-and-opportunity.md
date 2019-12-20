@@ -82,7 +82,7 @@ Pub. L. 113–128, title II, § 201, July 22, 2014, 128 Stat. 1608, provided tha
 Pub. L. 102–367, title I, § 101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to— “(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment; “(2) increase the funds available for programs under title II of the Job Training Partnership Act ([former] [29 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1601&num=0&edition=prelim) et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and “(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels.”
 
 #### Ex. Ord. No. 13845. Establishing the President’s National Council for the American Worker
-Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, provided:
+Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, as amended by Ex. Ord. No. 13853, § 5, Dec. 12, 2018, 83 F.R. 65073, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing a national strategy to ensure that America’s students and workers have access to affordable, relevant, and innovative education and job training that will equip them to compete and win in the global economy, and for monitoring the implementation of that strategy, it is hereby ordered as follows:
 
@@ -144,7 +144,7 @@ Sec. 7. Initial Tasks of Council. Within 180 days of the date of this order [Jul
 
 (iv) increasing the number of partnerships around the country between companies, local educational institutions, and other entities, including local governments, labor unions, workforce development boards, and other non-profit organizations, in an effort to understand the types of skills that are required by employers so that educational institutions can recalibrate their efforts toward the development and delivery of more effective training programs.
 
-(d) consider the recommendations of the American Workforce Policy Advisory Board (Board) established in section 8 of this order and, as appropriate, adopt recommendations that would significantly advance the objectives of the Council. The Council shall continue to consider and, as appropriate, adopt the Board’s recommendations beyond the initial 180-day period provided by this section;
+(d) consider the recommendations of the American Workforce Policy Advisory Board (Board) established in section 8 of this order and, as appropriate, adopt recommendations that would significantly advance the objectives of the Council;
 
 (e) recommend a specific course of action for increasing transparency related to education and job-training program options, including those offered at 4-year institutions and community colleges. The Council shall also propose ways to increase access to available job data, including data on industries and geographic locations with the greatest numbers of open jobs and projected future opportunities, as well as the underlying skills required to fill open jobs, so that American students and workers can make the most informed decisions possible regarding their education, job selection, and career paths. The Council shall also propose strategies for how best to use existing data tools to support informed decision making for American students and workers;
 
@@ -156,7 +156,7 @@ Sec. 8. Establishment of the American Workforce Policy Advisory Board. (a) There
 
 (b) The Board shall be composed and function as follows:
 
-(i) The Board shall be composed of the Secretary of Commerce and the Advisor to the President overseeing the Office of Economic Initiatives, and up to 25 members appointed by the President from among citizens outside the Federal Government, and shall include individuals chosen to serve as representatives of the various sectors of the economy, including the private sector, employers, educational institutions, and States, to offer diverse perspectives on how the Federal Government can improve education, training, and re-training for American workers;
+(i) The Board shall be composed of the Secretary of Commerce and the Advisor to the President overseeing the Office of Economic Initiatives, and up to 25 members appointed by the Secretary of Commerce from among citizens outside the Federal Government, and shall include individuals chosen to serve as representatives of the various sectors of the economy, including the private sector, employers, educational institutions, and States, to offer diverse perspectives on how the Federal Government can improve education, training, and re-training for American workers;
 
 (ii) The Board shall be co-chaired by the Secretary of Commerce and the Advisor to the President overseeing the Office of Economic Initiatives;
 
@@ -1837,6 +1837,9 @@ This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 12
 
 Subsec. (g)(1). Pub. L. 114–18, § 2(c)(2), struck out “for a program described in subsection (d)(2)(A)” after “part B”.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
 
@@ -3211,7 +3214,7 @@ Section effective on the first day of the first full program year after July 22,
 
       (III) information relating to local occupations in demand and the earnings, skill requirements, and opportunities for advancement for such occupations; and
 
-    (vii) provision of performance information and program cost information on eligible providers of training services as described in [section 3152 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3152), provided by program, and eligible providers of youth workforce investment activities described in [section 3153 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3153), providers of adult education described in subchapter II, providers of career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), and providers of vocational rehabilitation services described in title I of the Rehabilitation Act of 1973 ([29 U.S.C. 720](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-720) et seq.);
+    (vii) provision of performance information and program cost information on eligible providers of training services as described in [section 3152 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3152), provided by program, and eligible providers of youth workforce investment activities described in [section 3153 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3153), providers of adult education described in subchapter II, providers of career and technical education activities at the postsecondary level, and career and technical education activities available to out-of-school youth, under the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), and providers of vocational rehabilitation services described in title I of the Rehabilitation Act of 1973 ([29 U.S.C. 720](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-720) et seq.);
 
     (viii) provision of information, in formats that are usable by and understandable to one-stop center customers, regarding how the local area is performing on the local performance accountability measures described in [section 3141(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/c&num=0&edition=prelim) and any additional performance information with respect to the one-stop delivery system in the local area;
 
@@ -3510,9 +3513,6 @@ Section effective on the first day of the first full program year after July 22,
   (C) are designed to assist the individuals described in subparagraph (A) to establish a work history, demonstrate success in the workplace, and develop the skills that lead to entry into and retention in unsubsidized employment.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(2)(A)(vii)
-Pub. L. 115–224, § 4, title III, § 303, July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (c)(2)(A)(vii) of this section is amended by substituting “out-of-school youth” for “school dropouts”. See 2018 Amendment note below.
 
 #### References in Text
 This Act, referred to in subsecs. (a)(2)(B)(i)(I) and (c)(2)(A)(xi), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
@@ -3938,7 +3938,10 @@ Section effective on the first day of the first full program year after July 22,
 #### References in Text
 The Workforce Investment Act of 1998, referred to in subsec. (a)(3)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Subtitle C of title I of the Act was classified generally to subchapter III (§ 2881 et seq.) of chapter 30 of this title. Pursuant to [section 3361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim) and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -4169,6 +4172,9 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Statutory Notes
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
@@ -4362,6 +4368,9 @@ Section effective on the first day of the first full program year after July 22,
 #### References in Text
 The Occupational Safety and Health Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651) and Tables.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
@@ -4426,6 +4435,9 @@ Section effective on the first day of the first full program year after July 22,
 (4) the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee of Appropriations of the Senate.
 
 ### Statutory Notes
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -4855,6 +4867,9 @@ Section effective on the first day of the first full program year after July 22,
 #### References in Text
 This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
@@ -5161,7 +5176,7 @@ Section effective on the first day of the first full program year after July 22,
 
     (v) in the case of an eligible entity described in subsection (a)(3)(C), other alternative relevant data as determined appropriate by the Secretary.
 
-  (C) *Support for state strategy* — The eligible entity may include in the application information describing how the proposed services and activities are aligned with the State, outlying area, or Tribal strategy, as applicable, for addressing problems described in subparagraph (A) in specific service areas or across the State, outlying area, or Tribal land.
+  (C) *Support for State strategy* — The eligible entity may include in the application information describing how the proposed services and activities are aligned with the State, outlying area, or Tribal strategy, as applicable, for addressing problems described in subparagraph (A) in specific service areas or across the State, outlying area, or Tribal land.
 
 (3) **Economic and employment conditions demonstrate additional federal support needed**
 
@@ -5416,7 +5431,7 @@ Section effective on the first day of the first full program year after July 22,
 ### Statutory Notes
 
 #### References in Text
-The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(8), (e)(3)(C)(i), (F)(i)(II), and (g)(2), are Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.) of part B of subchapter I of this chapter. Subtitle D of the Act probably means subtitle D of title I of the Act, which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(8), (e)(3)(C)(i), (F)(i)(II), and (g)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.) of part B of subchapter I of this chapter. Subtitle D of the Act probably means subtitle D of title I of the Act, which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 The Social Security Act, referred to in subsec. (a)(10)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -6160,6 +6175,9 @@ Section effective on the first day of the first full program year after July 22,
 #### References in Text
 The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
@@ -6320,6 +6338,9 @@ Section effective on the first day of the first full program year after July 22,
   (D) *Expedited determination regarding provision of waivers* — If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
 ### Statutory Notes
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -7419,6 +7440,9 @@ Section effective on the first day of the first full program year after July 22,
 **(d) Report** The Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate and make available to the public, a report on the activities carried out under this section.
 
 ### Statutory Notes
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).

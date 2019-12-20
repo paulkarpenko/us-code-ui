@@ -32,7 +32,7 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 This section was enacted as part of the American Super Computing Leadership Act of 2017 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 
 #### Amendments
-2018—Pars. (1) to (5). Pub. L. 115–246, § 304(a)(2)(A), (B), added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”.
+2018—Pars. (1) to (5). Pub. L. 115–246, § 304(a)(2)(A), (B), added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
 
 Par. (6). Pub. L. 115–246, § 304(a)(2)(A), (C), redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
 

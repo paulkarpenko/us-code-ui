@@ -2,7 +2,7 @@
 title: 2
 chapter: '28'
 heading: ARCHITECT OF THE CAPITOL
-section_count: 69
+section_count: 70
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -648,7 +648,7 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 Prior similar provisions were contained in Pub. L. 107–68, title I, § 131, Nov. 12, 2001, 115 Stat. 581.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–244, which directed amendment of “[2 U.S.C. 1821](./chapter-028-architect-of-the-capitol.md#section-1821)” by inserting “To promote efficiency and economy in contracting and to avoid unnecessary burdens, the Architect of the Capitol is granted authority to utilize special simplified procedures for purchases of property and services the aggregate amount of which does not exceed $250,000.” before “Notwithstanding any other provision” in introductory provisions, was executed by making the amendment to section 1201(a) of Pub. L. 108–7, div. H, title I, which is classified to this section, to reflect the probable intent of Congress.
+2018—Subsec. (a). Pub. L. 115–244, which directed amendment of “[2 U.S.C. 1821](./chapter-028-architect-of-the-capitol.md#section-1821)” by inserting “To promote efficiency and economy in contracting and to avoid unnecessary burdens, the Architect of the Capitol is granted authority to utilize special simplified procedures for purchases of property and services the aggregate amount of which does not exceed $250,000.” before “Notwithstanding any other provision of law—”, was executed by making the insertion in subsec. (a) of section 1201 of Pub. L. 108–7, div. H, title I, which is classified to this section, to reflect the probable intent of Congress.
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–244, div. B, title I, § 133(b), Sept. 21, 2018, 132 Stat. 2936, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
@@ -899,9 +899,7 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 Pub. L. 104–1, title V, § 504(c)(1), Jan. 23, 1995, 109 Stat. 41, provided in part that subsec. (e) of this section is repealed, except as provided in [section 1435 of this title](./chapter-024-congressional-accountability.md#section-1435).
 
 #### Flexible Work Schedules
-Pub. L. 110–161, div. H, title I, § 1302, Dec. 26, 2007, 121 Stat. 2242, as amended by Pub. L. 110–437, § 505(a), Oct. 20, 2008, 122 Stat. 4998, provided that: “Notwithstanding [section 6101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6101&num=0&edition=prelim), United States Code, the Architect of the Capitol may establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden. Such pilot program shall be in accordance with chapter 61 of title 5, United States Code. This authority shall terminate effective September 30, 2010.”
-
-[Pub. L. 110–437, title V, § 505(b), Oct. 20, 2008, 122 Stat. 4998, provided that: “The amendment made under subsection (a) [amending section 1302 of Pub. L. 110–161, set out above] shall take effect as though enacted as part of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161; 121 Stat. 2218 et seq.).” ]
+Pub. L. 110–161, div. H, title I, § 1302, Dec. 26, 2007, 121 Stat. 2242, as amended by Pub. L. 110–437, § 505(a), Oct. 20, 2008, 122 Stat. 4998, provided authority, through Sept. 30, 2010, to the Architect of the Capitol to establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden in accordance with chapter 61 of Title 5.
 
 #### Temporary Employees; Benefits
 Pub. L. 108–83, title I, § 1101(b)–(d), Sept. 30, 2003, 117 Stat. 1027, provided that: “(b) Any individual who exercised an option offered by the Architect of the Capitol under section 133(a)(2) of the Legislative Branch Appropriations Act, 2002 [Pub. L. 107–68, set out below], prior to the date of the enactment of this Act [Sept. 30, 2003] may revoke the option during the 90-day period which begins on the date of the enactment of this Act. “(c) The amendments made by subsection (a) [amending Pub. L. 107–68, § 133(a), set out below] shall take effect as if included in the enactment of section 133(a) of the Legislative Branch Appropriations Act, 2002. “(d) Notwithstanding any other provision of law, upon enactment of this Act the Architect of the Capitol shall take all steps which may be required to carry out section 133(a) of the Legislative Branch Appropriations Act, 2002 [Pub. L. 107–68, set out as a note below].”
@@ -1396,6 +1394,15 @@ Section was classified to section 166h of former Title 40, prior to the enactmen
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.
+
+
+<a id="section-1862b"></a>
+## § 1862b. Transfer of amounts appropriated for Architect of the Capitol under House Office Buildings
+**(a)** During fiscal year 2019 and each succeeding fiscal year, amounts appropriated or otherwise made available for the Architect of the Capitol under the heading “House Office Buildings” may be transferred to the House of Representatives and merged with and made available under the heading “Allowances and Expenses”, subject to the approval of the Committee on Appropriations of the House of Representatives.
+
+**(b)** The period of availability of any amounts transferred to the House of Representatives under this section shall be the same period of availability applicable to such amounts as appropriated for the Architect of the Capitol.
+
+**(c)** The aggregate amount transferred under this section in any fiscal year may not exceed $30,000,000.
 
 
 <a id="section-1863"></a>

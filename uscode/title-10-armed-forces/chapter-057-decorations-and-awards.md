@@ -217,6 +217,9 @@ Richard Nixon.
 
 ### Statutory Notes
 
+#### Prior Provisions
+Provisions similar to those in this section were contained in sections 1 to 3 of act Aug. 1, 1947, ch. 426, 61 Stat. 710, which were classified to sections 182a to 182c of former Title 36, Patriotic Societies and Observances, prior to repeal by Pub. L. 89–534, § 2, Aug. 11, 1966, 80 Stat. 345.
+
 #### Amendments
 1993—Subsec. (a). Pub. L. 103–160, § 1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
 
@@ -488,7 +491,7 @@ The medal of honor awarded posthumously to a deceased member of the armed forces
 ## § 1134a. Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll
 **(a) Establishment.—** There shall be in the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Department in which the Coast Guard is operating a roll designated as the “Army, Navy, Air Force, and Coast Guard Medal of Honor Roll”.
 
-**(b) Enrollment.—** The Secretary concerned shall enter and record on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll the name of each person who has served on active duty in the armed forces and who has been awarded a medal of honor pursuant to section 7271, 8291, or 9271 of this title or section 491 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+**(b) Enrollment.—** The Secretary concerned shall enter and record on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll the name of each person who has served on active duty in the armed forces and who has been awarded a medal of honor pursuant to section 7271, 8291, or 9271 of this title or section 491 11 See References in Text note below. of title 14.
 
 **(c) Issuance of Enrollment Certificate.—** Each living person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be issued a certificate of enrollment on the roll.
 
@@ -496,11 +499,11 @@ The medal of honor awarded posthumously to a deceased member of the armed forces
 
 ### Statutory Notes
 
+#### References in Text
+[Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Amendments
 2018—Subsec. (b). Pub. L. 115–232 substituted “section 7271, 8291, or 9271” for “section 3741, 6241, or 8741”.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

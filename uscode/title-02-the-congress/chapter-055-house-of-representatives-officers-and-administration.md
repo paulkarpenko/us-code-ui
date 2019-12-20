@@ -270,7 +270,7 @@ Section 113 of the Legislative Branch Appropriations Act, 2017, referred to in s
 ## § 5511. Transfer of funds
 **(a) Transfer of unexpended appropriations for salaries and expenses** Notwithstanding any other provision of law, upon completion of the second fiscal year which begins after the end of the period during which amounts appropriated under any of the items under the heading “House of Representatives, Salaries and Expenses” are available for obligation or expenditure, any such amounts which remain unobligated and unexpended shall be transferred to the heading “House of Representatives, Salaries and Expenses, Allowances and Expenses” and shall be available until expended for purposes of House of Representatives Business Continuity and Disaster Recovery.
 
-**(b) Exception for members’ representational allowances** Subsection (a) does not apply to amounts appropriated under the heading “House of Representatives, Salaries and Expenses, Members’ Representational Allowances”.
+**(b) Exception for Members’ Representational Allowances** Subsection (a) does not apply to amounts appropriated under the heading “House of Representatives, Salaries and Expenses, Members’ Representational Allowances”.
 
 **(c) Notification** The Chief Administrative Officer of the House of Representatives shall notify the Committee on Appropriations of the House of Representatives prior to the obligation or expenditure of any amounts transferred under subsection (a).
 

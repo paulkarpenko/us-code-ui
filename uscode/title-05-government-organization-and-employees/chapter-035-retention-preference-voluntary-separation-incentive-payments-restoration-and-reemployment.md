@@ -987,8 +987,8 @@ Section 309 of the Foreign Service Act of 1980, referred to in text, is classifi
 Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as a note under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
-<a id="section-3598-1"></a>
-## § 3598.1. Federal Bureau of Investigation Reserve Service
+<a id="section-3598"></a>
+## § 3598. Federal Bureau of Investigation Reserve Service
 **(a) Establishment.—** The Director of the Federal Bureau of Investigation may provide for the establishment and training of a Federal Bureau of Investigation Reserve Service (hereinafter in this section referred to as the “FBI Reserve Service”) for temporary reemployment of employees in the Bureau during periods of emergency, as determined by the Director.
 
 **(b) Membership.—** Membership in the FBI Reserve Service shall be limited to individuals who previously served as full-time employees of the Bureau.
@@ -1002,8 +1002,8 @@ Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 
 **(f) Limitation on Membership.—** Membership of the FBI Reserve Service is not to exceed 500 members at any given time.
 
 
-<a id="section-3598-1"></a>
-## § 3598.1. Federal Bureau of Investigation Reserve Service
+<a id="section-3598"></a>
+## § 3598. Federal Bureau of Investigation Reserve Service
 **(a) Establishment.—** The Director of the Federal Bureau of Investigation may provide for the establishment and training of a Federal Bureau of Investigation Reserve Service (hereinafter in this section referred to as the “FBI Reserve Service”) for temporary reemployment of employees in the Bureau during periods of emergency, as determined by the Director.
 
 **(b) Membership.—** Membership in the FBI Reserve Service shall be limited to individuals who previously served as full-time employees of the Bureau.

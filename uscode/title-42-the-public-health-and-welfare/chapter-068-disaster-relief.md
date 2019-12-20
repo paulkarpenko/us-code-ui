@@ -247,7 +247,7 @@ Pub. L. 115–254, div. D, § 1238(c), Oct. 5, 2018, 132 Stat. 3466, provided th
 
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
-Pub. L. 115–123, div. B, title VI, § 20604(c), Feb. 9, 2018, 132 Stat. 86, provided that: “This section [amending this section] and the amendments made by this section shall apply— “(1) to the provision of assistance in response to a major disaster or emergency declared on or after August 23, 2017; or “(2) with respect to—“(A) any application for assistance that, as of the date of enactment of this Act [Feb. 9, 2018], is pending before Federal Emergency Management Agency; and “(B) any application for assistance that has been denied, where a challenge to that denial is not yet finally resolved as of the date of enactment of this Act.”
+Pub. L. 115–123, div. B, title VI, § 20604(c), Feb. 9, 2018, 132 Stat. 86, provided that: “This section [amending this section and [section 5172 of this title](./chapter-068-disaster-relief.md#section-5172)] and the amendments made by this section shall apply— “(1) to the provision of assistance in response to a major disaster or emergency declared on or after August 23, 2017; or “(2) with respect to—“(A) any application for assistance that, as of the date of enactment of this Act [Feb. 9, 2018], is pending before Federal Emergency Management Agency; and “(B) any application for assistance that has been denied, where a challenge to that denial is not yet finally resolved as of the date of enactment of this Act.”
 
 #### Regulations
 Pub. L. 113–2, div. B, § 1110(e), Jan. 29, 2013, 127 Stat. 49, provided that: “(1) Issuance.—The President shall issue regulations to carry out the amendments made by this section [enacting [section 5123 of this title](./chapter-068-disaster-relief.md#section-5123) and amending this section and sections 5170 and 5191 of this title]. “(2) Factors.—In issuing the regulations, the President shall consider the unique conditions that affect the general welfare of Indian tribal governments.”
@@ -458,12 +458,12 @@ Subsec. (d). Pub. L. 100–707, § 104(a), (b)(2), inserted “including evaluat
 
 (3) **Certification to Congress** — The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
 
-**(m) Latest Published Editions** For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term “latest published editions” means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
+**(m) Latest published editions** For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term “latest published editions” means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
 
 ### Statutory Notes
 
 #### Amendment of Section
-For termination of amendment by section 1234(a)(8) of Pub. L. 115–254, see Termination Date of 2018 Amendment note below.
+Pub. L. 115–254, div. D, § 1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (m). See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (e)(1)(B)(iv), (g)(5), (10), and (i), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
@@ -479,7 +479,7 @@ Subsec. (f)(3). Pub. L. 115–254, § 1234(a)(3)(B), added par. (3).
 
 Subsec. (g). Pub. L. 115–254, § 1234(a)(4)(A), in introductory provisions, inserted “provide financial assistance only in States that have received a major disaster declaration in the previous 7 years, or to any Indian tribal government located partially or entirely within the boundaries of such States, and” after “the President shall”.
 
-Subsec. (g)(10) to (12). Pub. L. 115–254, § 1234(a)(4)(B)–(D), added pars. (10) and (11), and redesignated former par. (10) as (12).
+Subsec. (g)(10) to (12). Pub. L. 115–254, § 1234(a)(4)(B)–(D), added pars. (10) and (11) and redesignated former par. (10) as (12).
 
 Subsec. (i). Pub. L. 115–254, § 1234(a)(5), added subsec. (i) and struck out former subsec. (i) which related to National Predisaster Mitigation Fund.
 
@@ -508,12 +508,11 @@ Subsec. (n). Pub. L. 111–351, § 4, added subsec. (n).
 Pub. L. 108–199 substituted “2004” for “2003”.
 
 #### Effective Date of 2018 Amendment
-Pub. L. 115–254, div. D, § 1234(b), Oct. 5, 2018, 132 Stat. 3462, provided that: “The amendments made to section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5133](./chapter-068-disaster-relief.md#section-5133)) by paragraphs (3) and (5) of subsection (a) shall apply to funds appropriated on or after the date of enactment of this Act [Oct. 5, 2018].”
-
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
-#### Termination Date of 2018 Amendment
-Pub. L. 115–254, div. D, § 1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that: “On the date that is 5 years after the date of enactment of this Act [Oct. 5, 2018], section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5133](./chapter-068-disaster-relief.md#section-5133)) is amended by striking subsection (m), as added by subsection (a)(8) of this section.”
+Pub. L. 115–254, div. D, § 1234(b), Oct. 5, 2018, 132 Stat. 3462, provided that: “The amendments made to section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5133](./chapter-068-disaster-relief.md#section-5133)) by paragraphs (3) and (5) of subsection (a) shall apply to funds appropriated on or after the date of enactment of this Act [Oct. 5, 2018].”
+
+Pub. L. 115–254, div. D, § 1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that the amendment made by section 1234(d) is effective on the date that is 5 years after Oct. 5, 2018.
 
 #### Findings
 Pub. L. 111–351, § 2, Jan. 4, 2011, 124 Stat. 3863, provided that: “Congress finds the following: “(1) The predisaster hazard mitigation program has been successful and cost-effective. Funding from the predisaster hazard mitigation program has successfully reduced loss of life, personal injuries, damage to and destruction of property, and disruption of communities from disasters. “(2) The predisaster hazard mitigation program has saved Federal taxpayers from spending significant sums on disaster recovery and relief that would have been otherwise incurred had communities not successfully applied mitigation techniques. “(3) A 2007 Congressional Budget Office report found that the predisaster hazard mitigation program reduced losses by roughly $3 (measured in 2007 dollars) for each dollar invested in mitigation efforts funded under the predisaster hazard mitigation program. Moreover, the Congressional Budget Office found that projects funded under the predisaster hazard mitigation program could lower the need for post-disaster assistance from the Federal Government so that the predisaster hazard mitigation investment by the Federal Government would actually save taxpayer funds. “(4) A 2005 report by the Multihazard Mitigation Council showed substantial benefits and cost savings from the hazard mitigation programs of the Federal Emergency Management Agency generally. Looking at a range of hazard mitigation programs of the Federal Emergency Management Agency, the study found that, on average, $1 invested by the Federal Emergency Management Agency in hazard mitigation provided the Nation with roughly $4 in benefits. Moreover, the report projected that the mitigation grants awarded between 1993 and 2003 would save more than 220 lives and prevent nearly 4,700 injuries over approximately 50 years. “(5) Given the substantial savings generated from the predisaster hazard mitigation program in the years following the provision of assistance under the program, increasing funds appropriated for the program would be a wise investment.”
@@ -927,7 +926,7 @@ Section was enacted as part of the National Flood Insurance Reform Act of 1994 a
 ### Statutory Notes
 
 #### Amendment of Section
-For termination of amendment by section 1210(a)(1) of Pub. L. 115–254, see Termination Date of 2018 Amendment note below.
+Pub. L. 115–254, div. D, § 1210(a)(4), Oct. 5, 2018, 132 Stat. 3443, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (b)(4). See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
@@ -938,17 +937,16 @@ A prior section 5155, Pub. L. 93–288, title III, § 315, May 22, 1974, 88 Stat
 A prior section 312 of Pub. L. 93–288 was renumbered section 309 by Pub. L. 100–707 and is classified to [section 5152 of this title](./chapter-068-disaster-relief.md#section-5152).
 
 #### Amendments
-2018—Subsec. (b)(4). Pub. L. 115–254, § 1210(a)(4), struck out par. (4).
+2018—Subsec. (b)(4). Pub. L. 115–254, § 1210(a)(4), struck out par. (4) which provided for a presidential waiver of the general prohibition in subsec. (a).
 
 Pub. L. 115–254, § 1210(a)(1), added par. (4).
 
 #### Effective Date of 2018 Amendment
-Pub. L. 115–254, div. D, § 1210(a)(3), Oct. 5, 2018, 132 Stat. 3443, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170), 5191) between January 1, 2016, and December 31, 2021.”
-
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
-#### Termination Date of 2018 Amendment
-Pub. L. 115–254, div. D, § 1210(a)(4), Oct. 5, 2018, 132 Stat. 3443, provided that: “On the date that is 5 years after the date of enactment of this Act [Oct. 5, 2018], section 312(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5155(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5155/b&num=0&edition=prelim)) is amended by striking paragraph (4), as added by subsection (a)(1) of this section.”
+Pub. L. 115–254, div. D, § 1210(a)(3), Oct. 5, 2018, 132 Stat. 3443, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170), 5191) between January 1, 2016, and December 31, 2021.”
+
+Pub. L. 115–254, div. D, § 1210(a)(4), Oct. 5, 2018, 132 Stat. 3443, provided that the amendment made by section 1210(a)(4) is effective on the date that is 5 years after Oct. 5, 2018.
 
 #### Limitation
 Pub. L. 115–254, div. D, § 1210(a)(2), Oct. 5, 2018, 132 Stat. 3443, provided that: “This subsection [amending this section], including the amendment made by paragraph (1), shall not be construed to apply to section 406 or 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5172](./chapter-068-disaster-relief.md#section-5172), 5174).”
@@ -1059,6 +1057,9 @@ Notwithstanding any other provision of law, the Administrator of the Federal Eme
 
 #### Codification
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as part of the FAA Reauthorization Act of 2018, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### Effective Date
+Authorities provided under div. D of Pub. L. 115–254, which enacted this section, applicable to each major disaster and emergency declared by the President under Pub. L. 93–288 on or after Jan. 1, 2016, except as otherwise provided, see section 1202(b) of Pub. L. 115–254, set out in an Effective Date of 2018 Amendment note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
 #### Definitions
 For definitions of “Administrator” and “State” as used in this section, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).
@@ -1196,7 +1197,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–254, § 1215(1), substituted “any direct administrative cost, and any other administrative expense associated with” for “any administrative expense, and any other expense not directly chargeable to”.
@@ -1417,12 +1418,17 @@ Pub. L. 114–132, § 2, Feb. 29, 2016, 130 Stat. 293, provided that: “In this
 
 **(o) Equipment maintenance and replacement** Not later than 180 days after December 16, 2016, the Administrator shall submit to the appropriate congressional committees (as defined in [section 101 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim)) a report on the development of a plan, including implementation steps and timeframes, to finance, maintain, and replace System equipment.
 
+**(p) Federal employees** Nothing in this section shall be construed to mean that a task force may not include Federal employees. In the case of a Federal employee detailed to a task force, the sponsoring agency shall enter into an agreement with the relevant employing Federal agency.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (f)(3), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h)(4), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act was classified generally to part A (§ 3796 et seq.) of subchapter XII of chapter 46 of this title, prior to editorial reclassification and renumbering as subchapter XI (§ 10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2019—Subsec. (p). Pub. L. 116–48 added subsec. (p).
 
 
 <a id="section-5165g"></a>
@@ -1449,6 +1455,9 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Codification
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as part of the FAA Reauthorization Act of 2018, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### Effective Date
+Authorities provided under div. D of Pub. L. 115–254, which enacted this section, applicable to each major disaster and emergency declared by the President under Pub. L. 93–288 on or after Jan. 1, 2016, except as otherwise provided, see section 1202(b) of Pub. L. 115–254, set out in an Effective Date of 2018 Amendment note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
 #### Definitions
 For definition of “State” as used in this section, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).
@@ -1524,7 +1533,7 @@ In any major disaster, the President may—
 
 (4) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance;
 
-(5) provide assistance to State and local governments for building code and floodplain management ordinance administration and enforcement, including inspections for substantial damage compliance;
+(5) provide assistance to State and local governments for building code and floodplain management ordinance administration and enforcement, including inspections for substantial damage compliance; and
 
 (6) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
 
@@ -1649,7 +1658,7 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 
 <a id="section-5170c"></a>
 ## § 5170c. Hazard mitigation
-**(a) In general** The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under [section 5165 of this title](./chapter-068-disaster-relief.md#section-5165) and shall be subject to approval by the President. Subject to [section 5165 of this title](./chapter-068-disaster-relief.md#section-5165), the total of contributions under this section for a major disaster or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187) shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187).
+**(a) In general** The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187). Such measures shall be identified following the evaluation of natural hazards under [section 5165 of this title](./chapter-068-disaster-relief.md#section-5165) and shall be subject to approval by the President. Subject to [section 5165 of this title](./chapter-068-disaster-relief.md#section-5165), the total of contributions under this section for a major disaster or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187) shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187).
 
 **(b) Property acquisition and relocation assistance**
 
@@ -1760,9 +1769,9 @@ The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L
 A prior section 404 of Pub. L. 93–288 was classified to [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174) prior to repeal by Pub. L. 100–707.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–254, § 1235(a), substituted “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster.” for “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187).”
+2018—Subsec. (a). Pub. L. 115–254, § 1204(b)(1), inserted “, or any area affected by a fire for which assistance was provided under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “affected by a major disaster” in first sentence as inserted by section 1235(a) of Pub. L. 115–254, and inserted “or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “major disaster” in two places in third sentence.
 
-Pub. L. 115–254, § 1204(b)(1), inserted “, or any area affected by a fire for which assistance was provided under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “affected by a major disaster” and inserted, in third sentence, “or event under [section 5187 of this title](./chapter-068-disaster-relief.md#section-5187)” after “major disaster” in two places.
+Pub. L. 115–254, § 1235(a), substituted “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster.” for “The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster.”.
 
 Subsec. (f). Pub. L. 115–254, § 1205, added subsec. (f).
 
@@ -1881,7 +1890,7 @@ A prior section 405 of Pub. L. 93–288 was classified to [section 5175 of this 
 
   (B) the owner of which has failed to implement appropriate mitigation measures to address the hazard that caused the damage to the facility.
 
-(3) **Increased federal share**
+(3) **Increased Federal share**
 
   (A) *Incentive measures* — The President may provide incentives to a State or Tribal government to invest in measures that increase readiness for, and resilience from, a major disaster by recognizing such investments through a sliding scale that increases the minimum Federal share to 85 percent. Such measures may include—
 
@@ -2011,7 +2020,7 @@ A prior section 405 of Pub. L. 93–288 was classified to [section 5175 of this 
 
   (A) *In general* — Not later than 18 months after October 5, 2018, the President, acting through the Administrator of the Federal Emergency Management Agency, and in consultation with the heads of relevant Federal departments and agencies, shall issue a final rulemaking that defines the terms “resilient” and “resiliency” for purposes of this subsection.
 
-  (B) *Interim guidance* — Not later than 60 days after October 5, 2018, the Administrator shall issue interim guidance to implement this subsection. Such interim guidance shall expire 18 months after the October 5, 2018 or upon issuance of final regulations pursuant to subparagraph (A), whichever occurs first.
+  (B) *Interim guidance* — Not later than 60 days after October 5, 2018, the Administrator shall issue interim guidance to implement this subsection. Such interim guidance shall expire 18 months after October 5, 2018, or upon issuance of final regulations pursuant to subparagraph (A), whichever occurs first.
 
   (C) *Guidance* — Not later than 90 days after the date on which the Administrator issues the final rulemaking under this paragraph, the Administrator shall issue any necessary guidance related to the rulemaking.
 
@@ -2020,7 +2029,7 @@ A prior section 405 of Pub. L. 93–288 was classified to [section 5175 of this 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b)(3)(A)(iii) and (e)(1)(A)(ii), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+This chapter, referred to in subsecs. (b)(3)(A)(iii) and (e)(1)(A)(ii), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
@@ -2050,7 +2059,7 @@ Subsec. (e)(1)(A). Pub. L. 115–254, § 1235(b)(1), inserted “for disasters d
 
 Subsec. (e)(1)(A)(i). Pub. L. 115–254, § 1235(b)(2), struck out “and” at end.
 
-Subsec. (e)(1)(A)(ii). Pub. L. 115–254, § 1235(b)(3), substituted “the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purposes of protecting the health, safety, and general welfare of a facility’s users against disasters” for “codes, specifications, and standards”, struck out “applicable at the time at which the disaster occurred” before period at end, and substituted “; and” for period at end.
+Subsec. (e)(1)(A)(ii). Pub. L. 115–254, § 1235(b)(3), substituted “the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purposes of protecting the health, safety, and general welfare of a facility’s users against disasters” for “codes, specifications, and standards” and “([16 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3501&num=0&edition=prelim) et seq.)); and” for “([16 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3501&num=0&edition=prelim) et seq.)) applicable at the time at which the disaster occurred.”
 
 Subsec. (e)(1)(A)(iii). Pub. L. 115–254, § 1235(b)(4), added cl. (iii).
 
@@ -2095,7 +2104,7 @@ Subsec. (f). Pub. L. 106–390, § 205(e), struck out subsec. (f) which set out 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
-Amendment by section 20604(b) of Pub. L. 115–123 applicable to provision of assistance in response to major disaster or emergency declared on or after Aug. 23, 2017, or, with respect to any application for assistance that, as of Feb. 9, 2018, is pending before Federal Emergency Management Agency, and any application for assistance that has been denied, where a challenge to that denial is not yet finally resolved as of Feb. 9, 2018.”
+Amendment by section 20604(b) of Pub. L. 115–123 applicable to provision of assistance in response to major disaster or emergency declared on or after Aug. 23, 2017, or, with respect to any application for assistance that, as of Feb. 9, 2018, is pending before Federal Emergency Management Agency, and any application for assistance that has been denied, where a challenge to that denial is not yet finally resolved as of Feb. 9, 2018, see section 20604(c) of Pub. L. 115–123, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–390, title II, § 205(d)(2), Oct. 30, 2000, 114 Stat. 1566, as amended by Pub. L. 115–254, div. D, § 1235(e), Oct. 5, 2018, 132 Stat. 3464, provided that: “The amendment made by paragraph (1) [amending this section] takes effect on the date of the enactment of this Act [Oct. 30, 2000] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1)(B) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [subsec. (e)(1) of this section] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect.”
@@ -2108,20 +2117,20 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### Guidance on Inundated and Submerged Roads
 Pub. L. 115–254, div. D, § 1228, Oct. 5, 2018, 132 Stat. 3459, provided that: “The Administrator of the Federal Emergency Management Agency, in coordination with the Administrator of the Federal Highway Administration, shall develop and issue guidance for State, local, and Indian tribal governments regarding repair, restoration, and replacement of inundated and submerged roads damaged or destroyed by a major disaster, and for associated expenses incurred by the Government, with respect to roads eligible for assistance under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5172](./chapter-068-disaster-relief.md#section-5172)).”
 
-[For definitions of “State”as used in section 1228 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).]
+[For definition of “State” as used in section 1228 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).]
 
 #### Guidance and Recommendations
 Pub. L. 115–254, div. D, § 1230, Oct. 5, 2018, 132 Stat. 3459, provided that: “(a) Guidance.—The Administrator [of the Federal Emergency Management Agency] shall provide guidance to a common interest community that provides essential services of a governmental nature on actions that a common interest community may take in order to be eligible to receive reimbursement from a grantee that receives funds from the [Federal Emergency Management] Agency for certain activities performed after an event that results in a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170)). “(b) Recommendations.—Not later than 90 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a legislative proposal on how to provide eligibility for disaster assistance with respect to common areas of condominiums and housing cooperatives. “(c) Effective Date.—This section shall be effective on the date of enactment of this Act.”
 
-#### Post Disaster Building Safety Assessment
+#### Post-Disaster Building Safety Assessment
 Pub. L. 115–254, div. D, § 1241, Oct. 5, 2018, 132 Stat. 3466, provided that: “(a) Building Safety Assessment Team.—“(1) In general.—The Administrator [of the Federal Emergency Management Agency] shall coordinate with State and local governments and organizations representing design professionals, such as architects and engineers, to develop guidance, including best practices, for post-disaster assessment of buildings by licensed architects and engineers to ensure the design professionals properly analyze the structural integrity and livability of buildings and structures. “(2) Publication.—The Administrator shall publish the guidance required to be developed under paragraph (1) not later than 1 year after the date of enactment of this Act [Oct. 5, 2018]. “(b) National Incident Management System.—The Administrator shall revise or issue guidance as required to the National Incident Management System Resource Management component to ensure the functions of post-disaster building safety assessment, such as those functions performed by design professionals are accurately resource typed within the National Incident Management System. “(c) Effective Date.—This section shall be effective on the date of enactment of this Act.”
 
-[For definition of “State”as used in section 1241 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).]
+[For definition of “State” as used in section 1241 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).]
 
 #### Review of Assistance for Damaged Underground Water Infrastructure
 Pub. L. 115–254, div. D, § 1245, Oct. 5, 2018, 132 Stat. 3468, provided that: “(a) Definition of Public Assistance Grant Program.—The term ‘public assistance grant program’ means the public assistance grant program authorized under sections 403, 406, 407, 428, and 502(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b), 5172, 5173, [5189f,] 5192(a)). “(b) Review and Briefing.—Not later than 60 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Federal Emergency Management Agency] shall—“(1) conduct a review of the assessment and eligibility process under the public assistance grant program with respect to assistance provided for damaged underground water infrastructure as a result of a major disaster declared under section 401 of such Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170)), including wildfires, and shall include the extent to which local technical memoranda, prepared by a local unit of government in consultation with the relevant State or Federal agencies, identified damaged underground water infrastructure that should be eligible for the public assistance grant program; and “(2) provide to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the review conducted under paragraph (1). “(c) Report and Recommendations.—The Administrator shall—“(1) not later than 180 days after the date of enactment of this Act, issue a report on the review conducted under subsection (b)(1); and “(2) not later than 180 days after the date on which the Administrator issues the report required under paragraph (1), initiate a rulemaking, if appropriate, to address any recommendations contained in the report.”
 
-[For definition of “State”as used in section 1245 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).]
+[For definition of “State” as used in section 1245 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).]
 
 
 <a id="section-5173"></a>
@@ -2329,7 +2338,7 @@ Subsecs. (c), (d). Pub. L. 100–707, § 106(c)(3), added subsecs. (c) and (d).
 
     (ii) *Final rule* — Not later than 2 years after October 5, 2018, the Administrator of the Federal Emergency Management Agency shall issue final regulations to implement this subsection as amended by the Disaster Recovery Reform Act of 2018.
 
-    (iii) *Waiver and expiration* — The authority under clause (i) and any pilot program implemented pursuant to such clause shall expire 2 years after October 5, 2018 or upon issuance of final regulations pursuant to clause (ii), whichever occurs sooner.
+    (iii) *Waiver and expiration* — The authority under clause (i) and any pilot program implemented pursuant to such clause shall expire 2 years after October 5, 2018, or upon issuance of final regulations pursuant to clause (ii), whichever occurs sooner.
 
 **(g) Cost sharing**
 
@@ -2343,7 +2352,7 @@ Subsecs. (c), (d). Pub. L. 100–707, § 106(c)(3), added subsecs. (c) and (d).
 
 **(h) Maximum amount of assistance**
 
-(1) **In general** — No individual or household shall receive financial assistance greater than $25,000 under this section with respect to a single major disaster , excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e).
+(1) **In general** — No individual or household shall receive financial assistance greater than $25,000 under this section with respect to a single major disaster, excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e).
 
 (2) **Other needs assistance** — The maximum financial assistance any individual or household may receive under subsection (e) shall be equivalent to the amount set forth in paragraph (1) with respect to a single major disaster.
 
@@ -2382,7 +2391,7 @@ A prior section 5174, Pub. L. 93–288, title IV, § 404, May 22, 1974, 88 Stat.
 A prior section 408 of Pub. L. 93–288 was classified to [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178) and to a note set out under [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178) prior to repeal by Pub. L. 100–707.
 
 #### Amendments
-2018—Subsec. (c)(1)(B)(ii)(I)(aa). Pub. L. 115–254, § 1213(b), amended item (aa) generally. Prior to amendment, item (aa) read as follows: “enter into lease agreements with owners of multifamily rental property located in areas covered by a major disaster declaration to house individuals and households eligible for assistance under this section; and”
+2018—Subsec. (c)(1)(B)(ii)(I)(aa). Pub. L. 115–254, § 1213(b), amended item (aa) generally. Prior to amendment, item (aa) read as follows: “enter into lease agreements with owners of multifamily rental property located in areas covered by a major disaster declaration to house individuals and households eligible for assistance under this section; and”.
 
 Subsec. (c)(1)(B)(ii)(II). Pub. L. 115–254, § 1213(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) related to improvements or repairs.
 
@@ -2396,7 +2405,7 @@ Subsec. (f)(3). Pub. L. 115–254, § 1211(a)(2), added par. (3).
 
 Subsec. (h)(1). Pub. L. 115–254, § 1212(1), inserted “, excluding financial assistance to rent alternate housing accommodations under subsection (c)(1)(A)(i) and financial assistance to address other needs under subsection (e)” after “disaster”.
 
-Subsec. (h)(2), (3). Pub. L. 115–254, § 1212(2)–(4), added par. (2), redesignated former par. (2) as (3), and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
+Subsec. (h)(2), (3). Pub. L. 115–254, § 1212(2)–(4), added par. (2), redesignated former par. (2) as (3), and, in par. (3), substituted “paragraphs (1) and (2)” for “paragraph (1)”.
 
 Subsec. (h)(4). Pub. L. 115–254, § 1212(5), added par. (4).
 
@@ -2484,11 +2493,11 @@ Pub. L. 115–254, div. D, § 1211(b), Oct. 5, 2018, 132 Stat. 3447, provided th
 
   (A) *In general* — With respect to disaster or emergency assistance provided to a State or local government on or after January 1, 2004—
 
-    (i) no administrative action may be taken to recover a payment of such assistance after October 5, 2018 if the action is prohibited under [section 5205(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5205/a/1&num=0&edition=prelim), as amended by paragraph (1); and
+    (i) no administrative action may be taken to recover a payment of such assistance after October 5, 2018, if the action is prohibited under [section 5205(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5205/a/1&num=0&edition=prelim), as amended by paragraph (1); and
 
     (ii) any administrative action to recover a payment of such assistance that is pending on such date of enactment shall be terminated if the action is prohibited under [section 5205(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5205/a/1&num=0&edition=prelim), as amended by paragraph (1).
 
-  (B) *Limitation* — This section, including the amendments made by this section, may not be construed to invalidate or otherwise affect any administration action completed before October 5, 2018.”
+  (B) *Limitation* — This section, including the amendments made by this section, may not be construed to invalidate or otherwise affect any administration action completed before October 5, 2018.
 
 ### Statutory Notes
 
@@ -2497,13 +2506,16 @@ Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as p
 
 Section is comprised of section 1216 of Pub. L. 115–254. Subsec. (c)(1) of section 1216 of Pub. L. 115–254 amended [section 5205 of this title](./chapter-068-disaster-relief.md#section-5205).
 
+#### Effective Date
+Authorities provided under div. D of Pub. L. 115–254, which enacted this section, applicable to each major disaster and emergency declared by the President under Pub. L. 93–288 on or after Jan. 1, 2016, except as otherwise provided, see section 1202(b) of Pub. L. 115–254, set out in an Effective Date of 2018 Amendment note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
+
 #### Definitions
 For definitions of terms used in this section, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).
 
 
 <a id="section-5174b"></a>
 ## § 5174b. Critical document fee waiver
-(1) **In general.—** — Notwithstanding [section 214 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim) or any other provision of law, the President, in consultation with the Governor of a State, may provide a waiver under this subsection to an individual or household described in [section 5174(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174/e/1&num=0&edition=prelim) for the following document replacement fees:
+(1) **In general** — Notwithstanding [section 214 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim) or any other provision of law, the President, in consultation with the Governor of a State, may provide a waiver under this subsection to an individual or household described in [section 5174(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174/e/1&num=0&edition=prelim) for the following document replacement fees:
 
   (A) The passport application fee for individuals who lost their United States passport in a major disaster within the preceding three calendar years.
 
@@ -2521,11 +2533,11 @@ For definitions of terms used in this section, see section 1203 of Pub. L. 115�
 
   (H) The biometric service fee.
 
-(2) **Exemption from form requirement.—** — The authority of the President to waive fees under subparagraphs (C) through (H) of paragraph (1) applies regardless of whether the individual or household qualifies for a Form I–912 Request for Fee Waiver, or any successor thereto.
+(2) **Exemption from form requirement** — The authority of the President to waive fees under subparagraphs (C) through (H) of paragraph (1) applies regardless of whether the individual or household qualifies for a Form I–912 Request for Fee Waiver, or any successor thereto.
 
-(3) **Exemption from assistance maximum.—** — The assistance limit in [section 5174(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174/h&num=0&edition=prelim) shall not apply to any fee waived under this subsection.
+(3) **Exemption from assistance maximum** — The assistance limit in [section 5174(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174/h&num=0&edition=prelim) shall not apply to any fee waived under this subsection.
 
-(4) **Report.—** — Not later than 365 days after October 5, 2018, the Administrator and the head of any other agency given critical document fee waiver authority under this subsection shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the costs associated with providing critical document fee waivers as described in paragraph (1).
+(4) **Report** — Not later than 365 days after October 5, 2018, the Administrator and the head of any other agency given critical document fee waiver authority under this subsection shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the costs associated with providing critical document fee waivers as described in paragraph (1).
 
 ### Statutory Notes
 
@@ -2534,8 +2546,28 @@ Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as p
 
 Section is comprised of subsec. (a) of section 1238 of Pub. L. 115–254. Subsecs. (b) and (c) of section 1238 of Pub. L. 115–254 amended [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122) and enacted provisions set out as a note under that section.
 
+#### Effective Date
+Authorities provided under div. D of Pub. L. 115–254, which enacted this section, applicable to each major disaster and emergency declared by the President under Pub. L. 93–288 on or after Jan. 1, 2016, except as otherwise provided, see section 1202(b) of Pub. L. 115–254, set out in an Effective Date of 2018 Amendment note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
+
 #### Definitions
 For definitions of terms used in this section, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).
+
+#### Delegation of Functions and Authorities Under Section 1238 of the FAA Reauthorization Act of 2018
+Memorandum of President of the United States, Dec. 21, 2018, 84 F.R. 3957, provided:
+
+Memorandum for the Secretary of State [and] the Secretary of Homeland Security
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby:
+
+(1) delegate to the Secretary of State the functions and authorities vested in the President by sections 1238(a)(1)(A)–(B) of the FAA Reauthorization Act of 2018 (Public Law 115–254) [[42 U.S.C. 5174b(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174b/a/1/A&num=0&edition=prelim)–(B)]; and
+
+(2) delegate to the Secretary of Homeland Security the functions and authorities vested in the President by sections 1238(a)(1)(C)–(H) of the FAA Reauthorization Act of 2018.
+
+The delegations in this memorandum shall apply to any provisions of any future public law that are the same or substantially the same as the provisions referenced in this memorandum. The Secretary of State and the Secretary of Homeland Security may redelegate within their departments the functions and authorities delegated by this memorandum to the extent authorized by law.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-5175"></a>
@@ -3102,7 +3134,7 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 ### Statutory Notes
 
 #### Unified Federal Environmental and Historic Preservation Review
-Pub. L. 115–254, div. D, § 1220, Oct. 5, 2018, 132 Stat. 3453, provided that: “(a) Review and Analysis.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Federal Emergency Management Agency] shall review the Unified Federal Environmental and Historic Preservation review process established pursuant to [section 5189g of this title](./chapter-068-disaster-relief.md#section-5189g), and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that includes the following:“(1) An analysis of whether and how the unified process has expedited the interagency review process to ensure compliance with the environmental and historic requirements under Federal law relating to disaster recovery projects. “(2) A survey and analysis of categorical exclusions used by other Federal agencies that may be applicable to any activity related to a major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title. “(3) Recommendations on any further actions, including any legislative proposals, needed to expedite and streamline the review process. “(b) Regulations.—After completing the review, survey, and analyses under subsection (a), but not later than 2 years after the date of enactment of this Act, and after providing notice and opportunity for public comment, the Administrator shall issue regulations to implement any regulatory recommendations, including any categorical exclusions identified under subsection (a), to the extent that the categorical exclusions meet the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations, and section II of DHS Instruction Manual 023–01–001–01.”
+Pub. L. 115–254, div. D, § 1220, Oct. 5, 2018, 132 Stat. 3453, provided that: “(a) Review and Analysis.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Federal Emergency Management Agency] shall review the Unified Federal Environmental and Historic Preservation review process established pursuant to section 429 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5189g](./chapter-068-disaster-relief.md#section-5189g)), and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that includes the following:“(1) An analysis of whether and how the unified process has expedited the interagency review process to ensure compliance with the environmental and historic requirements under Federal law relating to disaster recovery projects. “(2) A survey and analysis of categorical exclusions used by other Federal agencies that may be applicable to any activity related to a major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170), 5191). “(3) Recommendations on any further actions, including any legislative proposals, needed to expedite and streamline the review process. “(b) Regulations.—After completing the review, survey, and analyses under subsection (a), but not later than 2 years after the date of enactment of this Act, and after providing notice and opportunity for public comment, the Administrator shall issue regulations to implement any regulatory recommendations, including any categorical exclusions identified under subsection (a), to the extent that the categorical exclusions meet the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations, and section II of DHS Instruction Manual 023–01–001–01.”
 
 
 <a id="section-5189h"></a>
@@ -3252,8 +3284,8 @@ Pub. L. 115–254, div. D, § 1220, Oct. 5, 2018, 132 Stat. 3453, provided that:
 
 ### Statutory Notes
 
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
+#### Effective Date
+Enactment of section by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as an Effective Date of 2018 Amendment note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
 
 <a id="section-5191"></a>
@@ -5887,7 +5919,7 @@ Subsec. (d). Pub. L. 115–254, § 1221(a), added subsec. (d).
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
 #### Regulations
-Pub. L. 115–254, div. D, § 1221(b), Oct. 5, 2018, 132 Stat. 3454, provided that: “The Administrator [of the Federal Emergency Management Agency] shall issue regulations to implement the amendment made by this section [amending this section.”
+Pub. L. 115–254, div. D, § 1221(b), Oct. 5, 2018, 132 Stat. 3454, provided that: “The Administrator [of the Federal Emergency Management Agency] shall issue regulations to implement the amendment made by this section [amending this section].”
 
 
 <a id="section-5205a"></a>

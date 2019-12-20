@@ -26,6 +26,13 @@ The President is requested to issue each year a proclamation—
 
 In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–67, § 1, Nov. 7, 2019, 133 Stat. 1128, provided that: “This Act [amending [section 902 of this title](./chapter-009-miscellaneous.md#section-902)] may be cited as the ‘National POW/MIA Flag Act’.”
+
+Pub. L. 116–35, § 1, July 30, 2019, 133 Stat. 1043, provided that: “This Act [enacting [section 21704A of this title](./chapter-217-the-american-legion.md#section-21704a), amending [section 21703 of this title](./chapter-217-the-american-legion.md#section-21703), and enacting provisions set out as a note under [section 21703 of this title](./chapter-217-the-american-legion.md#section-21703)] may be cited as the ‘Let Everyone Get Involved in Opportunities for National Service Act’ or the ‘LEGION Act’.”
+
+Pub. L. 116–7, § 1, Feb. 21, 2019, 133 Stat. 478, provided that: “This Act [amending sections 70901 to 70914 of this title] may be cited as the ‘National FFA Organization’s Federal Charter Amendments Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–141, div. S, title III, § 301, Mar. 23, 2018, 132 Stat. 1127, provided that: “This title [enacting subchapter III (§ 220531) of this title] may be cited as the ‘Keep Young Athletes Safe Act of 2018’.”
 

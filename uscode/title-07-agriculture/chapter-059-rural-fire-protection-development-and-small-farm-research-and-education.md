@@ -618,5 +618,5 @@ Repeal effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as 
 #### Codification
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of title V of the Rural Development Act of 1972 which comprises this subchapter.
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).

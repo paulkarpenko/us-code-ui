@@ -263,23 +263,13 @@ Pub. L. 109–363, title III, § 302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provi
 
 <a id="section-6109"></a>
 ## § 6109. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Account 11 So in original. Probably should be “Fund”. to carry out this chapter for each of fiscal years 2006 through 2010 the amount specified for that fiscal year in subsection (b), to remain available until expended, of which not less than 75 percent of the amounts made available for each fiscal year shall be expended for projects carried out outside the United States.
+**(a) In general** There is authorized to be appropriated to carry out this chapter $6,500,000 for each of fiscal years 2019 through 2023.
 
-**(b) Authorized amount** The amount referred to in subsection (a) is—
-
-(1) $5,000,000 for each of fiscal years 2006 and 2007;
-
-(2) $5,500,000 for fiscal year 2008;
-
-(3) $6,000,000 for fiscal year 2009; and
-
-(4) $6,500,000 for fiscal year 2010.
-
-**(c) Availability** Amounts appropriated under this section may remain available until expended.
-
-**(d) Allocation** Of amounts appropriated under this section for each fiscal year, not less than 75 percent shall be expended for projects carried out outside the United States.
+**(b) Use of funds** Of the amounts made available under subsection (a) for each fiscal year, not less than 75 percent shall be expended for projects carried out at a location outside of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2019—Pub. L. 116–9 amended section generally. Prior to amendment, section related to approriations for fiscal years 2006 through 2010.
+
 2006—Pub. L. 109–363 designated existing provisions as subsec. (a), inserted heading, substituted “for each of fiscal years 2006 through 2010 the amount specified for that fiscal year in subsection (b)” for “$5,000,000 for each of fiscal years 2001 through 2005”, and added subsecs. (b) to (d).

@@ -57,7 +57,7 @@ Pub. L. 109–360, § 1, Oct. 16, 2006, 120 Stat. 2058, provided that: “This A
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act, referred to in subsec. (b)(2)(B), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (b)(2)(B), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 
 <a id="section-760aa-2"></a>
@@ -91,7 +91,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act, referred to in subsec. (a), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (a), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
 
 <a id="section-760aa-4"></a>

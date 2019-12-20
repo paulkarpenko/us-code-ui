@@ -189,7 +189,7 @@ The PROTECT Act, referred to in par. (1), is Pub. L. 108–21, Apr. 30, 2003, 11
 <a id="section-21905"></a>
 ## § 21905. Voluntary participation
 
-The minimum standards established under section 21904(a) of ths title, and any other guidelines and programs established under [section 21903 of this title](./chapter-219-ashanti-alert-communications-network.md#section-21903), shall be adoptable on a voluntary basis only.
+The minimum standards established under [section 21904(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21904/a&num=0&edition=prelim), and any other guidelines and programs established under [section 21903 of this title](./chapter-219-ashanti-alert-communications-network.md#section-21903), shall be adoptable on a voluntary basis only.
 
 
 <a id="section-21906"></a>

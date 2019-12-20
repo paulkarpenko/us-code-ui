@@ -2,7 +2,7 @@
 title: 42
 chapter: '69'
 heading: COMMUNITY DEVELOPMENT
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -135,7 +135,7 @@ Section 1 of Pub. L. 95–128 provided that: “This Act [enacting sections 3540
 #### Short Title
 Pub. L. 93–383, § 1, Aug. 22, 1974, 88 Stat. 633, provided: “That this Act [enacting this chapter, sections 1701j–2, 1701l–1, 1701z–5, 1701z–6, 1706e, 1715z–9 to 1715z–11, and 1735f–3 to 1735f–5 of Title 12, Banks and Banking, [section 803a of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section803a&num=0&edition=prelim), Education, and sections 1437 to 1437j, 1438 to 1440, 1490e to 1490g, 4104a, and 5401 to 5426 of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, sections 24, 371, 1431, 1436, 1454, 1464, 1701q, 1701u, 1701x, 1701z–3, 1703, 1709, 1709–1, 1713, 1715e, 1715h, 1715k to 1715n, 1715v, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–6, 1715z–7, 1717, 1718, 1719, 1723a, 1735b, 1748h–1, 1748h–2, 1749bb, 1749aaa, 1749aaa–4, 1749aaa–5, 1757, 1759, 1761b, 1761d, 1763, 1772, 1782, 1786, and 1788 of Title 12, sections 1701 to 1703 of Title 15, Commerce and Trade, sections 801, 802, and 806 of Title 20, section 711 of former Title 31, Money and Finance, sections 460 and 461 of former Title 40, Public Buildings, Property, and Works, sections 1441a, 1441c, 1452b, 1453, 1471, 1472, 1474, 1476 to 1478, 1483, 1485, 1487, 1490, 1490a, 1490c, 1490d, 1586, 3311, 3533, 3604 to 3606, 3631, 4014, 4512, 4514 to 4516, 4519, and 4532 of this title, and sections 1602 and 1602a of former Title 49, Transportation, repealing sections 1411d and 1455a of this title, and enacting provisions set out as notes under this section, sections 1464, 1701q, 1715l, 1715z–1, 1716b, and 1723a of Title 12, [section 1703 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1703&num=0&edition=prelim), sections 1410, 1421b, 1437, 1437a, 1437f, 3532, and 5401 of this title, and section 1602a of former Title 49] may be cited as the ‘Housing and Community Development Act of 1974’.”
 
-#### Pilot Program to Help Individuals in Recovery From a Substance Use Disorder Become Stably Housed
+#### Pilot Program To Help Individuals in Recovery From a Substance Use Disorder Become Stably Housed
 Pub. L. 115–271, title VIII, § 8071, Oct. 24, 2018, 132 Stat. 4095, provided that: “(a) Authorization of Appropriations.—There is authorized to be appropriated under this section such sums as may be necessary for each of fiscal years 2019 through 2023 for assistance to States to provide individuals in recovery from a substance use disorder stable, temporary housing for a period of not more than 2 years or until the individual secures permanent housing, whichever is earlier. “(b) Allocation of Appropriated Amounts.—“(1) In general.—The amounts appropriated or otherwise made available to States under this section shall be allocated based on a funding formula established by the Secretary of Housing and Urban Development (referred to in this section as the ‘Secretary’) not later than 60 days after the date of enactment of this Act [Oct. 24, 2018]. “(2) Criteria.—“(A) In general.—The funding formula required under paragraph (1) shall ensure that any amounts appropriated or otherwise made available under this section are allocated to States with an age-adjusted rate of drug overdose deaths that is above the national overdose mortality rate, according to the Centers for Disease Control and Prevention. “(B) Priority.—“(i) In general.—Among such States, priority shall be given to States with the greatest need, as such need is determined by the Secretary based on the following factors, and weighting such factors as described in clause (ii): “(I) The highest average rates of unemployment based on data provided by the Bureau of Labor Statistics for calendar years 2013 through 2017. “(II) The lowest average labor force participation rates based on data provided by the Bureau of Labor Statistics for calendar years 2013 through 2017. “(III) The highest age-adjusted rates of drug overdose deaths based on data from the Centers for Disease Control and Prevention. “(ii) Weighting.—The factors described in clause (i) shall be weighted as follows: “(I) The rate described in clause (i)(I) shall be weighted at 15 percent. “(II) The rate described in clause (i)(II) shall be weighted at 15 percent. “(III) The rate described in clause (i)(III) shall be weighted at 70 percent. “(3) Distribution.—Amounts appropriated or otherwise made available under this section shall be distributed according to the funding formula established by the Secretary under paragraph (1) not later than 30 days after the establishment of such formula. “(c) Use of Funds.—“(1) In general.—Any State that receives amounts pursuant to this section shall expend at least 30 percent of such funds within one year of the date funds become available to the grantee for obligation. “(2) Priority.—Any State that receives amounts pursuant to this section shall distribute such amounts giving priority to entities with the greatest need and ability to deliver effective assistance in a timely manner. “(3) Administrative costs.—Any State that receives amounts pursuant to this section may use up to 5 percent of any grant for administrative costs. “(d) Rules of Construction.—“(1) In general.—Except as otherwise provided by this section, amounts appropriated, or amounts otherwise made available to States under this section shall be treated as though such funds were community development block grant funds under title I of the Housing and Community Development Act of 1974 ([42 U.S.C. 5301](./chapter-069-community-development.md#section-5301) et seq.). “(2) No match.—No matching funds shall be required in order for a State to receive any amounts under this section. “(e) Authority to Waive or Specify Alternative Requirements.—“(1) In general.—In administering any amounts appropriated or otherwise made available under this section, the Secretary may waive or specify alternative requirements to any provision under title I of the Housing and Community Development Act of 1974 ([42 U.S.C. 5301](./chapter-069-community-development.md#section-5301) et seq.) except for requirements related to fair housing, nondiscrimination, labor standards, the environment, and requirements that activities benefit persons of low- and moderate-income, upon a finding that such a waiver is necessary to expedite or facilitate the use of such funds. “(2) Notice of intent.—The Secretary shall provide written notice of its intent to exercise the authority to specify alternative requirements under paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 15 business days before such exercise of authority occurs. “(3) Notice to the public.—The Secretary shall provide written notice of its intent to exercise the authority to specify alternative requirements under paragraph (1) to the public via notice, on the internet website of the Department of Housing and Urban Development, and by other appropriate means, not later than 15 business days before such exercise of authority occurs. “(f) Technical Assistance.—For the 2-year period following the date of enactment of this Act [Oct. 24, 2018], the Secretary may use not more than 2 percent of the funds made available under this section for technical assistance to grantees. “(g) State.—For purposes of this section the term ‘State’ includes any State as defined in section 102 of the Housing and Community Development Act of 1974 ([42 U.S.C. 5302](./chapter-069-community-development.md#section-5302)) and the District of Columbia.”
 
 #### Additional Assistance for Neighborhood Stabilization Program
@@ -170,6 +170,117 @@ Pub. L. 100–242, § 5, Feb. 5, 1988, 101 Stat. 1820, provided that: “Any new
 
 #### Limitation on Withholding or Conditioning of Assistance
 Pub. L. 93–383, title VIII, § 817, Aug. 22, 1974, 88 Stat. 739, as amended by Pub. L. 98–181, title I [title III, § 302(c)], Nov. 30, 1983, 97 Stat. 1206, provided that: “Assistance provided for in this Act [see Short Title note above] the National Housing Act, [[12 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) et seq.], the United States Housing Act of 1937 [[42 U.S.C. 1437](./chapter-008-low-income-housing.md#section-1437) et seq.], the Housing Act of 1949 [[42 U.S.C. 1441](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) et seq.], the Demonstration Cities and Metropolitan Development Act of 1966 [see Short Title note set out under [section 3331 of this title](./chapter-041-demonstration-cities-and-metropolitan-development-program.md#section-3331)], the Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 [see Short Title notes set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking], and section 17 of the United States Housing Act of 1937 [[42 U.S.C. 1437](./chapter-008-low-income-housing.md#section-1437)o] shall not be withheld or made subject to conditions or preference by reason of the tax-exempt status of bonds or other obligations issued or to be issued to provide financing for use in connection with such assistance, except where otherwise expressly provided or authorized by law.”
+
+#### Ex. Ord. No. 13853. Establishing the White House Opportunity and Revitalization Council
+Ex. Ord. No. 13853, Dec. 12, 2018, 83 F.R. 65071, provided:
+
+Section 1. Purpose. Fifty-two million Americans live in economically distressed communities. Despite the growing national economy, these communities are plagued by high poverty levels, failing schools, and a scarcity of jobs. In December 2017, I signed into law a bill originally introduced as the Tax Cuts and Jobs Act (Act) [title I of Pub. L. 115–97, see Tables for classification], which established a historic new Federal tax incentive that promotes long-term equity investments in low-income communities designated as “qualified opportunity zones” by the Governors of States or territories. In order to further facilitate such investment, my Administration will implement reforms that streamline existing regulations, protect taxpayers by optimizing use of Federal resources, stimulate economic opportunity and mobility, encourage entrepreneurship, expand quality educational opportunities, develop and rehabilitate quality housing stock, promote workforce development, and promote safety and prevent crime in urban and economically distressed communities.
+
+This order establishes a White House Council to carry out my Administration’s plan to encourage public and private investment in urban and economically distressed areas, including qualified opportunity zones. The Council shall lead joint efforts across executive departments and agencies (agencies) to engage with State, local, and tribal governments to find ways to better use public funds to revitalize urban and economically distressed communities.
+
+Sec. 2. Establishment. There is established a White House Opportunity and Revitalization Council (Council). The Council shall be chaired by the Secretary of Housing and Urban Development (HUD), or the Secretary’s designee. The Assistant to the President for Domestic Policy, or the designee of the Assistant to the President for Domestic Policy, shall serve as Vice Chair of the Council.
+
+(a) Membership. In addition to the Chair and Vice Chair, the Council shall consist of the following members, or their designees:
+
+(i) the Secretary of the Treasury;
+
+(ii) the Attorney General;
+
+(iii) the Secretary of the Interior;
+
+(iv) the Secretary of Agriculture;
+
+(v) the Secretary of Commerce;
+
+(vi) the Secretary of Labor;
+
+(vii) the Secretary of Health and Human Services;
+
+(viii) the Secretary of Transportation;
+
+(ix) the Secretary of Energy;
+
+(x) the Secretary of Education;
+
+(xi) the Administrator of the Environmental Protection Agency;
+
+(xii) the Director of the Office of Management and Budget;
+
+(xiii) the Administrator of the Small Business Administration;
+
+(xiv) the Assistant to the President for Economic Policy;
+
+(xv) the Chairman of the Council of Economic Advisers;
+
+(xvi) the Chairman of the Council on Environmental Quality; and
+
+(xvii) the heads of such other agencies, offices, or independent regulatory agencies as the Chair may, from time to time, designate or invite.
+
+(b) Administration. The Vice Chair shall convene regular meetings of the Council, determine its agenda, and direct its work, all under the guidance of the Chair. The Department of Housing and Urban Development shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations. The Secretary of HUD shall designate a HUD officer or employee to serve as the Executive Director of the Council, who shall be responsible for coordinating the Council’s work.
+
+Sec. 3. Mission and Function of the Council. The Council shall, to the extent permitted by law, work across agencies, giving consideration to existing agency initiatives, to:
+
+(a) assess the actions each agency can take under existing authorities to prioritize or focus Federal investments and programs on urban and economically distressed communities, including qualified opportunity zones;
+
+(b) assess the actions each agency can take under existing authorities to minimize all regulatory and administrative costs and burdens that discourage public and private investment in urban and economically distressed communities, including qualified opportunity zones;
+
+(c) regularly consult with officials from State, local, and tribal governments and individuals from the private sector to solicit feedback on how best to stimulate the economic development of urban and economically distressed areas, including qualified opportunity zones;
+
+(d) coordinate Federal interagency efforts to help ensure that private and public stakeholders—such as investors; business owners; institutions of higher education (including Historically Black Colleges and Universities, as defined by [50 U.S.C. 3224(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3224/g/2&num=0&edition=prelim), and tribally controlled colleges and universities, as defined by [25 U.S.C. 1801(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a/4&num=0&edition=prelim)); K–12 education providers; early care and education providers; human services agencies; State, local, and tribal leaders; public housing agencies; non-profit organizations; and economic development organizations—can successfully develop strategies for economic growth and revitalization;
+
+(e) recommend policies that would:
+
+(i) reduce and streamline regulatory and administrative burdens, including burdens on applicants applying for multiple Federal assistance awards;
+
+(ii) help community-based applicants, including recipients of investments from qualified opportunity funds, identify and apply for relevant Federal resources; and
+
+(iii) make it easier for recipients to receive and manage multiple types of public and private investments, including by aligning certain program requirements;
+
+(f) evaluate the following:
+
+(i) whether and how agencies can prioritize support for urban and economically distressed areas, including qualified opportunity zones, in their grants, financing, and other assistance;
+
+(ii) appropriate methods for Federal cooperation with and support for States, localities, and tribes that are innovatively and strategically facilitating economic growth and inclusion in urban and economically distressed communities, including qualified opportunity zones, consistent with preserving State, local, and tribal control;
+
+(iii) whether and how to develop an integrated web-based tool through which entrepreneurs, investors, and other stakeholders can see the full range of applicable Federal financing programs and incentives available to projects located in urban and economically distressed areas, including qualified opportunity zones;
+
+(iv) whether and how to consider urban and economically distressed areas, including qualified opportunity zones, as possible locations for Federal buildings, through consultation with the General Services Administration;
+
+(v) whether and how Federal technical assistance, planning, financing tools, and implementation strategies can be coordinated across agencies to assist communities in addressing economic problems, engaging in comprehensive planning, and advancing regional collaboration; and
+
+(vi) what data, metrics, and methodologies can be used to measure the effectiveness of public and private investments in urban and economically distressed communities, including qualified opportunity zones.
+
+Sec. 4. Reports. The Assistant to the President for Domestic Policy shall, on behalf of the Council, be responsible for submitting to the President:
+
+(a) Within 90 days of the date of this order [Dec. 12, 2018], a detailed work plan for how, and by when, the Council will accomplish the goals detailed in section 3 of this order;
+
+(b) Within 210 days of the date of this order, a list of recommended changes to Federal statutes, regulations, policies, and programs that would encourage public and private investment in urban and economically distressed communities, including qualified opportunity zones;
+
+(c) Within 1 year of the date of this order, a list of recommended changes to Federal statutes, regulations, policies, and programs that would help State, local, and tribal governments to better identify, use, and administer Federal resources in urban and economically distressed communities, including qualified opportunity zones;
+
+(d) Within 1 year of the date of this order, a list of best practices that could be integrated into public and private investments in urban and economically distressed communities, including qualified opportunity zones, in order to increase economic growth, encourage new business formation, and revitalize communities; and
+
+(e) Any subsequent reports that the President may request or that the Council may deem appropriate.
+
+Sec. 5. Amendments to Executive Order 13845. [Amended Ex. Ord. No. 13845, set out as a note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.]
+
+Sec. 6. General Provisions. (a) The heads of agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary for the Council to carry out its functions.
+
+(b) The heads of agencies shall consider the reports and recommendations of the Council in carrying out their responsibilities related to urban and economically distressed communities.
+
+(c) The Council shall terminate on January 21, 2021, unless extended by the President.
+
+(d) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-5302"></a>
@@ -2402,7 +2513,7 @@ The Secretary shall establish procedures to prevent recipients from receiving an
 This heading, referred to in text, refers to the headings “Community Planning and Development” and “community development fund” of title I of div. B of Pub. L. 110–329, known as the Disaster Relief and Recovery Supplemental Appropriations Act, 2008.
 
 #### Codification
-Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of the Housing and Community Development Act of 1974 which comprises this chapter.
+Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.
 
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
@@ -2948,7 +3059,7 @@ The Federal Credit Union Act, referred to in subsec. (a)(3)(A), is act June 26, 
 The Civil Rights Act of 1964, referred to in subsec. (e)(5)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Codification
-Section was enacted as the John Heinz Neighborhood Development Act and also as part of the Housing and Urban-Rural Recovery Act of 1983, the Domestic Housing and International Recovery and Financial Stability Act, and the Supplemental Appropriations Act, 1984, and not as part of the Housing and Community Development Act of 1974 which comprises this chapter.
+Section was enacted as the John Heinz Neighborhood Development Act and also as part of the Housing and Urban-Rural Recovery Act of 1983, the Domestic Housing and International Recovery and Financial Stability Act, and the Supplemental Appropriations Act, 1984, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.
 
 Section was formerly set out as a note under [section 5318 of this title](./chapter-069-community-development.md#section-5318).
 
@@ -3070,3 +3181,31 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Effective Date
 Section applicable with respect to any amounts made available to carry out subchapter II (§ 12721 et seq.) of chapter 130 of this title after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out this section not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as an Effective Date of 1994 Amendment note under [section 5301 of this title](./chapter-069-community-development.md#section-5301).
+
+
+<a id="section-5322"></a>
+## § 5322. Funds made available for administrative costs without regard to particular disaster appropriation
+
+Amounts made available for administrative costs for activities authorized under title I of the Housing and Community Development Act of 1974 ([42 U.S.C. 5301](./chapter-069-community-development.md#section-5301) et seq.) related to disaster relief, long-term recovery, restoration of infrastructure and housing, economic revitalization, and mitigation in the most impacted and distressed areas under this Act or any future Act, and amounts previously provided under section 420 of division L of Public Law 114–113, section 145 of division C of Public Law 114–223, section 192 of division C of Public Law 114–223 (as added by section 101(3) of division A of Public Law 114–254), section 421 of division K of Public Law 115–31, and under the heading “Department of Housing and Urban Development—Community Planning and Development—Community Development Fund” of division B of Public Law 115–56, Public Law 115–123, and Public Law 115–254, shall be available for eligible administrative costs of the grantee related to any disaster relief funding identified in this section without regard to the particular disaster appropriation from which such funds originated.
+
+### Statutory Notes
+
+#### References in Text
+The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
+
+Section 420 of division L of Public Law 114–113, referred to in text, is section 420 of Pub. L. 114–113, div. L, title IV, Dec. 18, 2015, 129 Stat. 2907, which is not classified to the Code.
+
+Section 145 of division C of Public Law 114–223, referred to in text, is section 145 of Pub. L. 114–223, div. C, Sept. 29, 2016, 130 Stat. 916, which is not classified to the Code.
+
+Section 192 of division C of Public Law 114–223 (as added by section 101(3) of division A of Public Law 114–254), referred to in text, is section 192 of Pub. L. 114–223, div. C, as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1019, which is not classified to the Code.
+
+Section 421 of division K of Public Law 115–31, referred to in text, is section 421 of Pub. L. 115–31, div. K, title IV, May 5, 2017, 131 Stat. 796, which is not classified to the Code.
+
+The heading “Department of Housing and Urban Development—Community Planning and Development—Community Development Fund” of division B of Public Law 115–56, referred to in text, can be found at Pub. L. 115–56, div. B, Sept. 8, 2017, 131 Stat. 1137. Provisions under the heading are not classified to the Code.
+
+Public Law 115–123, referred to in text, is Pub. L. 115–123, Feb. 9, 2018, 132 Stat. 64, known as the Bipartisan Budget Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+
+Public Law 115–254, referred to in text, is Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3186, known as the FAA Reauthorization Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation, and Tables.
+
+#### Codification
+Section was enacted as part of the Additional Supplemental Appropriations for Disaster Relief Act, 2019, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.

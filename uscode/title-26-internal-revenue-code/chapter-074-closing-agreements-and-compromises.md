@@ -59,6 +59,8 @@ Notwithstanding the foregoing provisions of this subsection, no such opinion sha
 
   (C) *Waiver authority* — The Secretary may issue regulations waiving any payment required under paragraph (1) in a manner consistent with the practices established in accordance with the requirements under subsection (d)(3).
 
+(3) **Exception for low-income taxpayers** — Paragraph (1), and any user fee otherwise required in connection with the submission of an offer-in-compromise, shall not apply to any offer-in-compromise with respect to a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 250 percent of the applicable poverty level (as determined by the Secretary).
+
 **(d) Standards for evaluation of offers**
 
 (1) **In general** — The Secretary shall prescribe guidelines for officers and employees of the Internal Revenue Service to determine whether an offer-in-compromise is adequate and should be accepted to resolve a dispute.
@@ -85,7 +87,7 @@ Notwithstanding the foregoing provisions of this subsection, no such opinion sha
 
 (1) for an independent administrative review of any rejection of a proposed offer-in-compromise or installment agreement made by a taxpayer under this section or section 6159 before such rejection is communicated to the taxpayer; and
 
-(2) which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Office of Appeals.
+(2) which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Independent Office of Appeals.
 
 **(f) Deemed acceptance of offer not rejected within certain period** Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
 
@@ -94,6 +96,10 @@ Notwithstanding the foregoing provisions of this subsection, no such opinion sha
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(3). Pub. L. 116–25, § 1102(a), added par. (3).
+
+Subsec. (e)(2). Pub. L. 116–25, § 1001(b)(1)(F), substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
+
 2014—Subsecs. (f), (g). Pub. L. 113–295 redesignated subsec. (f) relating to frivolous submissions as (g).
 
 2006—Subsec. (c). Pub. L. 109–222, § 509(a), added subsec. (c). Former subsec. (c) redesignated (d).
@@ -116,6 +122,9 @@ Subsec. (d). Pub. L. 105–206, § 3462(c)(1), added subsec. (d).
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1102(b), July 1, 2019, 133 Stat. 986, provided that: “The amendment made by this section [amending this section] shall apply to offers-in-compromise submitted after the date of the enactment of this Act [July 1, 2019].”
+
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–432 applicable to submissions made and issues raised after the date on which the Secretary first prescribes a list under [section 6702(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6702/c&num=0&edition=prelim), see section 407(f) of Pub. L. 109–432, set out as a note under [section 6320 of this title](./chapter-064-collection.md#section-6320).
 
@@ -128,22 +137,22 @@ Amendment by Pub. L. 105–206 applicable to proposed offers-in-compromise and i
 Pub. L. 104–168, title V, § 503(b), July 30, 1996, 110 Stat. 1461, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 30, 1996].”
 
 #### Preparation of Statement Relating to Offers-in-Compromise
-Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provided that: “The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall— “(1) advise taxpayers who have entered into a compromise of the advantages of promptly notifying the Internal Revenue Service of any change of address or marital status; “(2) provide notice to taxpayers that in the case of a compromise terminated due to the actions of one spouse or former spouse, the Internal Revenue Service will, upon application, reinstate such compromise with the spouse or former spouse who remains in compliance with such compromise; and “(3) provide notice to the taxpayer that the taxpayer may appeal the rejection of an offer-in-compromise to the Internal Revenue Service Office of Appeals.”
+Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provided that: “The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall— “(1) advise taxpayers who have entered into a compromise of the advantages of promptly notifying the Internal Revenue Service of any change of address or marital status; “(2) provide notice to taxpayers that in the case of a compromise terminated due to the actions of one spouse or former spouse, the Internal Revenue Service will, upon application, reinstate such compromise with the spouse or former spouse who remains in compliance with such compromise; and “(3) provide notice to the taxpayer that the taxpayer may appeal the rejection of an offer-in-compromise to the Internal Revenue Service Office of Appeals [now Internal Revenue Service Independent Office of Appeals].”
 
 
 <a id="section-7123"></a>
 ## § 7123. Appeals dispute resolution procedures
-**(a) Early referral to appeals procedures** The Secretary shall prescribe procedures by which any taxpayer may request early referral of 1 or more unresolved issues from the examination or collection division to the Internal Revenue Service Office of Appeals.
+**(a) Early referral to appeals procedures** The Secretary shall prescribe procedures by which any taxpayer may request early referral of 1 or more unresolved issues from the examination or collection division to the Internal Revenue Service Independent Office of Appeals.
 
 **(b) Alternative dispute resolution procedures**
 
-(1) **Mediation** — The Secretary shall prescribe procedures under which a taxpayer or the Internal Revenue Service Office of Appeals may request non-binding mediation on any issue unresolved at the conclusion of—
+(1) **Mediation** — The Secretary shall prescribe procedures under which a taxpayer or the Internal Revenue Service Independent Office of Appeals may request non-binding mediation on any issue unresolved at the conclusion of—
 
   (A) appeals procedures; or
 
   (B) unsuccessful attempts to enter into a closing agreement under section 7121 or a compromise under section 7122.
 
-(2) **Arbitration** — The Secretary shall establish a pilot program under which a taxpayer and the Internal Revenue Service Office of Appeals may jointly request binding arbitration on any issue unresolved at the conclusion of—
+(2) **Arbitration** — The Secretary shall establish a pilot program under which a taxpayer and the Internal Revenue Service Independent Office of Appeals may jointly request binding arbitration on any issue unresolved at the conclusion of—
 
   (A) appeals procedures; or
 
@@ -151,7 +160,7 @@ Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provided
 
 **(c) Administrative appeal relating to adverse determination of tax-exempt status of certain organizations**
 
-(1) **In general** — The Secretary shall prescribe procedures under which an organization which claims to be described in section 501(c) may request an administrative appeal (including a conference relating to such appeal if requested by the organization) to the Internal Revenue Service Office of Appeals of an adverse determination described in paragraph (2).
+(1) **In general** — The Secretary shall prescribe procedures under which an organization which claims to be described in section 501(c) may request an administrative appeal (including a conference relating to such appeal if requested by the organization) to the Internal Revenue Service Independent Office of Appeals of an adverse determination described in paragraph (2).
 
 (2) **Adverse determinations** — For purposes of paragraph (1), an adverse determination is described in this paragraph if such determination is adverse to an organization with respect to—
 
@@ -167,6 +176,8 @@ Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provided
 A prior section 7123 was renumbered [section 7124 of this title](./chapter-074-closing-agreements-and-compromises.md#section-7124).
 
 #### Amendments
+2019—Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals” wherever appearing.
+
 2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
 
 #### Effective Date of 2015 Amendment

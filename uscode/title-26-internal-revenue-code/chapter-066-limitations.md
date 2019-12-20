@@ -686,7 +686,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 **(j) Extension in case of certain summonses**
 
-(1) **In general** — If any designated summons is issued by the Secretary to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
+(1) **In general** — If any designated summons is issued by the Secretary to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated industry case program (or any successor program) of the Internal Revenue Service, the running of any period of limitations provided in section 6501 on the assessment of such tax shall be suspended—
 
   (A) during any judicial enforcement period—
 
@@ -701,7 +701,11 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
   (A) *In general* — The term “designated summons” means any summons issued for purposes of determining the amount of any tax imposed by this title if—
 
-    (i) the issuance of such summons is preceded by a review of such issuance by the regional counsel of the Office of Chief Counsel for the region in which the examination of the corporation is being conducted,
+    (i) the issuance of such summons is preceded by a review and written approval of such issuance by the Commissioner of the relevant operating division of the Internal Revenue Service and the Chief Counsel which—
+
+      (I) states facts clearly establishing that the Secretary has made reasonable requests for the information that is the subject of the summons, and
+
+      (II) is attached to such summons,
 
     (ii) such summons is issued at least 60 days before the day on which the period prescribed in section 6501 for the assessment of such tax expires (determined with regard to extensions), and
 
@@ -714,6 +718,8 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
   (A) which begins on the day on which a court proceeding with respect to such summons is brought, and
 
   (B) which ends on the day on which there is a final resolution as to the summoned person’s response to such summons.
+
+(4) **Establishment that reasonable requests for information were made** — In any court proceeding described in paragraph (3), the Secretary shall establish that reasonable requests were made for the information that is the subject of the summons.
 
 **(k) Cross references** For suspension in case of—
 
@@ -741,6 +747,12 @@ Pub. L. 96–596, § 2(a)(4)(E) and (F), redesignated subsec. (j), relating to c
 Pub. L. 96–589 again redesignated subsec. (i), relating to cross references, as subsec. (j) and added a new subsec. (i), relating to cases under title 11.
 
 #### Amendments
+2019—Subsec. (j)(1). Pub. L. 116–25, § 1207(a), substituted “coordinated industry case program” for “coordinated examination program” in introductory provisions.
+
+Subsec. (j)(2)(A)(i). Pub. L. 116–25, § 1207(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the issuance of such summons is preceded by a review of such issuance by the regional counsel of the Office of Chief Counsel for the region in which the examination of the corporation is being conducted,”.
+
+Subsec. (j)(4). Pub. L. 116–25, § 1207(c), added par. (4).
+
 2018—Subsec. (a)(1). Pub. L. 115–141, which directed amendment of par. (1) by substituting “section 6230(a))” for “section 6230(a)).”, was executed by substituting “section 6501 or 6502” for “section 6501 or 6502.”, to reflect the probable intent of Congress and the amendment made by Pub. L. 114–74. See 2015 Amendment note below.
 
 2015—Subsec. (a)(1). Pub. L. 114–74 struck out “(or section 6229, but only with respect to a deficiency described in paragraph (2)(A) or (3) of section 6230(a))” after “section 6501 or 6502”.
@@ -846,6 +858,9 @@ Subsec. (h). Pub. L. 89–719, § 106(c), redesignated former subsec. (g) as (h)
 1958—Subsec. (d). Pub. L. 85–866 struck out “assessment or” after “period of limitations for” and inserted “or under the provisions of section 6166”.
 
 1956—Subsecs. (e), (f). Act Aug. 6, 1956, added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1207(d), July 1, 2019, 133 Stat. 991, provided that: “The amendments made by this section [amending this section] shall apply to summonses issued after the date which is 45 days after the date of the enactment of this Act [July 1, 2019].”
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).

@@ -26,7 +26,7 @@ source: >-
 
 (6) ensuring that integrated reporting is available for qualitative observations that cannot be automated, such as drought conditions, snow observations, and hazardous weather events, to ensure that volunteers in the Program can report and upload observations quickly and easily.
 
-**(b) Coordination with states and regions** Not less frequently than every 180 days, the National Weather Service shall coordinate with State and regional offices with respect to the status of Cooperative Observer Program stations.
+**(b) Coordination with States and regions** Not less frequently than every 180 days, the National Weather Service shall coordinate with State and regional offices with respect to the status of Cooperative Observer Program stations.
 
 **(c) Coordination with Federal agencies** The National Weather Service shall coordinate with other Federal agencies, including the Forest Service, the Department of Agriculture, and the United States Geological Survey, to leverage opportunities to grow the Cooperative Observer Program network and to more effectively use existing infrastructure, weather stations, and staff of the Program.
 
@@ -397,7 +397,7 @@ Section was formerly set out as a note under [section 313 of this title](./chapt
 Section was enacted as part of the National Oceanic and Atmospheric Administration Authorization Act of 1992, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 
 #### Amendments
-2019—Subsec. (a)(12). Pub. L. 115–423 added par. (12)
+2019—Subsec. (a)(12). Pub. L. 115–423 added par. (12).
 
 2017—Subsec. (a)(5) to (11). Pub. L. 115–25, § 109(1), added pars. (5) to (11). See Codification note above.
 
@@ -678,7 +678,7 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 #### Amendments
 2019—Subsec. (a)(2)(C). Pub. L. 115–423, § 7(a), added subpar. (C).
 
-Subsec. (c) to (g). Pub. L. 115–423, § 6, added subsecs. (c) to (g).
+Subsecs. (c) to (g). Pub. L. 115–423, § 6, added subsecs. (c) to (g).
 
 
 <a id="section-8533"></a>

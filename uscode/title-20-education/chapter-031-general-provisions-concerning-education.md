@@ -669,8 +669,6 @@ Another prior section 424 of Pub. L. 90–247 was renumbered section 434, and wa
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 
 <a id="section-1228"></a>
 ## § 1228. Biennial evaluation report
@@ -718,8 +716,6 @@ Pub. L. 103–382, § 235, amended section generally, substituting single undesi
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -754,8 +750,6 @@ Section was enacted as part of Education Amendments of 1978, and not as part of 
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 Section effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under [section 1221e–3 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221e-3).
@@ -1063,8 +1057,6 @@ A prior section 430 of Pub. L. 90–247 was renumbered section 436, and is class
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective
 Pub. L. 92–318, title III, § 302(c), June 23, 1972, 86 Stat. 333, provided that: “The provisions of section 421(c) [now 430(c)] of the General Education Provisions Act [subsec. (c) of this section] shall be effective upon the date of enactment of this Act [June 23, 1972]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
 
@@ -1337,8 +1329,6 @@ Subsecs. (d) to (g). Pub. L. 93–380, § 509(a)(2), added subsecs. (d) to (g).
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title V, § 540(a), Aug. 13, 1981, 95 Stat. 458, provided that the amendment made by Pub. L. 97–35 is effective Oct. 1, 1981.

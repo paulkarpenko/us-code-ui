@@ -42,8 +42,8 @@ Pub. L. 106–424, § 1(a), Nov. 1, 2000, 114 Stat. 1883, provided that: “This
 #### Short Title of 1996 Amendment
 Pub. L. 104–291, title I, § 101, Oct. 11, 1996, 110 Stat. 3452, provided that: “This title [amending sections 1114, 1115, and 1118 of this title] may be cited as the ‘National Transportation Safety Board Amendments of 1996’.”
 
-#### Definitions of Terms in Division C of Pub. L. 115–254
-Pub. L. 115–254, div. C, § 1102, Oct. 5, 2018, 132 Stat. 3429, provided that: “In this division [enacting [section 1140 of this title](./chapter-011-national-transportation-safety-board.md#section-1140), amending sections 1111, 1113, 1114, 1116, 1117, 1118, 1131, 1134, 1136, 1138, 1139, 1154, 41113, and 41313 of this title, and enacting provisions set out as notes under sections 1116, 1119, and 40101 of this title], the following definitions apply: “(1) Board.—The term ‘Board’ means the National Transportation Safety Board. “(2) Chairman.—The term ‘Chairman’ means the Chairman of the National Transportation Safety Board. “(3) Most wanted list.—The term ‘Most Wanted List’ means the Board publication entitled ‘Most Wanted List’.”
+#### Definitions of Terms in Div. C of Pub. L. 115–254
+Pub. L. 115–254, div. C, § 1102, Oct. 5, 2018, 132 Stat. 3429, provided that: “In this division [enacting [section 1140 of this title](./chapter-011-national-transportation-safety-board.md#section-1140), amending sections 1111, 1113, 1114, 1116 to 1118, 1131, 1134, 1136, 1138, 1139, 1154, 41113, and 41313 of this title, and enacting provisions set out as notes under sections 1116, 1119, and 40101 of this title], the following definitions apply: “(1) Board.—The term ‘Board’ means the National Transportation Safety Board. “(2) Chairman.—The term ‘Chairman’ means the Chairman of the National Transportation Safety Board. “(3) Most wanted list.—The term ‘Most Wanted List’ means the Board publication entitled ‘Most Wanted List’.”
 
 
 <a id="section-1111"></a>
@@ -339,7 +339,7 @@ Subsec. (b)(2). Pub. L. 106–424, § 3(b)(1), inserted “as offsetting collect
 Subsec. (g). Pub. L. 106–424, § 4, added subsec. (g).
 
 #### Relief From Contracting Requirements for Investigations Services
-Pub. L. 108–168, § 4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109–443, § 3, Dec. 21, 2006, 120 Stat. 3298, provided that: “(a) In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of [section 1113(b)(1)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1113/b/1/B&num=0&edition=prelim), United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation. “(b) Report on Usage.—On July 1 of each year, as part of the annual report required by [section 1117 of title 49](./chapter-011-national-transportation-safety-board.md#section-1117), United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform [now Committee on Oversight and Government Reform], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—“(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and “(2) sets forth the rationale for dispensing with competition requirements with respect to such contract.”
+Pub. L. 108–168, § 4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109–443, § 3, Dec. 21, 2006, 120 Stat. 3298, provided that: “(a) In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of [section 1113(b)(1)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1113/b/1/B&num=0&edition=prelim), United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation. “(b) Report on Usage.—On July 1 of each year, as part of the annual report required by [section 1117 of title 49](./chapter-011-national-transportation-safety-board.md#section-1117), United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform [now Committee on Oversight and Reform], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—“(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and “(2) sets forth the rationale for dispensing with competition requirements with respect to such contract.”
 
 #### Travel Budgets
 Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel.”
@@ -453,7 +453,7 @@ Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subs
 #### Amendments
 2018—Subsec. (c)(1). Pub. L. 115–254, § 1104(a)(1)(C)(i), inserted heading and substituted “Except as provided in paragraph (2), the Board” for “The Board”.
 
-Subsec. (c)(2). Pub. L. 115–254, § 1104(a)(1)(C)(ii), designated second sentence of par. (1) as par. (2) and amended par. (2) generally. Prior to amendement, second sentence of par. (1) read as follows: “However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
+Subsec. (c)(2). Pub. L. 115–254, § 1104(a)(1)(C)(ii), designated second sentence of par. (1) as par. (2) and amended it generally. Prior to amendment, second sentence of par. (1) read as follows: “However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
 
 “(A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
 
@@ -465,7 +465,7 @@ Subsec. (c)(3). Pub. L. 115–254, § 1104(a)(1)(A), (B), redesignated par. (2) 
 
 Subsec. (d)(1). Pub. L. 115–254, § 1104(a)(2)(B)(i), substituted “Except as provided in paragraph (2), the Board” for “The Board”.
 
-Subsec. (d)(2). Pub. L. 115–254, § 1104(a)(2)(B)(ii), designated second sentence of par. (1) as par. (2) and amended par. (2) generally. Prior to amendement, second sentence of par. (1) read as follows: “However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
+Subsec. (d)(2). Pub. L. 115–254, § 1104(a)(2)(B)(ii), designated second sentence of par. (1) as par. (2) and amended it generally. Prior to amendment, second sentence of par. (1) read as follows: “However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
 
 “(A) if the Board holds a public hearing on the accident, at the time of the hearing; or
 
@@ -688,9 +688,6 @@ The date of enactment of the National Transportation Safety Board Reauthorizatio
 2006—Pars. (4) to (6). Pub. L. 109–443 added pars. (4) to (6).
 
 1995—Par. (4). Pub. L. 104–66 struck out par. (4) which read as follows: “an evaluation conducted every 2 years of transportation safety and recommendations for legislative and administrative action and change.”
-
-#### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 9th item on page 185 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
 
 <a id="section-1118"></a>
@@ -1405,7 +1402,7 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–254, § 1109(d)(1), substituted “resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency” for “resulting in a major loss of life” in introductory provisions.
 
-Subsec. (h)(1). Pub. L. 115–254, § 1109(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “The term “rail passenger accident” means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
+Subsec. (h)(1). Pub. L. 115–254, § 1109(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘rail passenger accident’ means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
 
 “(A) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
 

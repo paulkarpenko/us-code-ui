@@ -835,7 +835,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (A) *Definitions* — In this paragraph:
 
-    (i) *Adequately served* — The term“adequately served” means having a participation rate, by crop, that is at least 50 percent of the national average participation rate.
+    (i) *Adequately served* — The term “adequately served” means having a participation rate, by crop, that is at least 50 percent of the national average participation rate.
 
     (ii) *Underserved producer* — The term “underserved producer” means an individual (including a member of an Indian Tribe) that is—
 
@@ -1768,7 +1768,7 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Pub. L. 115–334, § 11106, substituted “sweet potatoes, and hemp” for “and sweet potatoes”.
+2018—Subsec. (a)(2). Pub. L. 115–334, § 11106, substituted “sweet potatoes, and hemp” for “and sweet potatoes”.
 
 Subsec. (a)(3)(B). Pub. L. 115–334, § 11107(1), inserted “determination review” after “practices” in heading.
 
@@ -2242,6 +2242,9 @@ Amendment by section 107(b) of Pub. L. 96–365 effective Sept. 26, 1980, see se
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
+
+#### Crop Insurance Coverage for Hemp
+Pub. L. 116–20, title I, § 107, June 6, 2019, 133 Stat. 875, provided that: “Beginning not later than the 2020 reinsurance year, the Federal Crop Insurance Corporation shall offer coverage under the wholefarm revenue protection insurance policy (or a successor policy or plan of insurance) for hemp (as defined in section 297A of the Agricultural Marketing Act of 1946 ([7 U.S.C. 1639](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639)o)): Provided, That such amount is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901(b)(2)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/A/i&num=0&edition=prelim)].”
 
 #### Consideration of Losses in Fiscal Year 2014 and Subsequent Fiscal Years
 Pub. L. 113–235, div. A, title VII, § 733, Dec. 16, 2014, 128 Stat. 2168, provided that: “For the 2014 fiscal year and each fiscal year thereafter, losses under section 1501 of Public Law 113–79 [enacting [section 9081 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9081)] shall not be considered the same loss for the purposes of [7 U.S.C. 7333(i)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7333/i/3&num=0&edition=prelim) and [7 U.S.C. 1508(n)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/n&num=0&edition=prelim).”
@@ -4137,7 +4140,7 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
   (F) conduct any other activity relating to an activity described in subparagraphs (A) through (E), as determined by the Secretary.
 
-(3) **Payment limitation** — The total amount of payments made to a person (as defined in section 1308(5) 33 See References in Text note below. of this title) (before the amendment made by section 1603(a) 1 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
+(3) **Payment limitation** — The total amount of payments made to a person (as defined in section 1308(5) 33 See References in Text note below. of this title) (before the amendment made by section 1603(a) 3 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
 
 (4) **Commodity Credit Corporation**
 
@@ -4166,7 +4169,7 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2018—Subsec. (a)(1). Pub. L. 115–334, § 11125(a)(1), substituted “paragraph (4), the Secretary” for “paragraph (5)—”, subpar. (A), and “(B) the Secretary” before “, acting through”, and substituted “paragraph (2)” for “paragraph (3)”. Prior to amendment, subpar. (A) read as follows: “the Corporation shall carry out the program established under paragraph (2); and”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 11125(a)(1), substituted “paragraph (4), the Secretary” for “paragraph (5)—”, struck out subpar. (A) and “(B) the Secretary” before “, acting through”, and substituted “paragraph (2)” for “paragraph (3)”. Prior to amendment, subpar. (A) read as follows: “the Corporation shall carry out the program established under paragraph (2); and”.
 
 Subsec. (a)(2). Pub. L. 115–334, § 11125(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Corporation shall establish a program under which crop insurance education and information is provided to producers in States in which (as determined by the Secretary)—
 
@@ -4176,7 +4179,7 @@ Subsec. (a)(2). Pub. L. 115–334, § 11125(a)(2), (3), redesignated par. (3) as
 
 Subsec. (a)(2)(A). Pub. L. 115–334, § 11125(a)(4), substituted “and providing technical assistance to agricultural producers on a full range of farm viability and” for “about the full range of” and inserted “business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis,” after “insurance,” and “conservation activities,” after “benchmarking,”.
 
-Subsec. (a)(3). Pub. L. 115–334, § 11125(a)(3), (5)(A), redesignated par. (4) as (3) and, in introductory provisions, substituted “program established under paragraph (2)” for “programs established under paragraphs (2) and (3)” and inserted “farm viability and” after emphasis on” and “, business planning and technical assistance, market assessment, transfer and succession planning, and crop insurance participation” after “benchmarking”. Former par. (3) redesignated (2).
+Subsec. (a)(3). Pub. L. 115–334, § 11125(a)(3), (5)(A), redesignated par. (4) as (3) and, in introductory provisions, substituted “program established under paragraph (2)” for “programs established under paragraphs (2) and (3)” and inserted “farm viability and” after “emphasis on” and “, business planning and technical assistance, market assessment, transfer and succession planning, and crop insurance participation” after “benchmarking”. Former par. (3) redesignated (2).
 
 Subsec. (a)(3)(D)(iii), (E). Pub. L. 115–334, § 11125(a)(5)(B), (C), added subpars. (D)(iii) and (E) and struck out former subpar. (E) which read as follows: “new or established farmers or ranchers that are converting production and marketing systems to pursue new markets.”
 

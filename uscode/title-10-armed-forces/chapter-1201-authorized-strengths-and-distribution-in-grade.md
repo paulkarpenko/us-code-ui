@@ -332,7 +332,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 Provisions similar to those in this section were contained in sections 3212 and 8212 of this title, prior to repeal by Pub. L. 103–337, § 1662(a)(3).
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–232 substituted “section 1211(a), 7036, 14304(b), 14314, or 14317” for “section 1211(a), 3036, 14304(b), 14314, or 14317”.
+2018—Subsec. (a). Pub. L. 115–232 substituted “section 1211(a), 7036,” for “section 1211(a), 3036,”.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

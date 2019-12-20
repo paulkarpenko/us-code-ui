@@ -183,7 +183,7 @@ Under such regulations as the Secretary of the Navy prescribes, meals may be sol
 | 6087 | [34 U.S.C. 915b(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section915b/c&num=0&edition=prelim). | Aug. 2, 1946, ch. 756, § 16(c), 60 Stat. 855. |
 
 #### Prior Provisions
-Prior sections 8251 and 8252 renumbered sections 9131 and 9132 of this title.
+Prior sections 8251 and 8252 were renumbered sections 9131 and 9132 of this title.
 
 Another prior section 8252, act Aug. 10, 1956, ch. 1041, 70A Stat. 503, provided that temporary enlistments could be made only in Air Force without specification of component, prior to repeal by Pub. L. 90–235, § 2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
 

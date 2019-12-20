@@ -60,7 +60,7 @@ source: >-
 
     (iii) If a member described in subparagraph (A) is wounded or otherwise injured or becomes ill while serving on active duty pursuant to a call or order to active duty under a provision of law referred to in the first sentence of clause (i) or in clause (ii), and the member is then ordered to active duty under [section 12301(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12301/h/1&num=0&edition=prelim) to receive medical care for the wound, injury, or illness, each day of active duty under that order for medical care shall be treated as a continuation of the original call or order to active duty for purposes of reducing the eligibility age of the member under this paragraph.
 
-    (iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
+    (iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 11 See References in Text note below. of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
 
   (C) The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
 
@@ -84,6 +84,9 @@ In subsection (c), the words “the Army without component or other category cov
 
 #### 1958 Act
 The change makes clear that in the determination of eligibility for retired pay for non–regular service, the service of a Regular serving in a temporary grade (that is, without component) may not be counted. See opinion of the Judge Advocate General of the Army, JAGA 1957/4463, May 13, 1957.
+
+#### References in Text
+[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), referred to in subsec. (f)(2)(B)(iv), was redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 2014—Subsec. (f)(2)(A). Pub. L. 113–291 inserted “, subject to subparagraph (C),” after “shall be reduced” and substituted “serves on such active duty or performs such active service in any fiscal year after January 28, 2008, or in any two consecutive fiscal years after September 30, 2014” for “so performs in any fiscal year after such date, subject to subparagraph (C)”.
@@ -143,9 +146,6 @@ Subsec. (e). Pub. L. 96–513, § 511(47)(B), struck out “United States Code,�
 1958—Subsec. (a)(3). Pub. L. 85–861 struck out provisions which related to service as a member of the Army or the Air Force without component.
 
 Subsec. (c). Pub. L. 85–704 made persons who performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, eligible for retired pay under this chapter.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under [section 3713 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim), Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to this section, [section 701 of this title](./chapter-040-leave.md#section-701), and [section 5538 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), Government Organization and Employees, see section 681(d) of Pub. L. 112–239, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).

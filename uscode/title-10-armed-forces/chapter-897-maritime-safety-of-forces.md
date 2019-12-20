@@ -25,13 +25,13 @@ source: >-
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 8961 to 8963 were renumbered sections 9341 to 9343, respectively, of this title.
+Prior sections 8961 to 8963 were renumbered sections 9341 to 9343 of this title, respectively.
 
 Another prior section 8963, acts Aug. 10, 1956, ch. 1041, 70A Stat. 555; Sept. 2, 1958, Pub. L. 85–861, § 1(156), (198), 72 Stat. 1513, 1541; Dec. 12, 1980, Pub. L. 96–513, title V, § 504(21), 94 Stat. 2917, related to higher grade for service during certain periods for regular and reserve commissioned officers, prior to repeal by Pub. L. 99–145, title XIII, § 1301(d)(2)(A), (C), Nov. 8, 1985, 99 Stat. 736, with such repeal not applicable in the case of an Air Force nurse or medical specialist described in [section 8963 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8963&num=0&edition=prelim), as such section was in effect on the day before Nov. 8, 1985.
 
-Prior sections 8964 to 8966 were renumbered sections 9344 to 9346, respectively, of this title.
+Prior sections 8964 to 8966 were renumbered sections 9344 to 9346 of this title, respectively.
 
-Prior sections 8991 and 8992 were renumbered sections 9361 and 9362 of this title.
+Prior sections 8991 and 8992 were renumbered sections 9361 and 9362 of this title, respectively.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7921&num=0&edition=prelim) as this section.

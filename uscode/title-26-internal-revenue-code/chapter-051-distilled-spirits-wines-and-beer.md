@@ -4242,7 +4242,7 @@ A prior section 5314, act Aug. 16, 1954, ch. 736, 68A Stat. 659, related to offi
 Provisions similar to those comprising subsec. (a)(2) of this section were contained in prior section 5318, act Aug. 16, 1954, ch. 736, 68A Stat. 660, prior to the general revisions of this chapter by Pub. L. 85–859.
 
 #### Amendments
-2018—Subsec. (a)(2). Pub. L. 115–141 substituted “section 5001(a)(9)” for “section 5001(a)(10)”.
+2018—Subsec. (a)(2). Pub. L. 115–141 substituted “section 5001(a)(9)” for “section 5001(a)(10)” in introductory provisions.
 
 1976—Subsec. (a)(2). Pub. L. 94–455, § 1905(a)(18), substituted “section 5001(a)(10)” for “section 5001(a)(4)”.
 
@@ -5604,7 +5604,7 @@ A prior section 5554, act Aug. 16, 1954, ch. 736, 68A Stat. 681, consisted of pr
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of this sentence, referred to in the second sentence of subsec. (a), is the date of the enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
+The date of the enactment of this sentence, referred to in the second sentence of subsec. (a), is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Prior Provisions
 A prior section 5555, act Aug. 16, 1954, ch. 736, 68A Stat. 681, consisted of provisions similar to those comprising subsecs. (a) and (b) of this section, prior to the general revision of this chapter by Pub. L. 85–859.

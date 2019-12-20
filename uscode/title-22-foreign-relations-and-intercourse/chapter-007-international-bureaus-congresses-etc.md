@@ -2031,9 +2031,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 ### Statutory Notes
 
 #### Similar Provisions
-Pub. L. 115–141, div. K, title VII, § 7025(c), Mar. 23, 2018, 132 Stat. 877, provided that: “The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions, as defined in section 7034(r)(3) of this Act [set out as a note below], to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act [div. K of Pub. L. 115–141, 132 Stat. 833, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 116–6, div. F, title VII, § 7025(c), Feb. 15, 2019, 133 Stat. 312, provided that: “The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act [div. F of Pub. L. 116–6, 133 Stat. 267, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. K, title VII, § 7025(c), Mar. 23, 2018, 132 Stat. 877.
 
 Pub. L. 115–31, div. J, title VII, § 7025(c), May 5, 2017, 131 Stat. 633.
 
@@ -2105,9 +2107,11 @@ Pub. L. 96–123, § 101(a) [incorporating Pub. L. 95–481, title VI, § 609], 
 
 Pub. L. 95–481, title VI, § 609, Oct. 18, 1978, 92 Stat. 1601.
 
-Pub. L. 115–141, div. K, title VII, § 7034(r)(3), Mar. 23, 2018, 132 Stat. 898, provided that: “In this Act [div. K of Pub. L. 115–141, 132 Stat. 833, see Tables for classification] ‘international financial institutions’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency.”
+Pub. L. 116–6, div. F, title VII, § 7034(r)(3), Feb. 15, 2019, 133 Stat. 329, provided that: “In this Act [div. F of Pub. L. 116–6, 133 Stat. 267, see Tables for classification] ‘international financial institutions’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the International Fund for Agricultural Development, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. K, title VII, § 7034(r)(3), Mar. 23, 2018, 132 Stat. 898.
 
 Pub. L. 115–31, div. J, title VII, § 7034(r)(3), May 5, 2017, 131 Stat. 654.
 
@@ -2398,7 +2402,7 @@ Pub. L. 95–481, title III, Oct. 18, 1978, 92 Stat. 1599.
 Pub. L. 95–148, title III, Oct. 31, 1977, 91 Stat. 1238.
 
 #### Standards for Human Needs and Protection of Human Rights; Consultation for Development of Criteria; Report to Congress
-Pub. L. 95–118, title VII, § 703, Oct. 3, 1977, 91 Stat. 1070, provided that: “(a) The Secretary of State and the Secretary of the Treasury shall initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards and are seen to be moving toward making them effective in their own systems of governance. “(b) Not later than one year after the date of enactment of this Act [Oct. 3, 1977], the Secretary of State and the Secretary of the Treasury shall report to the President of the Senate and the Speaker of the House of Representatives on the progress made in carrying out this section.”
+Pub. L. 95–118, title VII, § 703, Oct. 3, 1977, 91 Stat. 1070, directed the Secretary of State and the Secretary of the Treasury to initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards, and report to Congress not later than one year after Oct. 3, 1977.
 
 
 <a id="section-276j"></a>
@@ -4904,6 +4908,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 #### Annual Appropriations
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
+
+Pub. L. 116–6, div. F, title I, Feb. 15, 2019, 133 Stat. 270, 272.
 
 Pub. L. 115–141, div. K, title I, Mar. 23, 2018, 132 Stat. 836, 839.
 
@@ -7788,7 +7794,7 @@ The United States Governor is hereby authorized (1) to vote in favor of the seco
 ### Statutory Notes
 
 #### Report to Congress
-Pub. L. 101–240, title II, § 202(b), Dec. 19, 1989, 103 Stat. 2498, provided that: “The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the report required by section 1701 of the International Financial Institutions Act [[22 U.S.C. 262r](./chapter-007-international-bureaus-congresses-etc.md#section-262r)] for fiscal year 1991 a report on the efforts undertaken by the United States Executive Director of the Inter-American Development Bank, and the progress to date, in achieving the objectives of section 34 of the Inter-American Development Bank Act [[22 U.S.C. 283z–6](./chapter-007-international-bureaus-congresses-etc.md#section-283z-6)].”
+Pub. L. 101–240, title II, § 202(b), Dec. 19, 1989, 103 Stat. 2498, provided that the Chairman of the National Advisory Council on International Monetary and Financial Policies would include in the report required by [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) for fiscal year 1991 a report on the efforts undertaken by the United States Executive Director of the Inter-American Development Bank in achieving the objectives of this section.
 
 
 <a id="section-286oo"></a>

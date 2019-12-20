@@ -1962,7 +1962,7 @@ Officers in the following categories are not subject to this chapter (other than
 Pub. L. 103–337, div. A, title XVI, §§ 1624, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2961, 3026, which directed amendment of this section effective Oct. 1, 1996, by inserting “(a)” before “Officers in the following” and by adding at the end a new subsec. (b), was amended by Pub. L. 104–106, div. A, title XV, § 1501(a)(1)(A), Feb. 10, 1996, 110 Stat. 495, and, as so amended, amends [section 620 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-620) instead of this section.
 
 #### Amendments
-2018—Par. (1)(B). Pub. L. 115–232 substituted “section 7038, 8083, 8084, 9038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402” for “section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402”.
+2018—Par. (1)(B). Pub. L. 115–232 substituted “section 7038, 8083, 8084, 9038,” for “section 3038, 5143, 5144, 8038,”.
 
 2017—Par. (6). Pub. L. 115–91 struck out par. (6) which read as follows: “Officers appointed pursuant to an agreement under [section 329 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section329&num=0&edition=prelim).”
 

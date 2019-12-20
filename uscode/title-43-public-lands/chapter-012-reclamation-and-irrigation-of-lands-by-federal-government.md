@@ -2,7 +2,7 @@
 title: 43
 chapter: '12'
 heading: RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
-section_count: 411
+section_count: 412
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -1724,7 +1724,7 @@ Section is based on section “16——” of Pub. L. 102–575. Two other secti
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 102–575, title XVI, § 16——, as added Pub. L. 110–161, div. C, title II, § 210, Dec. 26, 2007, 121 Stat. 1955, which related to the Cucamonga Valley water recycling project, was omitted pursuant to subsec. (e) of section, which provided that the authority of the Secretary (of the Interior) to carry out any provisions of section terminated 10 years after Dec. 26, 2007.
+Section, Pub. L. 102–575, title XVI, § 16——, as added Pub. L. 110–161, div. C, title II, § 210, Dec. 26, 2007, 121 Stat. 1955, which related to the Cucamonga Valley water recycling project, was omitted pursuant to subsec. (e) of section, which provided that the authority of the Secretary of the Interior to carry out any provisions of this section terminated 10 years after Dec. 26, 2007.
 
 Section was based on section “16——” of Pub. L. 102–575. Two other sections “16——” of Pub. L. 102–575 have been enacted and are classified to sections 390h–21 and 390h–23 of this title.
 
@@ -1752,7 +1752,7 @@ Pub. L. 110–161, div. C, title II, § 214(c), (d), Dec. 26, 2007, 121 Stat. 19
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 102–575, title XVI, § 1639, as added Pub. L. 110–229, title V, § 511(a), May 8, 2008, 122 Stat. 840, which related to the Eastern Municipal Water District recycled water system pressurization and expansion project, California, was omitted pursuant to subsec. (e) of section, which provided that the authority of the Secretary (of the Interior) to carry out any provisions of section terminated 10 years after May 8, 2008.
+Section, Pub. L. 102–575, title XVI, § 1639, as added Pub. L. 110–229, title V, § 511(a), May 8, 2008, 122 Stat. 840, which related to the Eastern Municipal Water District recycled water system pressurization and expansion project, California, was omitted pursuant to subsec. (e) of section, which provided that the authority of the Secretary of the Interior to carry out any provisions of this section terminated 10 years after May 8, 2008.
 
 
 <a id="section-390h-25"></a>
@@ -1964,54 +1964,17 @@ The Technology Transfer Act of 1986, referred to in subsec. (a), is Pub. L. 99�
 (6) **Authorization of appropriations** — There is authorized to be appropriated for the Federal share of the total cost of the first phase of the project authorized by this section $25,000,000, to remain available until expended.
 
 
-<a id="section-390h-35"></a>
-## § 390h–35. Prado Basin natural treatment system project
-**(a) In general** The Secretary, in cooperation with the Orange County Water District, shall participate in the planning, design, and construction of natural treatment systems and wetlands for the flows of the Santa Ana River, California, and its tributaries into the Prado Basin.
-
-**(b) Cost sharing** The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
-
-**(c) Limitation** Funds provided by the Secretary shall not be used for the operation and maintenance of the project described in subsection (a).
-
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000.
-
-**(e) Sunset of authority** This section shall have no effect after the date that is 10 years after March 30, 2009.
-
-
-<a id="section-390h-36"></a>
-## § 390h–36. Lower Chino Dairy Area desalination demonstration and reclamation project
-**(a) In general** The Secretary, in cooperation with the Chino Basin Watermaster, the Inland Empire Utilities Agency, and the Santa Ana Watershed Project Authority and acting under the Federal reclamation laws, shall participate in the design, planning, and construction of the Lower Chino Dairy Area desalination demonstration and reclamation project.
-
-**(b) Cost sharing** The Federal share of the cost of the project described in subsection (a) shall not exceed—
-
-(1) 25 percent of the total cost of the project; or
-
-(2) $26,000,000.
-
-**(c) Limitation** Funds provided by the Secretary shall not be used for operation or maintenance of the project described in subsection (a).
-
-**(d) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
-
-**(e) Sunset of authority** This section shall have no effect after the date that is 10 years after March 30, 2009.
+<a id="section-390h-35-to-390h-37"></a>
+## § 390h–35 to 390h–37. Omitted
 
 ### Statutory Notes
 
-#### References in Text
-The Federal reclamation laws, referred to in subsec. (a), are defined in [section 390h(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390h/a&num=0&edition=prelim).
+#### Codification
+Section 390h–35, Pub. L. 102–575, title XVI, § 1652, as added Pub. L. 111–11, title IX, § 9111(a)(1), Mar. 30, 2009, 123 Stat. 1317, which related to the Prado Basin natural treatment system project, was omitted pursuant to subsec. (e) of section, which provided that the section would have no effect after the date that was 10 years after Mar. 30, 2009.
 
+Section 390h–36, Pub. L. 102–575, title XVI, § 1653, as added Pub. L. 111–11, title IX, § 9111(b)(1), Mar. 30, 2009, 123 Stat. 1317, which related to the Lower Chino Dairy Area desalination demonstration and reclamation project, was omitted pursuant to subsec. (e) of section, which provided that the section would have no effect after the date that was 10 years after Mar. 30, 2009.
 
-<a id="section-390h-37"></a>
-## § 390h–37. Oxnard, California, water reclamation, reuse, and treatment project
-**(a) Authorization** The Secretary, in cooperation with the City of Oxnard, California, may participate in the design, planning, and construction of Phase I permanent facilities for the GREAT project to reclaim, reuse, and treat impaired water in the area of Oxnard, California.
-
-**(b) Cost share** The Federal share of the costs of the project described in subsection (a) shall not exceed 25 percent of the total cost.
-
-**(c) Limitation** The Secretary shall not provide funds for the following:
-
-(1) The operations and maintenance of the project described in subsection (a).
-
-(2) The construction, operations, and maintenance of the visitor’s center related to the project described in subsection (a).
-
-**(d) Sunset of authority** The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after March 30, 2009.
+Section 390h–37, Pub. L. 102–575, title XVI, § 1654, as added Pub. L. 111–11, title IX, § 9113(a), Mar. 30, 2009, 123 Stat. 1319, which related to the Oxnard, California, water reclamation, reuse, and treatment project, was omitted pursuant to subsec. (d) of section, which provided that the authority of the Secretary (of the Interior) to carry out any provisions of section terminated 10 years after Mar. 30, 2009.
 
 
 <a id="section-390h-38"></a>
@@ -3021,7 +2984,7 @@ Works financed by loans made under sections 421a to 421h of this title shall be 
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim) and Tables.
+The Fish and Wildlife Coordination Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -3247,7 +3210,7 @@ The planning and construction of projects undertaken pursuant to this subchapter
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act ([48 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section401&num=0&edition=prelim)), as amended, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim) and Tables.
+The Fish and Wildlife Coordination Act ([48 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section401&num=0&edition=prelim)), as amended, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
 
 #### Amendments
 1986—Pub. L. 99–546 inserted provisions which related to transfer of funds for conduct of investigations to Fish and Wildlife Service or to National Marine Fisheries Service.
@@ -4779,6 +4742,105 @@ Funds appropriated for the construction of irrigation works authorized to be und
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 Act of August 11, 1939, referred to in text, is classified generally to subchapter II (§ 590y et seq.) of chapter 3C of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-505a"></a>
+## § 505a. Definitions
+
+In sections 505a to 505a–2 of this title:
+
+(1) **Asset**
+
+  (A) *In general* — The term “asset” means any of the following assets that are used to achieve the mission of the Bureau to manage, develop, and protect water and related resources in an environmentally and economically sound manner in the interest of the people of the United States:
+
+    (i) Capitalized facilities, buildings, structures, project features, power production equipment, recreation facilities, or quarters.
+
+    (ii) Capitalized and noncapitalized heavy equipment and other installed equipment.
+
+  (B) *Inclusions* — The term “asset” includes assets described in subparagraph (A) that are considered to be mission critical.
+
+(2) **Asset Management Report** — The term “Asset Management Report” means—
+
+  (A) the annual plan prepared by the Bureau known as the “Asset Management Plan”; and
+
+  (B) any publicly available information relating to the plan described in subparagraph (A) that summarizes the efforts of the Bureau to evaluate and manage infrastructure assets of the Bureau.
+
+(3) **Major repair and rehabilitation need** — The term “major repair and rehabilitation need” means major nonrecurring maintenance at a Reclamation facility, including maintenance related to the safety of dams, extraordinary maintenance of dams, deferred major maintenance activities, and all other significant repairs and extraordinary maintenance.
+
+### Statutory Notes
+
+#### References in Text
+Sections 505a to 505a–2 of this title, referred to in text, was in the original “this part”, which was translated as reading “this subtitle”, meaning subtitle G of title VIII of Pub. L. 116–9, which is classified generally to sections 505a to 505a–2 of this title, to reflect the probable intent of Congress. Subtitle G of title VIII of Pub. L. 116–9 does not contain parts.
+
+
+<a id="section-505a-1"></a>
+## § 505a–1. Asset Management Report enhancements for reserved works
+**(a) In general** Not later than 2 years after March 12, 2019, the Secretary shall submit to Congress an Asset Management Report that—
+
+(1) describes the efforts of the Bureau—
+
+  (A) to maintain in a reliable manner all reserved works at Reclamation facilities; and
+
+  (B) to standardize and streamline data reporting and processes across regions and areas for the purpose of maintaining reserved works at Reclamation facilities; and
+
+(2) expands on the information otherwise provided in an Asset Management Report, in accordance with subsection (b).
+
+**(b) Infrastructure maintenance needs assessment**
+
+(1) **In general** — The Asset Management Report submitted under subsection (a) shall include—
+
+  (A) a detailed assessment of major repair and rehabilitation needs for all reserved works at all Reclamation projects; and
+
+  (B) to the maximum extent practicable, an itemized list of major repair and rehabilitation needs of individual Reclamation facilities at each Reclamation project.
+
+(2) **Inclusions** — To the maximum extent practicable, the itemized list of major repair and rehabilitation needs under paragraph (1)(B) shall include—
+
+  (A) a budget level cost estimate of the appropriations needed to complete each item; and
+
+  (B) an assignment of a categorical rating for each item, consistent with paragraph (3).
+
+(3) **Rating requirements**
+
+  (A) *In general* — The system for assigning ratings under paragraph (2)(B) shall be—
+
+    (i) consistent with existing uniform categorization systems to inform the annual budget process and agency requirements; and
+
+    (ii) subject to the guidance and instructions issued under subparagraph (B).
+
+  (B) *Guidance* — As soon as practicable after March 12, 2019, the Secretary shall issue guidance that describes the applicability of the rating system applicable under paragraph (2)(B) to Reclamation facilities.
+
+(4) **Public availability** — Except as provided in paragraph (5), the Secretary shall make publicly available, including on the internet, the Asset Management Report required under subsection (a).
+
+(5) **Confidentiality** — The Secretary may exclude from the public version of the Asset Management Report made available under paragraph (4) any information that the Secretary identifies as sensitive or classified, but shall make available to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a version of the report containing the sensitive or classified information.
+
+**(c) Updates** Not later than 2 years after the date on which the Asset Management Report is submitted under subsection (a) and biennially thereafter, the Secretary shall update the Asset Management Report, subject to the requirements of [section 505a–2(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section505a–2/b/2&num=0&edition=prelim).
+
+**(d) Consultation** To the extent that such consultation would assist the Secretary in preparing the Asset Management Report under subsection (a) and updates to the Asset Management Report under subsection (c), the Secretary shall consult with—
+
+(1) the Secretary of the Army (acting through the Chief of Engineers); and
+
+(2) water and power contractors.
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
+
+
+<a id="section-505a-2"></a>
+## § 505a–2. Asset Management Report enhancements for transferred works
+**(a) In general** The Secretary shall coordinate with the non-Federal entities responsible for the operation and maintenance of transferred works in developing reporting requirements for Asset Management Reports with respect to major repair and rehabilitation needs for transferred works that are similar to the reporting requirements described in [section 505a–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section505a–1/b&num=0&edition=prelim).
+
+**(b) Guidance**
+
+(1) **In general** — After considering input from water and power contractors of the Bureau, the Secretary shall develop and implement a rating system for transferred works that incorporates, to the maximum extent practicable, the rating system for major repair and rehabilitation needs for reserved works developed under [section 505a–1(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section505a–1/b/3&num=0&edition=prelim).
+
+(2) **Updates** — The ratings system developed under paragraph (1) shall be included in the updated Asset Management Reports under [section 505a–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section505a–1/c&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
 
 
 <a id="section-506"></a>

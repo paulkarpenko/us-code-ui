@@ -92,7 +92,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” before “projects”.
+2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” before “projects”.
 
 Subsec. (b)(1). Pub. L. 115–270, § 4201(a)(1), substituted “provide financial assistance to carry out all projects” for “carry out all pilot projects”.
 
@@ -467,7 +467,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
+This title, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (c)(2)(B)(ii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
@@ -545,7 +545,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsecs. (e)(1)(A) and (h), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
-Under this title and nothing in this title, referred to in subsec. (e), mean title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
+Under this title and nothing in this title, referred to in subsec. (e), mean title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
 
 #### Amendments
 2018—Subsec. (b)(2). Pub. L. 115–270, § 4201(b)(2)(A), added par. (2).

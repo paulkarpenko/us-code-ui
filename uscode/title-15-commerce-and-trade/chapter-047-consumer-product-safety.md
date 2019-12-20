@@ -1096,7 +1096,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Codification
-Section was enacted as part of the Anti-Drug Abuse Act of 1988 and also as part of the Comprehensive Alcohol Abuse, Drug Abuse, and Mental Health Amendments Act of 1988, and not as part of the Consumer Product Safety Act which comprises this chapter.
+Section was enacted as part of the Anti-Drug Abuse Act of 1988, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
 
 <a id="section-2057b"></a>

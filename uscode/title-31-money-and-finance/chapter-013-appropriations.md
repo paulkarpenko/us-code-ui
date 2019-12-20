@@ -36,6 +36,9 @@ In subsection (c), before clause (1), the words “specific or indefinite” are
 
 In subsection (d), the words “passed after June 30, 1906” are omitted as executed.
 
+#### Short Title of 2019 Amendment
+Pub. L. 116–1, § 1, Jan. 16, 2019, 133 Stat. 3, provided that: “This Act [amending [section 1341 of this title](./chapter-013-appropriations.md#section-1341)] may be cited as the ‘Government Employee Fair Treatment Act of 2019’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–158, § 1, Mar. 27, 2018, 132 Stat. 1242, provided that: “This Act [enacting [section 1355 of this title](./chapter-013-appropriations.md#section-1355)] may be cited as the ‘Eliminating Government-funded Oil-painting Act’ or the ‘EGO Act’.”
 
@@ -167,6 +170,20 @@ Expenditures for a particular object or purpose authorized by a law (and referre
 
 (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
+**(d)** Beginning not later than the date that is 60 days after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and unless the disclosure of such information is otherwise prohibited by law or a court order, the Secretary of the Treasury shall make available to the public on a website, as soon as practicable, but not later than 30 days after the date on which a payment under this section is tendered, the following information with regard to that payment:
+
+(1) The name of the specific agency or entity whose actions gave rise to the claim or judgment.
+
+(2) The name of the plaintiff or claimant.
+
+(3) The name of counsel for the plaintiff or claimant.
+
+(4) The amount paid representing principal liability, and any amounts paid representing any ancillary liability, including attorney fees, costs, and interest.
+
+(5) A brief description of the facts that gave rise to the claim.
+
+(6) The name of the agency that submitted the claim.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -186,7 +203,11 @@ In subsection (b)(1)(A), the words “through the day before the date” are sub
 #### References in Text
 [Section 2518 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2518&num=0&edition=prelim), referred to in subsec. (c)(1), was repealed by Pub. L. 97–164, title I, § 139(l), Apr. 2, 1982, 96 Stat. 43.
 
+The date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, referred to in subsec. (d), is the date of enactment of Pub. L. 116–9, which was approved Mar. 12, 2019.
+
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–9 added subsec. (d).
+
 2010—Subsec. (a)(3)(D). Pub. L. 111–314 substituted “[section 20113 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20113&num=0&edition=prelim)” for “section 203 of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2473](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2473&num=0&edition=prelim))”.
 
 1996—Subsecs. (a)(2), (b)(1)(A), (B). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
@@ -885,7 +906,7 @@ Pub. L. 101–508, title XI, § 11116, Nov. 5, 1990, 104 Stat. 1388–415, provi
 ## § 1341. Limitations on expending and obligating amounts
 **(a)**
 
-(1) An officer or employee of the United States Government or of the District of Columbia government may not—
+(1) Except as specified in this subchapter or any other provision of law, an officer or employee of the United States Government or of the District of Columbia government may not—
 
   (A) make or authorize an expenditure or obligation exceeding an amount available in an appropriation or fund for the expenditure or obligation;
 
@@ -898,6 +919,28 @@ Pub. L. 101–508, title XI, § 11116, Nov. 5, 1990, 104 Stat. 1388–415, provi
 (2) This subsection does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government.
 
 **(b)** An article to be used by an executive department in the District of Columbia that could be bought out of an appropriation made to a regular contingent fund of the department may not be bought out of another amount available for obligation.
+
+**(c)**
+
+(1) In this subsection—
+
+  (A) the term “covered lapse in appropriations” means any lapse in appropriations that begins on or after December 22, 2018;
+
+  (B) the term “District of Columbia public employer” means—
+
+    (i) the District of Columbia Courts;
+
+    (ii) the Public Defender Service for the District of Columbia; or
+
+    (iii) the District of Columbia government;
+
+  (C) the term “employee” includes an officer; and
+
+  (D) the term “excepted employee” means an excepted employee or an employee performing emergency work, as such terms are defined by the Office of Personnel Management or the appropriate District of Columbia public employer, as applicable.
+
+(2) Each employee of the United States Government or of a District of Columbia public employer furloughed as a result of a covered lapse in appropriations shall be paid for the period of the lapse in appropriations, and each excepted employee who is required to perform work during a covered lapse in appropriations shall be paid for such work, at the employee’s standard rate of pay, at the earliest date possible after the lapse in appropriations ends, regardless of scheduled pay dates, and subject to the enactment of appropriations Acts ending the lapse.
+
+(3) During a covered lapse in appropriations, each excepted employee who is required to perform work shall be entitled to use leave under chapter 63 of title 5, or any other applicable law governing the use of leave by the excepted employee, for which compensation shall be paid at the earliest date possible after the lapse in appropriations ends, regardless of scheduled pay dates.
 
 ### Statutory Notes
 
@@ -913,6 +956,12 @@ In subsection (b), the words “another amount available for obligation” are s
 Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(1)(C), (D), is classified to [section 902 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902&num=0&edition=prelim), The Congress.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–1, § 2(1), in introductory provisions, substituted “Except as specified in this subchapter or any other provision of law, an officer” for “An officer”.
+
+Subsec. (c). Pub. L. 116–1, § 2(2), added subsec. (c).
+
+Subsec. (c)(2). Pub. L. 116–5 inserted “, and subject to the enactment of appropriations Acts ending the lapse” before period at end.
+
 1990—Subsec. (a)(1)(C), (D). Pub. L. 101–508 added subpars. (C) and (D).
 
 
@@ -1025,9 +1074,11 @@ Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
-Pub. L. 115–141, div. E, title VII, § 702, Mar. 23, 2018, 132 Stat. 588, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 116–6, div. D, title VII, § 702, Feb. 15, 2019, 133 Stat. 187, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. E, title VII, § 702, Mar. 23, 2018, 132 Stat. 588.
 
 Pub. L. 115–31, div. E, title VII, § 702, May 5, 2017, 131 Stat. 377.
 
@@ -1363,7 +1414,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–447, div. B, title I, § 117, Dec. 8, 2004, 118 Stat. 2870, provided in part that: “This amendment [amending this section] shall take effect as if enacted on January 1, 2004.”

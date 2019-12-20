@@ -2,7 +2,7 @@
 title: 7
 chapter: '31'
 heading: RURAL ELECTRIFICATION AND TELEPHONE SERVICE
-section_count: 76
+section_count: 75
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -40,6 +40,8 @@ Rural Electrification Administration and its functions and activities transferre
 
 #### Findings; Statement of Policy
 Pub. L. 101–624, title XXIII, § 2352, Nov. 28, 1990, 104 Stat. 4038, as amended by Pub. L. 115–334, title VI, § 6602(b)(12), Dec. 20, 2018, 132 Stat. 4777, provided that: “(a) Findings.—The Congress finds that—“(1) making modern telecommunications technology and services available in rural areas in the United States promotes economic development and improves the quality of life in rural areas; and “(2) the efficient operation of the Rural Telephone Bank and the Rural Electrification Administration telephone loan programs is essential to the continued development of the telecommunications infrastructure in rural areas in the United States. “(b) Statement of Policy.—It is the policy of the Congress that the Rural Electrification Administration make loans that facilitate the development and enhancement of the rural telecommunications infrastructure in order to make modern telecommunications technology and services available at reasonable rates to the greatest practicable number of people in rural areas in the United States.”
+
+[Title IV of the Rural Electrification Act of 1936 (former [7 U.S.C. 941–950b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section941–950b&num=0&edition=prelim)), which established the Rural Telephone Bank, was repealed by Pub. L. 115–334, title VI, § 6602(a), Dec. 20, 2018, 132 Stat. 4776.]
 
 
 <a id="section-902"></a>
@@ -217,9 +219,12 @@ For the purpose of administering this chapter and for the purpose of making the 
 <a id="section-906a"></a>
 ## § 906a. Use of funds outside the United States or its territories prohibited
 
-No funds provided under this chapter shall be used outside the United States or any of its territories.
+No funds provided under the Rural Electrification Act of 1936, as amended [[7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.], shall be used outside the United States or any of its territories.
 
 ### Statutory Notes
+
+#### References in Text
+The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 #### Codification
 Section was not enacted as part of the Rural Electrification Act of 1936 which comprises this chapter.
@@ -365,15 +370,18 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 <a id="section-912a"></a>
 ## § 912a. Rescheduling and refinancing of loans
 
-In addition to the loan extension authority provided in [section 912 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-912), the Secretary of Agriculture is authorized to adjust and readjust the schedules for payment of principal and interest on loans to borrowers under programs administered by the Secretary under this chapter, and to extend the maturity date of any such loan to a date not beyond forty years from the date of such loan where he determines such action is necessary because of the impairment of the economic feasibility of the system, or the loss, destruction, or damage of the property of such borrowers as a result of a major disaster.
+In addition to the loan extension authority provided in [section 912 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-912), the Secretary of Agriculture is authorized to adjust and readjust the schedules for payment of principal and interest on loans to borrowers under programs administered by the Secretary under the Rural Electrification Act of 1936 ([7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.), and to extend the maturity date of any such loan to a date not beyond forty years from the date of such loan where he determines such action is necessary because of the impairment of the economic feasibility of the system, or the loss, destruction, or damage of the property of such borrowers as a result of a major disaster.
 
 ### Statutory Notes
+
+#### References in Text
+The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 #### Codification
 Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Rural Electrification Act of 1936 which constitutes this chapter. Section was formerly classified to [section 4455(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4455/a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
-1994—Pub. L. 103–354 substituted “Secretary under this chapter” for “Rural Electrification Administration”.
+1994—Pub. L. 103–354 substituted “Secretary under the Rural Electrification Act of 1936 ([7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.)” for “Rural Electrification Administration”.
 
 #### Effective Date
 Section effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as an Effective Date of 1970 Amendment note under [section 165 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section165&num=0&edition=prelim), Internal Revenue Code.
@@ -638,26 +646,20 @@ Section is composed of the first sentence of section 1 of act Oct. 28, 1949. The
 Section was not enacted as part of title II of the Rural Electrification Act of 1936 which comprises subchapter II of this chapter.
 
 
-<a id="section-921a"></a>
-## § 921a. Repealed. Pub. L. 115–334, title VI, § 6602(b)(13), Dec. 20, 2018, 132 Stat. 4777
+<a id="section-921a-921b"></a>
+## § 921a, 921b. Repealed. Pub. L. 115–334, title VI, § 6602(b)(13), (14), Dec. 20, 2018, 132 Stat. 4777
 
 ### Statutory Notes
 
-Section, Pub. L. 92–12, § 1, May 7, 1971, 85 Stat. 29, related to policy of financing of rural telephone program.
+Section 921a, Pub. L. 92–12, § 1, May 7, 1971, 85 Stat. 29, related to policy of financing of rural telephone program.
 
-
-<a id="section-921b"></a>
-## § 921b. Repealed. Pub. L. 115–334, title VI, § 6602(b)(14), Dec. 20, 2018, 132 Stat. 4777
-
-### Statutory Notes
-
-Section, Pub. L. 92–324, § 1, June 30, 1972, 86 Stat. 390, related to policy of expansion of markets for debentures.
+Section 921b, Pub. L. 92–324, § 1, June 30, 1972, 86 Stat. 390, related to policy of expansion of markets for debentures.
 
 
 <a id="section-922"></a>
 ## § 922. Loans for telephone service
 
-From such sums as are from time to time made available by the Congress to the Secretary for such purpose, pursuant to [section 903 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-903), the Secretary is authorized and empowered to make loans to persons now providing or who may hereafter provide telephone service in rural areas, to public bodies now providing telephone service in rural areas and to cooperative, nonprofit, limited dividend, or mutual associations. Except as otherwise provided by this subchapter, such loans shall be made under the same terms and conditions as are provided in [section 904 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-904), for the purpose of financing the improvement, expansion, construction, acquisition, and operation of telephone lines, facilities, or systems to furnish and improve telephone service in rural areas: Provided, however, That the Secretary, in making such loans, shall give preference to persons providing telephone service in rural areas, to public bodies now providing telephone service in rural areas, and to cooperative, nonprofit, limited dividend, or mutual associations. The Secretary in making such loans shall, insofar as possible, obtain assurance that the telephone service to be furnished or improved thereby will be made available to the widest practical number of rural users. When it is determined by the Secretary to be necessary in order to furnish or improve telephone service in rural areas, such loans may be made for the improvement, expansion, construction, acquisition, and operation of telephone lines, facilities, or systems without regard to their geographical location. The Secretary is further authorized and empowered to make loans for the purpose of refinancing outstanding indebtedness of persons furnishing telephone service in rural areas, including indebtedness of recipients on another telecommunications loan made under this chapter. Loans under this section shall not be made unless the Secretary finds and certifies that in his judgment the security therefor is reasonably adequate and such loan will be repaid within the time agreedand that no duplication of lines, facilities, or systems, providing reasonably adequate services will result therefrom.
+From such sums as are from time to time made available by the Congress to the Secretary for such purpose, pursuant to [section 903 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-903), the Secretary is authorized and empowered to make loans to persons now providing or who may hereafter provide telephone service in rural areas, to public bodies now providing telephone service in rural areas and to cooperative, nonprofit, limited dividend, or mutual associations. Except as otherwise provided by this subchapter, such loans shall be made under the same terms and conditions as are provided in [section 904 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-904), for the purpose of financing the improvement, expansion, construction, acquisition, and operation of telephone lines, facilities, or systems to furnish and improve telephone service in rural areas: Provided, however, That the Secretary, in making such loans, shall give preference to persons providing telephone service in rural areas, to public bodies now providing telephone service in rural areas, and to cooperative, nonprofit, limited dividend, or mutual associations. The Secretary in making such loans shall, insofar as possible, obtain assurance that the telephone service to be furnished or improved thereby will be made available to the widest practical number of rural users. When it is determined by the Secretary to be necessary in order to furnish or improve telephone service in rural areas, such loans may be made for the improvement, expansion, construction, acquisition, and operation of telephone lines, facilities, or systems without regard to their geographical location. The Secretary is further authorized and empowered to make loans for the purpose of refinancing outstanding indebtedness of persons furnishing telephone service in rural areas, including indebtedness of recipients on another telecommunications loan made under this chapter. Loans under this section shall not be made unless the Secretary finds and certifies that in his judgment the security therefor is reasonably adequate and such loan will be repaid within the time agreed and that no duplication of lines, facilities, or systems, providing reasonably adequate services will result therefrom.
 
 ### Statutory Notes
 
@@ -813,9 +815,12 @@ Within ten days after the end of the second and fourth calendar quarters of each
 <a id="section-930"></a>
 ## § 930. Congressional declaration of policy
 
-It is hereby declared to be the policy of the Congress that adequate funds should be made available to rural electric and telephone systems through direct, insured and guaranteed loans at interest rates which will allow them to achieve the objectives of this chapter and that such rural electric and telephone systems should be encouraged and assisted to develop their resources and ability to achieve the financial strength needed to enable them to satisfy their credit needs from their own financial organizations and other sources at reasonable rates and terms consistent with the loan applicant’s ability to pay and achievement of this chapter’s objectives.
+It is hereby declared to be the policy of the Congress that adequate funds should be made available to rural electric and telephone systems through direct, insured and guaranteed loans at interest rates which will allow them to achieve the objectives of the Rural Electrification Act of 1936, as amended [[7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.], and that such rural electric and telephone systems should be encouraged and assisted to develop their resources and ability to achieve the financial strength needed to enable them to satisfy their credit needs from their own financial organizations and other sources at reasonable rates and terms consistent with the loan applicant’s ability to pay and achievement of the Act’s objectives.
 
 ### Statutory Notes
+
+#### References in Text
+The Rural Electrification Act of 1936 and the Act, referred to in text, are act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 #### Codification
 Section is comprised of the first sentence of section 1 of Pub. L. 93–32. The last sentence of section 1 of Pub. L. 93–32 provided that: “The Rural Electrification Act of 1936, as amended ([7 U.S.C. 901–950(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901–950/b&num=0&edition=prelim)), is therefore further amended as hereinafter provided.”
@@ -1894,34 +1899,34 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ### Statutory Notes
 
-Section 941, act May 20, 1936, ch. 432, title IV, § 401, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 30, established the Rural Telephone Bank and its status and purpose.
+Section 941, act May 20, 1936, ch. 432, title IV, § 401, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 30, established the Rural Telephone Bank and set out its status and purpose.
 
 Section 942, act May 20, 1936, ch. 432, title IV, § 402, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 30, set out the general powers of the telephone bank.
 
 Section 943, act May 20, 1936, ch. 432, title IV, § 403, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 31; amended Pub. L. 103–354, title II, § 235(a)(9), Oct. 13, 1994, 108 Stat. 3221, related to special provisions governing telephone bank as a Federal agency until conversion of ownership, control, and operation.
 
-Section 944, act May 20, 1936, ch. 432, title IV, § 404, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 31; amended Pub. L. 103–354, title II, § 235(a)(10), Oct. 13, 1994, 108 Stat. 3221, required the the Secretary to designate an official of the Department of Agriculture to serve as the chief executive officer or governor of the telephone bank, who would perform all functions, powers, and duties of the telephone bank except as otherwise provided.
+Section 944, act May 20, 1936, ch. 432, title IV, § 404, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 31; amended Pub. L. 103–354, title II, § 235(a)(10), Oct. 13, 1994, 108 Stat. 3221, required the the Secretary to designate an official of the Department of Agriculture to serve as the chief executive officer or governor of the telephone bank, who would perform all functions, powers, and duties of the telephone bank, except as otherwise provided.
 
 Section 944a, Pub. L. 100–203, title I, § 1414, Dec. 22, 1987, 101 Stat. 1330–27, provided for publication of rural telephone bank policies and regulations.
 
-Section 945, act May 20, 1936, ch. 432, title IV, § 405, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 32; amended Pub. L. 93–32, § 4, May 11, 1973, 87 Stat. 70; Pub. L. 101–624, title XXIII, § 2363(a), (b)(1), (c), Nov. 28, 1990, 104 Stat. 4042–4044; Pub. L. 103–354, title II, § 235(a)(7), Oct. 13, 1994, 108 Stat. 3221, created a board of directors and its membership requirements for the telephone bank.
+Section 945, act May 20, 1936, ch. 432, title IV, § 405, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 32; amended Pub. L. 93–32, § 4, May 11, 1973, 87 Stat. 70; Pub. L. 101–624, title XXIII, § 2363(a), (b)(1), (c), Nov. 28, 1990, 104 Stat. 4042–4044; Pub. L. 103–354, title II, § 235(a)(7), Oct. 13, 1994, 108 Stat. 3221, created a board of directors for the telephone bank and set out its membership requirements.
 
 Section 946, act May 20, 1936, ch. 432, title IV, § 406, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 33; amended Pub. L. 93–32, § 5, May 11, 1973, 87 Stat. 70; Pub. L. 94–273, § 2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 97–98, title XVI, § 1607, Dec. 22, 1981, 95 Stat. 1347; Pub. L. 100–203, title I, § 1413(a), (c), Dec. 22, 1987, 101 Stat. 1330–26; Pub. L. 101–624, title XXIII, §§ 2364, 2367(a), Nov. 28, 1990, 104 Stat. 4044; Pub. L. 103–129, § 2(c)(9), Nov. 1, 1993, 107 Stat. 1365; Pub. L. 103–354, title II, § 235(a)(11), (13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, § 772(b)(3), Apr. 4, 1996, 110 Stat. 1149, related to capitalization of the telephone bank.
 
 Section 947, act May 20, 1936, ch. 432, title IV, § 407, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 34; amended Pub. L. 92–324, § 2, June 30, 1972, 86 Stat. 390; Pub. L. 93–32, §§ 6, 7, May 11, 1973, 87 Stat. 70, authorized the telephone bank to obtain funds through the public or private sale of its bonds, debentures, notes, and other evidences of indebtedness.
 
-Section 948, act May 20, 1936, ch. 432, title IV, § 408, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 35; amended Pub. L. 93–32, §§ 8, 9, May 11, 1973, 87 Stat. 70, 71; Pub. L. 100–203, title I, §§ 1411(b)(1), (c), 1412, Dec. 22, 1987, 101 Stat. 1330–22, 1330–23, 1330–26; Pub. L. 101–624, title XXIII, §§ 2365, 2366, 2367(b), Nov. 28, 1990, 104 Stat. 4044; Pub. L. 103–129, § 2(a)(2), Nov. 1, 1993, 107 Stat. 1361; Pub. L. 103–354, title II, § 235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–66, title I, § 1011(y), Dec. 21, 1995, 109 Stat. 711, granted the telephone bank lending power subject to certain terma and conditions.
+Section 948, act May 20, 1936, ch. 432, title IV, § 408, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 35; amended Pub. L. 93–32, §§ 8, 9, May 11, 1973, 87 Stat. 70, 71; Pub. L. 100–203, title I, §§ 1411(b)(1), (c), 1412, Dec. 22, 1987, 101 Stat. 1330–22, 1330–23, 1330–26; Pub. L. 101–624, title XXIII, §§ 2365, 2366, 2367(b), Nov. 28, 1990, 104 Stat. 4044; Pub. L. 103–129, § 2(a)(2), Nov. 1, 1993, 107 Stat. 1361; Pub. L. 103–354, title II, § 235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–66, title I, § 1011(y), Dec. 21, 1995, 109 Stat. 711, granted the telephone bank lending power subject to certain terms and conditions.
 
-Section 949, act May 20, 1936, ch. 432, title IV, § 409, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 36, provided that receipts from bank acitivities would be available for all obligations and expenditures of the telephone bank.
+Section 949, act May 20, 1936, ch. 432, title IV, § 409, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 36, provided that receipts from telephone bank activities would be available for all obligations and expenditures of the telephone bank.
 
-Section 950, act May 20, 1936, ch. 432, title IV, § 410, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, § 2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, § 2363(b)(2), Nov. 28, 1990, 104 Stat. 4043; Pub. L. 103–354, title II, § 235(a)(11), Oct. 13, 1994, 108 Stat. 3221, related to the transfer of ownership, control and power from from the Secretary of Agriculture to the Telephone Bank Board.
+Section 950, act May 20, 1936, ch. 432, title IV, § 410, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, § 2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, § 2363(b)(2), Nov. 28, 1990, 104 Stat. 4043; Pub. L. 103–354, title II, § 235(a)(11), Oct. 13, 1994, 108 Stat. 3221, related to the transfer of ownership, control and power from the Secretary of Agriculture to the Telephone Bank Board.
 
-Section 950b, act May 20, 1936, ch. 432, title IV, § 411, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 37, related to the liquidation or dissolution of telephone bank,
+Section 950a, act May 20, 1936, ch. 432, title IV, § 411, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 37, related to the liquidation or dissolution of the telephone bank.
 
-Section 950b, act May 20, 1936, ch. 432, title IV, § 412, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 37; amended Pub. L. 103–354, title II, § 235(a)(13), Oct. 13, 1994, 108 Stat. 3221, limited loans under [section 922 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-922) for any borrower with a net worth in excess of 20 per centum of its assets.
+Section 950b, act May 20, 1936, ch. 432, title IV, § 412, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 37; amended Pub. L. 103–354, title II, § 235(a)(13), Oct. 13, 1994, 108 Stat. 3221, limited loans under [section 922 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-922) for any borrower with a net worth in excess of 20 percent of its assets.
 
 #### Congressional Findings Covering Interest Rates and Loan Prepayments
-Pub. L. 100–203, title I, § 1411(a), Dec. 22, 1987, 101 Stat. 1330–22, which set out Congressional findings related to interest rates and loan prepayments and was formerly set out as a note under [section 948 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section948&num=0&edition=prelim), was repealed by Pub. L. 115–334, title VI, § 6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.
+Pub. L. 100–203, title I, § 1411(a), Dec. 22, 1987, 101 Stat. 1330–22, which set out congressional findings related to interest rates and loan prepayments and was formerly set out as a note under [section 948 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section948&num=0&edition=prelim), was repealed by Pub. L. 115–334, title VI, § 6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.
 
 #### Prepayment Regulations
 Pub. L. 100–203, title I, § 1411(b)(2), Dec. 22, 1987, 101 Stat. 1330–23, which directed the Governor of the Rural Telephone Bank to issue regulations to carry out the amendment to this section by section 1411(b)(1) of Pub. L. 100–203 and was formerly set out as a note under [section 948 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section948&num=0&edition=prelim), was repealed by Pub. L. 115–334, title VI, § 6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.
@@ -2672,7 +2677,7 @@ Pub. L. 115–334, title VI, § 6205(b), Dec. 20, 2018, 132 Stat. 4739, provided
 #### Codification
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 

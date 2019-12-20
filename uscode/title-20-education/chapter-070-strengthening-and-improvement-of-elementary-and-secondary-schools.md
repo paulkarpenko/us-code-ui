@@ -2,7 +2,7 @@
 title: 20
 chapter: '70'
 heading: STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
-section_count: 365
+section_count: 368
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -171,6 +171,9 @@ Pub. L. 114–95, § 5, Dec. 10, 2015, 129 Stat. 1806, provided that: “(a) In 
 
 #### Effective Date
 Pub. L. 107–110, § 5, Jan. 8, 2002, 115 Stat. 1427, provided that: “(a) In General.—Except as otherwise provided in this Act [see Tables for classification], this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act [Jan. 8, 2002]. “(b) Noncompetitive Programs.—With respect to noncompetitive programs under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, this Act, and the amendments made by this Act, shall take effect on July 1, 2002. “(c) Competitive Programs.—With respect to programs that are conducted by the Secretary on a competitive basis, this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under those programs for fiscal year 2002. “(d) Impact Aid.—With respect to title VIII (Impact Aid) [probably meant title VIII (now VII) of Pub. L. 89–10, [20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
+
+#### Short Title of 2019 Amendment
+Pub. L. 116–13, § 1, Apr. 12, 2019, 133 Stat. 847, provided that: “This Act [enacting subpart 5 of part B of subchapter II of this chapter] may be cited as the ‘Recognizing Achievement in Classified School Employees Act’.”
 
 #### Short Title of 2017 Amendment
 Pub. L. 115–64, § 1, Sept. 29, 2017, 131 Stat. 1187, provided that: “This Act [amending [section 7881 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7881)] may be cited as the ‘Hurricanes Harvey, Irma, and Maria Education Relief Act of 2017’.”
@@ -1475,7 +1478,7 @@ A prior section 1004 of Pub. L. 89–10 was renumbered section 9004 and was clas
 
       (II) if data are available and to the extent practicable, in programs of private postsecondary education in the State or programs of postsecondary education outside the State.
 
-    (xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State’s public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( 99 So in original. There is no corresponding closing parenthesis. as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b&num=0&edition=prelim)) and reported by States only in a manner consistent with section 113(c) of such Act ([20 U.S.C. 2323(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/c&num=0&edition=prelim)).
+    (xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State’s public elementary schools and secondary schools, which may include the number and percentage of students meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/A&num=0&edition=prelim)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act ([20 U.S.C. 2323(b)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/C&num=0&edition=prelim)).
 
   (D) *Rules of construction* — Nothing in subparagraph (C)(viii) shall be construed as requiring—
 
@@ -1562,9 +1565,6 @@ The Secretary shall transmit annually to the Committee on Education and the Work
 
 ### Statutory Notes
 
-#### Amendment of Subsection (h)(1)(C)(xiv)
-Pub. L. 115–224, § 4, title III, § 302(1), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (h)(1)(C)(xiv) of this section is amended by substituting “meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/A&num=0&edition=prelim)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act ([20 U.S.C. 2323(b)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/C&num=0&edition=prelim))” for “attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b&num=0&edition=prelim)) and reported by States only in a manner consistent with section 113(c) of such Act ([20 U.S.C. 2323(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/c&num=0&edition=prelim))”. See 2018 Amendment note below.
-
 #### References in Text
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(B) and (b)(1)(E)(i)(II), (2)(B)(vii)(II), (D)(i)(III), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
@@ -1607,6 +1607,9 @@ A prior section 1111 of Pub. L. 89–10 was classified to [section 2768 of this 
 2004—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted “section 612(a)(16)(A)” for “section 612(a)(17)(A)”.
 
 2002—Subsec. (c)(2). Pub. L. 107–279 substituted “[section 9622(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9622/b/2&num=0&edition=prelim)” for “[section 9010(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9010/b/2&num=0&edition=prelim)”.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
@@ -5632,61 +5635,65 @@ Subsecs. (c), (d). Pub. L. 114–95, § 1601(a)(3)–(5), added subsec. (c), red
 
 Subsec. (e). Pub. L. 114–95, § 1601(a)(6), added subsec. (e).
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-6601"></a>
-## § 6601. STEM master teacher corps
-**(a) In general** From the funds reserved under [section 6671(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671/4&num=0&edition=prelim) for a fiscal year, the Secretary may award grants to—
+## § 6601. Recognition program established
+**(a) In general** The Secretary of Education shall establish a national recognition program to be known as the “Recognizing Inspiring School Employees Award Program” or the “award program”. The purpose of the award program shall be to recognize and promote the commitment and excellence exhibited by classified school employees who provide exemplary service to students in prekindergarten through high school.
 
-(1) State educational agencies to enable such agencies to support the development of a State-wide STEM master teacher corps; or
+**(b) Award**
 
-(2) State educational agencies, or nonprofit organizations in partnership with State educational agencies, to support the implementation, replication, or expansion of effective science, technology, engineering, and mathematics professional development programs in schools across the State through collaboration with school administrators, principals, and STEM educators.
+(1) **In general** — Prior to May 31 of each year (beginning with the second calendar year that begins after April 12, 2019), the Secretary shall select a classified school employee to receive the Recognizing Inspiring School Employees Award for the year.
 
-**(b) STEM master teacher corps** In this section, the term “STEM master teacher corps” means a State-led effort to elevate the status of the science, technology, engineering, and mathematics teaching profession by recognizing, rewarding, attracting, and retaining outstanding science, technology, engineering, and mathematics teachers, particularly in high-need and rural schools, by—
+(2) **Non-monetary value** — The award and recognition provided under this subpart shall have no monetary value.
 
-(1) selecting candidates to be master teachers in the corps on the basis of—
+**(c) Selection process**
 
-  (A) content knowledge based on a screening examination; and
+(1) **Nomination process**
 
-  (B) pedagogical knowledge of and success in teaching;
+  (A) *In general* — Not later than November 1 of each year (beginning with the first calendar year that begins after April 12, 2019), the Secretary shall solicit nominations of classified school employees from the occupational specialties described in [section 6682(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6682/1&num=0&edition=prelim) from the Governor of each State.
 
-(2) offering such teachers opportunities to—
+  (B) *Nomination submissions* — In order for individuals in a State to be eligible to receive recognition under this section, the Governor of the State shall consider nominations submitted by the following:
 
-  (A) work with one another in scholarly communities; and
+    (i) Local educational agencies.
 
-  (B) participate in and lead high-quality professional development; and
+    (ii) School administrators.
 
-(3) providing such teachers with additional appropriate and substantial compensation for the work described in paragraph (2) and in the master teacher community.
+    (iii) Professional associations.
+
+    (iv) Labor organizations.
+
+    (v) Educational service agencies.
+
+    (vi) Nonprofit entities.
+
+    (vii) Parents and students.
+
+    (viii) Any other group determined appropriate by the Secretary.
+
+(2) **Demonstration** — Each Governor of a State who desires individuals in the State to receive recognition under this section shall submit the nominations described in paragraph (1) to the Secretary in such manner as may be required by the Secretary. Each such nomination shall contain, at a minimum, demonstrations of excellence in the following areas:
+
+  (A) Work performance.
+
+  (B) School and community involvement.
+
+  (C) Leadership and commitment.
+
+  (D) Local support.
+
+  (E) Enhancement of classified school employees’ image in the community and schools.
+
+(3) **Selection** — The Secretary shall develop uniform national guidelines for evaluating nominations submitted under paragraph (2) in order to select the most deserving nominees based on the demonstrations made in the areas described in such paragraph.
 
 ### Statutory Notes
 
-#### Prior Provisions
-Prior sections 6675 to 6677 were repealed by Pub. L. 112–239, div. A, title V, § 541(d)(1), Jan. 2, 2013, 126 Stat. 1735.
-
-Section 6675, Pub. L. 89–10, title II, § 2305, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1654, related to participation by States in the Troops-to-Teachers Program.
-
-Another prior section 6675, Pub. L. 89–10, title II, § 2305, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3635, related to technical assistance, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-Section 6676, Pub. L. 89–10, title II, § 2306, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1654, related to support of innovative preretirement teacher certification programs.
-
-Another prior section 6676, Pub. L. 89–10, title II, § 2306, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3635, related to matching funds from private sources, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-Section 6677, Pub. L. 89–10, title II, § 2307, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1655; amended Pub. L. 107–296, title XVII, § 1704(e)(9), Nov. 25, 2002, 116 Stat. 2315, required a report not later than Mar. 31, 2006, on the effectiveness of the Troops-to-Teachers Program.
-
-Prior sections 6681 to 6684 were repealed by Pub. L. 114–95, § 5, title II, § 2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
-
-Section 6681, Pub. L. 89–10, title II, § 2311, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1655, set forth purposes of division B of subpart 1 of part C of former subchapter II of this chapter.
-
-Section 6682, Pub. L. 89–10, title II, § 2312, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1656, defined terms in division B of subpart 1 of part C of former subchapter II of this chapter.
-
-Section 6683, Pub. L. 89–10, title II, § 2313, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1656, related to transition to teaching grant program.
-
-Section 6684, Pub. L. 89–10, title II, § 2314, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1659, related to evaluation and accountability for recruiting and retaining teachers.
-
-#### Effective Date
-Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+#### Codification
+Section was enacted as part of the Recognizing Achievement in Classified School Employees Act, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 
 
 <a id="section-6602"></a>
@@ -6168,61 +6175,53 @@ Section effective Dec. 10, 2015, except with respect to certain noncompetitive p
 
 
 <a id="section-6621"></a>
-## § 6621. Supporting effective educator development
-**(a) In general** From the funds reserved by the Secretary under [section 6671(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671/1&num=0&edition=prelim) for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities for the purposes of—
+## § 6621. STEM master teacher corps
+**(a) In general** From the funds reserved under [section 6671(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671/4&num=0&edition=prelim) for a fiscal year, the Secretary may award grants to—
 
-(1) providing teachers, principals, or other school leaders from nontraditional preparation and certification routes or pathways to serve in traditionally underserved local educational agencies;
+(1) State educational agencies to enable such agencies to support the development of a State-wide STEM master teacher corps; or
 
-(2) providing evidence-based professional development activities that address literacy, numeracy, remedial, or other needs of local educational agencies and the students the agencies serve;
+(2) State educational agencies, or nonprofit organizations in partnership with State educational agencies, to support the implementation, replication, or expansion of effective science, technology, engineering, and mathematics professional development programs in schools across the State through collaboration with school administrators, principals, and STEM educators.
 
-(3) providing teachers, principals, or other school leaders with professional development activities that enhance or enable the provision of postsecondary coursework through dual or concurrent enrollment programs and early college high school settings across a local educational agency;
+**(b) STEM master teacher corps** In this section, the term “STEM master teacher corps” means a State-led effort to elevate the status of the science, technology, engineering, and mathematics teaching profession by recognizing, rewarding, attracting, and retaining outstanding science, technology, engineering, and mathematics teachers, particularly in high-need and rural schools, by—
 
-(4) making freely available services and learning opportunities to local educational agencies, through partnerships and cooperative agreements or by making the services or opportunities publicly accessible through electronic means; or
+(1) selecting candidates to be master teachers in the corps on the basis of—
 
-(5) providing teachers, principals, or other school leaders with evidence-based professional enhancement activities, which may include activities that lead to an advanced credential.
+  (A) content knowledge based on a screening examination; and
 
-**(b) Program periods and diversity of projects**
+  (B) pedagogical knowledge of and success in teaching;
 
-(1) **In general** — A grant awarded by the Secretary to an eligible entity under this section shall be for a period of not more than 3 years.
+(2) offering such teachers opportunities to—
 
-(2) **Renewal** — The Secretary may renew a grant awarded under this section for 1 additional 2-year period.
+  (A) work with one another in scholarly communities; and
 
-(3) **Diversity of projects** — In awarding grants under this section, the Secretary shall ensure that, to the extent practicable, grants are distributed among eligible entities that will serve geographically diverse areas, including urban, suburban, and rural areas.
+  (B) participate in and lead high-quality professional development; and
 
-(4) **Limitation** — The Secretary shall not award more than 1 grant under this section to an eligible entity during a grant competition.
-
-**(c) Cost-sharing**
-
-(1) **In general** — An eligible entity that receives a grant under this section shall provide, from non-Federal sources, not less than 25 percent of the funds for the total cost for each year of activities carried out under this section.
-
-(2) **Acceptable contributions** — An eligible entity that receives a grant under this section may meet the requirement of paragraph (1) by providing contributions in cash or in kind, fairly evaluated, including plant, equipment, and services.
-
-(3) **Waivers** — The Secretary may waive or modify the requirement of paragraph (1) in cases of demonstrated financial hardship.
-
-**(d) Applications** In order to receive a grant under this section, an eligible entity shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably require. Such application shall include, at a minimum, a certification that the services provided by an eligible entity under the grant to a local educational agency or to a school served by the local educational agency will not result in direct fees for participating students or parents.
-
-**(e) Priority** In awarding grants under this section, the Secretary shall give priority to an eligible entity that will implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of [section 7801(21)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/21/A/i&num=0&edition=prelim).
-
-**(f) Definition of eligible entity** In this section, the term “eligible entity” means—
-
-(1) an institution of higher education that provides course materials or resources that are evidence-based in increasing academic achievement, graduation rates, or rates of postsecondary education matriculation;
-
-(2) a national nonprofit entity with a demonstrated record of raising student academic achievement, graduation rates, and rates of higher education attendance, matriculation, or completion, or of effectiveness in providing preparation and professional development activities and programs for teachers, principals, or other school leaders;
-
-(3) the Bureau of Indian Education; or
-
-(4) a partnership consisting of—
-
-  (A) 1 or more entities described in paragraph (1) or (2); and
-
-  (B) a for-profit entity.
+(3) providing such teachers with additional appropriate and substantial compensation for the work described in paragraph (2) and in the master teacher community.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 6672, Pub. L. 89–10, title II, § 2302, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1648, authorized funding and administration of the Troops-to-Teachers Program, prior to repeal by Pub. L. 112–239, div. A, title V, § 541(d)(1), Jan. 2, 2013, 126 Stat. 1735.
+Prior sections 6675 to 6677 were repealed by Pub. L. 112–239, div. A, title V, § 541(d)(1), Jan. 2, 2013, 126 Stat. 1735.
 
-Another prior section 6672, Pub. L. 89–10, title II, § 2302, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3633, authorized professional development demonstration program, prior to the general amendment of this subchapter by Pub. L. 107–110.
+Section 6675, Pub. L. 89–10, title II, § 2305, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1654, related to participation by States in the Troops-to-Teachers Program.
+
+Another prior section 6675, Pub. L. 89–10, title II, § 2305, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3635, related to technical assistance, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+Section 6676, Pub. L. 89–10, title II, § 2306, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1654, related to support of innovative preretirement teacher certification programs.
+
+Another prior section 6676, Pub. L. 89–10, title II, § 2306, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3635, related to matching funds from private sources, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+Section 6677, Pub. L. 89–10, title II, § 2307, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1655; amended Pub. L. 107–296, title XVII, § 1704(e)(9), Nov. 25, 2002, 116 Stat. 2315, required a report not later than Mar. 31, 2006, on the effectiveness of the Troops-to-Teachers Program.
+
+Prior sections 6681 to 6684 were repealed by Pub. L. 114–95, § 5, title II, § 2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+Section 6681, Pub. L. 89–10, title II, § 2311, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1655, set forth purposes of division B of subpart 1 of part C of former subchapter II of this chapter.
+
+Section 6682, Pub. L. 89–10, title II, § 2312, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1656, defined terms in division B of subpart 1 of part C of former subchapter II of this chapter.
+
+Section 6683, Pub. L. 89–10, title II, § 2313, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1656, related to transition to teaching grant program.
+
+Section 6684, Pub. L. 89–10, title II, § 2314, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1659, related to evaluation and accountability for recruiting and retaining teachers.
 
 #### Effective Date
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -6989,6 +6988,9 @@ Section effective Dec. 10, 2015, except with respect to certain noncompetitive p
 #### Prior Provisions
 A prior section 6645, Pub. L. 89–10, title II, § 2205, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3622; amended Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(b)(3)(A)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313, related to State applications, prior to its omission in the general amendment of this subchapter by Pub. L. 107–110.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -7240,8 +7242,69 @@ Another prior section 6671, Pub. L. 89–10, title II, § 2301, as added Pub. L.
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
-<a id="section-6691"></a>
-## § 6691. School leader recruitment and support
+<a id="section-6681"></a>
+## § 6681. Supporting effective educator development
+**(a) In general** From the funds reserved by the Secretary under [section 6671(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671/1&num=0&edition=prelim) for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities for the purposes of—
+
+(1) providing teachers, principals, or other school leaders from nontraditional preparation and certification routes or pathways to serve in traditionally underserved local educational agencies;
+
+(2) providing evidence-based professional development activities that address literacy, numeracy, remedial, or other needs of local educational agencies and the students the agencies serve;
+
+(3) providing teachers, principals, or other school leaders with professional development activities that enhance or enable the provision of postsecondary coursework through dual or concurrent enrollment programs and early college high school settings across a local educational agency;
+
+(4) making freely available services and learning opportunities to local educational agencies, through partnerships and cooperative agreements or by making the services or opportunities publicly accessible through electronic means; or
+
+(5) providing teachers, principals, or other school leaders with evidence-based professional enhancement activities, which may include activities that lead to an advanced credential.
+
+**(b) Program periods and diversity of projects**
+
+(1) **In general** — A grant awarded by the Secretary to an eligible entity under this section shall be for a period of not more than 3 years.
+
+(2) **Renewal** — The Secretary may renew a grant awarded under this section for 1 additional 2-year period.
+
+(3) **Diversity of projects** — In awarding grants under this section, the Secretary shall ensure that, to the extent practicable, grants are distributed among eligible entities that will serve geographically diverse areas, including urban, suburban, and rural areas.
+
+(4) **Limitation** — The Secretary shall not award more than 1 grant under this section to an eligible entity during a grant competition.
+
+**(c) Cost-sharing**
+
+(1) **In general** — An eligible entity that receives a grant under this section shall provide, from non-Federal sources, not less than 25 percent of the funds for the total cost for each year of activities carried out under this section.
+
+(2) **Acceptable contributions** — An eligible entity that receives a grant under this section may meet the requirement of paragraph (1) by providing contributions in cash or in kind, fairly evaluated, including plant, equipment, and services.
+
+(3) **Waivers** — The Secretary may waive or modify the requirement of paragraph (1) in cases of demonstrated financial hardship.
+
+**(d) Applications** In order to receive a grant under this section, an eligible entity shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably require. Such application shall include, at a minimum, a certification that the services provided by an eligible entity under the grant to a local educational agency or to a school served by the local educational agency will not result in direct fees for participating students or parents.
+
+**(e) Priority** In awarding grants under this section, the Secretary shall give priority to an eligible entity that will implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of [section 7801(21)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/21/A/i&num=0&edition=prelim).
+
+**(f) Definition of eligible entity** In this section, the term “eligible entity” means—
+
+(1) an institution of higher education that provides course materials or resources that are evidence-based in increasing academic achievement, graduation rates, or rates of postsecondary education matriculation;
+
+(2) a national nonprofit entity with a demonstrated record of raising student academic achievement, graduation rates, and rates of higher education attendance, matriculation, or completion, or of effectiveness in providing preparation and professional development activities and programs for teachers, principals, or other school leaders;
+
+(3) the Bureau of Indian Education; or
+
+(4) a partnership consisting of—
+
+  (A) 1 or more entities described in paragraph (1) or (2); and
+
+  (B) a for-profit entity.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 6672, Pub. L. 89–10, title II, § 2302, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1648, authorized funding and administration of the Troops-to-Teachers Program, prior to repeal by Pub. L. 112–239, div. A, title V, § 541(d)(1), Jan. 2, 2013, 126 Stat. 1735.
+
+Another prior section 6672, Pub. L. 89–10, title II, § 2302, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3633, authorized professional development demonstration program, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Effective Date
+Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
+
+<a id="section-6682"></a>
+## § 6682. School leader recruitment and support
 **(a) In general** From the funds reserved under [section 6671(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671/2&num=0&edition=prelim) for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities to enable such entities to improve the recruitment, preparation, placement, support, and retention of effective principals or other school leaders in high-need schools, which may include—
 
 (1) developing or implementing leadership training programs designed to prepare and support principals or other school leaders in high-need schools, including through new or alternative pathways or school leader residency programs;
@@ -7319,8 +7382,8 @@ Another prior section 6673, Pub. L. 89–10, title II, § 2303, as added Pub. L.
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
-<a id="section-6692"></a>
-## § 6692. Technical assistance and national evaluation
+<a id="section-6683"></a>
+## § 6683. Technical assistance and national evaluation
 **(a) In general** From the funds reserved under [section 6671(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671/3&num=0&edition=prelim) for a fiscal year, the Secretary—
 
 (1) shall establish, in a manner consistent with [section 9602 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9602), a comprehensive center on students at risk of not attaining full literacy skills due to a disability that meets the purposes of subsection (b); and
@@ -7358,6 +7421,60 @@ Another prior section 6674, Pub. L. 89–10, title II, § 2304, as added Pub. L.
 
 #### Effective Date
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
+
+<a id="section-6691"></a>
+## § 6691. Findings
+
+Congress finds the following:
+
+(1) Classified school employees provide valuable service in the United States.
+
+(2) Classified school employees provide essential services, such as transportation, facilities maintenance and operations, food service, safety, and health care.
+
+(3) Classified school employees play a vital role in providing for the welfare and safety of students.
+
+(4) Classified school employees strive for excellence in all areas of service to the education community.
+
+(5) Exemplary classified school employees should be recognized for their outstanding contributions to quality education in the United States.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Recognizing Achievement in Classified School Employees Act, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+
+
+<a id="section-6692"></a>
+## § 6692. Definitions
+
+In this subpart:
+
+(1) **Classified school employee** — The term “classified school employee” means an employee of a State or of any political subdivision of a State, or an employee of a nonprofit entity, who works in any grade from prekindergarten through high school in any of the following occupational specialties:
+
+  (A) Paraprofessional, including paraeducator services.
+
+  (B) Clerical and administrative services.
+
+  (C) Transportation services.
+
+  (D) Food and nutrition services.
+
+  (E) Custodial and maintenance services.
+
+  (F) Security services.
+
+  (G) Health and student services.
+
+  (H) Technical services.
+
+  (I) Skilled trades.
+
+(2) **Other definitions** — The terms used in this subpart have the meanings given the terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Recognizing Achievement in Classified School Employees Act, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 
 
 <a id="section-6801"></a>
@@ -8051,6 +8168,9 @@ Subsec. (b)(8). Pub. L. 114–95, § 3003(i)(3)(F), substituted “of English le
 
 Subsec. (b)(9). Pub. L. 114–95, § 3003(i)(3)(G), substituted “part” for “subchapter”.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -8409,7 +8529,7 @@ Pars. (13), (14). Pub. L. 114–95, § 3004(a)(3), redesignated pars. (14) and (
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Research Relating to Bilingual Education
-Pub. L. 100–297, title VI, § 6211, Apr. 28, 1988, 102 Stat. 429, provided that: “(a) Research and Development.—The Secretary [of Education] shall, through competitive contracts under this section, provide financial assistance for research and development proposals submitted by institutions of higher education, private for-profit and nonprofit organizations, State and local educational agencies, and individuals. “(b) Authorized Activities.—Research activities authorized to be assisted under this section shall include—“(1) studies to determine and evaluate effective models for bilingual education programs; “(2) studies which examine the process by which individuals acquire a second language and master the subject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English; “(3) longitudinal studies to measure the effect of title VII of the Elementary and Secondary Education Act of 1965 [former [20 U.S.C. 3281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3281&num=0&edition=prelim) et seq.] on students enrolled in programs under such title (including a longitudinal study of the impact of bilingual education programs on limited-English proficient students using a nationally representative sample of the programs funded under such title and which provides information including data on grade retention, academic performance, and dropout rates); “(4) studies to determine effective and reliable methods for identifying students who are entitled to services under such title and for determining when their English language proficiency is sufficiently well developed to permit them to derive optimal benefits from an all-English instructional program; “(5) the operation of a clearinghouse which shall collect, analyze, and disseminate information about bilingual education and related programs (and coordinate its activities with the National Diffusion Network); “(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English; “(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students; “(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students; “(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this [such] title; and “(10) studies to determine effective and reliable methods for identifying gifted and talented students who have language proficiencies other than English. “(c) Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate, and the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives. “(d) Publication of Proposals.—The Secretary shall publish and disseminate all requests for proposals in research and development assisted under such title. “(e) Limitation of Authority.—Nothing in this section shall be construed as authorizing the Secretary to conduct or support studies or analyses of the content of educational textbooks.”
+Pub. L. 100–297, title VI, § 6211, Apr. 28, 1988, 102 Stat. 429, provided that: “(a) Research and Development.—The Secretary [of Education] shall, through competitive contracts under this section, provide financial assistance for research and development proposals submitted by institutions of higher education, private for-profit and nonprofit organizations, State and local educational agencies, and individuals. “(b) Authorized Activities.—Research activities authorized to be assisted under this section shall include—“(1) studies to determine and evaluate effective models for bilingual education programs; “(2) studies which examine the process by which individuals acquire a second language and master the subject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English; “(3) longitudinal studies to measure the effect of title VII of the Elementary and Secondary Education Act of 1965 [former [20 U.S.C. 3281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3281&num=0&edition=prelim) et seq.] on students enrolled in programs under such title (including a longitudinal study of the impact of bilingual education programs on limited-English proficient students using a nationally representative sample of the programs funded under such title and which provides information including data on grade retention, academic performance, and dropout rates); “(4) studies to determine effective and reliable methods for identifying students who are entitled to services under such title and for determining when their English language proficiency is sufficiently well developed to permit them to derive optimal benefits from an all-English instructional program; “(5) the operation of a clearinghouse which shall collect, analyze, and disseminate information about bilingual education and related programs (and coordinate its activities with the National Diffusion Network); “(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English; “(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students; “(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students; “(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this [such] title; and “(10) studies to determine effective and reliable methods for identifying gifted and talented students who have language proficiencies other than English. “(c) Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate, and the Committee on Education and Labor of the House of Representatives. “(d) Publication of Proposals.—The Secretary shall publish and disseminate all requests for proposals in research and development assisted under such title. “(e) Limitation of Authority.—Nothing in this section shall be construed as authorizing the Secretary to conduct or support studies or analyses of the content of educational textbooks.”
 
 #### Information Regarding Bilingual Education
 Pub. L. 100–297, title VI, § 6213, Apr. 28, 1988, 102 Stat. 429, as amended by Pub. L. 104–66, title I, § 1042(a), Dec. 21, 1995, 109 Stat. 715, provided that: “The Secretary [of Education] shall collect data for program management and accountability purposes regarding— “(1) a national assessment of the educational needs of children and other persons with limited English proficiency and of the extent to which such needs are being met from Federal, State, and local efforts; “(2) a plan, including cost estimates, to be carried out during the 5-year period beginning on such date [sic], for extending programs of bilingual education and bilingual vocational and adult education programs to all such preschool and elementary schoolchildren and other persons of limited English proficiency, including a phased plan for the training of the necessary teachers and other education personnel necessary for such purpose; “(3) a statement of the activities intended to be carried out during the succeeding period, including an estimate of the cost of such activities; and “(4)(A) an assessment of the number of teachers and other educational personnel needed to carry out programs of bilingual education under such title [sic] and those carried out under other programs for persons of limited English proficiency; “(B) a statement describing the activities carried out thereunder designed to prepare teachers and other educational personnel for such programs; and “(C) the number of other educational personnel needed to carry out programs of bilingual education in the States.”
@@ -9034,7 +9154,7 @@ Subject to [section 7116(f) of this title](https://uscode.house.gov/view.xhtml?r
 
     (iii) crisis management and conflict resolution techniques;
 
-    (iv) human trafficking (defined, for purposes of this subparagraph, as an act or practice described in paragraph (9) or (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim));
+    (iv) human trafficking (defined, for purposes of this subparagraph, as an act or practice described in paragraph (9) or (10) 11 See References in Text note below. of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim));
 
     (v) school-based violence prevention strategies;
 
@@ -9072,6 +9192,8 @@ Subject to [section 7116(f) of this title](https://uscode.house.gov/view.xhtml?r
 
 #### References in Text
 The Individuals with Disabilities Education Act, referred to in par. (5)(B)(ii)(II)(bb), (G), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+
+Paragraphs (9) and (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim), referred to in par. (5)(D)(iv), were redesignated pars. (11) and (12), respectively, of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 #### Prior Provisions
 A prior section 7118, Pub. L. 89–10, title IV, § 4118, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3685, related to programs for Native Hawaiians, and was omitted in the general amendment of this subchapter by Pub. L. 107–110.
@@ -12300,6 +12422,9 @@ The Head Start Act, referred to in subsec. (a)(4)(B), is subchapter B (§ 635 et
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (a)(4)(B), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -13632,7 +13757,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 (5) integrated educational services in combination with other programs that meet the needs of Indian children and their families, including programs that promote parental involvement in school activities and increase student achievement;
 
-(6) career preparation activities to enable Indian students to participate in programs such as the programs supported by the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.), including programs for tech-prep education, mentoring, and apprenticeship;
+(6) career preparation activities to enable Indian students to participate in programs such as the programs supported by the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.), including programs for mentoring and apprenticeship;
 
 (7) activities to educate individuals so as to prevent violence, suicide, and substance abuse;
 
@@ -13661,9 +13786,6 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 **(e) Limitation on the use of funds** Funds provided to a grantee under this subpart may not be used for long-distance travel expenses for training activities that are available locally or regionally.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(6)
-Pub. L. 115–224, § 4, title III, § 302(2), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (b)(6) of this section is amended by substituting “mentoring” for “tech-prep education, mentoring,”. See 2018 Amendment note below.
 
 #### References in Text
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(6), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
@@ -13795,6 +13917,8 @@ Subsec. (o)(1). Pub. L. 114–95, § 6002(h)(2)(A), substituted “December 10, 
 Subsec. (o)(2). Pub. L. 114–95, § 6002(h)(2)(B), substituted “December 10, 2015” for “January 8, 2002” and struck out last sentence which read as follows: “Such report shall identify statutory barriers to the ability of participants to integrate more effectively their education and related services to Indian students in a manner consistent with the objectives of this section.”
 
 #### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2015 Amendment
@@ -15346,7 +15470,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
     (ii) improve conditions for learning at home, in the community, and at school.
 
-  (K) Career preparation activities to enable Alaska Native children and adults to prepare for meaningful employment, including programs providing tech-prep, mentoring, training, and apprenticeship activities.
+  (K) Career preparation activities to enable Alaska Native children and adults to prepare for meaningful employment, including programs providing mentoring, training, and apprenticeship activities.
 
   (L) Support for the development and operational activities of regional vocational schools in rural areas of Alaska to provide students with necessary resources to prepare for skilled employment opportunities.
 
@@ -15357,9 +15481,6 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 **(b) Authorization of appropriations** There are authorized to be appropriated to carry out this section $31,453,000 for each of fiscal years 2017 through 2020.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(3)(K)
-Pub. L. 115–224, § 4, title III, § 302(3), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (a)(3)(K) of this section is amended by striking out “tech-prep,” before “mentoring,”. See 2018 Amendment note below.
 
 #### References in Text
 The Head Start Act, referred to in subsec. (a)(3)(C)(iv), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.

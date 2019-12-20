@@ -123,6 +123,9 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(19), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking “commercial items” both places it appears and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -130,9 +133,6 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 | 4704(b) | 41:253g(b). |  |
 | 4704(c) | 41:253g(c). | June 30, 1949, ch. 288, title III, § 303G(c), as added Pub. L. 103–355, title IV, § 4103(b), Oct. 13, 1994, 108 Stat. 3341. |
 | 4704(d) | 41:253g(d). | June 30, 1949, ch. 288, title III, § 303G(d), as added Pub. L. 103–355, title VIII, § 8204(a), Oct. 13, 1994, 108 Stat. 3396. |
-
-#### Amendment of Subsection (d)
-Pub. L. 115–232, div. A, title VIII, § 836(b)(19), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking “commercial items” both places it appears and inserting “commercial products or commercial services”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (d). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items” in two places.
@@ -287,6 +287,9 @@ In subsection (c)(4), the words “Committee on Oversight and Government Reform�
 
 #### References in Text
 The Inspector General Act of 1978, referred to in subsec. (c)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-4707"></a>
@@ -636,8 +639,12 @@ Pub. L. 112–239, div. A, title VIII, § 828(b), Jan. 2, 2013, 126 Stat. 1840, 
 #### References in Text
 The date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, referred to in subsec. (j), is the date of enactment of Pub. L. 115–390, which was approved Dec. 21, 2018.
 
-Section 3101(c)(1), referred to in subsec. (k)(7), probably means [section 3101(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3101/c/1&num=0&edition=prelim), which excepts the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration from applicability of the Procurement procedures and regulations of the the Administrator of General Services.Effective Date
+Section 3101(c)(1), referred to in subsec. (k)(7), probably means [section 3101(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3101/c/1&num=0&edition=prelim), which excepts the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration from applicability of the Procurement procedures and regulations of the Administrator of General Services.
 
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Effective Date
 Pub. L. 115–390, title II, § 203(c), Dec. 21, 2018, 132 Stat. 5192, provided that: “The amendments made by this section [enacting this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018] and shall apply to contracts that are awarded before, on, or after that date.”
 
-Title II of Pub. L. 115–390 effective 90 days after the Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under [section 1321 of this title](./chapter-013-chapter-13.md#section-1321).
+Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under [section 1321 of this title](./chapter-013-chapter-13.md#section-1321).

@@ -1327,7 +1327,7 @@ Each participant in the Specialty Education Loan Repayment Program who completes
 
 **(c) Penalty.—**
 
-(1) An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: A = B × ((T − S) ÷ T)).11 So in original. There is an extra closing parenthesis in the formula.
+(1) An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: A = B × ((T − S) ÷ T).
 
 (2) In the formula in paragraph (1):
 
@@ -1338,6 +1338,11 @@ Each participant in the Specialty Education Loan Repayment Program who completes
   (C) “T” is the number of months in the period of obligated service of the employee.
 
   (D) “S” is the number of whole months of such period of obligated service served by the employee.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (c)(1). Pub. L. 116–61 struck out second closing parenthesis before period at end.
 
 
 <a id="section-7697"></a>

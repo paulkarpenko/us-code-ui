@@ -58,7 +58,7 @@ source: >-
 
   (B) *Temporary roads* — The Secretary shall decommission any temporary road constructed under a project under this section not later than 3 years after the date on which the project is completed.
 
-(4) **Extraordinary circumstances** — The Secretary shall apply the extraordinary circumstances procedures under section 220.6 of title 36, code of Federal regulations (or successor regulations), when using the categorical exclusion under this section.
+(4) **Extraordinary circumstances** — The Secretary shall apply the extraordinary circumstances procedures under section 220.6 of title 36, code of Federal regulations 11 So in original. Probably should be “Code of Federal Regulations”. (or successor regulations), when using the categorical exclusion under this section.
 
 **(d) Exclusions** This section does not apply to—
 

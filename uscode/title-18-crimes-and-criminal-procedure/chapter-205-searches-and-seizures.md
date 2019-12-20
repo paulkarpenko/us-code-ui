@@ -14,6 +14,12 @@ source: >-
 #### References in Text
 Rule 41(g), referred to in text, was relettered 41(h) by 1972 amendment eff. Oct. 1, 1972.
 
+### Notes
+
+Rules generally applicable throughout United States, Rule 54.
+
+Acts of Congress superseded, Rule 41(g).
+
 
 <a id="section-3102"></a>
 ## § 3102. Authority to issue search warrant—(Rule)
@@ -29,9 +35,17 @@ Rule 41(g), referred to in text, was relettered 41(h) by 1972 amendment eff. Oct
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates [now United States magistrate judges] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+### Notes
+
+Federal, State or Territorial Judges, or U.S. magistrate judges authorized to issue search warrants, Rule 41(a).
+
 
 <a id="section-3103"></a>
 ## § 3103. Grounds for issuing search warrant—(Rule)
+
+### Notes
+
+Grounds prescribed for issuance of search warrant, Rule 41(b).
 
 
 <a id="section-3103a"></a>
@@ -82,6 +96,10 @@ Subsecs. (c), (d). Pub. L. 109–177, § 114(a)(2), (c), added subsecs. (c) and 
 <a id="section-3104"></a>
 ## § 3104. Issuance of search warrant; contents—(Rule)
 
+### Notes
+
+Issuance of search warrant on affidavit; contents to identify persons or place; command to search forthwith, Rule 41(c).
+
 
 <a id="section-3105"></a>
 ## § 3105. Persons authorized to serve search warrant
@@ -98,6 +116,10 @@ Minor change was made in phraseology.
 
 <a id="section-3106"></a>
 ## § 3106. Officer authorized to serve search warrant—(Rule)
+
+### Notes
+
+Officer to whom search warrant shall be directed, Rule 41(c).
 
 
 <a id="section-3107"></a>
@@ -122,6 +144,10 @@ Functions of all other officers of Department of Justice and functions of all ag
 <a id="section-3108"></a>
 ## § 3108. Execution, service, and return—(Rule)
 
+### Notes
+
+Method and time for execution, service and return of search warrant, Rule 41(c), (d).
+
 
 <a id="section-3109"></a>
 ## § 3109. Breaking doors or windows for entry or exit
@@ -144,9 +170,17 @@ Said sections 618 and 619 were consolidated with minor changes in phraseology bu
 #### References in Text
 Rule 41(g), referred to in text, was redesignated 41(h) by 1972 amendment eff. Oct. 1, 1972.
 
+### Notes
+
+Term “property” as used in Rule 41 includes documents, books, papers and any other tangible objects, Rule 41(g).
+
 
 <a id="section-3111"></a>
 ## § 3111. Property seizable on search warrant—(Rule)
+
+### Notes
+
+Specified property seizable on search warrant, Rule 41(b).
 
 
 <a id="section-3112"></a>
@@ -184,9 +218,17 @@ Minor changes were made in phraseology.
 <a id="section-3114"></a>
 ## § 3114. Return of seized property and suppression of evidence; motion—(Rule)
 
+### Notes
+
+Return of property and suppression of evidence upon motion, Rule 41(e).
+
 
 <a id="section-3115"></a>
 ## § 3115. Inventory upon execution and return of search warrant—(Rule)
+
+### Notes
+
+Inventory of property seized under search warrant and copies to persons affected, Rule 41(d).
 
 
 <a id="section-3116"></a>
@@ -208,6 +250,12 @@ Words “magistrate judge” substituted for “magistrate” in section catchli
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates [now United States magistrate judges] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+### Notes
+
+Magistrate judges and clerks of court to keep records as prescribed by Director of the Administrative Office of the United States Courts, Rule 55.
+
+Return or filing of records with clerk, Rule 41(f).
 
 
 <a id="section-3117"></a>

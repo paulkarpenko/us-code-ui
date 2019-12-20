@@ -200,7 +200,7 @@ Section 7105 requires all individuals who wish to be issued a license or certifi
 Section 7106 sets a 5 year time limit on the validity of a license. It also requires a licensed radio officer to be in continuous possession of an FCC license.
 
 #### Amendments
-2018—Subsec. (b). Pub. L. 115–282 substituted “license,” for “merchant mariner’s document,”.
+2018—Subsec. (b). Pub. L. 115–282 substituted “license, whichever” for “merchant mariner’s document, whichever”.
 
 2010—Pub. L. 111–281 amended section generally. Prior to amendment, text read as follows: “A license issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a license issued to a radio officer is conditioned on the continuous possession by the holder of a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.”
 
@@ -229,7 +229,7 @@ Pub. L. 101–380, title IV, § 4102(d), Aug. 18, 1990, 104 Stat. 510, provided 
 Section 7107 specifies that there is no time limit on the validity of a certificate of registry issued to a medical doctor or a professional nurse but is conditioned on the continuous possession of the appropriate license issued by a State.
 
 #### Amendments
-2018—Subsec. (b). Pub. L. 115–282 substituted “certificate of registry,” for “merchant mariner’s document,”.
+2018—Subsec. (b). Pub. L. 115–282 substituted “certificate of registry, whichever” for “merchant mariner’s document, whichever”.
 
 2010—Pub. L. 111–281 amended section generally. Prior to amendment, text read as follows: “A certificate of registry issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a certificate issued to a medical doctor or professional nurse is conditioned on the continuous possession by the holder of a license as a medical doctor or registered nurse, respectively, issued by a State.”
 

@@ -174,7 +174,7 @@ Subsection (c) requires a tankerman or licensed master, pilot, engineer, or oper
 #### Amendments
 2018—Subsecs. (b), (c). Pub. L. 115–232 redesignated subsec. (c) as (b).
 
-1984—Subsec. (b). Pub. L. 98–557 repealed subsec. (b) which contained duplicate tankerman manning requirements. See [section 7317(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section7317/a&num=0&edition=prelim).
+1984—Subsec. (b). Pub. L. 98–557 struck out subsec. (b) which contained duplicate tankerman manning requirements. See [section 7317(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section7317/a&num=0&edition=prelim).
 
 
 <a id="section-8704"></a>

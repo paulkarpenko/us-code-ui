@@ -72,3 +72,6 @@ if such gambling ship is on the high seas, or is an American vessel or otherwise
 Subsec. (c). Pub. L. 100–690, § 7024(b)(2), struck out “, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia” after “State”.
 
 Subsec. (e). Pub. L. 100–690, § 7024(b)(1), added subsec. (e).
+
+#### Short Title
+This section is popularly known as the “Wire Act”, “Federal Wire Act”, and “Interstate Wire Act of 1961”.

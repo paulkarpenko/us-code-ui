@@ -109,7 +109,7 @@ For the purposes of this chapter:
 ## § 8704. Required terms in orders
 **(a) In general** Any order issued under this chapter shall contain the terms and provisions specified in this section.
 
-**(b) Concrete masonry products Board**
+**(b) Concrete Masonry Products Board**
 
 (1) **Establishment and membership**
 

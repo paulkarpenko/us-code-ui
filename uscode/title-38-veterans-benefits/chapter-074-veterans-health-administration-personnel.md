@@ -395,8 +395,9 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
   (C) Notwithstanding the provisions of subsection (d) of [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 
 **(b)** The grades for positions provided for in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
-physician and surgeon (md/do), podiatric surgeon (dpm), and dentist and oral surgeon (dds, dmd) schedule
+physician and surgeon (md/do), podiatrist, and dentist and oral surgeon (dds, dmd) schedule
 Physician and surgeon grade.
+Podiatrist grade.
 Dentist grade.
 nurse schedule
 Nurse V.
@@ -431,6 +432,8 @@ Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475, which di
 Provisions similar to those in this section were contained in section 4107(a)–(d) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 116–12 substituted “podiatrist” for “podiatric surgeon (dpm)” as first heading in table and inserted item relating to Podiatrist grade under that heading.
+
 2018—Subsec. (b). Pub. L. 115–182 substituted “physician and surgeon (md/do), podiatric surgeon (dpm), and dentist and oral surgeon (dds, dmd) schedule” for “physician and dentist schedule” as first heading in table and “Physician and surgeon grade” for “Physician grade” as first item under that heading and substituted “chiropractor, and” for “podiatrist, chiropractor, and” in third heading in table. See Codification note above.
 
 2017—Subsec. (a)(1). Pub. L. 115–41 designated existing provisions as subpar. (A), inserted “and 7401(4)” after “section 7306”, and added subpar. (B).
@@ -1037,7 +1040,7 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 <a id="section-7431"></a>
 ## § 7431. Pay
-**(a) Elements of Pay.—** Pay of physicians and dentists in the Veterans Health Administration shall consist of three elements as follows:
+**(a) Elements of Pay.—** Pay of physicians, podiatrists, and dentists in the Veterans Health Administration shall consist of three elements as follows:
 
 (1) Base pay as provided for under subsection (b).
 
@@ -1045,85 +1048,85 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 (3) Performance pay as provided under subsection (d).
 
-**(b) Base Pay.—** One element of pay for physicians and dentists shall be base pay. Base pay shall meet the following requirements:
+**(b) Base Pay.—** One element of pay for physicians, podiatrists, and dentists shall be base pay. Base pay shall meet the following requirements:
 
-(1) Each physician and dentist is entitled to base pay determined under the Physician and Dentist Base and Longevity Pay Schedule.
+(1) Each physician, podiatrist, and dentist is entitled to base pay determined under the Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule.
 
-(2) The Physician and Dentist Base and Longevity Pay Schedule is composed of 15 rates of base pay designated, from the lowest rate of pay to the highest rate of pay, as base pay steps 1 through 15.
+(2) The Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule is composed of 15 rates of base pay designated, from the lowest rate of pay to the highest rate of pay, as base pay steps 1 through 15.
 
-(3) The rate of base pay payable to a physician or dentist is based on the total number of the years of the service of the physician or dentist in the Veterans Health Administration as follows: For a physician or dentist with total service of:The rate of base pay is the rate payable for: two years or lessstep 1 more than 2 years and not more than 4 yearsstep 2 more than 4 years and not more than 6 yearsstep 3 more than 6 years and not more than 8 yearsstep 4 more than 8 years and not more than 10 yearsstep 5 more than 10 years and not more than 12 yearsstep 6 more than 12 years and not more than 14 yearsstep 7 more than 14 years and not more than 16 yearsstep 8 more than 16 years and not more than 18 yearsstep 9 more than 18 years and not more than 20 yearsstep 10 more than 20 years and not more than 22 yearsstep 11 more than 22 years and not more than 24 yearsstep 12 more than 24 years and not more than 26 yearsstep 13 more than 26 years and not more than 28 yearsstep 14 more than 28 yearsstep 15.
+(3) The rate of base pay payable to a physician, podiatrist, or dentist is based on the total number of the years of the service of the physician, podiatrist, or dentist in the Veterans Health Administration as follows: For a physician, podiatrist, or dentist with total service of:The rate of base pay is the rate payable for: two years or lessstep 1 more than 2 years and not more than 4 yearsstep 2 more than 4 years and not more than 6 yearsstep 3 more than 6 years and not more than 8 yearsstep 4 more than 8 years and not more than 10 yearsstep 5 more than 10 years and not more than 12 yearsstep 6 more than 12 years and not more than 14 yearsstep 7 more than 14 years and not more than 16 yearsstep 8 more than 16 years and not more than 18 yearsstep 9 more than 18 years and not more than 20 yearsstep 10 more than 20 years and not more than 22 yearsstep 11 more than 22 years and not more than 24 yearsstep 12 more than 24 years and not more than 26 yearsstep 13 more than 26 years and not more than 28 yearsstep 14 more than 28 yearsstep 15.
 
 (4) At the same time as rates of basic pay are increased for a year under [section 5303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim), the Secretary shall increase the amount of base pay payable under this subsection for that year by a percentage equal to the percentage by which rates of basic pay are increased under such section for that year.
 
-(5) The non-foreign cost of living adjustment allowance authorized under [section 5941 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941&num=0&edition=prelim) for physicians and dentists whose pay is set under this section shall be determined as a percentage of base pay only.
+(5) The non-foreign cost of living adjustment allowance authorized under [section 5941 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941&num=0&edition=prelim) for physicians, podiatrists, and dentists whose pay is set under this section shall be determined as a percentage of base pay only.
 
-**(c) Market Pay.—** One element of pay for physicians and dentists shall be market pay. Market pay shall meet the following requirements:
+**(c) Market Pay.—** One element of pay for physicians, podiatrists, and dentists shall be market pay. Market pay shall meet the following requirements:
 
-(1) Each physician and dentist is eligible for market pay.
+(1) Each physician, podiatrist, and dentist is eligible for market pay.
 
-(2) Market pay shall consist of pay intended to reflect the recruitment and retention needs for the specialty or assignment (as defined by the Secretary) of a particular physician or dentist in a facility of the Department of Veterans Affairs.
+(2) Market pay shall consist of pay intended to reflect the recruitment and retention needs for the specialty or assignment (as defined by the Secretary) of a particular physician, podiatrist, or dentist in a facility of the Department of Veterans Affairs.
 
-(3) The annual amount of the market pay payable to a physician or dentist shall be determined by the Secretary on a case-by-case basis.
+(3) The annual amount of the market pay payable to a physician, podiatrist, or dentist shall be determined by the Secretary on a case-by-case basis.
 
-(4) The determination of the amount of market pay of a physician or dentist shall take into account—
+(4) The determination of the amount of market pay of a physician, podiatrist, or dentist shall take into account—
 
-  (A) the level of experience of the physician or dentist in the specialty or assignment of the physician or dentist;
+  (A) the level of experience of the physician, podiatrist, or dentist in the specialty or assignment of the physician, podiatrist, or dentist;
 
-  (B) the need for the specialty or assignment of the physician or dentist at the medical facility of the Department concerned;
+  (B) the need for the specialty or assignment of the physician, podiatrist, or dentist at the medical facility of the Department concerned;
 
-  (C) the health care labor market for the specialty or assignment of the physician or dentist, which may cover any geographic area the Secretary considers appropriate for the specialty or assignment;
+  (C) the health care labor market for the specialty or assignment of the physician, podiatrist, or dentist, which may cover any geographic area the Secretary considers appropriate for the specialty or assignment;
 
-  (D) the board certifications, if any, of the physician or dentist;
+  (D) the board certifications, if any, of the physician, podiatrist, or dentist;
 
-  (E) the prior experience, if any, of the physician or dentist as an employee of the Veterans Health Administration; and
+  (E) the prior experience, if any, of the physician, podiatrist, or dentist as an employee of the Veterans Health Administration; and
 
   (F) such other considerations as the Secretary considers appropriate.
 
-(5) The amount of market pay of a physician or dentist shall be evaluated by the Secretary not less often than once every 24 months. The amount of market pay may be adjusted as the result of an evaluation under this paragraph. A physician or dentist whose market pay is evaluated under this paragraph shall receive written notice of the results of such evaluation in accordance with procedures prescribed under [section 7433 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7433).
+(5) The amount of market pay of a physician, podiatrist, or dentist shall be evaluated by the Secretary not less often than once every 24 months. The amount of market pay may be adjusted as the result of an evaluation under this paragraph. A physician, podiatrist, or dentist whose market pay is evaluated under this paragraph shall receive written notice of the results of such evaluation in accordance with procedures prescribed under [section 7433 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7433).
 
-(6) No adjustment of the amount of market pay of a physician or dentist under paragraph (5) may result in a reduction of the amount of market pay of the physician or dentist while in the same position or assignment at the medical facility of the Department concerned, unless there is a change in board certification or reduction of privileges.
+(6) No adjustment of the amount of market pay of a physician, podiatrist, or dentist under paragraph (5) may result in a reduction of the amount of market pay of the physician, podiatrist, or dentist while in the same position or assignment at the medical facility of the Department concerned, unless there is a change in board certification or reduction of privileges.
 
 **(d) Performance Pay.—**
 
-(1) One element of pay for physicians and dentists shall be performance pay.
+(1) One element of pay for physicians, podiatrists, and dentists shall be performance pay.
 
-(2) Performance pay shall be paid to a physician or dentist on the basis of the physician’s or dentist’s achievement of specific goals and performance objectives prescribed by the Secretary.
+(2) Performance pay shall be paid to a physician, podiatrist, or dentist on the basis of the physician’s or dentist’s achievement of specific goals and performance objectives prescribed by the Secretary.
 
-(3) The Secretary shall ensure that each physician and dentist of the Department is advised of the specific goals or objectives that are to be measured by the Secretary in determining the eligibility of that physician or dentist for performance pay.
+(3) The Secretary shall ensure that each physician, podiatrist, and dentist of the Department is advised of the specific goals or objectives that are to be measured by the Secretary in determining the eligibility of that physician, podiatrist, or dentist for performance pay.
 
-(4) The amount of the performance pay payable to a physician or dentist may vary annually on the basis of individual achievement or attainment of the goals or objectives applicable to the physician or dentist under paragraph (2).
+(4) The amount of the performance pay payable to a physician, podiatrist, or dentist may vary annually on the basis of individual achievement or attainment of the goals or objectives applicable to the physician, podiatrist, or dentist under paragraph (2).
 
-(5) The amount of performance pay payable to a physician or dentist in a fiscal year shall be determined in accordance with regulations prescribed by the Secretary, but may not exceed the lower of—
+(5) The amount of performance pay payable to a physician, podiatrist, or dentist in a fiscal year shall be determined in accordance with regulations prescribed by the Secretary, but may not exceed the lower of—
 
   (A) $15,000; or
 
-  (B) the amount equal to 7.5 percent of the sum of the base pay and the market pay payable to such physician or dentist in that fiscal year.
+  (B) the amount equal to 7.5 percent of the sum of the base pay and the market pay payable to such physician, podiatrist, or dentist in that fiscal year.
 
-(6) A failure to meet goals or objectives applicable to a physician or dentist under paragraph (2) may not be the sole basis for an adverse personnel action against that physician or dentist.
+(6) A failure to meet goals or objectives applicable to a physician, podiatrist, or dentist under paragraph (2) may not be the sole basis for an adverse personnel action against that physician, podiatrist, or dentist.
 
 **(e) Requirements and Limitations on Total Pay.—**
 
 (1)
 
-  (A) Not less often than once every two years, the Secretary shall prescribe for Department-wide applicability the minimum and maximum amounts of annual pay that may be paid under this section to physicians and the minimum and maximum amounts of annual pay that may be paid under this section to dentists.
+  (A) Not less often than once every two years, the Secretary shall prescribe for Department-wide applicability the minimum and maximum amounts of annual pay that may be paid under this section to physicians and the minimum and maximum amounts of annual pay that may be paid under this section to podiatrists and dentists.
 
-  (B) The Secretary may prescribe for Department-wide applicability under this paragraph separate minimum and maximum amounts of pay for a specialty or assignment. If the Secretary prescribes separate minimum and maximum amounts for a specialty or assignment, the Secretary may establish up to four tiers of minimum and maximum amounts for such specialty or assignment and prescribe for each tier a minimum amount and a maximum amount that the Secretary determines appropriate for the professional responsibilities, professional achievements, and administrative duties of the physicians or dentists (as the case may be) whose pay is set within that tier.
+  (B) The Secretary may prescribe for Department-wide applicability under this paragraph separate minimum and maximum amounts of pay for a specialty or assignment. If the Secretary prescribes separate minimum and maximum amounts for a specialty or assignment, the Secretary may establish up to four tiers of minimum and maximum amounts for such specialty or assignment and prescribe for each tier a minimum amount and a maximum amount that the Secretary determines appropriate for the professional responsibilities, professional achievements, and administrative duties of the physicians, podiatrists, or dentists (as the case may be) whose pay is set within that tier.
 
   (C) Amounts prescribed under this paragraph shall be published in the Federal Register, and shall not take effect until at least 60 days after the date of publication.
 
-(2) Except as provided in paragraph (3) and subject to paragraph (4), the sum of the total amount of the annual rate of base pay payable to a physician or dentist under subsection (b) and the market pay determined for the physician or dentist under subsection (c) may not be less than the minimum amount, nor more than the maximum amount, applicable to specialty or assignment of the physician or dentist under paragraph (1).
+(2) Except as provided in paragraph (3) and subject to paragraph (4), the sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, or dentist under subsection (b) and the market pay determined for the physician, podiatrist, or dentist under subsection (c) may not be less than the minimum amount, nor more than the maximum amount, applicable to specialty or assignment of the physician, podiatrist, or dentist under paragraph (1).
 
-(3) The sum of the total amount of the annual rate of base pay payable to a physician or dentist under subsection (b) and the market pay determined for the physician or dentist under subsection (c) may exceed the maximum amount applicable to the specialty or assignment of the physician or dentist under paragraph (1) as a result of an adjustment under paragraph (3) or (4) of subsection (b).
+(3) The sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, or dentist under subsection (b) and the market pay determined for the physician, podiatrist, or dentist under subsection (c) may exceed the maximum amount applicable to the specialty or assignment of the physician, podiatrist, or dentist under paragraph (1) as a result of an adjustment under paragraph (3) or (4) of subsection (b).
 
-(4) In no case may the total amount of compensation paid to a physician or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
+(4) In no case may the total amount of compensation paid to a physician, podiatrist, or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
 
 **(f) Treatment of Pay.—** Pay under subsections (b) and (c) of this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
 
 **(g) Ancillary Effects of Decreases in Pay.—**
 
-(1) A decrease in pay of a physician or dentist resulting from an adjustment in the amount of market pay of the physician or dentist under subsection (c) shall not be treated as an adverse action.
+(1) A decrease in pay of a physician, podiatrist, or dentist resulting from an adjustment in the amount of market pay of the physician, podiatrist, or dentist under subsection (c) shall not be treated as an adverse action.
 
-(2) If the pay of a physician or dentist is reduced under this subchapter as a result of an involuntary reassignment in connection with a disciplinary action taken against the physician or dentist, the involuntary reassignment shall be subject to appeal under subchapter V of this chapter.
+(2) If the pay of a physician, podiatrist, or dentist is reduced under this subchapter as a result of an involuntary reassignment in connection with a disciplinary action taken against the physician, podiatrist, or dentist, the involuntary reassignment shall be subject to appeal under subchapter V of this chapter.
 
 **(h) Delegation of Responsibilities.—** The Secretary may delegate to an appropriate officer or employee of the Department any responsibility of the Secretary under subsection (c), (d), or (e) except for the responsibilities of the Secretary under subsection (e)(1).
 
@@ -1133,6 +1136,10 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 A prior section 7431, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 188; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 
 #### Amendments
+2019—Pub. L. 116–12, § 1(b)(1)(A)–(E), substituted “physician, podiatrist, or dentist” for “physician or dentist”, “physicians, podiatrists, or dentists” for “physicians or dentists”, “physician, podiatrist, and dentist” for “physician and dentist”, “physicians, podiatrists, and dentists” for “physicians and dentists”, and “Physician, Podiatrist, and Dentist” for “Physician and Dentist” wherever appearing.
+
+Subsec. (e)(1)(A). Pub. L. 116–12, § 1(b)(1)(F), inserted “podiatrists and” before “dentists.”
+
 2016—Subsec. (c)(4) to (7). Pub. L. 114–315 redesignated pars. (5) to (7) as (4) to (6), respectively, substituted “under paragraph (5)” for “under paragraph (6)” in par. (6), and struck out former par. (4) which read as follows:
 
 “(A) In determining the amount of market pay for physicians or dentists, the Secretary shall consult two or more national surveys of pay for physicians or dentists, as applicable, whether prepared by private, public, or quasi-public entities in order to make a general assessment of the range of pays payable to physicians or dentists, as applicable.
@@ -1184,27 +1191,9 @@ A prior section 7432, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 
 
 <a id="section-7433"></a>
 ## § 7433. Administrative matters
-**(a) Regulations.—**
+**(a) Regulations.—** The Secretary shall prescribe regulations relating to the pay of physicians, podiatrists, and dentists in the Veterans Health Administration under this subchapter.
 
-(1) The Secretary shall prescribe regulations relating to the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
-
-(2) In prescribing the regulations, the Secretary shall take into account the recommendations of the Under Secretary for Health on the administration of this subchapter. In formulating recommendations for the purpose of this paragraph, the Under Secretary shall request the views of representatives of labor organizations that are exclusive representatives of physicians and dentists of the Department and the views of representatives of professional organizations of physicians and dentists of the Department.
-
-**(b) Reports.—**
-
-(1) Not later than 18 months after the Secretary prescribes the regulations required by subsection (a), and annually thereafter for the next 5 years, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
-
-(2) Each report under this subsection shall include the following:
-
-  (A) A description of the rates of pay in effect during the current fiscal year with a comparison to the rates in effect during the fiscal year preceding the current fiscal year, set forth by facility and by specialty.
-
-  (B) The number of physicians and dentists who left the Veterans Health Administration during the preceding fiscal year.
-
-  (C) The number of unfilled physician positions and dentist positions in each specialty in the Veterans Health Administration, the average and maximum lengths of time that such positions have been unfilled, and an assessment of the reasons that such positions remain unfilled.
-
-  (D) An assessment of the impact of implementation of this subchapter on efforts to recruit and retain physicians and dentists in the Veterans Health Administration.
-
-(3) The first two annual reports under this subsection shall also include a comparison of staffing levels, contract expenditures, and average salaries of physicians and dentists in the Veterans Health Administration for the current fiscal year and for the fiscal year preceding the current fiscal year, set forth by facility and by specialty.
+**(b) Recommendations and Views.—** In prescribing the regulations, the Secretary shall take into account the recommendations of the Under Secretary for Health on the administration of this subchapter. In formulating recommendations for the purpose of this subsection, the Under Secretary shall request the views of representatives of labor organizations that are exclusive representatives of physicians, podiatrists, and dentists of the Department and the views of representatives of professional organizations of physicians, podiatrists, and dentists of the Department.
 
 ### Statutory Notes
 
@@ -1226,6 +1215,15 @@ Section 7438, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 19
 Section 7439, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 197, related to periodic review and quadrennial reports regarding pay of physicians and dentists.
 
 Section 7440, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII, § 1201(c)(6), Nov. 2, 1994, 108 Stat. 4684, related to annual reports of the use of authorities provided in this subchapter.
+
+#### Amendments
+2019—Pub. L. 116–12, § 1(b)(2), substituted “physicians, podiatrists, and dentists” for “physicians and dentists” wherever appearing.
+
+Subsec. (a). Pub. L. 116–12, § 1(b)(5)(B), struck out par. (1) designation before “The Secretary” and redesignated par. (2) as subsec. (b).
+
+Subsec. (b). Pub. L. 116–12, § 1(b)(5)(C), inserted heading and substituted “this subsection” for “this paragraph”.
+
+Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and struck out former subsec. (b) which required reports on the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
 
 
 <a id="section-7451"></a>
@@ -2096,7 +2094,7 @@ Pub. L. 102–40, title II, § 204, May 7, 1991, 105 Stat. 207, provided that: �
 
 (4)
 
-  (A) The period for the response of an employee under paragraph (1)(B) to advance written 11 So in original. Probably should be followed by “notice”. under paragraph (1)(A) shall be seven business days.
+  (A) The period for the response of an employee under paragraph (1)(B) to advance written notice under paragraph (1)(A) shall be seven business days.
 
   (B) The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within seven business days after the date of service of the written decision on the employee.
 
@@ -2158,6 +2156,8 @@ Pub. L. 102–40, title II, § 204, May 7, 1991, 105 Stat. 207, provided that: �
 Provisions similar to those in this subchapter were contained in [section 4110 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4110) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2019—Subsec. (b)(4)(A). Pub. L. 116–61 inserted “notice” after “written”.
+
 2017—Subsec. (b)(1). Pub. L. 115–41, § 208(b)(1)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (5)(A),” after “is entitled”.
 
 Subsec. (b)(1)(A). Pub. L. 115–41, § 208(b)(1)(B), substituted “Advance written notice” for “At least 30 days advance written notice” and “a statement” for “and a statement” and inserted “and a file containing all the evidence in support of each charge,” after “with respect to each charge,”.

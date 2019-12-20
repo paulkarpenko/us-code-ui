@@ -184,7 +184,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(i)** Upon request of the Director of the Office of Personnel Management, agencies shall cooperate with and assist the Office, to the extent practicable, in any evaluation undertaken under subsection (h) of this section and provide the Office with requested information and reports relating to the conducting of demonstration projects in their respective agencies.
 
-**(j)** Each agency at which a demonstration project authorized by this section is ongoing shall submit an annual report to the Office of Personnel Management, the Office and Management and Budget, the Committee on Homeland Security and Governmental Affairs of the United States Senate, and the Committee on Oversight and Government Reform of the United States House of Representatives that includes—
+**(j)** Each agency at which a demonstration project authorized by this section is ongoing shall submit an annual report to the Office of Personnel Management, the Office and 11 So in original. Probably should be “of”. Management and Budget, the Committee on Homeland Security and Governmental Affairs of the United States Senate, and the Committee on Oversight and Government Reform of the United States House of Representatives that includes—
 
 (1) the aggregate performance appraisal ratings and compensation costs for employees under a demonstration project;
 
@@ -198,6 +198,9 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 2018—Subsec. (d)(2). Pub. L. 115–232, § 1106(1), added par. (2) and struck out former par. (2) which read as follows: “Not more than 10 active demonstration projects may be in effect at any time.”
 
 Subsec. (j). Pub. L. 115–232, § 1106(2), added subsec. (j).
+
+#### Change of Name
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).

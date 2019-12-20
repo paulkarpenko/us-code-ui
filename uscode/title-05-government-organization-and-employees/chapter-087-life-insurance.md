@@ -1103,7 +1103,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 Section effective on first day of first pay period which begins on or after 180th day following Oct. 10, 1980, or on any earlier date that Office may prescribe which is at least 60 days after Oct. 10, 1980, and shall have no effect in case of an employee who died, was finally separated, or retired before effective date, see section 10(d) of Pub. L. 96–427 set out as an Effective Date of 1980 Amendment note under [section 8701 of this title](./chapter-087-life-insurance.md#section-8701).
 
 #### Report to Congress
-Pub. L. 105–311, § 7(b), Oct. 30, 1998, 112 Stat. 2953, provided that: “Not later than 3 years after the date of enactment of this Act [Oct. 30, 1998], the Office of Personnel Management shall submit a report to Congress on additional optional insurance provided under [section 8714b(c)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8714b/c/5&num=0&edition=prelim), United States Code (as added by subsection (a) of this section). Such report shall include recommendations on whether continuation for such additional optional insurance should terminate as provided under such section, be extended, or be made permanent.”
+Pub. L. 105–311, § 7(b), Oct. 30, 1998, 112 Stat. 2953, required the Office of Personnel Management to submit, not later than 3 years after Oct. 30, 1998, a report to Congress on additional optional insurance provided under subsec. (c)(5) of this section.
 
 
 <a id="section-8714c"></a>

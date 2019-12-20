@@ -220,7 +220,7 @@ In subsec. (b), “[section 70501(a) of title 51](https://uscode.house.gov/view.
 
 (2) crewed missions and progress toward achieving the goal in paragraph (1) to enable the potential for subsequent human exploration and the extension of human presence throughout the solar system; and
 
-(3) to enable a capability to extend human presence, including potential human habitation on another celestial body and a thriving space economy in the 21st Century.11 So in original. Probably should be “century.”.
+(3) to enable a capability to extend human presence, including potential human habitation on another celestial body and a thriving space economy in the 21st Century.11 So in original. Probably should be “century.”
 
 **(b) Key objectives** The key objectives of the United States for human expansion into space shall be—
 

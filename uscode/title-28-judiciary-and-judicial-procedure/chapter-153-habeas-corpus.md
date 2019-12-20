@@ -427,7 +427,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 | RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS |  |
 | --- | --- |
-| ( Effective Feb. 1, 1977 , as amended to Jan. 3, 2018 ) |  |
+| ( Effective Feb. 1, 1977 , as amended to Dec. 1, 2019 ) |  |
 | Rule |  |
 | 1. | Scope. |
 | 2. | The Petition. |
@@ -687,9 +687,9 @@ Rule 5. The Answer and the Reply
 
 (3) the opinions and dispositive orders of the appellate court relating to the conviction or the sentence.
 
-(e) Reply. The petitioner may submit a reply to the respondent’s answer or other pleading within a time fixed by the judge.
+(e) Reply. The petitioner may file a reply to the respondent’s answer or other pleading. The judge must set the time to file unless the time is already set by local rule.
 
-(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Advisory Committee Note
 Rule 5 details the contents of the “answer”. (This is a change in terminology from “return,” which is still used below when referring to prior practice.) The answer plays an obviously important rule in a habeas proceeding:
@@ -731,6 +731,13 @@ Changes Made After Publication and Comments. Rule 5(a) was modified to read that
 The Committee also deleted the reference to “affirmative defenses,” because the Committee believed that the term was a misnomer in the context of habeas petitions. The Note was also changed to reflect that there has been a potential substantive change from the current rule, to the extent that the published rule now requires that the answer address procedural bars and any statute of limitations. The Note states that the Committee believes the new language reflects current law.
 
 The Note was modified to address the use of the term “traverse.” One commentator noted that that is the term that is commonly used but that it does not appear in the rule itself.
+
+#### Committee Notes on Rules—2019 Amendment
+The petitioner has a right to file a reply. Subsection (e), added in 2004, removed the discretion of the court to determine whether or not to allow the petitioner to file a reply in a case under § 2254. The current amendment was prompted by decisions holding that courts nevertheless retained the authority to bar a reply.
+
+As amended, the first sentence of subsection (e) makes it even clearer that the petitioner has a right to file a reply to the respondent’s answer or pleading. It retains the word “may,” which is used throughout the federal rules to mean “is permitted to” or “has a right to.” No change in meaning is intended by the substitution of “file” for “submit.”
+
+As amended, the second sentence of the rule retains the court’s discretion to decide when the reply must be filed (but not whether it may be filed). To avoid uncertainty, the amended rule requires the court to set a time for filing if that time is not already set by local rule. Adding a reference to the time for the filing of any reply to the order requiring the government to file an answer or other pleading provides notice of that deadline to both parties.
 
 Rule 6. Discovery
 
@@ -1296,7 +1303,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 | RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS |  |
 | --- | --- |
-| (Effective Feb. 1, 1977 , as amended to Jan. 3, 2018 ) |  |
+| (Effective Feb. 1, 1977 , as amended to Dec. 1, 2019 ) |  |
 | Rule |  |
 | 1. | Scope. |
 | 2. | The Motion. |
@@ -1548,9 +1555,9 @@ Rule 5. The Answer and the Reply
 
 (c) Records of Prior Proceedings. If the answer refers to briefs or transcripts of the prior proceedings that are not available in the court’s records, the judge must order the government to furnish them within a reasonable time that will not unduly delay the proceedings.
 
-(d) Reply. The moving party may submit a reply to the respondent’s answer or other pleading within a time fixed by the judge.
+(d) Reply. The moving party may file a reply to the respondent’s answer or other pleading. The judge must set the time to file unless the time is already set by local rule.
 
-(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Advisory Committee Note
 Unlike the habeas corpus statutes (see 28 U.S.C. §§ 2243, 2248) § 2255 does not specifically call for a return or answer by the United States Attorney or set any time limits as to when one must be submitted. The general practice, however, if the motion is not summarily dismissed, is for the government to file an answer to the motion as well as counter-affidavits, when appropriate. Rule 4 provides for an answer to the motion by the United States Attorney, and rule 5 indicates what its contents should be.
@@ -1578,6 +1585,13 @@ Finally, revised Rule 5(d) adopts the practice in some jurisdictions giving the 
 Changes Made After Publication and Comments. Rule 5(a) was modified to read that the government is not required to “respond” to the motion unless the court so orders; the term “respond” was used because it leaves open the possibility that the government’s first response (as it is in some districts) is in the form of a pre-answer motion to dismiss the petition. The Note has been changed to reflect the fact that although the rule itself does not reflect that particular motion, it is used in some districts and refers the reader to Rule 4.
 
 Finally, the Committee changed the Note to address the use of the term “traverse,” a point raised by one of the commentators on the proposed rule.
+
+#### Committee Notes on Rules—2019 Amendment
+The moving party has a right to file a reply. Subsection (d), added in 2004, removed the discretion of the court to determine whether or not to allow the moving party to file a reply in a case under § 2255. The current amendment was prompted by decisions holding that courts nevertheless retained the authority to bar a reply.
+
+As amended, the first sentence of subsection (d) makes it even clearer that the moving party has a right to file a reply to the respondent’s answer or pleading. It retains the word “may,” which is used throughout the federal rules to mean “is permitted to” or “has a right to.” No change in meaning is intended by the substitution of “file” for “submit.”
+
+As amended, the second sentence of the rule retains the court’s discretion to decide when the reply must be filed (but not whether it may be filed). To avoid uncertainty, the amended rule requires the court to set a time for filing if that time is not already set by local rule. Adding a reference to the time for the filing of any reply to the order requiring the government to file an answer or other pleading provides notice of that deadline to both parties.
 
 Rule 6. Discovery
 

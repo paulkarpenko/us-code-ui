@@ -104,15 +104,15 @@ Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, pr
 
     (i) each covered individual described in subparagraph (B) is given notice of the opportunity to appeal;
 
-    (ii) each covered individual described in subparagraph (B) will receive instructions on how to complete the appeals process if the covered individual wishes to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and
+    (ii) each covered individual described in subparagraph (B) will receive instructions on how to complete the appeals process if the covered individual wishes to challenge the accuracy or completeness of the information contained in the background report of the covered individual; and 11 So in original. The word “and” probably should not appear.
 
-    (iii) the appeals process is completed in a timely manner for each covered individual described in subparagraph (B);
+    (iii) the appeals process is completed in a timely manner for each covered individual described in subparagraph (B); 22 So in original. Probably should be followed by “and”.
 
     (iv) the appeals process is consistent with title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.); and
 
   (D) an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-(3) that an authorized agency or designated entity, as applicable,,11 So in original. upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
+(3) that an authorized agency or designated entity, as applicable,,33 So in original. upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
 (4) that the authorized agency or designated entity, as applicable, shall make a determination whether the covered individual has been convicted of, or is under pending indictment for, a crime that bears upon the covered individual’s fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
@@ -124,7 +124,7 @@ Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, pr
 
 (2) The Attorney General shall, to the maximum extent possible, encourage the use of the best technology available in conducting background checks.
 
-**(d) Liability** A qualified entity shall not be liable in an action for damages solely for failure to conduct a criminal background check on a covered individual, nor shall a State or political subdivision thereof nor any agency, officer or employee thereof,,1 nor shall any designated entity nor any officer or employee thereof, be liable in an action for damages for the failure of a qualified entity (other than itself) to take action adverse to a covered individual who was the subject of a background check.
+**(d) Liability** A qualified entity shall not be liable in an action for damages solely for failure to conduct a criminal background check on a covered individual, nor shall a State or political subdivision thereof nor any agency, officer or employee thereof,,3 nor shall any designated entity nor any officer or employee thereof, be liable in an action for damages for the failure of a qualified entity (other than itself) to take action adverse to a covered individual who was the subject of a background check.
 
 **(e) Fees**
 
@@ -149,6 +149,8 @@ Pub. L. 103–322, title XXXII, § 320928(g), Sept. 13, 1994, 108 Stat. 2132, pr
 ### Statutory Notes
 
 #### References in Text
+The effective date of this subparagraph, referred to in subsec. (a)(3)(A), probably means the date of enactment of Pub. L. 115–141, which was approved Mar. 23, 2018.
+
 The Civil Rights Act of 1964, referred to in subsec. (b)(2)(C)(iv), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are in title II of Pub. L. 92–544, formerly set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as [section 41101 of this title](./chapter-411-access-to-criminal-history-and-identification-records.md#section-41101). For complete classification of this Act to the Code, see Tables.

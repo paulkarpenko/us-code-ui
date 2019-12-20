@@ -178,7 +178,7 @@ Enforcement functions of Secretary or other official in Department of Energy and
 #### Delegation of Functions
 Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
-#### Ex. Ord. No. 10485. Performance of Functions Respecting Electric Power and Natural Gas Facilities Located on United States Borders
+#### Ex. Ord. No. 10485. Providing for the Performance of Certain Functions Heretofore Performed by the President With Respect to Electric Power and Natural Gas Facilities Located on the Borders of the United States
 Ex. Ord. No. 10485. Sept. 3, 1953, 18 F.R. 5397, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, provided:
 
 Section 1. (a) The Secretary of Energy is hereby designated and empowered to perform the following-described functions:
@@ -419,7 +419,7 @@ Any State, municipality, or State commission complaining of anything done or omi
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under [section 6001 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section6001&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Study and Report on Natural Gas Pipeline and Storage Facilities in New England
-Pub. L. 107–355, § 26, Dec. 17, 2002, 116 Stat. 3012, provided that: “(a) Study.—The Federal Energy Regulatory Commission, in consultation with the Department of Energy, shall conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network. “(b) Consideration.—In carrying out the study, the Commission shall consider the ability of natural gas pipeline and storage facilities in New England to meet current and projected demand by gas-fired power generation plants and other consumers. “(c) Report.—Not later than 1 year after the date of enactment of this Act [Dec. 17, 2002], the Federal Energy Regulatory Commission shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report containing the results of the study conducted under subsection (a), including recommendations for addressing potential natural gas transmission and storage capacity problems in New England.”
+Pub. L. 107–355, § 26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, in consultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
 
 
 <a id="section-717n"></a>
@@ -799,7 +799,7 @@ For definitions of terms used in this section, see [section 2602 of Title 16](ht
 
 (12) The term “interstate commerce” has the same meaning as such term has under the Natural Gas Act.
 
-**(f) Coordination with this chapter**
+**(f) Coordination with the Natural Gas Act**
 
 (1) Consideration in any transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section shall be deemed just and reasonable for purposes of sections 4 and 5 of the Natural Gas Act [[15 U.S.C. 717c](./chapter-15b-natural-gas.md#section-717c), 717d] if such consideration does not exceed just compensation.
 

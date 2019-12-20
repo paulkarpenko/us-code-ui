@@ -174,6 +174,9 @@ Repeal effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out
 #### Codification
 Section 5651 was editorially reclassified as [section 11141 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11141&num=0&edition=prelim), Crime Control and Law Enforcement.
 
+#### Prior Provisions
+A prior section 5651, Pub. L. 93–415, title II, § 241, Sept. 7, 1974, 88 Stat. 1125; Pub. L. 95–115, §§ 3(a)(3)(A), (5), 5(a), (f), Oct. 3, 1977, 91 Stat. 1048, 1049, 1056, 1057; Pub. L. 96–509, § 19(j), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 631, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7259, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(1), Nov. 4, 1992, 106 Stat. 4994, related to the National Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+
 
 <a id="section-5652"></a>
 ## § 5652. Transferred
@@ -182,6 +185,9 @@ Section 5651 was editorially reclassified as [section 11141 of Title 34](https:/
 
 #### Codification
 Section 5652 was editorially reclassified as [section 11142 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11142&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+#### Prior Provisions
+A prior section 5652, Pub. L. 93–415, title II, § 242, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 100–690, title VII, § 7260, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(2), Nov. 4, 1992, 106 Stat. 4995, related to the information function of the Institute, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
 
 <a id="section-5653"></a>
@@ -192,6 +198,9 @@ Section 5652 was editorially reclassified as [section 11142 of Title 34](https:/
 #### Codification
 Section 5653 was editorially reclassified as [section 11143 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11143&num=0&edition=prelim), Crime Control and Law Enforcement.
 
+#### Prior Provisions
+A prior section 5653, Pub. L. 93–415, title II, § 243, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 95–115, §§ 3(a)(3)(B), 5(b), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 98–473, title II, § 632, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7261, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4995, related to research, demonstration, and evaluation, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+
 
 <a id="section-5654"></a>
 ## § 5654. Transferred
@@ -201,6 +210,9 @@ Section 5653 was editorially reclassified as [section 11143 of Title 34](https:/
 #### Codification
 Section 5654 was editorially reclassified as [section 11144 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11144&num=0&edition=prelim), Crime Control and Law Enforcement.
 
+#### Prior Provisions
+A prior section 5654, Pub. L. 93–415, title II, § 244, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(f), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(k), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 633, Oct. 12, 1984, 98 Stat. 2119; Pub. L. 100–690, title VII, § 7262, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4996; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(D)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to technical assistance and training functions, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+
 
 <a id="section-5655"></a>
 ## § 5655. Transferred
@@ -209,6 +221,13 @@ Section 5654 was editorially reclassified as [section 11144 of Title 34](https:/
 
 #### Codification
 Section 5655 was editorially reclassified as [section 11145 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11145&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+#### Prior Provisions
+A prior section 5655, Pub. L. 93–415, title II, § 245, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(c), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(l), Dec. 8, 1980, 94 Stat. 2765, provided for the functions of the Advisory Committee, prior to repeal by Pub. L. 98–473, title II, §§ 634, 670(a), Oct. 12, 1984, 98 Stat. 2119, 2129, effective Oct. 12, 1984.
+
+A prior section 245 of Pub. L. 93–415 was classified to [section 5659 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5659&num=0&edition=prelim) prior to repeal by Pub. L. 107–273.
+
+Another prior section 245 of Pub. L. 93–415 was classified to [section 5656 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5656) prior to repeal by Pub. L. 100–690.
 
 
 <a id="section-5656"></a>

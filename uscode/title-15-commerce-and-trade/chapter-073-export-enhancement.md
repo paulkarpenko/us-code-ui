@@ -216,9 +216,9 @@ The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96
 Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of section 2301 of Pub. L. 100–418 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
-2018—Subsec. (b)(9). Pub. L. 115–254, § 1470(d), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+2018—Subsec. (b)(9). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
 
-Subsec. (f). Pub. L. 115–254, § 1470(d), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in introductory provisions.
+Subsec. (f). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in introductory provisions.
 
 1992—Subsec. (b)(8), (9). Pub. L. 102–429, §§ 202, 203(a), added pars. (8) and (9).
 
@@ -587,7 +587,7 @@ Pub. L. 115–254, div. F, title VI, § 1470(e), (w), Oct. 5, 2018, 132 Stat. 35
 Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5823&num=0&edition=prelim) and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
-2018—Subsec. (d)(1)(K). Pub. L. 115–254, § 1470(e), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+2018—Subsec. (d)(1)(K). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
 
 2016—Subsec. (c)(7). Pub. L. 114–125, § 505(e)(1), added par. (7).
 

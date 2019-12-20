@@ -21,7 +21,7 @@ In this subtitle—
 
   (B) with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
 
-(2) “Coast Guard” means the organization established and continued under section 1 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+(2) “Coast Guard” means the organization established and continued under section 1 11 See References in Text note below. of title 14.
 
 (3) “Commandant” means the Commandant of the Coast Guard.
 
@@ -438,7 +438,9 @@ Section 2101(45) makes it clear that “vessel” as used in this subtitle has t
 Section 2101(46) defines “vessel of the United States” as a vessel that is documented or numbered under the laws of the United States. A documented vessel and those vessels that are numbered by a State or Federal authority are afforded the protection of the laws of the United States.
 
 #### References in Text
-Presidential Proclamation No. 5928, referred to in par. (17a), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+[Section 1 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1&num=0&edition=prelim), referred to in par. (2), was redesignated [section 101 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim) by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to [section 1 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+Presidential Proclamation No. 5928, referred to in par. (23), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 #### Amendments
 2018—Pub. L. 115–232 added undesignated par. defining “Commandant” after par. (4), substituted period for semicolon at end of par. (14), and redesignated pars. (1) to (48) as (1) to (54), respectively.
@@ -584,9 +586,6 @@ Par. (21)(B). Pub. L. 98–557, § 34(a)(1), inserted reference to a sailing sch
 Par. (21)(E). Pub. L. 98–364, § 402(1)(C), added subpar. (E).
 
 Par. (27). Pub. L. 98–557, § 34(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 1 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1&num=0&edition=prelim) redesignated [section 101 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim) by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to [section 1 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(9) is effective with the enactment of Pub. L. 111–281.
@@ -987,9 +986,9 @@ The Passenger Vessel Safety Act of 1993, referred to in par. (4), is Pub. L. 103
 #### Amendments
 2018—Par. (3). Pub. L. 115–232, § 3541(b)(6), substituted “section 2101(51)(A)” for “section 2101(42)(A)”.
 
-Par. (4). Pub. L. 115–232, § 3542(a), added par. (4) and struck out former par. (4) which related to establishing different structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons.
+Par. (4). Pub. L. 115–232, § 3542(a), added par. (4) and struck out former par. (4) which related to establishing different structural fire protection, manning, operating, and equipment requirements for vessels between 100 gross tons and 300 gross tons.
 
-Par. (5). Pub. L. 115–232, § 3542(a)(2), struck out par. (5) which related to establishing different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less than 500 gross tons.
+Par. (5). Pub. L. 115–232, § 3542(a)(2), struck out par. (5) which related to establishing different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States between 100 gross tons and 500 gross tons.
 
 1996—Par. (4). Pub. L. 104–324, § 710(1), inserted “as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)” after “less than 300 gross tons”.
 
@@ -1090,7 +1089,7 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
   (C) To improve the quality and effectiveness of marine safety information databases by ensuring that all Coast Guard personnel accurately and effectively report all safety, casualty, and injury information.
 
-  (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+  (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c) 11 See References in Text note below. of title 14.
 
 (2) **Resource needs.—** — The strategy and triennial plans shall include estimates of—
 
@@ -1118,6 +1117,9 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
 ### Statutory Notes
 
+#### References in Text
+[Section 93 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim), referred to in subsec. (b)(1)(D), was redesignated [section 504 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section504&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 93 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–265, § 214(1), substituted “of a triennial” for “each year of an annual” in introductory provisions.
 
@@ -1136,9 +1138,6 @@ Subsec. (d)(2). Pub. L. 115–265, § 214(4), substituted “triennially” for 
 2014—Subsec. (b)(1)(D). Pub. L. 113–281, § 307(a), substituted “[section 93(c) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93/c&num=0&edition=prelim)” for “section 93(c)”.
 
 Subsec. (d)(2)(B). Pub. L. 113–281, § 221(b)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and”.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 93 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim) redesignated [section 504 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section504&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 93 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Domestic Vessel Compliance
 Pub. L. 115–265, title II, § 204, Oct. 11, 2018, 132 Stat. 3745, provided that: “(a) In General.—Not later than 60 days after the date on which the President submits to the Congress a budget each year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Commandant [of the Coast Guard] shall publish on a publicly accessible Website information documenting domestic vessel compliance with the requirements of subtitle II of title 46, United States Code. “(b) Content.—The information required under subsection (a) shall—“(1) include flag-State detention rates for each type of inspected vessel; and “(2) identify any recognized organization that inspected or surveyed a vessel that was later subject to a Coast Guard-issued control action attributable to a major nonconformity that the recognized organization failed to identify in such inspection or survey.”

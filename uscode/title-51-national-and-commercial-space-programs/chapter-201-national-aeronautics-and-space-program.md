@@ -1012,7 +1012,11 @@ In subsection (i)(4), the words “Committee on Science and Technology” are su
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Availability of funds
-Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 431, provided that: “Funds for any announced prize otherwise authorized shall remain available, without fiscal year limitation, until a prize is claimed or the offer is withdrawn.”
+Pub. L. 116–6, div. C, title III, Feb. 15, 2019, 133 Stat. 123, provided in part that: “Funds for any announced prize otherwise authorized shall remain available, without fiscal year limitation, until a prize is claimed or the offer is withdrawn.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 431.
 
 #### Purpose
 Pub. L. 110–422, title XI, § 1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: “Prizes can play a useful role in encouraging innovation in the development of technologies and products that can assist NASA [National Aeronautics and Space Administration] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged.”
@@ -1082,6 +1086,8 @@ In subsection (g), the words “10 years after December 26, 2007” are substitu
 Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see [51 U.S.C. 20145](./chapter-201-national-aeronautics-and-space-program.md#section-20145)), all proceeds from leases entered into under that section shall be deposited into this account [funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of Pub. L. 113–6]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–6, div. C, title III, Feb. 15, 2019, 133 Stat. 123.
 
 Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 431.
 

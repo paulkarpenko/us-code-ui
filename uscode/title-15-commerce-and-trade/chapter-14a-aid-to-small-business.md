@@ -202,6 +202,8 @@ Pub. L. 97–35, title XIX, § 1918, Aug. 13, 1981, 95 Stat. 781, provided that:
 Pub. L. 96–302, title V, § 507, July 2, 1980, 94 Stat. 854, provided that: “This Act [enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section] shall take effect October 1, 1980.”
 
 #### Short Title of 2019 Amendment
+Pub. L. 116–70, § 1, Nov. 22, 2019, 133 Stat. 1145, provided that: “This Act [amending provisions set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636)] may be cited as the ‘Rebuilding Small Businesses After Disasters Act’.”
+
 Pub. L. 115–416, § 1, Jan. 3, 2019, 132 Stat. 5436, provided that: “This Act [amending [section 657b of this title](./chapter-14a-aid-to-small-business.md#section-657b)] may be cited as the ‘Veterans Small Business Enhancement Act of 2018’.”
 
 #### Short Title of 2018 Amendment
@@ -2673,7 +2675,7 @@ Pub. L. 103–403, title VI, § 613, Oct. 22, 1994, 108 Stat. 4205, directed Chi
 
 (2) counsel small businesses on how to resolve questions and problems concerning the relationship of the small business to the Federal Government;
 
-(3) develop proposals for changes in the policies and activities of any agency of the Federal Government which will better fulfill the purposes of this chapter and communicate such proposals to the appropriate Federal agencies;
+(3) develop proposals for changes in the policies and activities of any agency of the Federal Government which will better fulfill the purposes of the Small Business Act and communicate such proposals to the appropriate Federal agencies;
 
 (4) represent the views and interests of small businesses before other Federal agencies whose policies and activities may affect small business;
 
@@ -2732,6 +2734,9 @@ Pub. L. 103–403, title VI, § 613, Oct. 22, 1994, 108 Stat. 4205, directed Chi
   (C) *Avoidance of duplication* — The Chief Counsel for Advocacy shall, to the extent practicable, coordinate the submission of the report under this paragraph with the United States International Trade Commission, the United States Trade Representative, other agencies, and trade advisory committees to avoid unnecessary duplication of reporting requirements.
 
 ### Statutory Notes
+
+#### References in Text
+The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631) and Tables.
 
 #### Codification
 Section was not enacted as part of the Small Business Act which comprises this chapter.
@@ -4575,7 +4580,7 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 ### Statutory Notes
 
 #### Amendment of Subsection (d)(6)
-Pub. L. 114–88, div. B, title I, § 2102(b), Nov. 25, 2015, 129 Stat. 690, as amended by Pub. L. 115–280, § 1, Nov. 29, 2018, 132 Stat. 4190, provided that, effective on the date that is 4 years after Nov. 25, 2015, subsection (d)(6) of this section is amended in the third proviso by striking “$25,000” and inserting “$14,000” and by inserting “major” before “disaster”. See 2015 Amendment note below.
+Pub. L. 114–88, div. B, title I, § 2102(b), Nov. 25, 2015, 129 Stat. 690, as amended by Pub. L. 115–280, § 1, Nov. 29, 2018, 132 Stat. 4190; Pub. L. 116–70, § 2, Nov. 22, 2019, 133 Stat. 1145, provided that, effective on the date that is 7 years after Nov. 25, 2015, subsection (d)(6) of this section is amended in the third proviso by striking “$25,000” and inserting “$14,000” and by inserting “major” before “disaster”. See 2015 Amendment note below.
 
 #### References in Text
 Subsections (b) and (c) of [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631), referred to in subsecs. (a)(11) and (i)(1), were redesignated subsections (c) and (d), respectively, and a new subsection (b) was added by Pub. L. 100–418, title VIII, § 8002, Aug. 23, 1988, 102 Stat. 1553.
@@ -5421,7 +5426,7 @@ Subsec. (d). Pub. L. 87–305 empowered the Administration to make grants to any
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001. Previously, Select Committee on Small Business of Senate became Committee on Small Business of Senate. See Senate Resolution No. 101, Ninety-Seventh Congress, Mar. 25, 1981.
 
 #### Effective Date of 2015 Amendment
-Pub. L. 114–88, div. B, title I, § 2102(b), Nov. 25, 2015, 129 Stat. 690, as amended by Pub. L. 115–280, § 1, Nov. 29, 2018, 132 Stat. 4190, provided that the amendment made by section 2102(b) is effective on the date that is 4 years after Nov. 25, 2015.
+Pub. L. 114–88, div. B, title I, § 2102(b), Nov. 25, 2015, 129 Stat. 690, as amended by Pub. L. 115–280, § 1, Nov. 29, 2018, 132 Stat. 4190; Pub. L. 116–70, § 2, Nov. 22, 2019, 133 Stat. 1145, provided that the amendment made by section 2102(b) is effective on the date that is 7 years after Nov. 25, 2015.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -5962,87 +5967,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-636j"></a>
-## § 636j. Expedited disaster assistance loan program
-**(a) Definition** In this section, the term “program” means the expedited disaster assistance business loan program established under subsection (b).
-
-**(b) Creation of program** The Administrator shall take such administrative action as is necessary to establish and implement an expedited disaster assistance business loan program under which the Administration may, on an expedited basis, guarantee timely payment of principal and interest, as scheduled on any loan made to an eligible small business concern under paragraph (9) of [section 636(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b&num=0&edition=prelim), as added by this Act.
-
-**(c) Consultation required** In establishing the program, the Administrator shall consult with—
-
-(1) appropriate personnel of the Administration (including District Office personnel of the Administration);
-
-(2) appropriate technical assistance providers (including small business development centers);
-
-(3) appropriate lenders and credit unions;
-
-(4) the Committee on Small Business and Entrepreneurship of the Senate; and
-
-(5) the Committee on Small Business of the House of Representatives.
-
-**(d) Rules**
-
-(1) **In general** — Not later than 1 year after the date of enactment of this Act, the Administrator shall issue rules in final form establishing and implementing the program in accordance with this section. Such rules shall apply as provided for in this section, beginning 90 days after their issuance in final form.
-
-(2) **Contents** — The rules promulgated under paragraph (1) shall—
-
-  (A) identify whether appropriate uses of funds under the program may include—
-
-    (i) paying employees;
-
-    (ii) paying bills and other financial obligations;
-
-    (iii) making repairs;
-
-    (iv) purchasing inventory;
-
-    (v) restarting or operating a small business concern in the community in which it was conducting operations prior to the applicable major disaster, or to a neighboring area, county, or parish in the disaster area; or
-
-    (vi) covering additional costs until the small business concern is able to obtain funding through insurance claims, Federal assistance programs, or other sources; and
-
-  (B) set the terms and conditions of any loan made under the program, subject to paragraph (3).
-
-(3) **Terms and conditions** — A loan guaranteed by the Administration under this section—
-
-  (A) shall be for not more than $150,000;
-
-  (B) shall be a short-term loan, not to exceed 180 days, except that the Administrator may extend such term as the Administrator determines necessary or appropriate on a case-by-case basis;
-
-  (C) shall have an interest rate not to exceed 300 basis points above the interest rate established by the Board of Governors of the Federal Reserve System that 1 bank charges another for reserves that are lent on an overnight basis on the date the loan is made;
-
-  (D) shall have no prepayment penalty;
-
-  (E) may only be made to a borrower that meets the requirements for a loan under [section 636(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b&num=0&edition=prelim), as amended by this Act;
-
-  (F) may be refinanced as part of any subsequent disaster assistance provided under [section 636(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b&num=0&edition=prelim), as amended by this Act;
-
-  (G) may receive expedited loss verification and loan processing, if the applicant is—
-
-    (i) a major source of employment in the disaster area (which shall be determined in the same manner as under section 636(b)(3)(B) 11 So in original. Probably should be “636(b)(3)(E)”. of this title); or
-
-    (ii) vital to recovery efforts in the region (including providing debris removal services, manufactured housing, or building materials); and
-
-  (H) shall be subject to such additional terms as the Administrator determines necessary or appropriate.
-
-**(e) Report to Congress** Not later than 5 months after the date of enactment of this Act, the Administrator shall report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives on the progress of the Administrator in establishing the program.
-
-**(f) Authorization** There are authorized to be appropriated to the Administrator such sums as are necessary to carry out this section.
+## § 636j. Repealed. Pub. L. 116–6, div. D, title V, § 532, Feb. 15, 2019, 133 Stat. 180
 
 ### Statutory Notes
 
-#### References in Text
-Paragraph (9) of [section 636(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b&num=0&edition=prelim), as added by this Act, referred to in subsec. (b), is [section 636(b)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/9&num=0&edition=prelim), as added by Pub. L. 110–246.
-
-[Section 636(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b&num=0&edition=prelim), as amended by this Act, referred to in subsec. (d)(3)(E), (F), is [section 636(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b&num=0&edition=prelim), as amended by Pub. L. 110–246.
-
-The date of enactment of this Act, referred to in subsecs. (d)(1) and (e), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
-
-Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
-
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+Section, Pub. L. 110–234, title XII, § 12085, May 22, 2008, 122 Stat. 1421; Pub. L. 110–246, § 4(a), title XII, § 12085, June 18, 2008, 122 Stat. 1664, 2183, related to expedited disaster assistance loan program.
 
 
 <a id="section-636k"></a>
@@ -7581,7 +7510,7 @@ Pub. L. 111–240, title I, § 1321, Sept. 27, 2010, 124 Stat. 2540, provided th
 [For definitions of “Administrator” and “small business concern” as used in section 1321 of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under [section 632 of this title](./chapter-14a-aid-to-small-business.md#section-632).]
 
 #### Small Business Contracting Parity
-Pub. L. 111–240, title I, § 1347(a), (b), Sept. 27, 2010, 124 Stat. 2546, 2547, provided that: “(a) Definitions.—In this section—“(1) the terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively; and “(2) the terms ‘HUBZone small business concern’, ‘small business concern’, ‘small business concern owned and controlled by service-disabled veterans’, and ‘small business concern owned and controlled by women’ have the same meanings as in section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)). “(b) Contracting Improvements.—“(1) Contracting opportunities.—[Amended [section 657a of this title](./chapter-14a-aid-to-small-business.md#section-657a).] “(2) Contracting goals.—[Amended [section 644 of this title](./chapter-14a-aid-to-small-business.md#section-644).] “(3) Mentor-protege programs.—The Administrator may establish mentor-protege programs for small business concerns owned and controlled by service-disabled veterans, small business concerns owned and controlled by women, and HUBZone small business concerns modeled on the mentor-protege program of the Administration for small business concerns participating in programs under section 8(a) of the Small Business Act ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)).”
+Pub. L. 111–240, title I, § 1347(a), (b), Sept. 27, 2010, 124 Stat. 2546, 2547, provided that: “(a) Definitions.—In this section—“(1) the terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively; and “(2) the terms ‘HUBZone small business concern’, ‘small business concern’, ‘small business concern owned and controlled by service-disabled veterans’, and ‘small business concern owned and controlled by women’ have the same meanings as in section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)). “(b) Contracting Improvements.—“(1) Contracting opportunities.— [Amended [section 657a of this title](./chapter-14a-aid-to-small-business.md#section-657a).] “(2) Contracting goals.— [Amended [section 644 of this title](./chapter-14a-aid-to-small-business.md#section-644).] “(3) Mentor-protege programs.—The Administrator may establish mentor-protege programs for small business concerns owned and controlled by service-disabled veterans, small business concerns owned and controlled by women, and HUBZone small business concerns modeled on the mentor-protege program of the Administration for small business concerns participating in programs under section 8(a) of the Small Business Act ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)).”
 
 #### Increasing Number of Outreach Centers
 Pub. L. 110–186, title I, § 105, Feb. 14, 2008, 122 Stat. 626, provided that: “(a) In General.—The Administrator [of the Small Business Administration] shall use the authority in section 8(b)(17) of the Small Business Act ([15 U.S.C. 637(b)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/b/17&num=0&edition=prelim)) to ensure that the number of Veterans Business Outreach Centers throughout the United States increases—“(1) subject to subsection (b), by at least 2, for each of fiscal years 2008 and 2009; and “(2) by the number that the Administrator considers appropriate, based on need, for each fiscal year thereafter. “(b) Limitation.—Subsection (a)(1) shall apply in a fiscal year if, for that fiscal year, the amount made available for the Office of Veterans Business Development is more than the amount made available for the Office of Veterans Business Development for fiscal year 2007.”
@@ -9142,7 +9071,7 @@ Subsec. (gg)(7). Pub. L. 115–232, § 854(a)(2), substituted “2022” for “
 
 Subsec. (hh). Pub. L. 115–232, § 854(b)(1), designated existing provisions as par. (1), inserted heading, struck out “attempt to” before “shorten”, and added par. (2).
 
-Subsec. (ii). Pub. L. 115–232, § 854(b)(2), designated exisiting provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (ii). Pub. L. 115–232, § 854(b)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (jj)(4)(A). Pub. L. 115–232, § 854(a)(3)(A), substituted “4” for “3”.
 
@@ -9630,7 +9559,7 @@ Pub. L. 102–564, title II, § 202(d), Oct. 28, 1992, 106 Stat. 4260, provided 
 Pub. L. 102–564, title III, § 306, Oct. 28, 1992, 106 Stat. 4263, provided that: “(a) Purchase of American-Made Equipment and Products.—It is the sense of the Congress that an entity that is awarded a funding agreement under the SBIR program of a Federal agency under section 9 of the Small Business Act [[15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)] should, when purchasing any equipment or a product with funds provided through the funding agreement, purchase only American-made equipment and products, to the extent possible in keeping with the overall purposes of that program. “(b) Notice to SBIR Awardees.—Each Federal agency that awards funding agreements under the SBIR program shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
 
 #### Small Business Innovation Research Program in Department of Defense
-Pub. L. 102–484, div. D, title XLII, § 4237, Oct. 23, 1992, 106 Stat. 2691, provided that: “(a) Extension of Program.—[Amended section 5 of Pub. L. 97–219, formerly set out as a note above.] “(b) Limitation on Program Awards.—Amounts paid to a small business concern by the Department of Defense under the Small Business Innovation Research Program for a project—“(1) in phase I under the program may not exceed $100,000; and “(2) in phase II under the program may not exceed $750,000. “(c) Commercial Applications Strategy.—Not later than 270 days after the date of the enactment of this Act [Oct. 23, 1992], the Secretary of Defense, in consultation with the Administrator of the Small Business Administration, shall develop and issue a strategy for effectuating the transition of successful projects under the Small Business Innovation Research Program from phase II under the program into phase III under the program. “(d) Repeal of Exclusion of Certain Activities.—[Amended this section.] “(e) Percentage of Required Expenditures for SBIR Contracts.—(1) The Small Business Innovation Research Program shall apply to the Department of Defense (including the military departments) as if the percentage specified in section 9(f)(1) of the Small Business Act ([15 U.S.C. 638(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/f/1&num=0&edition=prelim)) with respect to fiscal years after fiscal year 1982 were determined in accordance with the table set forth in paragraph (2) (rather than 1.25 percent). “(2)(A) The percentage under section 9(f)(1) of the Small Business Act ([15 U.S.C. 638(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/f/1&num=0&edition=prelim)) for any fiscal year for the Department of Defense and each military department shall be determined in accordance with the following table: “For fiscal year:The percentage is: 1993 1.25 1994 1.5 1995 1.75 1996 2.0 1997 2.25 1998 and thereafter 2.5. “(B) If the determination of the Secretary of Defense under subparagraph (C) is a negative determination (as set forth in that paragraph), then the percentage under section 9(f)(1) of the Small Business Act ([15 U.S.C. 638(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/f/1&num=0&edition=prelim)) for the Department of Defense and each military department for fiscal years after fiscal year 1996 shall remain at the level applicable for fiscal year 1996 (notwithstanding the percentages specified in subparagraph (A) for fiscal years after fiscal year 1996). “(C) Not later than June 30, 1996, the Secretary of Defense during fiscal year 1996 shall determine whether there has been a demonstrable reduction in the quality of research performed under funding agreements awarded by the Department of Defense under the SBIR program since the beginning of fiscal year 1993 such that increasing the percentage under subparagraph (A) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department’s research programs. If the determination of the Secretary is that there has been such a demonstrable reduction in the quality of research such that increasing the percentage under subparagraph (B) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department’s research programs, the Secretary shall be considered for purposes of subparagraph (B) to have made a negative determination. The determination of the Secretary concerned under this paragraph shall be made after considering the assessment of the Comptroller General with respect to that department in the report transmitted under subparagraph (D). “(D) Not later than March 30, 1996, the Comptroller General shall transmit to the Congress and the Secretary of Defense a report setting forth the Comptroller General’s assessment, with respect to the Department of Defense of whether there has been a demonstrable reduction in the quality of research performed under funding agreements awarded by the department under the SBIR program since the beginning of fiscal year 1993 such that increasing the percentage under subparagraph (A) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department’s research programs. “(E) The results of each determination under subparagraph (C) shall be transmitted to the Congress not later than June 30, 1996. “(f) Definitions.—In this section:“(1) The term ‘Small Business Innovation Research Program’ means the program established under the following provisions of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)):“(A) Paragraphs (4) through (7) of subsection (b). “(B) Subsections (e) through (k). “(2) The term ‘phase I’, with respect to the Small Business Innovation Research Program, means the first phase described in subsection (e)(4)(A) of section 9 of the Small Business Act. “(3) The term ‘phase II’, with respect to the Small Business Innovation Research Program, means the second phase described in subsection (e)(4)(B) of such section. “(4) The term ‘phase III’, with respect to the Small Business Innovation Research Program, means the third phase described in subsection (e)(4)(C) of such section. “(g) Effective Date.—Subject to subsection (h), this section, and the amendments made by this section, shall take effect on October 1, 1992, and shall apply with respect to fiscal years after fiscal year 1992. “(h) Effectiveness of Section Conditional on Failure to Enact Other Legislation.—(1) In the event of the enactment of H.R. 4400 or S. 2941 [S. 2941 was enacted into law as Pub. L. 102–564 on Oct. 28, 1992], 102d Congress, on or before the date of the enactment of this Act [Oct. 23, 1992], then this section and the amendments made by this section shall not take effect. “(2)(A) In the event of the enactment of H.R. 4400 or S. 2941, 102d Congress, after the date of the enactment of this Act, then, effective immediately before the enactment of H.R. 4400 or S. 2941, 102d Congress—“(i) this section shall cease to be effective; and “(ii) the provisions of a small business law that are amended by this section shall be effective and read as such provisions of that law were in effect immediately before the enactment of this Act, except that to the extent that any amendment is made to such a provision of a small business law by any other provision of law referred to in subparagraph (B), such provision of a small business law shall be effective and shall read as amended by that other provision of law. “(B) For the purposes of subparagraph (A)(ii), a provision of law referred to in this subparagraph is the following:“(i) A provision of this Act other than a provision of this section. “(ii) A provision of any other Act if the provision takes effect during the period beginning on the date of the enactment of this Act and ending immediately before the enactment of H.R. 4400 or S. 2941, 102d Congress. “(C) In this paragraph, the term ‘small business law’ means—“(i) the Small Business Act ([15 U.S.C. 631](./chapter-14a-aid-to-small-business.md#section-631) et seq.); and “(ii) the Small Business Innovation Development Act of 1982 [Pub. L. 97–219] ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638) note).”
+Pub. L. 102–484, div. D, title XLII, § 4237, Oct. 23, 1992, 106 Stat. 2691, provided that: “(a) Extension of Program.— [Amended section 5 of Pub. L. 97–219, formerly set out as a note above.] “(b) Limitation on Program Awards.—Amounts paid to a small business concern by the Department of Defense under the Small Business Innovation Research Program for a project—“(1) in phase I under the program may not exceed $100,000; and “(2) in phase II under the program may not exceed $750,000. “(c) Commercial Applications Strategy.—Not later than 270 days after the date of the enactment of this Act [Oct. 23, 1992], the Secretary of Defense, in consultation with the Administrator of the Small Business Administration, shall develop and issue a strategy for effectuating the transition of successful projects under the Small Business Innovation Research Program from phase II under the program into phase III under the program. “(d) Repeal of Exclusion of Certain Activities.— [Amended this section.] “(e) Percentage of Required Expenditures for SBIR Contracts.—(1) The Small Business Innovation Research Program shall apply to the Department of Defense (including the military departments) as if the percentage specified in section 9(f)(1) of the Small Business Act ([15 U.S.C. 638(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/f/1&num=0&edition=prelim)) with respect to fiscal years after fiscal year 1982 were determined in accordance with the table set forth in paragraph (2) (rather than 1.25 percent). “(2)(A) The percentage under section 9(f)(1) of the Small Business Act ([15 U.S.C. 638(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/f/1&num=0&edition=prelim)) for any fiscal year for the Department of Defense and each military department shall be determined in accordance with the following table: “For fiscal year:The percentage is: 1993 1.25 1994 1.5 1995 1.75 1996 2.0 1997 2.25 1998 and thereafter 2.5. “(B) If the determination of the Secretary of Defense under subparagraph (C) is a negative determination (as set forth in that paragraph), then the percentage under section 9(f)(1) of the Small Business Act ([15 U.S.C. 638(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/f/1&num=0&edition=prelim)) for the Department of Defense and each military department for fiscal years after fiscal year 1996 shall remain at the level applicable for fiscal year 1996 (notwithstanding the percentages specified in subparagraph (A) for fiscal years after fiscal year 1996). “(C) Not later than June 30, 1996, the Secretary of Defense during fiscal year 1996 shall determine whether there has been a demonstrable reduction in the quality of research performed under funding agreements awarded by the Department of Defense under the SBIR program since the beginning of fiscal year 1993 such that increasing the percentage under subparagraph (A) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department’s research programs. If the determination of the Secretary is that there has been such a demonstrable reduction in the quality of research such that increasing the percentage under subparagraph (B) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department’s research programs, the Secretary shall be considered for purposes of subparagraph (B) to have made a negative determination. The determination of the Secretary concerned under this paragraph shall be made after considering the assessment of the Comptroller General with respect to that department in the report transmitted under subparagraph (D). “(D) Not later than March 30, 1996, the Comptroller General shall transmit to the Congress and the Secretary of Defense a report setting forth the Comptroller General’s assessment, with respect to the Department of Defense of whether there has been a demonstrable reduction in the quality of research performed under funding agreements awarded by the department under the SBIR program since the beginning of fiscal year 1993 such that increasing the percentage under subparagraph (A) for fiscal years after fiscal year 1996 with respect to the department would adversely affect the performance of the department’s research programs. “(E) The results of each determination under subparagraph (C) shall be transmitted to the Congress not later than June 30, 1996. “(f) Definitions.—In this section:“(1) The term ‘Small Business Innovation Research Program’ means the program established under the following provisions of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)):“(A) Paragraphs (4) through (7) of subsection (b). “(B) Subsections (e) through (k). “(2) The term ‘phase I’, with respect to the Small Business Innovation Research Program, means the first phase described in subsection (e)(4)(A) of section 9 of the Small Business Act. “(3) The term ‘phase II’, with respect to the Small Business Innovation Research Program, means the second phase described in subsection (e)(4)(B) of such section. “(4) The term ‘phase III’, with respect to the Small Business Innovation Research Program, means the third phase described in subsection (e)(4)(C) of such section. “(g) Effective Date.—Subject to subsection (h), this section, and the amendments made by this section, shall take effect on October 1, 1992, and shall apply with respect to fiscal years after fiscal year 1992. “(h) Effectiveness of Section Conditional on Failure to Enact Other Legislation.—(1) In the event of the enactment of H.R. 4400 or S. 2941 [S. 2941 was enacted into law as Pub. L. 102–564 on Oct. 28, 1992], 102d Congress, on or before the date of the enactment of this Act [Oct. 23, 1992], then this section and the amendments made by this section shall not take effect. “(2)(A) In the event of the enactment of H.R. 4400 or S. 2941, 102d Congress, after the date of the enactment of this Act, then, effective immediately before the enactment of H.R. 4400 or S. 2941, 102d Congress—“(i) this section shall cease to be effective; and “(ii) the provisions of a small business law that are amended by this section shall be effective and read as such provisions of that law were in effect immediately before the enactment of this Act, except that to the extent that any amendment is made to such a provision of a small business law by any other provision of law referred to in subparagraph (B), such provision of a small business law shall be effective and shall read as amended by that other provision of law. “(B) For the purposes of subparagraph (A)(ii), a provision of law referred to in this subparagraph is the following:“(i) A provision of this Act other than a provision of this section. “(ii) A provision of any other Act if the provision takes effect during the period beginning on the date of the enactment of this Act and ending immediately before the enactment of H.R. 4400 or S. 2941, 102d Congress. “(C) In this paragraph, the term ‘small business law’ means—“(i) the Small Business Act ([15 U.S.C. 631](./chapter-14a-aid-to-small-business.md#section-631) et seq.); and “(ii) the Small Business Innovation Development Act of 1982 [Pub. L. 97–219] ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638) note).”
 
 #### Use of Department of Agriculture Extramural Budget Funds in Small Business Innovation Research Program
 Pub. L. 99–500, § 101(a) [title VI, § 630], Oct. 18, 1986, 100 Stat. 1783, 1783–30, and Pub. L. 99–591, § 101(a) [title VI, § 630], Oct. 30, 1986, 100 Stat. 3341, 3341–30, provided that: “All funds appropriated for this fiscal year and all funds appropriated hereafter by this or any other Act that are determined to be part of the ‘extramural budget’ of the Department of Agriculture for any fiscal year for purposes of meeting the requirements of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as amended by the Small Business Innovation Development Act of 1982, Public Law 97–219, shall be available for contracts, grants or cooperative agreements with small business concerns for any purpose in furtherance of the small business innovation research program. Such funds may be transferred for such purpose from one appropriation to another or to a single account.”
@@ -11171,11 +11100,7 @@ Pub. L. 102–366, title III, § 321, Sept. 4, 1992, 106 Stat. 1006, provided th
 #### Small Business Competitiveness Demonstration Program
 Pub. L. 100–656, title VII, §§ 701–722, Nov. 15, 1988, 102 Stat. 3889–3895, as amended by Pub. L. 101–37, §§ 23–29, June 15, 1989, 103 Stat. 75, 76; Pub. L. 101–574, title II, § 243, Nov. 15, 1990, 104 Stat. 2827; Pub. L. 102–54, § 13(e), June 13, 1991, 105 Stat. 275; Pub. L. 102–366, title II, §§ 201–202(g), 203, Sept. 4, 1992, 106 Stat. 993–996; Pub. L. 102–484, div. A, title VIII, § 801(h)(9), Oct. 23, 1992, 106 Stat. 2446; Pub. L. 102–564, title III, § 307(a), Oct. 28, 1992, 106 Stat. 4263; Pub. L. 103–160, div. A, title VIII, § 850(2), Nov. 30, 1993, 107 Stat. 1726; Pub. L. 103–446, title XII, § 1202(a)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–208, div. D, title I, § 108(a)–(c)(1), Sept. 30, 1996, 110 Stat. 3009–732, 3009–733; Pub. L. 105–18, title II, § 2002, June 12, 1997, 111 Stat. 174; Pub. L. 105–135, title IV, §§ 401–405, Dec. 2, 1997, 111 Stat. 2616; Pub. L. 108–375, div. A, title VIII, § 821, Oct. 28, 2004, 118 Stat. 2016, known as the Small Business Competitiveness Demonstration Program Act of 1988, established a Small Business Competitiveness Demonstration Program, prior to repeal by Pub. L. 111–240, title I, § 1335(a), Sept. 27, 2010, 124 Stat. 2543.
 
-[Pub. L. 111–240, title I, § 1335(b), Sept. 27, 2010, 124 Stat. 2543, provided that: “The amendment made by this section [repealing sections 701–722 of Pub. L. 100–656, formerly set out above, and section 741 of Pub. L. 100–656, formerly set out below]—
-
-[“(1) shall take effect on the date of enactment of this Act [Sept. 27, 2010]; and
-
-[“(2) apply to the first full fiscal year after the date of enactment of this Act.”]
+[Pub. L. 111–240, title I, § 1335(b), Sept. 27, 2010, 124 Stat. 2543, provided that: “The amendment made by this section [repealing sections 701–722 of Pub. L. 100–656, formerly set out above, and section 741 of Pub. L. 100–656, formerly set out below]— [“(1) shall take effect on the date of enactment of this Act [Sept. 27, 2010]; and [“(2) apply to the first full fiscal year after the date of enactment of this Act.” ]
 
 #### Segmentation of Industry Category of Shipbuilding and Ship Repair
 Pub. L. 100–656, title VII, § 741, Nov. 15, 1988, 102 Stat. 3897, authorized the Small Business Administration to segment the industry category of shipbuilding and ship repair, prior to repeal by Pub. L. 111–240, title I, § 1335(a), Sept. 27, 2010, 124 Stat. 2543.
@@ -11906,7 +11831,7 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
   (B) *Accreditation requirement* — After September 30, 2000, the Administration may not renew or extend any cooperative agreement with a small business development center unless the center has been approved under the accreditation program conducted pursuant to this subsection, except that the Associate Administrator for Small Business Development Centers may waive such accreditation requirement, in the discretion of the Associate Administrator, upon a showing that the center is making a good faith effort to obtain accreditation.
 
-**(l) Contract authority** The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore 7 and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
+**(l) Contract authority** The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore 8 and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
 
 **(m) Prohibition on certain fees** A small business development center shall not impose or otherwise collect a fee or other compensation in connection with the provision of counseling services under this section.
 
@@ -15619,11 +15544,27 @@ Pub. L. 113–66, div. A, title XVI, § 1615, Dec. 26, 2013, 127 Stat. 950, prov
 
 (2) **Duties** — The Director shall be responsible for oversight of the lenders and participants described in subsection (b), including by conducting periodic reviews of the compliance and performance of such lenders and participants.
 
-**(d) Supervision duties for 7(a) lenders** With respect to 7(a) lenders, an employee of the Office shall—
+**(d) Supervision duties for 7(a) lenders**
 
-(1) be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and
+(1) **Reviews** — With respect to 7(a) lenders, an employee of the Office shall—
 
-(2) supervise any such review that is not conducted on the premise of the 7(a) lender.
+  (A) be present for and supervise any such review that is conducted by a contractor of the Office on the premise 11 So in original. Probably should be “premises”. of the 7(a) lender; and
+
+  (B) supervise any such review that is not conducted on the premise 1 of the 7(a) lender.
+
+(2) **Review report timeline**
+
+  (A) *In general* — Notwithstanding any other requirements of the Office or the Administrator, the Administrator shall develop and implement a review report timeline which shall—
+
+    (i) require the Administrator to—
+
+      (I) deliver a written report of the review to the 7(a) lender not later than 60 business days after the date on which the review is concluded; or
+
+      (II) if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and
+
+    (ii) if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report.
+
+  (B) *Extension* — The Administrator may extend the time frame described in subparagraph (A)(i)(II) with respect to a 7(a) lender as the Administrator determines necessary.
 
 **(e) Enforcement authority against 7(a) lenders**
 
@@ -15684,39 +15625,6 @@ Pub. L. 113–66, div. A, title XVI, § 1615, Dec. 26, 2013, 127 Stat. 950, prov
 (3) be maintained in an indexed form and made available for public review for a period of not less than 5 years beginning on the date of submission and justification.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 115–189, § 3(b), June 21, 2018, 132 Stat. 1495, provided that, effective Jan. 1, 2019, subsection (d) of this section is amended to read as follows:
-
-(d) Supervision duties for 7(a) lenders
-
-(1) Reviews
-
-With respect to 7(a) lenders, an employee of the Office shall—
-
-(A) be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and
-
-(B) supervise any such review that is not conducted on the premise of the 7(a) lender.
-
-(2) Review report timeline
-
-(A) In general
-
-Notwithstanding any other requirements of the Office or the Administrator, the Administrator shall develop and implement a review report timeline which shall—
-
-(i) require the Administrator to—
-
-(I) deliver a written report of the review to the 7(a) lender not later than 60 business days after the date on which the review is concluded; or
-
-(II) if the Administrator expects to submit the report after the end of the 60-day period described in clause (i), notify the 7(a) lender of the expected date of submission of the report and the reason for the delay; and
-
-(ii) if a response by the 7(a) lender is requested in a report submitted under subparagraph (A), require the 7(a) lender to submit responses to the Administrator not later than 45 business days after the date on which the 7(a) lender receives the report.
-
-(B) Extension
-
-The Administrator may extend the time frame described in subparagraph (A)(i)(II) with respect to a 7(a) lender as the Administrator determines necessary.
-
-See 2018 Amendment note below.
 
 #### Prior Provisions
 A prior section 2[47] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).

@@ -2,7 +2,7 @@
 title: 43
 chapter: '35'
 heading: FEDERAL LAND POLICY AND MANAGEMENT
-section_count: 66
+section_count: 68
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -46,7 +46,7 @@ This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct.
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to [section 21a of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section21a&num=0&edition=prelim), Mineral Lands and Mining.
 
 #### Short Title of 2018 Amendment
-Pub. L. 115–141, div. O, § 101, Mar. 23, 2018, 132 Stat. 1059, provided that: “This division [see Tables for classification] may be cited as the ‘Wildfire Suppression Funding and Forest Management Activities Act’.”
+Pub. L. 115–141, div. O, § 101(a), Mar. 23, 2018, 132 Stat. 1059, as amended by Pub. L. 116–6, § 7(2), Feb. 15, 2019, 133 Stat. 15, provided that: “This division [see Tables for classification] may be cited as the ‘Stephen Sepp Wildfire Suppression Funding and Forest Management Activities Act’.”
 
 #### Short Title of 2009 Amendment
 Pub. L. 111–88, div. A, title V, § 501, Oct. 30, 2009, 123 Stat. 2968, provided that: “This title [enacting sections 1748a and 1748b of this title] may be cited as the ‘Federal Land Assistance, Management, and Enhancement Act of 2009’ or ‘FLAME Act of 2009’.”
@@ -62,6 +62,9 @@ Pub. L. 94–579, title VII, § 701, Oct. 21, 1976, 90 Stat. 2786, provided that
 
 #### Severability
 Pub. L. 94–579, title VII, § 707, Oct. 21, 1976, 90 Stat. 2794, provided that: “If any provision of this Act [see Short Title note set out above] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
+
+#### References to Div. O of Pub. L. 115–141
+Pub. L. 115–141, div. O, § 101(b), Mar. 23, 2018, 132 Stat. 1059, as amended by Pub. L. 116–6, § 7(2), Feb. 15, 2019, 133 Stat. 15, provided that: “A reference to the Wildfire Suppression Funding and Forest Management Activities Act [div. O of Pub. L. 115–141, see Short Title of 2018 Amendment note above], including a reference in a regulation, order, or other law, is deemed to refer to the Stephen Sepp Wildfire Suppression Funding and Forest Management Activities Act.”
 
 #### Existing Rights-of-Way
 Pub. L. 94–579, title VII, § 706(b), Oct. 21, 1976, 90 Stat. 2794, provided that: “Nothing in section 706(a) [see Tables for classification], except as it pertains to rights-of-way, may be construed as affecting the authority of the Secretary of Agriculture under the Act of June 4, 1897 (30 Stat. 35, as amended, [16 U.S.C. 551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section551&num=0&edition=prelim)); the Act of July 22, 1937 (50 Stat. 525, as amended, [7 U.S.C. 1010–121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1010–121&num=0&edition=prelim)2); or the Act of September 3, 1954 (68 Stat. 1146, [43 U.S.C. 931c](./chapter-022-rights-of-way-and-other-easements-in-public-lands.md#section-931c)).”
@@ -721,6 +724,8 @@ Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321�
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 207.
+
 Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 637.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 437.
@@ -905,6 +910,75 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 ## § 1742. Search, rescue, and protection forces; emergency situations authorizing hiring
 
 Where in his judgment sufficient search, rescue, and protection forces are not otherwise available, the Secretary is authorized in cases of emergency to incur such expenses as may be necessary (a) in searching for and rescuing, or in cooperating in the search for and rescue of, persons lost on the public lands, (b) in protecting or rescuing, or in cooperating in the protection and rescue of, persons or animals endangered by an act of God, and (c) in transporting deceased persons or persons seriously ill or injured to the nearest place where interested parties or local authorities are located.
+
+
+<a id="section-1742a"></a>
+## § 1742a. Good Samaritan Search and Recovery Act
+**(a) Definitions** In this section:
+
+(1) **Eligible** — The term “eligible”, with respect to an organization or individual, means that the organization or individual, respectively, is—
+
+  (A) acting in a not-for-profit capacity; and
+
+  (B) composed entirely of members who, at the time of the good Samaritan search-and-recovery mission, have attained the age of majority under the law of the State where the mission takes place.
+
+(2) **Good samaritan search-and-recovery mission** — The term “good Samaritan search-and-recovery mission” means a search conducted by an eligible organization or individual for 1 or more missing individuals believed to be deceased at the time that the search is initiated.
+
+(3) **Secretary** — The term “Secretary” means the Secretary or the Secretary of Agriculture, as applicable.
+
+**(b) Process**
+
+(1) **In general** — Each Secretary shall develop and implement a process to expedite access to Federal land under the administrative jurisdiction of the Secretary for eligible organizations and individuals to request access to Federal land to conduct good Samaritan search-and-recovery missions.
+
+(2) **Inclusions** — The process developed and implemented under this subsection shall include provisions to clarify that—
+
+  (A) an eligible organization or individual granted access under this section—
+
+    (i) shall be acting for private purposes; and
+
+    (ii) shall not be considered to be a Federal volunteer;
+
+  (B) an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section shall not be considered to be a volunteer under [section 102301(c) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301/c&num=0&edition=prelim);
+
+  (C) chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”), shall not apply to an eligible organization or individual carrying out a privately requested good Samaritan search-and-recovery mission under this section; and
+
+  (D) chapter 81 of title 5 (commonly known as the “Federal Employees Compensation Act”), shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
+
+**(c) Release of Federal Government From liability** The Secretary shall not require an eligible organization or individual to have liability insurance as a condition of accessing Federal land under this section, if the eligible organization or individual—
+
+(1) acknowledges and consents, in writing, to the provisions described in subparagraphs (A) through (D) of subsection (b)(2); and
+
+(2) signs a waiver releasing the Federal Government from all liability relating to the access granted under this section and agrees to indemnify and hold harmless the United States from any claims or lawsuits arising from any conduct by the eligible organization or individual on Federal land.
+
+**(d) Approval and denial of requests**
+
+(1) **In general** — The Secretary shall notify an eligible organization or individual of the approval or denial of a request by the eligible organization or individual to carry out a good Samaritan search-and-recovery mission under this section by not later than 48 hours after the request is made.
+
+(2) **Denials** — If the Secretary denies a request from an eligible organization or individual to carry out a good Samaritan search-and-recovery mission under this section, the Secretary shall notify the eligible organization or individual of—
+
+  (A) the reason for the denial of the request; and
+
+  (B) any actions that the eligible organization or individual can take to meet the requirements for the request to be approved.
+
+**(e) Partnerships** Each Secretary shall develop search-and-recovery-focused partnerships with search-and-recovery organizations—
+
+(1) to coordinate good Samaritan search-and-recovery missions on Federal land under the administrative jurisdiction of the Secretary; and
+
+(2) to expedite and accelerate good Samaritan search-and-recovery mission efforts for missing individuals on Federal land under the administrative jurisdiction of the Secretary.
+
+**(f) Report** Not later than 180 days after March 12, 2019, the Secretaries shall submit to Congress a joint report describing—
+
+(1) plans to develop partnerships described in subsection (e)(1); and
+
+(2) efforts carried out to expedite and accelerate good Samaritan search-and-recovery mission efforts for missing individuals on Federal land under the administrative jurisdiction of each Secretary pursuant to subsection (e)(2).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+#### Definition of “Secretary”
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
 
 
 <a id="section-1743"></a>
@@ -1257,6 +1331,262 @@ Section was enacted as part of the Wildfire Suppression Funding and Forest Manag
 #### Codification
 Section was enacted as part of the Federal Land Assistance, Management, and Enhancement Act of 2009, also known as the FLAME Act of 2009, and also as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
+#### Ex. Ord. No. 13855. Promoting Active Management of America’s Forests, Rangelands, and Other Federal Lands To Improve Conditions and Reduce Wildfire Risk
+Ex. Ord. No. 13855, Dec. 21, 2018, 84 F.R. 45, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of the United States to protect people, communities, and watersheds, and to promote healthy and resilient forests, rangelands, and other Federal lands by actively managing them through partnerships with States, tribes, communities, non-profit organizations, and the private sector. For decades, dense trees and undergrowth have amassed in these lands, fueling catastrophic wildfires. These conditions, along with insect infestation, invasive species, disease, and drought, have weakened our forests, rangelands, and other Federal lands, and have placed communities and homes at risk of damage from catastrophic wildfires.
+
+Active management of vegetation is needed to treat these dangerous conditions on Federal lands but is often delayed due to challenges associated with regulatory analysis and current consultation requirements. In addition, land designations and policies can reduce emergency responder access to Federal land and restrict management practices that can promote wildfire-resistant landscapes. With the same vigor and commitment that characterizes our efforts to fight wildfires, we must actively manage our forests, rangelands, and other Federal lands to improve conditions and reduce wildfire risk.
+
+In recognition of these regulatory, policy, and coordinating challenges, the Secretary of the Interior and the Secretary of Agriculture (the Secretaries) each shall implement the following policies in their respective departments:
+
+(a) Shared Management Priorities. The goal of Federal fire management policy for forests, rangelands, and other Federal lands shall be to agree on a set of shared priorities with Federal land managers, States, tribes, and other landowners to manage fire risk across landscapes.
+
+(b) Coordinating Federal, State, Tribal, and Local Assets. Wildfire prevention and suppression and post-wildfire restoration require a variety of assets and skills across landscapes. Federal, State, tribal, and local governments should coordinate the deployment of appropriate assets and skills to restore our landscapes and communities after damage caused by fires and to help reduce hazardous fuels through active forest management in order to protect communities, critical infrastructure, and natural and cultural resources.
+
+(c) Removing Hazardous Fuels, Increasing Active Management, and Supporting Rural Economies. Post-fire assessments show that reducing vegetation through hazardous fuel management and strategic forest health treatments is effective in reducing wildfire severity and loss. Actions must be taken across landscapes to prioritize treatments in order to enhance fuel reduction and forest-restoration projects that protect life and property, and to benefit rural economies through encouraging utilization of the by-products of forest restoration.
+
+Sec. 2. Goals. (a) To protect communities and watersheds, to better prevent catastrophic wildfires, and to improve the health of America’s forests, rangelands, and other Federal lands, the Secretaries shall each develop goals and implementation plans for wildfire prevention activities and programs in their respective departments. In the development of such goals and plans:
+
+(i) The Secretary of the Interior shall review the Secretary’s 2019 budget justifications and give all due consideration to establishing the following objectives for 2019, as feasible and appropriate in light of those budget justifications, and consistent with applicable law and available appropriations:
+
+(A) Treating 750,000 acres of Department of the Interior (DOI)-administered lands to reduce fuel loads;
+
+(B) Treating 500,000 acres of DOI-administered lands to protect water quality and mitigate severe flooding and erosion risks arising from forest fires;
+
+(C) Treating 750,000 acres of DOI-administered lands for native and invasive species;
+
+(D) Reducing vegetation giving rise to wildfire conditions through forest health treatments by increasing health treatments as part of DOI’s offering for sale 600 million board feet of timber from DOI-administered lands; and
+
+(E) Performing maintenance on public roads needed to provide access for emergency services and restoration work; and
+
+(ii) The Secretary of Agriculture shall review the Secretary’s 2019 budget justifications and give all due consideration to establishing the following objectives for 2019, as feasible and appropriate in light of those budget justifications, and consistent with applicable law and available appropriations:
+
+(A) Treating 3.5 million acres of Department of Agriculture (USDA) Forest Service (FS) lands to reduce fuel load;
+
+(B) Treating 2.2 million acres of USDA FS lands to protect water quality and mitigate severe flooding and erosion risks arising from forest fires;
+
+(C) Treating 750,000 acres of USDA FS lands for native and invasive species;
+
+(D) Reducing vegetation giving rise to wildfire conditions through forest health treatments by increasing health treatments as part of USDA’s offering for sale at least 3.8 billion board feet of timber from USDA FS lands; and
+
+(E) Performing maintenance on roads needed to provide access on USDA FS lands for emergency services and restoration work.
+
+(b) For the years following establishment of the objectives in subsection (a) of this section, the Secretaries shall consider annual treatment objectives that meet or exceed those established in subsection (a) of this section, using the full range of available and appropriate management tools, including prescribed burns and mechanical thinning. The Secretaries shall also refine and develop performance metrics to better capture the risk reduction benefits achieved through application of these management tools.
+
+(c) In conjunction with establishment of goals, and by no later than March 31, 2019, the Secretaries shall identify salvage and log recovery options from lands damaged by fire during the 2017 and 2018 fire seasons, insects, or disease.
+
+Sec. 3. Coordination and Efficient Processes. Effective Federal agency coordination and efficient administrative actions and decisions are essential to improving the condition of America’s forests, rangelands, and other Federal lands. To advance the policies set forth in this order and the goals set by the Secretaries, the Secretaries shall:
+
+(a) Coordinate with the heads of all relevant Federal agencies to prioritize and promptly implement post-wildfire rehabilitation, salvage, and forest restoration;
+
+(b) Streamline agency administrative and regulatory processes and policies relating to fuel reduction in forests, rangelands, and other Federal lands and forest restoration when appropriate by:
+
+(i) Adhering to minimum statutory and regulatory time periods, to the maximum extent practicable, for comment, consultation, and administrative review processes related to active management of forests, rangelands, and other Federal lands, including management of wildfire risks;
+
+(ii) Using all applicable categorical exclusions set forth in law or regulation for fire management, restoration, and other management projects in forests, rangelands, and other Federal lands when implementing the requirements of the National Environmental Policy Act [of 1969] ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
+
+(iii) Consistent with applicable law, developing and using new categorical exclusions to implement active management of forests, rangelands, and other Federal lands; and
+
+(iv) Immediately prioritizing efforts to reduce the time required to comply with consultation obligations under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.).
+
+Sec. 4. Unmanned Aerial Systems. To reduce fire and forest health risks as described in section 1 of this order, the Secretaries shall, in coordination with the Administrator of the Federal Aviation Administration, maximize appropriate use of unmanned aerial systems to accelerate forest management and support firefighting and post-fire rehabilitation in forests, rangelands, and other Federal lands.
+
+Sec. 5. Wildfire Strategy. (a) In collaboration with Federal, State, tribal, and local partners, the Secretaries shall jointly develop, by December 31, 2020, a strategy to support local Federal land managers in project decision-making and inform local fire management decisions related to forests, rangelands, and other Federal lands, thereby protecting habitats and communities, and reducing risks to physical infrastructure.
+
+(b) In developing the strategy described in subsection (a) of this section, the Secretaries shall:
+
+(i) Identify DOI- and USDA FS-administered lands with the highest probability of catastrophic wildfires, as well as areas on those lands where there is a high probability that wildfires would threaten people, structures, or other high-value assets, in order to direct and prioritize actions to meet land management goals and to protect communities;
+
+(ii) Examine the costs and challenges relating to management of DOI- and USDA FS-administered lands, including costs associated with wildfire suppression, implementation of applicable statutory requirements, and litigation;
+
+(iii) Review land designations and policies that may limit active forest management and increase the risk of catastrophic wildfires;
+
+(iv) Consider market conditions as appropriate when preparing timber sales, including biomass and biochar opportunities, and encourage export of these or similar forest-treatment products to the maximum extent permitted by law, in order to promote active forest management, mitigate wildfire risk, and encourage post-fire forest restoration;
+
+(v) Develop recommended actions and incentives to expand uses, markets, and utilization of forest products resulting from restoration and fuel reduction projects in forests, rangelands, and other Federal lands, including biomass and small-diameter materials;
+
+(vi) Assess how effectively Federal programs and investments support forest-product infrastructure and market access;
+
+(vii) Identify and assess methods, including methods undertaken pursuant to section 3(b)(iv) of this order, to more effectively and efficiently streamline consultation under the Endangered Species Act;
+
+(viii) In conjunction with the Administrator of the Environmental Protection Agency, identify methods to reduce interagency regulatory barriers, improve alignment of Federal, State, and tribal policy, and identify redundant policies and procedures to promote efficiencies in implementing the Clean Water Act of 1972 [also known as the Federal Water Pollution Control Act] ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.), Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), and other applicable Federal environmental laws; and
+
+(ix) Develop procedures and guidance to facilitate timely compliance with the National Environmental Policy Act.
+
+Sec. 6. Collaborative Partnerships. To reduce fuel loads, restore watersheds, and improve forest, rangeland, and other Federal land conditions, and to utilize available expertise and efficiently deploy resources, the Secretaries shall expand collaboration with States, tribes, communities, non-profit organizations, and the private sector. Such expanded collaboration by the Secretaries shall, at a minimum, address:
+
+(a) Supporting road activities needed to maintain forest, rangeland, and other Federal land health and to mitigate wildfire risk by expanding existing or entering into new Good Neighbor Authority agreements, consistent with applicable law; and
+
+(b) Achieving the land management restoration goals set forth in section 2 of this order and reducing fuel loads by pursuing long-term stewardship contracts, including 20-year contracts, with States, tribes, non-profit organizations, communities, and the private sector, consistent with applicable law.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+
+<a id="section-1748b-1"></a>
+## § 1748b–1. Wildfire Technology Modernization
+**(a) Purpose** The purpose of this section is to promote the use of the best available technology to enhance the effective and cost-efficient response to wildfires—
+
+(1) to meet applicable protection objectives; and
+
+(2) to increase the safety of—
+
+  (A) firefighters; and
+
+  (B) the public.
+
+**(b) Definitions** In this section:
+
+(1) **Secretaries** — The term “Secretaries” means—
+
+  (A) the Secretary of Agriculture; and
+
+  (B) the Secretary.
+
+(2) **Secretary concerned** — The term “Secretary concerned” means—
+
+  (A) the Secretary of Agriculture, with respect to activities under the Department of Agriculture; and
+
+  (B) the Secretary, with respect to activities under the Department of the Interior.
+
+**(c) Unmanned aircraft systems**
+
+(1) **Definitions** — In this subsection, the terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
+
+(2) **Establishment of program** — Not later than 180 days after March 12, 2019, the Secretary, in consultation with the Secretary of Agriculture, shall establish a research, development, and testing program, or expand an applicable existing program, to assess unmanned aircraft system technologies, including optionally piloted aircraft, across the full range of wildland fire management operations in order to accelerate the deployment and integration of those technologies into the operations of the Secretaries.
+
+(3) **Expanding use of unmanned aircraft systems on wildfires** — In carrying out the program established under paragraph (2), the Secretaries, in coordination with the Federal Aviation Administration, State wildland firefighting agencies, and other relevant Federal agencies, shall enter into an agreement under which the Secretaries shall develop consistent protocols and plans for the use on wildland fires of unmanned aircraft system technologies, including for the development of real-time maps of the location of wildland fires.
+
+**(d) Location systems for wildland firefighters**
+
+(1) **In general** — Not later than 2 years after March 12, 2019, subject to the availability of appropriations, the Secretaries, in coordination with State wildland firefighting agencies, shall jointly develop and operate a tracking system (referred to in this subsection as the “system”) to remotely locate the positions of fire resources for use by wildland firefighters, including, at a minimum, any fire resources assigned to Federal type 1 wildland fire incident management teams.
+
+(2) **Requirements** — The system shall—
+
+  (A) use the most practical and effective technology available to the Secretaries to remotely track the location of an active resource, such as a Global Positioning System;
+
+  (B) depict the location of each fire resource on the applicable maps developed under subsection (c)(3);
+
+  (C) operate continuously during the period for which any firefighting personnel are assigned to the applicable Federal wildland fire; and
+
+  (D) be subject to such terms and conditions as the Secretary concerned determines necessary for the effective implementation of the system.
+
+(3) **Operation** — The Secretary concerned shall—
+
+  (A) before commencing operation of the system—
+
+    (i) conduct not fewer than 2 pilot projects relating to the operation, management, and effectiveness of the system; and
+
+    (ii) review the results of those pilot projects;
+
+  (B) conduct training, and maintain a culture, such that an employee, officer, or contractor shall not rely on the system for safety; and
+
+  (C) establish procedures for the collection, storage, and transfer of data collected under this subsection to ensure—
+
+    (i) data security; and
+
+    (ii) the privacy of wildland fire personnel.
+
+**(e) Wildland fire decision support**
+
+(1) **Protocol** — To the maximum extent practicable, the Secretaries shall ensure that wildland fire management activities conducted by the Secretaries, or conducted jointly by the Secretaries and State wildland firefighting agencies, achieve compliance with applicable incident management objectives in a manner that—
+
+  (A) minimizes firefighter exposure to the lowest level necessary; and
+
+  (B) reduces overall costs of wildfire incidents.
+
+(2) **Wildfire decision support system**
+
+  (A) *In general* — The Secretaries, in coordination with State wildland firefighting agencies, shall establish a system or expand an existing system to track and monitor decisions made by the Secretaries or State wildland firefighting agencies in managing wildfires.
+
+  (B) *Components* — The system established or expanded under subparagraph (A) shall be able to alert the Secretaries if—
+
+    (i) unusual costs are incurred;
+
+    (ii) an action to be carried out would likely—
+
+      (I) endanger the safety of a firefighter; or
+
+      (II) be ineffective in meeting an applicable suppression or protection goal; or
+
+    (iii) a decision regarding the management of a wildfire deviates from—
+
+      (I) an applicable protocol established by the Secretaries, including the requirement under paragraph (1); or
+
+      (II) an applicable spatial fire management plan or fire management plan of the Secretary concerned.
+
+**(f) Smoke projections from active wildland fires** The Secretaries shall establish a program, to be known as the “Interagency Wildland Fire Air Quality Response Program”, under which the Secretary concerned—
+
+(1) to the maximum extent practicable, shall assign 1 or more air resource advisors to a type 1 incident management team managing a Federal wildland fire; and
+
+(2) may assign 1 or more air resource advisors to a type 2 incident management team managing a wildland fire.
+
+**(g) Omitted**
+
+**(h) Rapid response erosion database**
+
+(1) **In general** — The Secretaries, in consultation with the Administrator of the National Aeronautics and Space Administration and the Secretary of Commerce, shall establish and maintain a database, to be known as the “Rapid Response Erosion Database” (referred to in this subsection as the “Database”).
+
+(2) **Open-source database**
+
+  (A) *Availability* — The Secretaries shall make the Database (including the original source code)—
+
+    (i) web-based; and
+
+    (ii) available without charge.
+
+  (B) *Components* — To the maximum extent practicable, the Database shall provide for—
+
+    (i) the automatic incorporation of spatial data relating to vegetation, soils, and elevation into an applicable map created by the Secretary concerned that depicts the changes in land-cover and soil properties caused by a wildland fire; and
+
+    (ii) the generation of a composite map that can be used by the Secretary concerned to model the effectiveness of treatments in the burned area to prevent flooding, erosion, and landslides under a range of weather scenarios.
+
+(3) **Use** — The Secretary concerned shall use the Database, as applicable, in developing recommendations for emergency stabilization treatments or modifications to drainage structures to protect values-at-risk following a wildland fire.
+
+(4) **Coordination** — The Secretaries may share the Database, and any results generated in using the Database, with any State or unit of local government.
+
+**(i) Predicting where wildfires will start**
+
+(1) **In general** — The Secretaries, in consultation with the Administrator of the National Aeronautics and Space Administration, the Secretary of Energy, and the Secretary of Commerce, through the capabilities and assets located at the National Laboratories, shall establish and maintain a system to predict the locations of future wildfires for fire-prone areas of the United States.
+
+(2) **Cooperation; components** — The system established under paragraph (1) shall be based on, and seek to enhance, similar systems in existence on March 12, 2019, including the Fire Danger Assessment System.
+
+(3) **Use in forecasts** — Not later than 1 year after March 12, 2019, the Secretaries shall use the system established under paragraph (1), to the maximum extent practicable, for purposes of developing any wildland fire potential forecasts.
+
+(4) **Coordination** — The Secretaries may share the system established under paragraph (1), and any results generated in using the system, with any State or unit of local government.
+
+**(j) Termination of authority** The authority provided by this section terminates on the date that is 10 years after March 12, 2019.
+
+**(k) Savings clause** Nothing in this section—
+
+(1) requires the Secretary concerned to establish a new program, system, or database to replace an existing program, system, or database that meets the objectives of this section; or
+
+(2) precludes the Secretary concerned from using existing or future technology that—
+
+  (A) is more efficient, safer, or better meets the needs of firefighters, other personnel, or the public; and
+
+  (B) meets the objectives of this section.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 1114 of Pub. L. 116–9. Subsec. (g) of section 1114 of Pub. L. 116–9 amended [section 2208 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2208&num=0&edition=prelim), Commerce and Trade.
+
+#### Definition of “Secretary”
+“Secretary” as meaning the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under [section 1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim), Conservation.
+
 
 <a id="section-1748c"></a>
 ## § 1748c. Bureau of Land Management Foundation
@@ -1516,7 +1846,7 @@ Not later than 180 days after December 20, 2018, and every year thereafter, the 
 #### Codification
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 
@@ -1544,9 +1874,11 @@ Subsec. (b)(2) of this section is comprised of second and third sentences of sec
 1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50 per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
 #### Credit on Grazing Fee for Approved Conservation Practices
-Pub. L. 115–141, div. G, title III, Mar. 23, 2018, 132 Stat. 671, provided in part: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred. And, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary.”
+Pub. L. 116–6, div. E, title III, Feb. 15, 2019, 133 Stat. 242, provided that: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred. And, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary.”
 
 Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 115–141, div. G, title III, Mar. 23, 2018, 132 Stat. 671.
 
 Pub. L. 115–31, div. G, title III, May 5, 2017, 131 Stat. 477.
 
@@ -1896,7 +2228,7 @@ Section 606 of the Repack Airwaves Yielding Better Access for Users of Modern Se
 #### Codification
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
-#### Definitions
+#### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 

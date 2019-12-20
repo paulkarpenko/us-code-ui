@@ -132,7 +132,7 @@ Minor changes were made in phraseology.
 
 (2) **Congressional medal of honor defined.—** — In this subsection, the term “Congressional Medal of Honor” means—
 
-  (A) a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
+  (A) a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 11 See References in Text note below. of title 14;
 
   (B) a duplicate medal of honor issued under section 7284, 8306, or 9284 of title 10 or section 504 1 of title 14; or
 
@@ -155,6 +155,9 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 This section [section 16] clarifies the wording of [section 704 of title 18](./chapter-033-emblems-insignia-and-names.md#section-704), U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch of such forces. (See note to sec. 5 [of 1949 Act, set out in Legislative History note under [section 244 of title 18](./chapter-013-civil-rights.md#section-244)]).
+
+#### References in Text
+Sections 491, 501, and 504 of title 14, referred to in subsec. (c)(2), were redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
 2018—Subsec. (c)(2)(A). Pub. L. 115–232, § 809(e)(1)(A)(i), substituted “section 7271, 8291, or 9271 of title 10” for “section 3741, 6241, or 8741 of title 10”.
@@ -202,7 +205,7 @@ Subsec. (b)(2)(B). Pub. L. 103–442 inserted “, 6241, or 8741” after “374
 1949—Act May 24, 1949, covered all service decorations awarded members of the armed forces by any of the armed services.
 
 #### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-Sections 491, 501, and 504 of title 14 redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignatedsections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+Sections 491, 501, and 504 of title 14 redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.

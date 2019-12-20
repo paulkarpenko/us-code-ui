@@ -82,9 +82,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1361&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
-A prior section 8754 was renumbered [section 9284 of this title](./chapter-937-decorations-and-awards.md#section-9284).
-
-Prior sections 8755 and 8756 were renumbered sections 9285 and 9286 of this title.
+Prior sections 8754 to 8756 were renumbered sections 9284 to 9286 of this title, respectively.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7524 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7524&num=0&edition=prelim) as this section.

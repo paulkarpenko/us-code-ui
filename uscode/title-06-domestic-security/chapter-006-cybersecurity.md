@@ -118,7 +118,7 @@ Pub. L. 114–113, div. N, § 1(a), Dec. 18, 2015, 129 Stat. 2935, provided that
 
 Pub. L. 114–113, div. N, title I, § 101, Dec. 18, 2015, 129 Stat. 2936, provided that: “This title [enacting this subchapter] may be cited as the ‘Cybersecurity Information Sharing Act of 2015’.”
 
-Pub. L. 114–113, div. N, title II, § 221, Dec. 18, 2015, 129 Stat. 2963, provided that: “This subtitle [subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, enacting subchapter II of this chapter and sections 149 and 151 of this title, amending sections 148, 149, and 150 of this title and sections 3553 and 3554 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under [section 151 of this title](./chapter-001-homeland-security-organization.md#section-151)] may be cited as the ‘Federal Cybersecurity Enhancement Act of 2015’.”
+Pub. L. 114–113, div. N, title II, § 221, Dec. 18, 2015, 129 Stat. 2963, provided that: “This subtitle [subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, enacting subchapter II of this chapter and sections 149 and 151 of this title, amending sections 148, 149, and 150 of this title and sections 3553 and 3554 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under [section 151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151&num=0&edition=prelim)] may be cited as the ‘Federal Cybersecurity Enhancement Act of 2015’.”
 
 
 <a id="section-1502"></a>
@@ -692,9 +692,9 @@ In this subchapter:
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 #### Amendments
-2018—Par. (2). Pub. L. 115–278, § 2(h)(1)(D)(i), substituted “[section 660 of this title](./chapter-001-homeland-security-organization.md#section-660)” for “[section 149 of this title](./chapter-001-homeland-security-organization.md#section-149)”.
+2018—Par. (2). Pub. L. 115–278, § 2(h)(1)(D)(i), substituted “[section 660 of this title](./chapter-001-homeland-security-organization.md#section-660)” for “[section 149 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section149&num=0&edition=prelim), as added by section 223(a)(4) of this division”.
 
-Par. (4). Pub. L. 115–278, § 2(h)(1)(D)(ii), substituted “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)” for “[section 148 of this title](./chapter-001-homeland-security-organization.md#section-148)”.
+Par. (4). Pub. L. 115–278, § 2(h)(1)(D)(ii), substituted “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)” for “[section 148 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim), as so redesignated by section 223(a)(3) of this division”.
 
 
 <a id="section-1522"></a>
@@ -864,9 +864,9 @@ Subsec. (c)(1)(A)(vi). Pub. L. 115–278, § 2(h)(1)(F)(ii), substituted “sect
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(G)(i), substituted “[section 663 of this title](./chapter-001-homeland-security-organization.md#section-663)” for “[section 151 of this title](./chapter-001-homeland-security-organization.md#section-151)”.
+2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(G)(i), substituted “[section 663 of this title](./chapter-001-homeland-security-organization.md#section-663)” for “[section 151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151&num=0&edition=prelim), as added by section 223(a)(6) of this division,”.
 
-Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “[section 663(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/d/2&num=0&edition=prelim)” for “[section 151(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/d/2&num=0&edition=prelim)”.
+Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “[section 663(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/d/2&num=0&edition=prelim)” for “[section 151(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/d/2&num=0&edition=prelim), as added by section 223(a)(6) of this division,”.
 
 
 <a id="section-1531"></a>
@@ -939,7 +939,7 @@ Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “[section 663(d
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(H), substituted “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)” for “[section 148 of this title](./chapter-001-homeland-security-organization.md#section-148)” and “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
+2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(H), substituted “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)” for “[section 148 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim), as redesignated by section 223(a)(3) of this division,” and “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
 
 Subsec. (b). Pub. L. 115–278, § 2(h)(1)(H)(ii), substituted “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
 

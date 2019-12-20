@@ -84,15 +84,15 @@ In this subtitle, the term “commercial component” means a component that is 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(A), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 102 | 41:259(c)(13). | June 30, 1949, ch. 288, title III, § 309(c)(13), as added Pub. L. 98–369, title VII, § 2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, § 504(a)(4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1551, Oct. 13, 1994, 108 Stat. 3299. |
 |  | 41:264a (“commercial component”). | June 30, 1949, ch. 288, title III, § 314A (“commercial component”), as added Pub. L. 103–355, title VIII, § 8202, Oct. 13, 1994, 108 Stat. 3394. |
 |  | 41:403(15). | Pub. L. 93–400, § 4(15), as added Pub. L. 103–355, title VIII, § 8001(a), Oct. 13, 1994, 108 Stat. 3386. |
-
-#### Amendment of Section
-Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(A), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Pub. L. 115–232 substituted “commercial product” for “commercial item”.
@@ -140,13 +140,6 @@ In this subtitle, the term “commercial item” means—
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103 | 41:259(c)(11). | June 30, 1949, ch. 288, title III, § 309(c)(11), as added Pub. L. 98–369, title VII, § 2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, § 504(a)(4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1551, Oct. 13, 1994, 108 Stat. 3299. |
-|  | 41:264a (“commercial item”). | June 30, 1949, ch. 288, title III, § 314A (“commercial item”), as added Pub. L. 103–355, title VIII, § 8202, Oct. 13, 1994, 108 Stat. 3394. |
-|  | 41:403(12). | Pub. L. 93–400, § 4(12), as added Pub. L. 103–355, title VIII, § 8001(a), Oct. 13, 1994, 108 Stat. 3385; Pub. L. 104–106, title XLII, § 4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, title VIII, § 805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, title XIV, § 1433, Nov. 24, 2003, 117 Stat. 1673. |
-
 #### Repeal and Reenactment of Section
 Pub. L. 115–232, div. A, title VIII, § 836(a)(1), (h), Aug. 13, 2018, 132 Stat. 1859, 1874, provided that, effective Jan. 1, 2020, subject to savings provision, this section is repealed and a new section 103 is enacted to read as follows: § 103. Commercial product In this subtitle, the term “commercial product” means any of the following:
 
@@ -177,6 +170,13 @@ Pub. L. 115–232, div. A, title VIII, § 836(a)(1), (h), Aug. 13, 2018, 132 Sta
 (A) the product was developed exclusively at private expense; and
 
 (B) has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 103 | 41:259(c)(11). | June 30, 1949, ch. 288, title III, § 309(c)(11), as added Pub. L. 98–369, title VII, § 2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, § 504(a)(4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1551, Oct. 13, 1994, 108 Stat. 3299. |
+|  | 41:264a (“commercial item”). | June 30, 1949, ch. 288, title III, § 314A (“commercial item”), as added Pub. L. 103–355, title VIII, § 8202, Oct. 13, 1994, 108 Stat. 3394. |
+|  | 41:403(12). | Pub. L. 93–400, § 4(12), as added Pub. L. 103–355, title VIII, § 8001(a), Oct. 13, 1994, 108 Stat. 3385; Pub. L. 104–106, title XLII, § 4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, title VIII, § 805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, title XIV, § 1433, Nov. 24, 2003, 117 Stat. 1673. |
 
 #### Amendments
 2017—Par. (8). Pub. L. 115–91 inserted “or to multiple foreign governments” before period at end.
@@ -232,15 +232,15 @@ In this subtitle, the term “commercially available off-the-shelf item”—
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (1)(A)
+Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(B), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1)(A) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 104 | 41:431(c). | Pub. L. 93–400, § 35(c), as added Pub. L. 104–106, title XLII, § 4203(a), Feb. 10, 1996, 110 Stat. 655. |
 
 In paragraph (2), the words “[section 40102(4) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/4&num=0&edition=prelim)” are substituted for “section 3 of the Shipping Act of 1984 (46 U.S.C. App. 1702)” because of section 18(c) of Public Law 109–304 (46 U.S.C. note prec. 101).
-
-#### Amendment of Paragraph (1)(A)
-Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(B), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1)(A) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Par. (1)(A). Pub. L. 115–232, which directed substitution of “commercial product” for “commercial item” in section 104(1)(A), without specifying the Code title to be amended, was executed by making the substitution in par. (1)(A) of this section, to reflect the probable intent of Congress.
@@ -347,15 +347,15 @@ In this subtitle, the term “nondevelopmental item” means—
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (1)
+Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(C), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 110 | 41:259(c)(12). | June 30, 1949, ch. 288, title III, § 309(c)(12), as added Pub. L. 98–369, title VII, § 2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, § 504(a)(4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1551, Oct. 13, 1994, 108 Stat. 3299. |
 |  | 41:264a (“nondevelopmental item”). | June 30, 1949, ch. 288, title III, § 314A (“nondevelopmental item”), as added Pub. L. 103–355, title VIII, § 8202, Oct. 13, 1994, 108 Stat. 3394. |
 |  | 41:403(13). | Pub. L. 93–400, § 4(13), as added Pub. L. 103–355, title VIII, § 8001(a), Oct. 13, 1994, 108 Stat. 3385. |
-
-#### Amendment of Paragraph (1)
-Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(C), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Par. (1). Pub. L. 115–232 substituted “commercial product” for “commercial item”.

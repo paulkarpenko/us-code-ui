@@ -195,7 +195,7 @@ Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, § 20, 62 Stat. 
 
 Section, R.S. § 2141, established a penalty of $1,000 for setting up or continuing a distillery for manufacturing ardent spirits and mandated the destruction of the distillery.
 
-#### No Effect On Taxation Or State Authority To Regulate Alcohol Within State Borders
+#### No Effect on Taxation or State Authority To Regulate Alcohol Within State Borders
 Pub. L. 115–304, § 2, Dec. 11, 2018, 132 Stat. 4401, provided that: “(a) No Effect on Taxation.—Nothing in section 1 [repealing this section] or the repeal made by section 1 shall affect State or Federal taxation. “(b) State Authority Unaffected.—Nothing in section 1 or the repeal made by section 1 shall diminish, enlarge, or otherwise affect a State’s authority to regulate the importation and sale of alcoholic beverages within its own borders, including State authority over the manufacture, distribution, transportation, or sale of intoxicating liquors.”
 
 

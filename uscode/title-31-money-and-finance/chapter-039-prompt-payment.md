@@ -60,6 +60,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(4)(A)(ii)(II)
+Pub. L. 115–232, div. A, title VIII, § 836(g)(3), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(A)(ii)(II) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -75,9 +78,6 @@ In subsection (a)(5), the words “deemed to be” are substituted for “consid
 In subsection (a)(6), the words “real or personal” are omitted as surplus. The words “deemed to be” are added for consistency in the revised title and with other titles of the Code.
 
 In subsection (b), the words “the authority of” are omitted as surplus.
-
-#### Amendment of Subsection (a)(4)(A)(ii)(II)
-Pub. L. 115–232, div. A, title VIII, § 836(g)(3), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(A)(ii)(II) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
 
 #### Amendments
 2018—Subsec. (a)(4)(A)(ii)(II). Pub. L. 115–232 substituted “commercial product” for “commercial item”.

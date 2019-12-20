@@ -2,7 +2,7 @@
 title: 26
 chapter: '80'
 heading: GENERAL RULES
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -67,6 +67,12 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 #### Order of Succession
 For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
+#### Notice From IRS Regarding Closure of Taxpayer Assistance Centers
+Pub. L. 116–25, title I, § 1403, July 1, 2019, 133 Stat. 997, provided that: “Not later than 90 days before the date that a proposed closure of a Taxpayer Assistance Center would take effect, the Secretary of the Treasury (or the Secretary’s delegate) shall— “(1) make publicly available (including by non-electronic means) a notice which—“(A) identifies the Taxpayer Assistance Center proposed for closure and the date of such proposed closure; and “(B) identifies the relevant alternative sources of taxpayer assistance which may be utilized by taxpayers affected by such proposed closure; and “(2) submit to Congress a written report that includes—“(A) the information included in the notice described in paragraph (1); “(B) the reasons for such proposed closure; and “(C) such other information as the Secretary may determine appropriate.”
+
+#### Customer Service Information
+Pub. L. 116–25, title I, § 1406, July 1, 2019, 133 Stat. 1000, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall provide helpful information to taxpayers placed on hold during a telephone call to any Internal Revenue Service help line, including the following: “(1) Information about common tax scams. “(2) Information on where and how to report tax scams. “(3) Additional advice on how taxpayers can protect themselves from identity theft and tax scams.”
+
 #### IRS Employees Prohibited From Using Personal Email Accounts for Official Business
 Pub. L. 114–113, div. Q, title IV, § 402, Dec. 18, 2015, 129 Stat. 3117, provided that: “No officer or employee of the Internal Revenue Service may use a personal email account to conduct any official business of the Government.”
 
@@ -74,6 +80,8 @@ Pub. L. 114–113, div. Q, title IV, § 402, Dec. 18, 2015, 129 Stat. 3117, prov
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter”.
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–6, div. D, title I, Feb. 15, 2019, 133 Stat. 144, 145.
 
 Pub. L. 115–141, div. E, title I, Mar. 23, 2018, 132 Stat. 541.
 
@@ -88,8 +96,6 @@ Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 889, provided in part: “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
 
 Similar provisions were contained in the following appropriation acts:
-
-Pub. L. 115–141, div. E, title I, Mar. 23, 2018, 132 Stat. 541.
 
 Pub. L. 115–31, div. E, title I, May 5, 2017, 131 Stat. 332.
 
@@ -108,7 +114,11 @@ Pub. L. 106–58, title VI, § 650, Sept. 29, 1999, 113 Stat. 479, as amended by
 [Pub. L. 110–234, § 4002(b)(1)(D), (2)(P), and Pub. L. 110–246, § 4002(b)(1)(D), (2)(P), which directed identical amendment of Pub. L. 106–58, § 650, set out above, by substituting “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing, was executed by making the substitution for “Food stamp” in subsec. (d)(2)(B)(iv), to reflect the probable intent of Congress. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.]
 
 #### Reorganization of Internal Revenue Service
+Pub. L. 116–25, title I, § 1302, July 1, 2019, 133 Stat. 993, provided that: “(a) In General.—Not later than September 30, 2020, the Secretary of the Treasury (or the Secretary’s delegate) shall submit to Congress a comprehensive written plan to redesign the organization of the Internal Revenue Service. Such plan shall—“(1) ensure the successful implementation of the priorities specified by Congress in this Act [see Short Title of 2019 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1)]; “(2) prioritize taxpayer services to ensure that all taxpayers easily and readily receive the assistance that they need; “(3) streamline the structure of the agency including minimizing the duplication of services and responsibilities within the agency; “(4) best position the Internal Revenue Service to combat cybersecurity and other threats to the Internal Revenue Service; and “(5) address whether the Criminal Investigation Division of the Internal Revenue Service should report directly to the Commissioner of Internal Revenue. “(b) Repeal of Restriction on Organizational Structure of Internal Revenue Service.—Paragraph (3) of section 1001(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206, set out below] shall cease to apply beginning 1 year after the date on which the plan described in subsection (a) is submitted to Congress.”
+
 Pub. L. 105–206, title I, § 1001, July 22, 1998, 112 Stat. 689, provided that: “(a) In General.—The Commissioner of Internal Revenue shall develop and implement a plan to reorganize the Internal Revenue Service. The plan shall—“(1) supersede any organization or reorganization of the Internal Revenue Service based on any statute or reorganization plan applicable on the effective date of this section; “(2) eliminate or substantially modify the existing organization of the Internal Revenue Service which is based on a national, regional, and district structure; “(3) establish organizational units serving particular groups of taxpayers with similar needs; and “(4) ensure an independent appeals function within the Internal Revenue Service, including the prohibition in the plan of ex parte communications between appeals officers and other Internal Revenue Service employees to the extent that such communications appear to compromise the independence of the appeals officers. “(b) Savings Provisions.—“(1) Preservation of specific tax rights and remedies.—Nothing in the plan developed and implemented under subsection (a) shall be considered to impair any right or remedy, including trial by jury, to recover any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority, or any sum alleged to have been excessive or in any manner wrongfully collected under the internal revenue laws. For the purpose of any action to recover any such tax, penalty, or sum, all statutes, rules, and regulations referring to the collector of internal revenue, the principal officer for the internal revenue district, or the Secretary, shall be deemed to refer to the officer whose act or acts referred to in the preceding sentence gave rise to such action. The venue of any such action shall be the same as under existing law. “(2) Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—“(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of any function transferred or affected by the reorganization of the Internal Revenue Service or any other administrative unit of the Department of the Treasury under this section; and “(B) which are in effect at the time this section takes effect, or were final before the effective date of this section and are to become effective on or after the effective date of this section, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of the Treasury, the Commissioner of Internal Revenue, or other authorized official, a court of competent jurisdiction, or by operation of law. “(3) Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service) at the time this section takes effect, with respect to functions transferred or affected by the reorganization under this section but such proceedings and applications shall continue. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted. “(4) Suits not affected.—The provisions of this section shall not affect suits commenced before the effective date of this section, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section had not been enacted. “(5) Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service), or by or against any individual in the official capacity of such individual as an officer of the Department of the Treasury, shall abate by reason of the enactment of this section. “(6) Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service) relating to a function transferred or affected by the reorganization under this section may be continued by the Department of the Treasury through any appropriate administrative unit of the Department, including the Internal Revenue Service with the same effect as if this section had not been enacted. “(c) Effective Date.—This section shall take effect on the date of the enactment of this Act [July 22, 1998].”
+
+[Subsec. (a)(3) of section 1001 of Pub. L. 105–206, set out above, to cease to apply beginning 1 year after the date on which the plan described in section 1302(a) of Pub. L. 116–25 is submitted to Congress, see section 1302(b) of Pub. L. 116–25, set out in a note above.]
 
 #### Internal Revenue Service Mission To Focus on Taxpayers’ Needs
 Pub. L. 105–206, title I, § 1002, July 22, 1998, 112 Stat. 690, provided that: “The Internal Revenue Service shall review and restate its mission to place a greater emphasis on serving the public and meeting taxpayers’ needs.”
@@ -493,7 +503,7 @@ Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate�
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title I, § 1101(d), July 22, 1998, 112 Stat. 697, provided that: “(1) In general.—The amendments made by this section [amending this section and sections 4946 and 6103 of this title] shall take effect on the date of the enactment of this Act [July 22, 1998]. “(2) Initial nominations to internal revenue service oversight board.—The President shall submit the initial nominations under section 7802 of the Internal Revenue Code of 1986, as added by this section, to the Senate not later than 6 months after the date of the enactment of this Act [July 22, 1998]. “(3) Effect on actions prior to appointment of oversight board.—Nothing in this section shall be construed to invalidate the actions and authority of the Internal Revenue Service prior to the appointment of the members of the Internal Revenue Service Oversight Board.”
@@ -593,7 +603,7 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 
   (B) *National Taxpayer Advocate*
 
-    (i) *In general* — The Office of the Taxpayer Advocate shall be under the supervision and direction of an official to be known as the “National Taxpayer Advocate”. The National Taxpayer Advocate shall report directly to the Commissioner of Internal Revenue and shall be entitled to compensation at the same rate as the highest rate of basic pay established for the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), United States Code, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title.
+    (i) *In general* — The Office of the Taxpayer Advocate shall be under the supervision and direction of an official to be known as the “National Taxpayer Advocate”. The National Taxpayer Advocate shall report directly to the Commissioner of Internal Revenue and shall be entitled to compensation at the same rate as the highest rate of basic pay established for the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), United States Code.
 
     (ii) *Appointment* — The National Taxpayer Advocate shall be appointed by the Secretary of the Treasury after consultation with the Commissioner of Internal Revenue and the Oversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
 
@@ -627,7 +637,7 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 
       (II) contain recommendations received from individuals with the authority to issue Taxpayer Assistance Orders under section 7811;
 
-      (III) contain a summary of at least 20 of the most serious problems encountered by taxpayers, including a description of the nature of such problems;
+      (III) contain a summary of the 10 most serious problems encountered by taxpayers, including a description of the nature of such problems;
 
       (IV) contain an inventory of the items described in subclauses (I), (II), and (III) for which action has been taken and the result of such action;
 
@@ -637,15 +647,19 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 
       (VII) identify any Taxpayer Assistance Order which was not honored by the Internal Revenue Service in a timely manner, as specified under section 7811(b);
 
-      (VIII) contain recommendations for such administrative and legislative action as may be appropriate to resolve problems encountered by taxpayers;
+      (VIII) identify any Taxpayer Advocate Directive which was not honored by the Internal Revenue Service in a timely manner, as specified under paragraph (5);
 
-      (IX) identify areas of the tax law that impose significant compliance burdens on taxpayers or the Internal Revenue Service, including specific recommendations for remedying these problems;
+      (IX) contain recommendations for such administrative and legislative action as may be appropriate to resolve problems encountered by taxpayers;
 
-      (X) identify the 10 most litigated issues for each category of taxpayers, including recommendations for mitigating such disputes; and
+      (X) identify areas of the tax law that impose significant compliance burdens on taxpayers or the Internal Revenue Service, including specific recommendations for remedying these problems;
 
-      (XI) include such other information as the National Taxpayer Advocate may deem advisable.
+      (XI) identify the 10 most litigated issues for each category of taxpayers, including recommendations for mitigating such disputes;
 
-    (iii) *Report to be submitted directly* — Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of the Treasury, or the Office of Management and Budget.
+      (XII) with respect to any statistical information included in such report, include a statement of whether such statistical information was reviewed or provided by the Secretary under section 6108(d) and, if so, whether the Secretary determined such information to be statistically valid and based on sound statistical methodology; and
+
+      (XIII) include such other information as the National Taxpayer Advocate may deem advisable.
+
+    (iii) *Report to be submitted directly* — Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of the Treasury, or the Office of Management and Budget. The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).
 
     (iv) *Coordination with report of Treasury Inspector General for Tax Administration* — To the extent that information required to be reported under clause (ii) is also required to be reported under paragraph (1) or (2) of subsection (d) by the Treasury Inspector General for Tax Administration, the National Taxpayer Advocate shall not contain such information in the report submitted under such clause.
 
@@ -669,6 +683,8 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 
     (ii) *Consultation* — The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate’s responsibilities under this subparagraph.
 
+  (E) *Coordination with Treasury Inspector General for Tax Administration* — Before beginning any research or study, the National Taxpayer Advocate shall coordinate with the Treasury Inspector General for Tax Administration to ensure that the National Taxpayer Advocate does not duplicate any action that the Treasury Inspector General for Tax Administration has already undertaken or has a plan to undertake.
+
 (3) **Responsibilities of Commissioner** — The Commissioner shall establish procedures requiring a formal response to all recommendations submitted to the Commissioner by the National Taxpayer Advocate within 3 months after submission to the Commissioner.
 
 (4) **Operation of local offices**
@@ -684,6 +700,12 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
     (iv) may, at the taxpayer advocate’s discretion, not disclose to the Internal Revenue Service contact with, or information provided by, such taxpayer.
 
   (B) *Maintenance of independent communications* — Each local office of the taxpayer advocate shall maintain a separate phone, facsimile, and other electronic communication access, and a separate post office address.
+
+(5) **Taxpayer Advocate Directives** — In the case of any Taxpayer Advocate Directive issued by the National Taxpayer Advocate pursuant to a delegation of authority from the Commissioner of Internal Revenue—
+
+  (A) the Commissioner or a Deputy Commissioner shall modify, rescind, or ensure compliance with such directive not later than 90 days after the issuance of such directive, and
+
+  (B) in the case of any directive which is modified or rescinded by a Deputy Commissioner, the National Taxpayer Advocate may (not later than 90 days after such modification or rescission) appeal to the Commissioner, and the Commissioner shall (not later than 90 days after such appeal is made) ensure compliance with such directive as issued by the National Taxpayer Advocate or provide the National Taxpayer Advocate with the reasons for any modification or rescission made or upheld by the Commissioner pursuant to such appeal.
 
 **(d) Additional duties of the Treasury Inspector General for Tax Administration**
 
@@ -739,6 +761,120 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 
   (C) not later than December 31, 2010, submit a written report to Congress on the implementation of section 6103(k)(10).
 
+**(e) Independent Office of Appeals**
+
+(1) **Establishment** — There is established in the Internal Revenue Service an office to be known as the “Internal Revenue Service Independent Office of Appeals”.
+
+(2) **Chief of Appeals**
+
+  (A) *In general* — The Internal Revenue Service Independent Office of Appeals shall be under the supervision and direction of an official to be known as the “Chief of Appeals”. The Chief of Appeals shall report directly to the Commissioner of Internal Revenue and shall be entitled to compensation at the same rate as the highest rate of basic pay established for the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), United States Code.
+
+  (B) *Appointment* — The Chief of Appeals shall be appointed by the Commissioner of Internal Revenue without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
+
+  (C) *Qualifications* — An individual appointed under subparagraph (B) shall have experience and expertise in—
+
+    (i) administration of, and compliance with, Federal tax laws,
+
+    (ii) a broad range of compliance cases, and
+
+    (iii) management of large service organizations.
+
+(3) **Purposes and duties of office** — It shall be the function of the Internal Revenue Service Independent Office of Appeals to resolve Federal tax controversies without litigation on a basis which—
+
+  (A) is fair and impartial to both the Government and the taxpayer,
+
+  (B) promotes a consistent application and interpretation of, and voluntary compliance with, the Federal tax laws, and
+
+  (C) enhances public confidence in the integrity and efficiency of the Internal Revenue Service.
+
+(4) **Right of appeal** — The resolution process described in paragraph (3) shall be generally available to all taxpayers.
+
+(5) **Limitation on designation of cases as not eligible for referral to Independent Office of Appeals**
+
+  (A) *In general* — If any taxpayer which is in receipt of a notice of deficiency authorized under section 6212 requests referral to the Internal Revenue Service Independent Office of Appeals and such request is denied, the Commissioner of Internal Revenue shall provide such taxpayer a written notice which—
+
+    (i) provides a detailed description of the facts involved, the basis for the decision to deny the request, and a detailed explanation of how the basis of such decision applies to such facts, and
+
+    (ii) describes the procedures prescribed under subparagraph (C) for protesting the decision to deny the request.
+
+  (B) *Report to Congress* — The Commissioner of Internal Revenue shall submit a written report to Congress on an annual basis which includes the number of requests described in subparagraph (A) which were denied and the reasons (described by category) that such requests were denied.
+
+  (C) *Procedures for protesting denial of request* — The Commissioner of Internal Revenue shall prescribe procedures for protesting to the Commissioner of Internal Revenue a denial of a request described in subparagraph (A).
+
+  (D) *Not applicable to frivolous positions* — This paragraph shall not apply to a request for referral to the Internal Revenue Service Independent Office of Appeals which is denied on the basis that the issue involved is a frivolous position (within the meaning of section 6702(c)).
+
+(6) **Staff**
+
+  (A) *In general* — All personnel in the Internal Revenue Service Independent Office of Appeals shall report to the Chief of Appeals.
+
+  (B) *Access to staff of Office of the Chief Counsel* — The Chief of Appeals shall have authority to obtain legal assistance and advice from the staff of the Office of the Chief Counsel. The Chief Counsel shall ensure, to the extent practicable, that such assistance and advice is provided by staff of the Office of the Chief Counsel who were not involved in the case with respect to which such assistance and advice is sought and who are not involved in preparing such case for litigation.
+
+(7) **11 See Effective Date of 2019 Amendment note below. Access to case files**
+
+  (A) *In general* — In any case in which a conference with the Internal Revenue Service Independent Office of Appeals has been scheduled upon request of a specified taxpayer, the Chief of Appeals shall ensure that such taxpayer is provided access to the nonprivileged portions of the case file on record regarding the disputed issues (other than documents provided by the taxpayer to the Internal Revenue Service) not later than 10 days before the date of such conference.
+
+  (B) *Taxpayer election to expedite conference* — If the taxpayer so elects, subparagraph (A) shall be applied by substituting “the date of such conference” for “10 days before the date of such conference”.
+
+  (C) *Specified taxpayer* — For purposes of this paragraph—
+
+    (i) *In general* — The term “specified taxpayer” means—
+
+      (I) in the case of any taxpayer who is a natural person, a taxpayer whose adjusted gross income does not exceed $400,000 for the taxable year to which the dispute relates, and
+
+      (II) in the case of any other taxpayer, a taxpayer whose gross receipts do not exceed $5 million for the taxable year to which the dispute relates.
+
+    (ii) *Aggregation rule* — Rules similar to the rules of section 448(c)(2) shall apply for purposes of clause (i)(II).
+
+**(f) Internal Revenue Service Chief Information Officer**
+
+(1) **In general** — There shall be in the Internal Revenue Service an Internal Revenue Service Chief Information Officer (hereafter referred to in this subsection as the “IRS CIO”) who shall be appointed by the Commissioner of Internal Revenue.
+
+(2) **Centralized responsibility for Internal Revenue Service information technology** — The Commissioner of Internal Revenue (and the Secretary) shall act through the IRS CIO with respect to all development, implementation, and maintenance of information technology for the Internal Revenue Service. Any reference in this subsection to the IRS CIO which directs the IRS CIO to take any action, or to assume any responsibility, shall be treated as a reference to the Commissioner of Internal Revenue acting through the IRS CIO.
+
+(3) **General duties and responsibilities** — The IRS CIO shall—
+
+  (A) be responsible for the development, implementation, and maintenance of information technology for the Internal Revenue Service,
+
+  (B) ensure that the information technology of the Internal Revenue Service is secure and integrated,
+
+  (C) maintain operational control of all information technology for the Internal Revenue Service,
+
+  (D) be the principal advocate for the information technology needs of the Internal Revenue Service, and
+
+  (E) consult with the Chief Procurement Officer of the Internal Revenue Service to ensure that the information technology acquired for the Internal Revenue Service is consistent with—
+
+    (i) the goals and requirements specified in subparagraphs (A) through (D), and
+
+    (ii) the strategic plan developed under paragraph (4).
+
+(4) **Strategic plan**
+
+  (A) *In general* — The IRS CIO shall develop and implement a multiyear strategic plan for the information technology needs of the Internal Revenue Service. Such plan shall—
+
+    (i) include performance measurements of such technology and of the implementation of such plan,
+
+    (ii) include a plan for an integrated enterprise architecture of the information technology of the Internal Revenue Service,
+
+    (iii) include and take into account the resources needed to accomplish such plan,
+
+    (iv) take into account planned major acquisitions of information technology by the Internal Revenue Service, and
+
+    (v) align with the needs and strategic plan of the Internal Revenue Service.
+
+  (B) *Plan updates* — The IRS CIO shall, not less frequently than annually, review and update the strategic plan under subparagraph (A) (including the plan for an integrated enterprise architecture described in subparagraph (A)(ii)) to take into account the development of new information technology and the needs of the Internal Revenue Service.
+
+(5) **Scope of authority**
+
+  (A) *Information technology* — For purposes of this subsection, the term “information technology” has the meaning given such term by [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim), United States Code.
+
+  (B) *Internal Revenue Service* — Any reference in this subsection to the Internal Revenue Service includes a reference to all components of the Internal Revenue Service, including—
+
+    (i) the Office of the Taxpayer Advocate,
+
+    (ii) the Criminal Investigation Division of the Internal Revenue Service, and
+
+    (iii) except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
+
 ### Statutory Notes
 
 #### References in Text
@@ -751,6 +887,22 @@ Sections 1203, 1204, and 3707 of the Internal Revenue Service Restructuring and 
 Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(3)(B), is section 6227 of Pub. L. 100–647, which is set out as a note under [section 7801 of this title](./chapter-080-general-rules.md#section-7801).
 
 #### Amendments
+2019—Subsec. (c)(1)(B)(i). Pub. L. 116–25, § 1301(c), struck out before period at end “, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title”.
+
+Subsec. (c)(2)(B)(ii)(III). Pub. L. 116–25, § 1301(b)(1), substituted “the 10 most” for “at least 20 of the most”.
+
+Subsec. (c)(2)(B)(ii)(VIII) to (XIII). Pub. L. 116–25, § 1301(a)(2), (b)(3)(B), added subcls. (VIII) and (XII), redesignated former subcls. (VIII) to (X) as (IX) to (XI), respectively, and redesignated former subcl. (XI) first as (XII), then as (XIII).
+
+Subsec. (c)(2)(B)(iii). Pub. L. 116–25, § 1301(b)(3)(C), inserted at end “The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).”
+
+Subsec. (c)(2)(E). Pub. L. 116–25, § 1301(b)(2), added subpar. (E).
+
+Subsec. (c)(5). Pub. L. 116–25, § 1301(a)(1), added par. (5).
+
+Subsec. (e). Pub. L. 116–25, § 1001(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 116–25, § 2101(a), added subsec. (f).
+
 2015—Subsec. (a)(3), (4). Pub. L. 114–113 added par. (3) and redesignated former par. (3) as (4).
 
 2008—Subsec. (a)(1). Pub. L. 110–176 amended par. (1) generally, substituting provisions relating to appointment, consisting of subpars. (A) to (E), for similar provisions, consisting of subpars. (A) to (D).
@@ -766,9 +918,16 @@ Subsecs. (c), (d). Pub. L. 94–455, § 1906(a)(58), redesignated subsec. (d) as
 1972—Subsec. (c). Pub. L. 92–310 repealed subsec. (c) which related to bonds of officers and employees.
 
 #### Change of Name
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Pub. L. 116–25, title I, § 1001(c), July 1, 2019, 133 Stat. 985, provided that: “Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as a reference to the Internal Revenue Service Independent Office of Appeals.”
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1001(e), July 1, 2019, 133 Stat. 985, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 6015, 6320, 6330, 6603, 6621, 7122, 7123, 7430, 7522, and 7612 of this title] shall take effect on the date of the enactment of this Act [July 1, 2019]. “(2) Access to case files.—Section 7803(e)(7) of the Internal Revenue Code of 1986, as added by subsection (a), shall apply to conferences occurring after the date which is 1 year after the date of the enactment of this Act.”
+
+Amendment by section 1301(a)–(b)(2), (3)(B)–(c) of Pub. L. 116–25 effective July 1, 2019, except that amendment by section 1301(c) of Pub. L. 116–25 applicable to compensation paid to individuals appointed as the National Taxpayer Advocate after Mar. 31, 2019, see section 1301(d) of Pub. L. 116–25, set out as a note under [section 6108 of this title](./chapter-061-information-and-returns.md#section-6108).
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title IV, § 401(b), Dec. 18, 2015, 129 Stat. 3117, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].”
@@ -780,6 +939,12 @@ Pub. L. 110–176, § 1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: “The 
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title I, § 1102(f), July 22, 1998, 112 Stat. 705, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section, sections 6212, 6323, 6343, 7611, and 7811 of this title, and [section 5109 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5109&num=0&edition=prelim), Government Organization and Employees] shall take effect on the date of the enactment of this Act [July 22, 1998]. “(2) Chief counsel.—Section 7803(b)(3) of the Internal Revenue Code of 1986, as added by this section, shall take effect on the date that is 90 days after the date of the enactment of this Act. “(3) National taxpayer advocate.—Notwithstanding section 7803(c)(1)(B)(iv) of such Code, as added by this section, in appointing the first National Taxpayer Advocate after the date of the enactment of this Act, the Secretary of the Treasury—“(A) shall not appoint any individual who was an officer or employee of the Internal Revenue Service at any time during the 2-year period ending on the date of appointment; and “(B) need not consult with the Internal Revenue Service Oversight Board if the Oversight Board has not been appointed. “(4) Current officers.—“(A) In the case of an individual serving as Commissioner of Internal Revenue on the date of the enactment of this Act who was appointed to such position before such date, the 5-year term required by section 7803(a)(1) of such Code, as added by this section, shall begin as of the date of such appointment. “(B) Clauses (ii), (iii), and (iv) of section 7803(c)(1)(B) of such Code, as added by this section, shall not apply to the individual serving as Taxpayer Advocate on the date of the enactment of this Act.”
+
+#### Savings Provisions
+Pub. L. 116–25, title I, § 1001(d), July 1, 2019, 133 Stat. 985, provided that: “Rules similar to the rules of paragraphs (2) through (6) of section 1001(b) of the Internal Revenue Service Restructuring and Reform Act of 1998 [Pub. L. 105–206, [26 U.S.C. 7801](./chapter-080-general-rules.md#section-7801) note] shall apply for purposes of this section [amending this section and sections 6015, 6320, 6330, 6603, 6621, 7122, 7123, 7430, 7522, and 7612 of this title and enacting provisions set out as notes under this section] (and the amendments made by this section).”
+
+#### Coordination of IRS CIO and Chief Procurement Officer of the Internal Revenue Service
+Pub. L. 116–25, title II, § 2101(c), July 1, 2019, 133 Stat. 1010, provided that: “(1) In general.—The Chief Procurement Officer of the Internal Revenue Service shall—“(A) identify all significant IRS information technology acquisitions and provide written notification to the Internal Revenue Service Chief Information Officer (hereafter referred to in this subsection as the ‘IRS CIO’) of each such acquisition in advance of such acquisition, and “(B) regularly consult with the IRS CIO regarding acquisitions of information technology for the Internal Revenue Service, including meeting with the IRS CIO regarding such acquisitions upon request. “(2) Significant irs information technology acquisitions.—For purposes of this subsection, the term ‘significant IRS information technology acquisitions’ means—“(A) any acquisition of information technology for the Internal Revenue Service in excess of $1 million; and “(B) such other acquisitions of information technology for the Internal Revenue Service (or categories of such acquisitions) as the IRS CIO, in consultation with the Chief Procurement Officer of the Internal Revenue Service, may identify. “(3) Scope.—Terms used in this subsection which are also used in section 7803(f) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall have the same meaning as when used in such section.”
 
 
 <a id="section-7804"></a>
@@ -794,15 +959,28 @@ Pub. L. 105–206, title I, § 1102(f), July 22, 1998, 112 Stat. 705, provided t
 
 **(c) Delinquent Internal Revenue officers and employees** If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
 
+**(d) Prohibition on rehiring employees involuntarily separated** The Commissioner may not hire any individual previously employed by the Commissioner who was removed for misconduct under this subchapter or chapter 43 or chapter 75 of title 5, United States Code, or whose employment was terminated under section 1203 of the Internal Revenue Service Restructuring and Reform Act of 1998 ([26 U.S.C. 7804](./chapter-080-general-rules.md#section-7804) note).
+
 ### Statutory Notes
 
+#### References in Text
+Section 1203 of the Internal Revenue Service Restructuring and Reform Act of 1998, referred to in subsec. (d), is section 1203 of Pub. L. 105–206, which is set out as a note under this section.
+
 #### Amendments
+2019—Subsec. (d). Pub. L. 116–25 added subsec. (d).
+
 1998—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which had declared: in subsec. (a), that provisions of Reorganization Plans No. 26 of 1950 and No. 1 of 1952 should apply to all functions vested by this title, or by any act amending this title in any officer, employee, or agency of the Department; and in subsec. (b), that nothing in such Reorganization Plans should be considered to impair existing rights and remedies, that for the purpose of any action to recover tax all statutes, rules, and regulations referring to collector of internal revenue, principal officer for internal revenue district, or Secretary, should be deemed to refer to officer whose acts gave rise to such action, and that venue of any such action should be the same as under existing law.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title III, § 3001(b), July 1, 2019, 133 Stat. 1015, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the hiring of employees after the date of the enactment of this Act [July 1, 2019].”
+
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title I, § 1104(c), July 22, 1998, 112 Stat. 710, provided that: “The amendments made by this section [amending this section and [section 6344 of this title](./chapter-064-collection.md#section-6344)] shall take effect on the date of the enactment of this Act [July 22, 1998].”
+
+#### Comprehensive Customer Service Strategy
+Pub. L. 116–25, title I, § 1101, July 1, 2019, 133 Stat. 985, provided that: “(a) In General.—Not later than the date which is 1 year after the date of the enactment of this Act [July 1, 2019], the Secretary of the Treasury (or the Secretary’s delegate) shall submit to Congress a written comprehensive customer service strategy for the Internal Revenue Service. Such strategy shall include—“(1) a plan to provide assistance to taxpayers that is secure, designed to meet reasonable taxpayer expectations, and adopts appropriate best practices of customer service provided in the private sector, including online services, telephone call back services, and training of employees providing customer services; “(2) a thorough assessment of the services that the Internal Revenue Service can co-locate with other Federal services or offer as self-service options; “(3) proposals to improve Internal Revenue Service customer service in the short term (the current and following fiscal year), medium term (approximately 3 to 5 fiscal years), and long term (approximately 10 fiscal years); “(4) a plan to update guidance and training materials for customer service employees of the Internal Revenue Service, including the Internal Revenue Manual, to reflect such strategy; and “(5) identified metrics and benchmarks for quantitatively measuring the progress of the Internal Revenue Service in implementing such strategy. “(b) Updated Guidance and Training Materials.—Not later than 2 years after the date of the enactment of this Act, the Secretary of the Treasury (or the Secretary’s delegate) shall make available the updated guidance and training materials described in subsection (a)(4) (including the Internal Revenue Manual). Such updated guidance and training materials (including the Internal Revenue Manual) shall be written in a manner so as to be easily understood by customer service employees of the Internal Revenue Service and shall provide clear instructions.”
 
 #### Termination of Employment for Misconduct
 Pub. L. 105–206, title I, § 1203, July 22, 1998, 112 Stat. 720, as amended by Pub. L. 108–357, title VIII, § 881(d), Oct. 22, 2004, 118 Stat. 1627; Pub. L. 114–113, div. Q, title IV, § 407(a), Dec. 18, 2015, 129 Stat. 3120, provided that: “(a) In General.—Subject to subsection (c), the Commissioner of Internal Revenue shall terminate the employment of any employee of the Internal Revenue Service if there is a final administrative or judicial determination that such employee committed any act or omission described under subsection (b) in the performance of the employee’s official duties. Such termination shall be a removal for cause on charges of misconduct. “(b) Acts or Omissions.—The acts or omissions referred to under subsection (a) are—“(1) willful failure to obtain the required approval signatures on documents authorizing the seizure of a taxpayer’s home, personal belongings, or business assets; “(2) providing a false statement under oath with respect to a material matter involving a taxpayer or taxpayer representative; “(3) with respect to a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service, the violation of—“(A) any right under the Constitution of the United States; or “(B) any civil right established under—“(i) title VI or VII of the Civil Rights Act of 1964 [[42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq., 2000e et seq.]; “(ii) title IX of the Education Amendments of 1972 [[20 U.S.C. 1681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) et seq.]; “(iii) the Age Discrimination in Employment Act of 1967 [[29 U.S.C. 621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim) et seq.]; “(iv) the Age Discrimination Act of 1975 [[42 U.S.C. 6101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6101&num=0&edition=prelim) et seq.]; “(v) section 501 or 504 of the Rehabilitation Act of 1973 [[29 U.S.C. 791](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section791&num=0&edition=prelim), 794]; or “(vi) title I of the Americans with Disabilities Act of 1990 [[42 U.S.C. 12111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12111&num=0&edition=prelim) et seq.]; “(4) falsifying or destroying documents to conceal mistakes made by any employee with respect to a matter involving a taxpayer or taxpayer representative; “(5) assault or battery on a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service, but only if there is a criminal conviction, or a final judgment by a court in a civil case, with respect to the assault or battery; “(6) violations of the Internal Revenue Code of 1986, Department of Treasury regulations, or policies of the Internal Revenue Service (including the Internal Revenue Manual) for the purpose of retaliating against, or harassing, a taxpayer, taxpayer representative, or other employee of the Internal Revenue Service; “(7) willful misuse of the provisions of section 6103 of the Internal Revenue Code of 1986 for the purpose of concealing information from a congressional inquiry; “(8) willful failure to file any return of tax required under the Internal Revenue Code of 1986 on or before the date prescribed therefor (including any extensions), unless such failure is due to reasonable cause and not to willful neglect; “(9) willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect; and “(10) performing, delaying, or failing to perform (or threatening to perform, delay, or fail to perform) any official action (including any audit) with respect to a taxpayer for purpose of extracting personal gain or benefit or for a political purpose. “(c) Determination of Commissioner.—“(1) In general.—The Commissioner of Internal Revenue may take a personnel action other than termination for an act or omission under subsection (a). “(2) Discretion.—The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not be delegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1). “(3) No appeal.—Any determination of the Commissioner of Internal Revenue under this subsection may not be appealed in any administrative or judicial proceeding. “(d) Definition.—For purposes of the provisions described in clauses (i), (ii), and (iv) of subsection (b)(3)(B), references to a program or activity receiving Federal financial assistance or an education program or activity receiving Federal financial assistance shall include any program or activity conducted by the Internal Revenue Service for a taxpayer. “(e) Individuals Performing Services Under a Qualified Tax Collection Contract.—An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services.”
@@ -851,7 +1029,7 @@ Pub. L. 103–123, title I, § 2, Oct. 28, 1993, 107 Stat. 1232.
 Pub. L. 102–393, title I, § 2, Oct. 6, 1992, 106 Stat. 1735.
 
 #### Basis for Evaluation of Internal Revenue Service Employees
-Pub. L. 105–206, title I, § 1204, July 22, 1998, 112 Stat. 722, provided that: “(a) In General.—The Internal Revenue Service shall not use records of tax enforcement results—“(1) to evaluate employees; or “(2) to impose or suggest production quotas or goals with respect to such employees. “(b) Taxpayer Service.—The Internal Revenue Service shall use the fair and equitable treatment of taxpayers by employees as one of the standards for evaluating employee performance. “(c) Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a). “(d) Technical and Conforming Amendment.—[Repealed section 6231 of Pub. L. 100–647, set out below.] “(e) Effective Date.—This section shall apply to evaluations conducted on or after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title I, § 1204, July 22, 1998, 112 Stat. 722, provided that: “(a) In General.—The Internal Revenue Service shall not use records of tax enforcement results—“(1) to evaluate employees; or “(2) to impose or suggest production quotas or goals with respect to such employees. “(b) Taxpayer Service.—The Internal Revenue Service shall use the fair and equitable treatment of taxpayers by employees as one of the standards for evaluating employee performance. “(c) Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a). “(d) Technical and Conforming Amendment.— [Repealed section 6231 of Pub. L. 100–647, set out below.] “(e) Effective Date.—This section shall apply to evaluations conducted on or after the date of the enactment of this Act [July 22, 1998].”
 
 Pub. L. 100–647, title VI, § 6231, Nov. 10, 1988, 102 Stat. 3734, prohibited Internal Revenue Service use of records of tax enforcement results to evaluate employees or to impose or suggest production quotas or goals, and required quarterly certification that results had not been used in prohibited manner, prior to repeal by Pub. L. 105–206, title I, § 1204(d), July 22, 1998, 112 Stat. 722.
 
@@ -1177,6 +1355,35 @@ Pub. L. 100–647, title VI, § 6230(d), Nov. 10, 1988, 102 Stat. 3734, provided
 
 #### Regulations
 Pub. L. 100–647, title VI, § 6230(c), Nov. 10, 1988, 102 Stat. 3734, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall issue such regulations as the Secretary deems necessary within 90 days of the date of the enactment of this Act [Nov. 10, 1988] in order to carry out the purposes of section 7811 of the 1986 Code (as added by this section) and to ensure taxpayers uniform access to administrative procedures.”
+
+
+<a id="section-7812"></a>
+## § 7812. Streamlined critical pay authority for information technology positions
+
+In the case of any position which is critical to the functionality of the information technology operations of the Internal Revenue Service—
+
+(1) [section 9503 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9503&num=0&edition=prelim), United States Code, shall be applied—
+
+  (A) by substituting “during the period beginning on the date of the enactment of section 7812 of the Internal Revenue Code of 1986, and ending on September 30, 2025” for “Before September 30, 2013 in subsection (a)” 11 So in original. The closing quotation marks probably should follow “Before September 30, 2013” instead of “(a)”.,
+
+  (B) without regard to subparagraph (B) of subsection (a)(1), and
+
+  (C) by substituting “the date of the enactment of the Taxpayer First Act” for “June 1, 1998” in subsection (a)(6),
+
+(2) section 9504 of such title 5 shall be applied by substituting “During the period beginning on the date of the enactment of section 7812 of the Internal Revenue Code of 1986, and ending on September 30, 2025” for “Before September 30, 2013” each place it appears in subsections (a) and (b), and
+
+(3) section 9505 of such title shall be applied—
+
+  (A) by substituting “During the period beginning on the date of the enactment of section 7812 of the Internal Revenue Code of 1986, and ending on September 30, 2025” for “Before September 30, 2013” in subsection (a), and
+
+  (B) by substituting “the information technology operations” for “significant functions” in subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of section 7812 of the Internal Revenue Code of 1986, referred to in text, is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
+
+The date of the enactment of the Taxpayer First Act, referred to in par. (1)(C), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
 
 
 <a id="section-7851"></a>

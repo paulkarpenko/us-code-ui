@@ -346,7 +346,7 @@ Pub. L. 103–349, § 14, Oct. 6, 1994, 108 Stat. 3144, provided that: “(a) In
 ### Statutory Notes
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–334 substituted “, tuber propagated, or asexually reproduced” for “or tuber propagated”.
+2018—Subsec. (a). Pub. L. 115–334 substituted “, tuber propagated, or asexually reproduced” for “or tuber propagated” in introductory provisions.
 
 1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
 

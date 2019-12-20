@@ -410,7 +410,7 @@ Pub. L. 103–311, title I, § 122, Aug. 26, 1994, 108 Stat. 1681, provided that
 
     (i) such notification is appropriate considering the potential security implications; and
 
-    (ii) the Director, in a final notification of threat assessment,11 So in original. Comma probably should appear after “applicant”. served on the applicant 1 determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
+    (ii) the Director, in a final notification of threat assessment,22 So in original. Comma probably should appear after “applicant”. served on the applicant 2 determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
 
   (B) *Relationship to other background records checks.—*
 

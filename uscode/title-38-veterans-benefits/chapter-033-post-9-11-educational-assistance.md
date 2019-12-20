@@ -15,7 +15,7 @@ In this chapter:
 
   (A) In the case of members of the regular components of the Armed Forces, the meaning given such term in section 101(21)(A).
 
-  (B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+  (B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 11 See References in Text note below. of title 14.
 
   (C) In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
 
@@ -41,6 +41,9 @@ In this chapter:
 
 ### Statutory Notes
 
+#### References in Text
+[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), referred to in par. (1)(B), was redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Amendments
 2017—Par. (1)(B). Pub. L. 115–48, § 401(a), substituted “12304, 12304a, or 12304b” for “or 12304”.
 
@@ -53,9 +56,6 @@ Pub. L. 115–48, § 101(a), inserted “12301(h),” after “12301(g),”.
 Par. (2)(A). Pub. L. 111–377, § 101(a)(2), inserted “or One Station Unit Training” before period at end.
 
 Par. (2)(E). Pub. L. 111–377, § 101(a)(3), inserted “and Skill Training (or so-called ‘A’ School)” before period at end.
-
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
-[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–48, title I, § 101(b), Aug. 16, 2017, 131 Stat. 974, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to service in the Armed Forces occurring on or after September 11, 2001.”
@@ -620,7 +620,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
       (V) during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
 
-    (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books 11 So in original. Probably should be followed by a comma. supplies, equipment, and other educational costs.
+    (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
     (iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
@@ -753,6 +753,8 @@ See 2017 Amendment notes below.
 Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(1)(A)(i)(II), (ii)(I)(bb), (e)(2)(A)(i)(II), (ii)(I)(bb), (f)(2)(A)(i)(II), and (g)(3)(A)(i)(I)(bb), (C)(i)(I)(bb), (D)(i)(I)(bb), is classified to [section 1070a(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim), Education.
 
 #### Amendments
+2019—Subsec. (g)(3)(B)(ii). Pub. L. 116–61 inserted comma after “for books”.
+
 2018—Subsec. (k). Pub. L. 115–407 added subsec. (k).
 
 2017—Subsec. (c)(1). Pub. L. 115–48, § 105(c)(2)(A), substituted “(8), or (9)” for “(9), or (10)”.
@@ -1342,7 +1344,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
   (A) is an individual who—
 
-    (i) is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires more than the standard 128 semester (or 192 quarter) credit hours for completion in a standard, undergraduate college degree in—
+    (i) is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires at least the standard 120 semester (or 180 quarter) credit hours for completion in a standard, undergraduate college degree in—
 
       (I) biological or biomedical science;
 
@@ -1398,6 +1400,9 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 ### Statutory Notes
 
+#### Amendments
+2019—Subsec. (b)(4)(A)(i). Pub. L. 116–36 substituted “at least the standard 120 semester (or 180 quarter) credit hours” for “more than the standard 128 semester (or 192 quarter) credit hours” in introductory provisions.
+
 #### Effective Date
 Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided that: “[Section 3320 of title 38](./chapter-033-post-9-11-educational-assistance.md#section-3320), United States Code, shall take effect on August 1, 2019.”
 
@@ -1406,7 +1411,7 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 ## § 3321. Time limitation for use of and eligibility for entitlement
 **(a) In General.—** Except as provided in this section, the period during which an individual entitled to educational assistance under this chapter may use such individual’s entitlement—
 
-(1) in the case of an individual whose last discharge or release from active duty is before January,11 So in original. The comma probably should not appear. 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
+(1) in the case of an individual whose last discharge or release from active duty is before January 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
 
 (2) in the case of an individual whose last discharge or release from active duty is on or after January 1, 2013, shall not expire.
 
@@ -1436,6 +1441,8 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 Pub. L. 115–48, title I, § 105(c)(5), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (b)(4) of this section is amended by striking “section 3311(b)(9)” and inserting “section 3311(b)(8)”. See 2017 Amendment note below.
 
 #### Amendments
+2019—Subsec. (a)(1). Pub. L. 116–61 substituted “January” for “January,”
+
 2017—Subsec. (a). Pub. L. 115–48, § 112(a), substituted “individual’s entitlement—” for “individual’s entitlement expires at the end of the 15-year period beginning on the date of such individual’s last discharge or release from active duty.” and added pars. (1) and (2).
 
 Subsec. (b)(4). Pub. L. 115–48, § 112(b), inserted “of this title” after “section 3311(b)(9)”, substituted “child’s entitlement—” for “child’s entitlement expires at the end of the 15-year period beginning on the date of such child’s eighteenth birthday.”, and added subpars. (A) and (B).

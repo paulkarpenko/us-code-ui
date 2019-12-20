@@ -173,7 +173,7 @@ Subsec. (b)(1)(D). Pub. L. 102–241, § 20(2), added subpar. (D).
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Notification to Prospective Passengers of Noncompliance With Fire-Retardant Standards
-Pub. L. 99–307, § 1(7)(B), May 19, 1986, 100 Stat. 445, provided that: “Until the regulations required by subclause (A) of this clause [see subsec. (b)(2) of this section] become effective, the owner or managing operator shall notify prospective passengers in all promotional literature and on each ticket that the vessel does not comply with those standards due primarily to the wooden construction of passenger berthing areas.”
+Pub. L. 99–307, § 1(7)(B), May 19, 1986, 100 Stat. 445, required notification to prospective passengers of a vessel’s noncompliance with certain standards until regulations became effective.
 
 
 <a id="section-3504"></a>
@@ -506,8 +506,9 @@ Subsec. (c). Pub. L. 115–232, § 3543(b)(2), substituted “No” for “Begin
 
 Subsec. (d). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to interim training requirement.
 
-Subsec. (e). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
-
-Subsec. (e)(1), (2). Pub. L. 115–232, § 3543(b)(4), substituted “subsection (d)” for “subsection (e)”.
+Subsec. (e). Pub. L. 115–232, § 3543(b)(3), (4), redesignated subsec. (f) as (e) and substituted “subsection (d)” for “subsection (e)” in pars. (1) and (2). Former subsec. (e) redesignated (d).
 
 Subsec. (f). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (f) as (e).
+
+#### Definitions
+For definition of “owner” as used in this section, see section 3507(l) of this title.

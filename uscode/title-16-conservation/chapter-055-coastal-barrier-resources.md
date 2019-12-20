@@ -139,8 +139,7 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
 **(b) System maps**
 
-(1) **In general**
-The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
+(1) **In general** — The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
 
 (2) **Digital maps**
 
@@ -262,7 +261,7 @@ Pub. L. 106–167, § 3(a), (b), Dec. 9, 1999, 113 Stat. 1804, provided that: �
 #### Revision of Maps for Units of System
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
-Pub. L. 115–358, § 2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080.
+Pub. L. 115–358, § 2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080, as amended by Pub. L. 116–9, title II, § 2402A(a), Mar. 12, 2019, 133 Stat. 747.
 
 Pub. L. 114–314, § 1, Dec. 16, 2016, 130 Stat. 1535.
 

@@ -291,25 +291,33 @@ Pub. L. 100–322, title IV, § 415(f), May 20, 1988, 102 Stat. 552, provided th
 ## § 3703. Basic provisions relating to loan guaranty and insurance
 **(a)**
 
-(1)
+(1) 11 See Applicability of Amendment note below. (A) Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
 
-  (A) Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
+  (i)
 
-    (i)
+    (I) in the case of any loan of not more than $45,000, 50 percent of the loan;
 
-      (I) in the case of any loan of not more than $45,000, 50 percent of the loan;
+    (II) in the case of any loan of more than $45,000, but not more than $56,250, $22,500;
 
-      (II) in the case of any loan of more than $45,000, but not more than $56,250, $22,500;
+    (III) except as provided in subclause (IV) of this clause, in the case of any loan of more than $56,250, the lesser of $36,000 or 40 percent of the loan; or
 
-      (III) except as provided in subclause (IV) of this clause, in the case of any loan of more than $56,250, the lesser of $36,000 or 40 percent of the loan; or
+    (IV) in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of [section 3710(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/a&num=0&edition=prelim), 25 percent of the loan; or
 
-      (IV) in the case of any loan of more than $144,000 for a purpose specified in clause (1), (2), (3), (5), (6), or (8) of [section 3710(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/a&num=0&edition=prelim), the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or 25 percent of the loan; or
+  (ii) the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) or (C).
 
-    (ii) the maximum amount of guaranty entitlement available to the veteran as specified in subparagraph (B) of this paragraph.
+  (B) With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum amount of guaranty entitlement available to a veteran for purposes specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) shall be $36,000, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3702/b&num=0&edition=prelim).
 
-  (B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)), reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3702/b&num=0&edition=prelim).
+  (C)
 
-  (C) In this paragraph, the term “maximum guaranty amount” means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act ([12 U.S.C. 1454(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/a/2&num=0&edition=prelim)) for a single-family residence, as adjusted for the year involved.
+    (i) With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a veteran not covered by clause (ii), the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the loan.
+
+    (ii) With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a covered veteran, the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the Freddie Mac conforming loan limit, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3702/b&num=0&edition=prelim).
+
+    (iii) In this subparagraph:
+
+      (I) The term “covered veteran” means a veteran who has previously used entitlement under this chapter and for whom the full amount of entitlement so used has not been restored as a result of the exclusion in [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3702/b&num=0&edition=prelim).
+
+      (II) The term “Freddie Mac conforming loan limit” means the limit determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act ([12 U.S.C. 1454(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/a/2&num=0&edition=prelim)) for a single-family residence, as adjusted for the year involved.
 
 (2)
 
@@ -394,12 +402,23 @@ Pub. L. 100–322, title IV, § 415(f), May 20, 1988, 102 Stat. 552, provided th
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 6(a)(1) of Pub. L. 116–23 applicable with respect to a loan guaranteed under [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) on or after Jan. 1, 2020. See 2019 Amendment notes below.
+
 #### References in Text
 The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding [section 101 of this title](./chapter-001-general.md#section-101).
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (a)(1)(A)(i)(IV). Pub. L. 116–23, § 6(a)(1)(A)(i), struck out “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or” before “25 percent”.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 116–23, § 6(a)(1)(A)(ii), substituted “subparagraph (B) or (C)” for “subparagraph (B) of this paragraph”.
+
+Subsec. (a)(1)(B). Pub. L. 116–23, § 6(a)(1)(B), substituted “With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum” for “The maximum” and struck out “or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, the maximum guaranty amount (as defined in subparagraph (C)),” after “$36,000,”.
+
+Subsec. (a)(1)(C). Pub. L. 116–23, § 6(a)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “In this paragraph, the term ‘maximum guaranty amount’ means the dollar amount that is equal to 25 percent of the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act ([12 U.S.C. 1454(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/a/2&num=0&edition=prelim)) for a single-family residence, as adjusted for the year involved.”
+
 2012—Subsec. (d)(3). Pub. L. 112–154 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary’s determination must have been made prior to the recordation of the covenant.”
 
 2009—Subsec. (d)(1). Pub. L. 111–22 inserted “at the time of origination” after “loan”.
@@ -552,6 +571,9 @@ Subsec. (d)(1). Pub. L. 91–506, § 2(c)(2), limited maturity of non-real-estat
 
 1959—Subsec. (c)(1). Pub. L. 86–73 struck out requirement that the interest rate on a Veterans’ Administration guarantee for direct loan be at least one-half of one percent below the prevailing rate on FHA-insured sales housing loans and increased the interest rate ceiling from 4¾ to 5¼ percent.
 
+#### Effective Date of 2019 Amendment
+Pub. L. 116–23, § 6(d), June 25, 2019, 133 Stat. 976, provided that: “The amendments made by this section [amending this section and sections 3710, 3729, and 3762 of this title] shall apply with respect to a loan guaranteed under [section 3710 of title 38](./chapter-037-housing-and-small-business-loans.md#section-3710), United States Code, on or after January 1, 2020.”
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–154 effective on the date that is one year after Aug. 6, 2012, see section 701(g) of Pub. L. 112–154, set out as an Effective Date note under [section 2109 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2109).
 
@@ -592,6 +614,9 @@ Amendment by Pub. L. 93–569 effective Dec. 31, 1974, see section 10 of Pub. L.
 
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+
+#### Guidance to Implement Amendment by Pub. L. 116–23
+Pub. L. 116–23, § 6(e), June 25, 2019, 133 Stat. 976, provided that: “Notwithstanding [section 501 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-501), United States Code, the Secretary of Veterans Affairs may issue guidance to implement this section [amending this section and sections 3710, 3729, and 3762 of this title and enacting provisions set out as a note under this section] before prescribing new regulations under sections 3703, 3729, and 3762 of such title, as amended by this section.”
 
 #### Implementation of Amendment by Pub. L. 111–22
 Pub. L. 111–22, div. A, title I, § 102(b), May 20, 2009, 123 Stat. 1636, provided that: “The Secretary of Veterans Affairs may implement the amendments made by this section [amending this section] through notice, procedure notice, or administrative notice.”
@@ -802,7 +827,7 @@ The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27
 Pub. L. 115–174, title III, § 309(d), May 24, 2018, 132 Stat. 1351, provided that: “Not less frequently than once each year, the Secretary of Veterans Affairs shall issue a publicly available report that— “(1) examines, with respect to loans provided to veterans under chapter 37 of title 38, United States Code—“(A) the refinancing of fixed-rate mortgage loans to adjustable rate mortgage loans; “(B) whether veterans are informed of the risks and disclosures associated with that refinancing; and “(C) whether advertising materials for that refinancing are clear and do not contain misleading statements or assertions; and “(2) includes findings based on any complaints received by veterans and on an ongoing assessment of the refinancing market by the Secretary.”
 
 #### Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section
-Section 3(b) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, § 3(b), Oct. 28, 1992, 106 Stat. 3635, directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
 
 
 <a id="section-3707a"></a>
@@ -935,11 +960,11 @@ Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 55
 
     (ii) for discount point amounts that are greater than one discount point, the resulting loan balance after any fees and expenses allows the property with respect to which the loan was issued to maintain a loan to value ratio of 90 percent or less.
 
-**(c) Loan Seasoning.—** Except as provided in subsection (d) and notwithstanding [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703) or any other provision of law, a loan to a veteran for a purpose specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) that is refinanced may not be guaranteed or insured under this chapter until the date that is the later of—
+**(c) Loan Seasoning.—** Except as provided in subsection (d) and notwithstanding [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703) or any other provision of law, a loan to a veteran for a purpose specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) that is a refinance may not be guaranteed or insured under this chapter until the date that is the later of—
 
-(1) the date that is 210 days after the date on which the first monthly payment is made on the loan; and
+(1) the date on which the borrower has made at least six consecutive monthly payments on the loan being refinanced; and
 
-(2) the date on which the sixth monthly payment is made on the loan.
+(2) the date that is 210 days after the first payment due date of the loan being refinanced.
 
 **(d) Cash-out Refinances.—**
 
@@ -952,8 +977,18 @@ Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 55
 #### References in Text
 The date of the enactment of this section, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 115–174, which was approved May 24, 2018.
 
+#### Amendments
+2019—Subsec. (c). Pub. L. 116–33 substituted “is a refinance” for “is refinanced” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) the date that is 210 days after the date on which the first monthly payment is made on the loan; and
+
+“(2) the date on which the sixth monthly payment is made on the loan.”
+
 #### Regulations
 Pub. L. 115–174, title III, § 309(a)(2), May 24, 2018, 132 Stat. 1349, provided that: “(A) In general.—In prescribing any regulation to carry out [section 3709 of title 38](./chapter-037-housing-and-small-business-loans.md#section-3709), United States Code, as added by paragraph (1), the Secretary of Veterans Affairs may waive the requirements of sections 551 through 559 of title 5, United States Code, if—“(i) the Secretary determines that urgent or compelling circumstances make compliance with such requirements impracticable or contrary to the public interest; “(ii) the Secretary submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, and publishes in the Federal Register, notice of such waiver, including a description of the determination made under clause (i); and “(iii) a period of 10 days elapses following the notification under clause (ii). “(B) Public notice and comment.—If a regulation prescribed pursuant to a waiver made under subparagraph (A) is in effect for a period exceeding 1 year, the Secretary shall provide the public an opportunity for notice and comment regarding such regulation. “(C) Effective date.—This paragraph shall take effect on the date of the enactment of this Act [May 24, 2018]. “(D) Termination date.—The authorities under this paragraph shall terminate on the date that is 1 year after the date of the enactment of this Act.”
+
+#### Construction of 2019 Amendment
+Amendment by Pub. L. 116–33 not to be construed to restrict or otherwise modify the authorities of the Government National Mortgage Association, see section 2(c) of Pub. L. 116–33, set out as a note under [section 1721 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1721&num=0&edition=prelim), Banks and Banking.
 
 
 <a id="section-3710"></a>
@@ -1044,7 +1079,7 @@ If there is an indebtedness which is secured by a lien against land owned by the
 
   (B) an amount that bears the same relation to the cost of the energy efficiency improvements as the guaranty referred to in subparagraph (A) bears to the amount of the loan minus the cost of such improvements.
 
-(4) The amount of the veteran’s entitlement, calculated in accordance with [section 3703(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/a/1/B&num=0&edition=prelim), shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
+(4) 11 See Applicability of Amendment note below. The amount of the veteran’s entitlement, calculated in accordance with subparagraph (B) or (C) of [section 3703(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/a/1&num=0&edition=prelim), shall not be affected by the amount of the guaranty referred to in paragraph (3)(B).
 
 (5) The Secretary shall take appropriate actions to notify eligible veterans, participating lenders, and interested realtors of the availability of loan guarantees under this subsection and the procedures and requirements that apply to the obtaining of such guarantees.
 
@@ -1159,6 +1194,9 @@ If there is an indebtedness which is secured by a lien against land owned by the
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 6(a)(3) of Pub. L. 116–23 applicable with respect to a loan guaranteed under this section on or after Jan. 1, 2020. See 2019 Amendment note below.
+
 #### References in Text
 The date of the enactment of this paragraph, referred to in subsec. (a)(12), is the date of enactment of Pub. L. 109–461, which was approved Dec. 22, 2006.
 
@@ -1168,6 +1206,8 @@ Section 216(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (
 Another section 11(b) of Pub. L. 100–198 amended section 1831 [now 3731] of this title.
 
 #### Amendments
+2019—Subsec. (d)(4). Pub. L. 116–23 substituted “subparagraph (B) or (C) of [section 3703(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/a/1&num=0&edition=prelim)” for “[section 3703(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/a/1/B&num=0&edition=prelim)”.
+
 2008—Subsec. (b)(8). Pub. L. 110–389 substituted “100 percent” for “90 percent”.
 
 2006—Subsec. (a)(12). Pub. L. 109–461, § 501(a), added par. (12).
@@ -1275,6 +1315,9 @@ Subsec. (d). Pub. L. 91–506, § 3(2), added subsec. (d).
 1968—Subsec. (b). Pub. L. 90–301, § 2(a), substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
 
 Subsec. (c). Pub. L. 90–301, § 1(a), increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under this section on or after Jan. 1, 2020, see section 6(d) of Pub. L. 116–23, set out as a note under [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703).
 
 #### Effective Date of 1987 Amendment
 Amendment by section 3(a)(2) of Pub. L. 100–198 applicable to loans closed on or after Feb. 1, 1988, but not applicable to any loan for which a guaranty commitment is made on or before Dec. 31, 1987, see section 3(d) of Pub. L. 100–198, set out as a note under [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703).
@@ -2379,7 +2422,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 (1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
-(2) The loan fee table referred to in paragraph (1) is as follows: LOAN FEE TABLE Type of loanActive dutyveteranReservistOtherobligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004)2.002.75NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004)2.202.40NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before September 30, 2028)2.152.40NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after September 30, 2028)1.401.65NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before September 30, 2028)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after September 30, 2028)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before September 30, 2028)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after September 30, 2028)0.751.00NA (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before September 30, 2028)1.251.50NA (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after September 30, 2028)0.500.75NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
+(2) 11 See Applicability of Amendment note below. The loan fee table referred to in paragraph (1) is as follows: Type of loanActive dutyveteranReservistOtherobligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before January 1, 2020)2.152.40NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before January 1, 2022)2.302.30NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2022, and before October 1, 2029)2.152.15NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2029)1.401.40NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2004, and before January 1, 2020)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before January 1, 2022)3.603.60NA (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2022, and before October 1, 2029)3.303.30NA (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2029)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before January 1, 2020)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before January 1, 2022)1.651.65NA (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2022, and before October 1, 2029)1.501.50NA (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2029)0.750.75NA (D)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before January 1, 2020)1.251.50NA (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before January 1, 2022)1.401.40NA (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2022, and before October 1, 2029)1.251.25NA (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2029)0.500.50NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
 
 (3) Any reference to a section in the “Type of loan” column in the loan fee table in paragraph (2) refers to a section of this title.
 
@@ -2405,7 +2448,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 **(c) Waiver of Fee.—**
 
-(1) A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay or active service pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
+(1) 1 A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay or active service pay, would be entitled to receive compensation), from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart.
 
 (2)
 
@@ -2419,7 +2462,14 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 6(b), (c) of Pub. L. 116–23 applicable with respect to a loan guaranteed under [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) on or after Jan. 1, 2020. See 2019 Amendment notes below.
+
 #### Amendments
+2019—Subsec. (b)(2). Pub. L. 116–23, § 6(b), added loan fee table and struck out former loan fee table which set out amounts of fees per loan type.
+
+Subsec. (c)(1). Pub. L. 116–23, § 6(c), substituted “, from a surviving spouse” for “or from a surviving spouse” and inserted “, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart” before period at end.
+
 2018—Subsec. (b)(2). Pub. L. 115–182 substituted “2028” for “2027” wherever appearing in table.
 
 2017—Subsec. (b)(2). Pub. L. 115–46 substituted “September 30, 2027” for “September 30, 2024” wherever appearing in table.
@@ -2544,6 +2594,9 @@ Subsec. (d). Pub. L. 100–198, § 10(c), added subsec. (d).
 
 Subsecs. (c), (d). Pub. L. 98–367, § 2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) on or after Jan. 1, 2020, see section 6(d) of Pub. L. 116–23, set out as a note under [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703).
+
 #### Effective Date of 2011 Amendment
 Pub. L. 112–56, title II, § 265(b), Nov. 21, 2011, 125 Stat. 733, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the later of— “(1) November 18, 2011; or “(2) the date of the enactment of this Act [Nov. 21, 2011].”
 
@@ -2632,6 +2685,8 @@ Pub. L. 98–369, div. B, title V, § 2512(c)(3), July 18, 1984, 98 Stat. 1120, 
 
 (2) If uniform qualifications become applicable for appraisers who perform appraisals for or in connection with the Federal Government, the qualifications required by subsection (a)(1) of this section may be more stringent than such uniform qualifications, but the Secretary may use no written test in determining the qualifications of appraisers other than the test prescribed to implement such uniform qualifications.
 
+(3) 11 See Applicability of Amendment note below. The Secretary shall permit an appraiser on a list developed and maintained under subsection (a)(3) to make an appraisal for the purposes of this chapter based solely on information gathered by a person with whom the appraiser has entered into an agreement for such services.
+
 **(c)** Except as provided in subsection (f) of this section, the appraiser shall forward an appraisal report to the Secretary for review. Upon receipt of such report, the Secretary shall determine the reasonable value of the property, construction, repairs, or alterations for purposes of this chapter, and notify the veteran of such determination. Upon request, the Secretary shall furnish a copy of the appraisal made of property for the purposes of this chapter to the lender proposing to make the loan which is to be secured by such property and is to be guaranteed under this chapter.
 
 **(d)** If a lender (other than a lender authorized under subsection (f) of this section to determine reasonable value)—
@@ -2673,10 +2728,15 @@ the Secretary shall consider both the initial appraisal and the additional appra
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 7(a) of Pub. L. 116–23 applicable with respect to an appraisal under this section on or after Jan. 1, 2020. See 2019 Amendment note below.
+
 #### Codification
 Another section 11(b) of Pub. L. 100–198 amended section 1810 [now 3710] of this title.
 
 #### Amendments
+2019—Subsec. (b)(3). Pub. L. 116–23 added par. (3).
+
 1996—Subsec. (f)(3). Pub. L. 104–110 struck out par. (3) which read as follows: “The authority provided in this subsection shall terminate on December 31, 1995.”
 
 1992—Subsec. (f)(3). Pub. L. 102–547 substituted “1995” for “1992”.
@@ -2700,6 +2760,12 @@ Subsec. (c). Pub. L. 100–198, § 11(b)(1), substituted “Except as provided i
 Subsec. (d). Pub. L. 100–198, § 11(b)(2), which directed insertion of “(other than a lender authorized under subsection (f) of this section to determine reasonable value)” after “lender” was executed by making the insertion after “lender” the first place it appears in subsec. (d), as the probable intent of Congress, notwithstanding appearance of “lender” in subsec. (d)(3).
 
 Subsec. (f). Pub. L. 100–198, § 11(b)(3), added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–23, § 7(b), June 25, 2019, 133 Stat. 976, provided that: “The amendments made by this section [amending this section] shall apply with respect to an appraisal under section 3731 of such title [title 38, United States Code], on or after January 1, 2020.”
+
+#### Guidance to Implement Amendment by Pub. L. 116–23
+Pub. L. 116–23, § 7(c), June 25, 2019, 133 Stat. 976, provided that: “Notwithstanding section 501 of such title [title 38, United States Code], the Secretary of Veterans Affairs may issue guidance to implement this section [amending this section and enacting provisions set out as a note under this section] before prescribing new regulations under sections [sic] 3731 of such title, as amended by subsection (a).”
 
 #### Ratification of Actions During Period of Expired Authority
 Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710).
@@ -2964,13 +3030,13 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by [section 3722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3722/a&num=0&edition=prelim).
 
-(7) During the period that begins on December 16, 2003, and ends on September 30, 2019, the Secretary shall carry out the provisions of this subsection as if—
+(7) During the period that begins on December 16, 2003, and ends on September 30, 2020, the Secretary shall carry out the provisions of this subsection as if—
 
   (A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
 
   (B) the second sentence of paragraph (1) were repealed; and
 
-  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2019,”.
+  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2020,”.
 
 **(b)** The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under [section 3710(g)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/g/2/A&num=0&edition=prelim).
 
@@ -2989,6 +3055,8 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (a)(7). Pub. L. 116–61 substituted “September 30, 2020” for “September 30, 2019” in introductory provisions and in subpar. (C).
+
 2018—Subsec. (a)(7). Pub. L. 115–251 substituted “September 30, 2019” for “September 30, 2018” in introductory provisions and in subpar. (C).
 
 2017—Subsec. (a)(7). Pub. L. 115–62 substituted “September 30, 2018” for “September 30, 2017” in introductory provisions and in subpar. (C).
@@ -3530,19 +3598,9 @@ Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “New
 
 **(c)**
 
-(1)
+(1) 11 See Applicability of Amendment note below. Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or [section 3712(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3712/f&num=0&edition=prelim), and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
 
-  (A) Except as provided in subparagraph (B), the principal amount of any direct housing loan made to a Native American veteran under this section may not exceed $80,000.
-
-  (B)
-
-    (i) Subject to clause (ii), the Secretary may make loans exceeding the amount specified in subparagraph (A) in a geographic area if the Secretary determines that housing costs in the area are significantly higher than average housing costs nationwide. The amount of such increase shall be the amount that the Secretary determines is necessary in order to make direct housing loans under this subchapter to Native American veterans who are located in a variety of geographic areas and in geographic areas experiencing a variety of economic conditions.
-
-    (ii) The amount of a loan made by the Secretary under this subchapter may not exceed the maximum loan amount authorized for loans guaranteed under [section 3703(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/a/1/C&num=0&edition=prelim).
-
-(2) Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or [section 3712(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3712/f&num=0&edition=prelim), and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
-
-(3) Notwithstanding [section 3704(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3704/a&num=0&edition=prelim), the Secretary shall establish minimum requirements for planning, construction, improvement, and general acceptability relating to any direct loan made under this section.
+(2) Notwithstanding [section 3704(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3704/a&num=0&edition=prelim), the Secretary shall establish minimum requirements for planning, construction, improvement, and general acceptability relating to any direct loan made under this section.
 
 **(d)**
 
@@ -3598,7 +3656,12 @@ Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “New
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 6(a)(2) of Pub. L. 116–23 applicable with respect to a loan guaranteed under [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) on or after Jan. 1, 2020. See 2019 Amendment note below.
+
 #### Amendments
+2019—Subsec. (c). Pub. L. 116–23 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which set an $80,000 limit, with certain exceptions, on the principal amount of any direct housing loan made to a Native American veteran.
+
 2006—Pub. L. 109–233, § 103(f)(3), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
 
 Subsec. (a). Pub. L. 109–233, § 103(c)(1)(A), inserted “under this subchapter” after “to a Native American veteran” in introductory provisions.
@@ -3624,6 +3687,9 @@ Subsec. (j). Pub. L. 107–103, § 402(c), substituted “2006” for “2002”
 Subsec. (j). Pub. L. 105–114, § 201(c), added subsec. (j).
 
 1996—Subsecs. (h), (i). Pub. L. 104–275 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) on or after Jan. 1, 2020, see section 6(d) of Pub. L. 116–23, set out as a note under [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703).
 
 
 <a id="section-3763"></a>

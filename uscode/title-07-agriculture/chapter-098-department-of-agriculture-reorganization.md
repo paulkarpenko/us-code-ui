@@ -438,7 +438,7 @@ The Secretary shall establish for the Department, in the Office of the Secretary
 
     (iv) *Nonvoting representatives* — The individuals described in clauses (ii) and (iii) shall be nonvoting representatives at meetings of the Committee.
 
-(4) **Duties of committee** — The Committee shall—
+(4) **Duties of Committee** — The Committee shall—
 
   (A) identify evolving issues of relevance to Indian tribes relating to programs of the Department;
 
@@ -510,7 +510,7 @@ Section was enacted as part of the Federal Crop Insurance Reform and Department 
 
   (A) coordinate in the Department the gathering of information relevant to early warning and awareness of threats and risks to the food and agriculture critical infrastructure sector; and
 
-  (B) share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in 3003 of title 50), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in [section 124h(j) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124h/j&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. ;
+  (B) share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in [section 3003 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in [section 124h(j) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124h/j&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. ;
 
 (5) liaise with the Director of National Intelligence to assist in the development of periodic assessments and intelligence estimates, or other intelligence products, that support the defense of the food and agriculture critical infrastructure sector;
 
@@ -911,100 +911,7 @@ Pub. L. 115–334, title I, § 1705, Dec. 20, 2018, 132 Stat. 4526, provided tha
 
 
 <a id="section-6934"></a>
-## § 6934. Beginning farmer and rancher coordination
-**(a) Definitions** In this section:
-
-(1) **Beginning farmer or rancher** — The term “beginning farmer or rancher” has the meaning given such term in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim).
-
-(2) **National Coordinator** — The term “National Coordinator” means the National Beginning Farmer and Rancher Coordinator established under subsection (b)(1).
-
-(3) **State coordinator** — The term “State coordinator” means a State beginning farmer and rancher coordinator designated under subsection (c)(1)(A).
-
-(4) **State office** — The term “State office” means—
-
-  (A) a State office of—
-
-    (i) the Farm Service Agency;
-
-    (ii) the Natural Resources Conservation Service;
-
-    (iii) the Rural Business-Cooperative Service; or
-
-    (iv) the Rural Utilities Service; or
-
-  (B) a regional office of the Risk Management Agency.
-
-**(b) National Beginning Farmer and Rancher Coordinator**
-
-(1) **Establishment** — The Secretary shall establish in the Department the position of National Beginning Farmer and Rancher Coordinator.
-
-(2) **Duties**
-
-  (A) *In general* — The National Coordinator shall—
-
-    (i) advise the Secretary and coordinate activities of the Department on programs, policies, and issues relating to beginning farmers and ranchers; and
-
-    (ii) in consultation with the applicable State food and agriculture council, determine whether to approve a plan submitted by a State coordinator under subsection (c)(3)(B).
-
-  (B) *Discretionary duties* — Additional duties of the National Coordinator may include—
-
-    (i) developing and implementing new strategies—
-
-      (I) for outreach to beginning farmers and ranchers; and
-
-      (II) to assist beginning farmers and ranchers with connecting to owners or operators that have ended, or expect to end within 5 years, actively owning or operating a farm or ranch; and
-
-    (ii) facilitating interagency and interdepartmental collaboration on issues relating to beginning farmers and ranchers.
-
-(3) **Reports** — Not less frequently than once each year, the National Coordinator shall distribute within the Department and make publicly available a report describing the status of steps taken to carry out the duties described in subparagraphs (A) and (B) of paragraph (2).
-
-(4) **Contracts and cooperative agreements** — In carrying out the duties under paragraph (2), the National Coordinator may enter into a contract or cooperative agreement with an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)), cooperative extension services (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)), or a nonprofit organization—
-
-  (A) to conduct research on the profitability of new farms in operation for not less than 5 years in a region;
-
-  (B) to develop educational materials;
-
-  (C) to conduct workshops, courses, training, or certified vocational training; or
-
-  (D) to conduct mentoring activities.
-
-**(c) State beginning farmer and rancher coordinators**
-
-(1) **In general**
-
-  (A) *Designation* — The National Coordinator, in consultation with State food and agriculture councils and directors of State offices, shall designate in each State a State beginning farmer and rancher coordinator from among employees of State offices.
-
-  (B) *Requirements* — To be designated as a State coordinator, an employee shall—
-
-    (i) be familiar with issues relating to beginning farmers and ranchers; and
-
-    (ii) have the ability to coordinate with other Federal departments and agencies.
-
-(2) **Training** — The Secretary shall develop a training plan to provide to each State coordinator knowledge of programs and services available from the Department for beginning farmers and ranchers, taking into consideration the needs of all production types and sizes of agricultural operations.
-
-(3) **Duties** — A State coordinator shall—
-
-  (A) coordinate technical assistance at the State level to assist beginning farmers and ranchers in accessing programs of the Department;
-
-  (B) develop and submit to the National Coordinator for approval under subsection (b)(2)(A)(ii) a State plan to improve the coordination, delivery, and efficacy of programs of the Department to beginning farmers and ranchers, taking into consideration the needs of all types of production methods and sizes of agricultural operation, at each county and area office in the State;
-
-  (C) oversee implementation of an approved State plan described in subparagraph (B);
-
-  (D) work with outreach coordinators in the State offices to ensure appropriate information about technical assistance is available at outreach events and activities; and
-
-  (E) coordinate partnerships and joint outreach efforts with other organizations and government agencies serving beginning farmers and ranchers.
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 7404 of Pub. L. 107–171 was classified as a note under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101), prior to repeal by Pub. L. 115–334, title VII, § 7506, Dec. 20, 2018, 132 Stat. 4823.
-
-#### Codification
-Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
-
-
-<a id="section-6934a"></a>
-## § 6934a. Prohibition on closure or relocation of county offices for the Farm Service Agency
+## § 6934. Prohibition on closure or relocation of county offices for the Farm Service Agency
 **(a) Temporary prohibition**
 
 (1) **In general** — Subject to paragraph (2), until the date that is two years after the date of the enactment of this Act, the Secretary of Agriculture may not close or relocate a county or field office of the Farm Service Agency.
@@ -1043,8 +950,8 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
-<a id="section-6934b"></a>
-## § 6934b. Office of Risk Management
+<a id="section-6934a"></a>
+## § 6934a. Office of Risk Management
 **(a) Establishment** The Secretary shall establish and maintain in the Department an independent Office of Risk Management.
 
 **(b) Functions of Office of Risk Management** The Office of Risk Management shall have jurisdiction over the following functions:
@@ -1075,57 +982,13 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see [section 1501 of this title](./chapter-036-crop-insurance.md#section-1501) and Tables.
 
 #### Amendments
-2018—Subsec. (a). Pub. L. 115–334, § 12415(a), substituted “The Secretary” for “Subject to subsection (e), the Secretary ”.
+2018—Subsec. (a). Pub. L. 115–334, § 12415(a), substituted “The Secretary” for “Subject to subsection (e), the Secretary”.
 
 Subsec. (d)(1). Pub. L. 115–334, § 12405(a), substituted “Under Secretary of Agriculture for Farm Production and Conservation” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
 
 
-<a id="section-6935"></a>
-## § 6935. Agricultural Youth Organization Coordinator
-**(a) Authorization** The Secretary shall establish in the Department the position of Agricultural Youth Organization Coordinator.
-
-**(b) Duties** The Agricultural Youth Organization Coordinator shall—
-
-(1) promote the role of youth-serving organizations and school-based agricultural education in motivating and preparing young people to pursue careers in the agriculture, food, and natural resources systems;
-
-(2) work to help build youth awareness of the reach and importance of agriculture, across a diversity of fields and disciplines;
-
-(3) identify short-term and long-term interests of the Department and provide opportunities, resources, input, and coordination with programs and agencies of the Department to youth-serving organizations and school-based agricultural education, including the development of internship opportunities;
-
-(4) share, internally and externally, the extent to which active steps are being taken to encourage collaboration with, and support of, youth-serving organizations and school-based agricultural education;
-
-(5) provide information to youth involved in food and agriculture organizations concerning the availability of, and eligibility requirements for, participation in agricultural programs, with particular emphasis on beginning farmer and rancher programs;
-
-(6) serve as a resource for assisting youth involved in food and agriculture organizations in applying for participation in agriculture; and
-
-(7) advocate on behalf of youth involved in food and agriculture organizations in interactions with employees of the Department.
-
-**(c) Contracts and cooperative agreements** For purposes of carrying out the duties under subsection (b), the Agricultural Youth Organization Coordinator shall consult with the cooperative extension and the land-grant university systems, and may enter into contracts or cooperative agreements with the research centers of the Agricultural Research Service, cooperative extension and the land-grant university systems, non-land-grant colleges of agriculture, or nonprofit organizations for—
-
-(1) the conduct of regional research on the profitability of small farms;
-
-(2) the development of educational materials;
-
-(3) the conduct of workshops, courses, and certified vocational training;
-
-(4) the conduct of mentoring activities; or
-
-(5) the provision of internship opportunities.
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 7405 of Pub. L. 107–171 was classified to [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f), prior to repeal by Pub. L. 115–334, title XII, § 12301(a)(1), Dec. 20, 2018, 132 Stat. 4950.
-
-#### Codification
-Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
-
-#### Definitions
-“Department” means the Department of Agriculture and “Secretary” means the Secretary of Agriculture, see section 7401 of Pub. L. 107–171, set out as a note under [section 5925c of this title](./chapter-088-research.md#section-5925c).
-
-
-<a id="section-6936"></a>
-## § 6936. Office of Partnerships and Public Engagement
+<a id="section-6934b"></a>
+## § 6934b. Office of Partnerships and Public Engagement
 **(a) Definitions** In this section:
 
 (1) **Beginning farmer or rancher** — The term “beginning farmer or rancher” has the meaning given the term in [section 1991(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a&num=0&edition=prelim).
@@ -1274,6 +1137,143 @@ Pub. L. 115–334, title XII, § 12406(a)(2), Dec. 20, 2018, 132 Stat. 4976, pro
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-6935"></a>
+## § 6935. Beginning farmer and rancher coordination
+**(a) Definitions** In this section:
+
+(1) **Beginning farmer or rancher** — The term “beginning farmer or rancher” has the meaning given such term in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim).
+
+(2) **National Coordinator** — The term “National Coordinator” means the National Beginning Farmer and Rancher Coordinator established under subsection (b)(1).
+
+(3) **State coordinator** — The term “State coordinator” means a State beginning farmer and rancher coordinator designated under subsection (c)(1)(A).
+
+(4) **State office** — The term “State office” means—
+
+  (A) a State office of—
+
+    (i) the Farm Service Agency;
+
+    (ii) the Natural Resources Conservation Service;
+
+    (iii) the Rural Business-Cooperative Service; or
+
+    (iv) the Rural Utilities Service; or
+
+  (B) a regional office of the Risk Management Agency.
+
+**(b) National Beginning Farmer and Rancher Coordinator**
+
+(1) **Establishment** — The Secretary shall establish in the Department the position of National Beginning Farmer and Rancher Coordinator.
+
+(2) **Duties**
+
+  (A) *In general* — The National Coordinator shall—
+
+    (i) advise the Secretary and coordinate activities of the Department on programs, policies, and issues relating to beginning farmers and ranchers; and
+
+    (ii) in consultation with the applicable State food and agriculture council, determine whether to approve a plan submitted by a State coordinator under subsection (c)(3)(B).
+
+  (B) *Discretionary duties* — Additional duties of the National Coordinator may include—
+
+    (i) developing and implementing new strategies—
+
+      (I) for outreach to beginning farmers and ranchers; and
+
+      (II) to assist beginning farmers and ranchers with connecting to owners or operators that have ended, or expect to end within 5 years, actively owning or operating a farm or ranch; and
+
+    (ii) facilitating interagency and interdepartmental collaboration on issues relating to beginning farmers and ranchers.
+
+(3) **Reports** — Not less frequently than once each year, the National Coordinator shall distribute within the Department and make publicly available a report describing the status of steps taken to carry out the duties described in subparagraphs (A) and (B) of paragraph (2).
+
+(4) **Contracts and cooperative agreements** — In carrying out the duties under paragraph (2), the National Coordinator may enter into a contract or cooperative agreement with an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)), cooperative extension services (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)), or a nonprofit organization—
+
+  (A) to conduct research on the profitability of new farms in operation for not less than 5 years in a region;
+
+  (B) to develop educational materials;
+
+  (C) to conduct workshops, courses, training, or certified vocational training; or
+
+  (D) to conduct mentoring activities.
+
+**(c) State beginning farmer and rancher coordinators**
+
+(1) **In general**
+
+  (A) *Designation* — The National Coordinator, in consultation with State food and agriculture councils and directors of State offices, shall designate in each State a State beginning farmer and rancher coordinator from among employees of State offices.
+
+  (B) *Requirements* — To be designated as a State coordinator, an employee shall—
+
+    (i) be familiar with issues relating to beginning farmers and ranchers; and
+
+    (ii) have the ability to coordinate with other Federal departments and agencies.
+
+(2) **Training** — The Secretary shall develop a training plan to provide to each State coordinator knowledge of programs and services available from the Department for beginning farmers and ranchers, taking into consideration the needs of all production types and sizes of agricultural operations.
+
+(3) **Duties** — A State coordinator shall—
+
+  (A) coordinate technical assistance at the State level to assist beginning farmers and ranchers in accessing programs of the Department;
+
+  (B) develop and submit to the National Coordinator for approval under subsection (b)(2)(A)(ii) a State plan to improve the coordination, delivery, and efficacy of programs of the Department to beginning farmers and ranchers, taking into consideration the needs of all types of production methods and sizes of agricultural operation, at each county and area office in the State;
+
+  (C) oversee implementation of an approved State plan described in subparagraph (B);
+
+  (D) work with outreach coordinators in the State offices to ensure appropriate information about technical assistance is available at outreach events and activities; and
+
+  (E) coordinate partnerships and joint outreach efforts with other organizations and government agencies serving beginning farmers and ranchers.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 7404 of Pub. L. 107–171 was classified as a note under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101), prior to repeal by Pub. L. 115–334, title VII, § 7506, Dec. 20, 2018, 132 Stat. 4823.
+
+#### Codification
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
+
+
+<a id="section-6936"></a>
+## § 6936. Agricultural Youth Organization Coordinator
+**(a) Authorization** The Secretary shall establish in the Department the position of Agricultural Youth Organization Coordinator.
+
+**(b) Duties** The Agricultural Youth Organization Coordinator shall—
+
+(1) promote the role of youth-serving organizations and school-based agricultural education in motivating and preparing young people to pursue careers in the agriculture, food, and natural resources systems;
+
+(2) work to help build youth awareness of the reach and importance of agriculture, across a diversity of fields and disciplines;
+
+(3) identify short-term and long-term interests of the Department and provide opportunities, resources, input, and coordination with programs and agencies of the Department to youth-serving organizations and school-based agricultural education, including the development of internship opportunities;
+
+(4) share, internally and externally, the extent to which active steps are being taken to encourage collaboration with, and support of, youth-serving organizations and school-based agricultural education;
+
+(5) provide information to youth involved in food and agriculture organizations concerning the availability of, and eligibility requirements for, participation in agricultural programs, with particular emphasis on beginning farmer and rancher programs;
+
+(6) serve as a resource for assisting youth involved in food and agriculture organizations in applying for participation in agriculture; and
+
+(7) advocate on behalf of youth involved in food and agriculture organizations in interactions with employees of the Department.
+
+**(c) Contracts and cooperative agreements** For purposes of carrying out the duties under subsection (b), the Agricultural Youth Organization Coordinator shall consult with the cooperative extension and the land-grant university systems, and may enter into contracts or cooperative agreements with the research centers of the Agricultural Research Service, cooperative extension and the land-grant university systems, non-land-grant colleges of agriculture, or nonprofit organizations for—
+
+(1) the conduct of regional research on the profitability of small farms;
+
+(2) the development of educational materials;
+
+(3) the conduct of workshops, courses, and certified vocational training;
+
+(4) the conduct of mentoring activities; or
+
+(5) the provision of internship opportunities.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 7405 of Pub. L. 107–171 was classified to [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f), prior to repeal by Pub. L. 115–334, title XII, § 12301(a)(1), Dec. 20, 2018, 132 Stat. 4950.
+
+#### Codification
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
+
+#### Definitions
+“Department” means the Department of Agriculture and “Secretary” means the Secretary of Agriculture, see section 7401 of Pub. L. 107–171, set out as a note under [section 3319b of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319b).
 
 
 <a id="section-6941"></a>
@@ -1474,7 +1474,7 @@ Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 Section is comprised of section 232 of Pub. L. 103–354. Prior to amendment of this section by Pub. L. 115–334, subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees. See 2018 Amendment note below.
 
 #### Amendments
-2018—Subsec. (b). Pub. L. 115–334 amended subsec. (b) generally. Prior to amendment, par. (2) of subsec. (b) amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and text of par. (1) of subsec. (b) read as follows: “The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.”
+2018—Subsec. (b). Pub. L. 115–334 amended subsec. (b) generally. Prior to amendment, par. (2) amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and text of par. (1) read as follows: “The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.”
 
 2012—Subsec. (b)(1). Pub. L. 112–166, § 2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end.
 

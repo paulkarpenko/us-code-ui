@@ -1746,9 +1746,6 @@ Subsec. (c)(2). Pub. L. 98–558, § 104(b)(4), inserted “except that” befor
 
 Subsecs. (d) to (f). Pub. L. 98–558, § 104(c), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -3769,9 +3766,6 @@ Subsecs. (c), (d). Pub. L. 102–586, § 7(b)(2), added subsecs. (c) and (d).
 
 1984—Pub. L. 98–558 substituted “shall” for “may” and inserted provision including a centralized child development training and national assessment program.
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -3993,9 +3987,6 @@ Subsecs. (f), (g). Pub. L. 110–134, § 19(4), added subsecs. (f) and (g).
 1998—Subsec. (a). Pub. L. 105–285, § 115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
 
 Subsec. (b)(2)(B). Pub. L. 105–285, § 115(2), substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date
 Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
@@ -4341,9 +4332,6 @@ Subsecs. (d) to (f). Pub. L. 101–501, § 117(a)(2), added subsecs. (d) to (f).
 
 1984—Subsec. (c). Pub. L. 98–558 added subsec. (c).
 
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
 
@@ -4478,9 +4466,6 @@ Subsec. (g). Pub. L. 103–252, § 118(a)(2)–(4), struck out subsec. (g) desig
 Subsec. (g). Pub. L. 101–501, § 119, added subsec. (g).
 
 1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
-
-#### Change of Name
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
@@ -5674,6 +5659,9 @@ Subsec. (b)(2)(A). Pub. L. 104–193, § 609(2), in closing provisions, substitu
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, § 5082(2), which added this section.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858).
 
@@ -5901,6 +5889,9 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 1996—Pub. L. 104–193 substituted “July 31, 1997, and biennially thereafter” for “July 31, 1993, and annually thereafter” and “Committee on Economic and Educational Opportunities” for “Committee on Education and Labor”.
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, § 5082(2), which added this section.
+
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under [section 618 of this title](./chapter-007-social-security.md#section-618).
@@ -6316,6 +6307,9 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 #### Codification
 Section was enacted as part of the Child Care and Development Block Grant Act of 2014, and not as part of the Child Care and Development Block Grant Act of 1990, which comprises this subchapter.
 
+#### Change of Name
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 
 <a id="section-9859"></a>
 ## § 9859. Definitions
@@ -6703,8 +6697,6 @@ Within three years after October 30, 1984, the Secretary shall prepare and trans
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 
 <a id="section-9877"></a>
